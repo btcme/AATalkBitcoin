@@ -62,6 +62,8 @@ https://www.youtube.com/channel/UCJWCJCWOxBYSi5DhCieLOLQ
 
 ## 列表
 
-* [加拿大参议院关于比特币的听证会](Canadian_Senate_Testimony_on_Bitcoin)
+* [澳大利亚参议院关于比特币的听证会](Australian_Senate_on_Bitcoin) 2014-10-08
 
-* [区块链还是胡扯--关于未来货币的思考](Blockchain_vs_Bullshit)
+* [加拿大参议院关于比特币的听证会](Canadian_Senate_Testimony_on_Bitcoin) 2015-03-04
+
+* [区块链还是胡扯--关于未来货币的思考](Blockchain_vs_Bullshit) 2017-03-02
