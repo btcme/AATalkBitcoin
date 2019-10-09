@@ -1,0 +1,5565 @@
+1
+00:00:05,680 --> 00:00:09,720
+[IRVING GERSTEIN] Last week, the committee returned
+to hearing [from] witnesses directly involved with...
+
+2
+00:00:09,720 --> 00:00:12,440
+one of the digital currencies: bitcoin.
+
+3
+00:00:12,440 --> 00:00:19,480
+The Bitcoin Embassy, the Bitcoin Alliance 
+of Canada, and the Bitcoin Foundation.
+
+4
+00:00:19,480 --> 00:00:24,280
+Today we are pleased to welcome
+Mr. Andreas Antonopoulos.
+
+5
+00:00:24,280 --> 00:00:32,280
+[He is] considered to be the Bitcoin guru, and was
+suggested to us by several previous witnesses.
+
+6
+00:00:32,280 --> 00:00:38,620
+Mr. Antonopoulos is both an entrepreneur 
+and an author in the field of Bitcoin.
+
+7
+00:00:38,620 --> 00:00:43,180
+He is a computer science graduate
+from the University College London.
+
+8
+00:00:43,180 --> 00:00:54,080
+His expertise includes Bitcoin, cryptocurrencies,
+information security, cryptography, cloud computing,
+
+9
+00:00:54,080 --> 00:01:01,060
+data centers, Linux, open source,
+and robotics software development.
+
+10
+00:01:01,060 --> 00:01:07,600
+He has over two hundred articles
+published and is syndicated worldwide.
+
+11
+00:01:07,600 --> 00:01:14,340
+In addition, he is a Certified Information Systems
+Security Professional (CISSP) for over 12 years,
+
+12
+00:01:14,340 --> 00:01:21,540
+and a permanent host on the "Let's Talk Bitcoin" (LTB)
+podcast, which is devoted to [discussing] Bitcoin.
+
+13
+00:01:21,540 --> 00:01:24,920
+Mr. Antonopoulos is also a prolific public speaker.
+
+14
+00:01:24,920 --> 00:01:29,180
+He recently appeared at the Toronto 
+Bitcoin Expo held earlier this year,
+
+15
+00:01:29,180 --> 00:01:33,920
+which I must tell our committee, our analysts attended.
+
+16
+00:01:33,920 --> 00:01:42,180
+Members of the committee, he has
+literally written the book on Bitcoin, entitled:
+
+17
+00:01:42,180 --> 00:01:46,740
+"Mastering Bitcoin: Unlocking Digital Currencies."
+
+18
+00:01:46,740 --> 00:01:52,220
+It is with great pleasure that I turn the floor over
+to Mr. Antonopoulos for his opening remarks,
+
+19
+00:01:52,220 --> 00:01:55,820
+to be followed by your astute questions.
+
+20
+00:01:55,820 --> 00:02:00,200
+Mr. Antonopoulos, welcome! The floor is yours, sir.
+
+21
+00:02:00,200 --> 00:02:02,680
+[ANDREAS] Thank you, Chair and committee members.
+
+22
+00:02:02,680 --> 00:02:08,640
+I appreciate the opportunity to contribute 
+to these proceedings about digital currency.
+
+23
+00:02:08,640 --> 00:02:13,360
+My [professional] experience is primarily in
+information security and network architecture.
+
+24
+00:02:13,360 --> 00:02:19,580
+I have a master's degree in networks and distributed
+systems, and have worked in the field since 1992.
+
+25
+00:02:19,580 --> 00:02:25,300
+I spent twenty years working on networks and
+data centers for financial services companies...
+
+26
+00:02:25,300 --> 00:02:29,160
+before I found Bitcoin in late 2011.
+
+27
+00:02:29,160 --> 00:02:32,480
+I have been working full-time in the
+Bitcoin space for the past two years,
+
+28
+00:02:32,480 --> 00:02:36,380
+and written a book on Bitcoin for software developers.
+
+29
+00:02:36,380 --> 00:02:41,840
+Today, I welcome the opportunity to talk to you about
+Bitcoin's security, the decentralized architecture...
+
+30
+00:02:41,840 --> 00:02:47,580
+that underpins Bitcoin's security,
+and the implications that architecture has for...
+
+31
+00:02:47,580 --> 00:02:53,720
+privacy, individual empowerment, 
+innovation, and regulation.
+
+32
+00:02:53,720 --> 00:03:02,960
+Until the invention of Bitcoin in 2008, security and
+decentralization seemed like [opposing] concepts.
+
+33
+00:03:02,960 --> 00:03:11,200
+Traditional models for financial payment networks and
+banking rely on centralized control to provide security.
+
+34
+00:03:11,200 --> 00:03:18,080
+The architecture is built around central 
+authorities such as a clearinghouse.
+
+35
+00:03:18,080 --> 00:03:23,700
+Authority must be vested in that central actor.
+
+36
+00:03:23,700 --> 00:03:27,140
+The resulting security model looks
+like a series of concentric circles,
+
+37
+00:03:27,140 --> 00:03:33,500
+with very limited access to the center, [decreasing
+power] as we move further away from the center.
+
+38
+00:03:33,500 --> 00:03:41,700
+Even the most outermost circle cannot 
+afford open access in such a security model.
+
+39
+00:03:41,700 --> 00:03:47,320
+The system is carefully protected by controlling access,
+ensuring only vetted individuals and organizations...
+
+40
+00:03:47,320 --> 00:03:49,840
+can connect to it.
+
+41
+00:03:49,840 --> 00:03:55,620
+The entities near the center of the network are vested
+with enormous power, act with full authority;
+
+42
+00:03:55,620 --> 00:04:00,100
+therefore, they must be very carefully 
+vetted, regulated, and subject to oversight.
+
+43
+00:04:00,100 --> 00:04:07,980
+Centralized financial networks can never be fully open
+to innovation. Their security depends on access control.
+
+44
+00:04:07,980 --> 00:04:13,600
+Incumbents in such networks effectively utilize access
+control to stifle outside innovation and competition,
+
+45
+00:04:13,600 --> 00:04:17,100
+presenting their actions as consumer protection.
+
+46
+00:04:17,140 --> 00:04:22,780
+Centralized financial networks are fragile and
+require multiple layers of oversight to ensure that...
+
+47
+00:04:22,780 --> 00:04:27,520
+the central actors do not abuse their 
+authority and power for their own profit.
+
+48
+00:04:27,520 --> 00:04:32,420
+Unfortunately, the centralized architecture of
+traditional financial systems concentrates power,
+
+49
+00:04:32,420 --> 00:04:38,900
+creating cozy relationships between industry insiders
+and regulators, often leading to regulatory capture.
+
+50
+00:04:38,900 --> 00:04:44,680
+[The lack of] oversight leads to corruption,
+and in the end, financial crises.
+
+51
+00:04:44,680 --> 00:04:51,400
+Bitcoin, and other digital currencies based on the
+blockchain architecture, are fundamentally different.
+
+52
+00:04:51,400 --> 00:04:57,760
+The security model of blockchain currencies is
+decentralized. There is no center to the network.
+
+53
+00:04:57,760 --> 00:05:06,080
+No central authority, no concentration of power,
+no actor in whom complete trust must be vested.
+
+54
+00:05:06,080 --> 00:05:11,500
+Instead, the core security functions are put 
+in the hands of the end users of the system.
+
+55
+00:05:11,500 --> 00:05:18,120
+In this architecture, security is an emergent property of
+the collaboration of thousands of network participants,
+
+56
+00:05:18,120 --> 00:05:20,960
+and not the function of a single authority.
+
+57
+00:05:20,960 --> 00:05:24,240
+In addition to the differences in architecture,
+there are also fundamental differences...
+
+58
+00:05:24,240 --> 00:05:27,480
+in the nature of the payments themselves.
+
+59
+00:05:27,480 --> 00:05:33,980
+Digital currencies like bitcoin are much more
+like cash than bank accounts or credit cards.
+
+60
+00:05:33,980 --> 00:05:39,320
+The transfer of value in Bitcoin is a
+push mechanism, not a pull mechanism...
+
+61
+00:05:39,320 --> 00:05:44,200
+as is the case with credit cards, debit cards,
+and most other digital payments.
+
+62
+00:05:44,200 --> 00:05:48,800
+A bitcoin payment is not an authorization 
+to pull [funds] from your account;
+
+63
+00:05:48,800 --> 00:05:55,460
+instead, it pushes the precise payment amount
+as a value token directly to the [selected] recipient.
+
+64
+00:05:55,460 --> 00:06:01,280
+A single transaction does not authorize any 
+future transaction, or expose the user's identity.
+
+65
+00:06:01,280 --> 00:06:05,580
+The transaction itself is
+unforgeable and unchangeable.
+
+66
+00:06:05,580 --> 00:06:11,500
+As a result, bitcoin payments can be transmitted
+in the clear, without encryption, over any network.
+
+67
+00:06:11,500 --> 00:06:16,560
+[Transactions, though not keys], can be stored in
+unsecured systems without fear of compromise.
+
+68
+00:06:16,560 --> 00:06:21,400
+Bitcoin's unique architecture and payment mechanism
+has important implications for network access,
+
+69
+00:06:21,400 --> 00:06:28,560
+innovation, privacy, individual empowerment,
+consumer protection, and regulation.
+
+70
+00:06:28,560 --> 00:06:34,160
+If a bad actor has access to the Bitcoin network,
+they have no power over the network itself,
+
+71
+00:06:34,160 --> 00:06:37,060
+and can not compromise trust in the network.
+
+72
+00:06:37,060 --> 00:06:44,300
+This means the Bitcoin network can be open to
+any participant without vetting, authentication,
+
+73
+00:06:44,300 --> 00:06:48,920
+identification, or prior authorization.
+
+74
+00:06:48,920 --> 00:06:54,420
+Not only can the network be open to anyone,
+but it can also be open to any software application,
+
+75
+00:06:54,420 --> 00:06:57,940
+without prior vetting or authorization.
+
+76
+00:06:57,940 --> 00:07:04,580
+The ability to innovate without permission 
+at the edge is the same fundamental force...
+
+77
+00:07:04,580 --> 00:07:11,160
+that has driven internet innovation for twenty years at
+a frenetic pace creating enormous value for consumers,
+
+78
+00:07:11,160 --> 00:07:14,880
+economic growth, opportunities, and jobs.
+
+79
+00:07:14,900 --> 00:07:21,640
+Bitcoin's decentralized nature affords 
+consumer protection in the most powerful way,
+
+80
+00:07:21,640 --> 00:07:28,840
+by allowing bitcoin users direct control over 
+the privacy of their financial transactions.
+
+81
+00:07:28,840 --> 00:07:35,600
+Bitcoin does not force users to surrender identity
+with every transaction or put their trust in a [series]..
+
+82
+00:07:35,600 --> 00:07:38,120
+of supposedly vetted intermediaries...
+
+83
+00:07:38,120 --> 00:07:46,040
+who must be trusted to securely store and protect
+transaction data and vulnerable account identifiers.
+
+84
+00:07:46,040 --> 00:07:50,160
+Bitcoin transactions never expose 
+vulnerable account identifiers.
+
+85
+00:07:50,160 --> 00:07:57,720
+Bitcoin users can protect the privacy of their
+transactions without relying on any intermediaries.
+
+86
+00:07:57,720 --> 00:08:04,640
+In Bitcoin, trust is not vested in central actors, so there
+is no need for centralized regulation and oversight.
+
+87
+00:08:04,640 --> 00:08:10,720
+When properly architected, Bitcoin financial services
+are not vulnerable to central points of failure,
+
+88
+00:08:10,720 --> 00:08:14,220
+which would necessitate
+heavy-handed oversight and regulation.
+
+89
+00:08:14,220 --> 00:08:20,900
+Instead, power lies with the end user, whose interests
+are most aligned with the protection of their own funds.
+
+90
+00:08:20,900 --> 00:08:26,420
+While individual bitcoin wallets can be targeted
+and compromised if not properly secured,
+
+91
+00:08:26,420 --> 00:08:31,940
+the network does not suffer
+from centralized systemic risks.
+
+92
+00:08:31,940 --> 00:08:36,800
+Contrary to popular misconception,
+Bitcoin is not unregulated.
+
+93
+00:08:36,800 --> 00:08:41,000
+Rather, several aspects of the
+Bitcoin network and financial system...
+
+94
+00:08:41,000 --> 00:08:44,060
+are regulated by mathematical algorithms.
+
+95
+00:08:44,060 --> 00:08:50,600
+The algorithmic regulation in Bitcoin offers
+predictable, objective, measurable outcomes,
+
+96
+00:08:50,600 --> 00:08:54,180
+such as a predictable rate of currency issuance.
+
+97
+00:08:54,180 --> 00:08:58,680
+These outcomes are not subject to the whims
+of centralized institutions or committees,
+
+98
+00:08:58,680 --> 00:09:03,120
+which are both corruptible and often 
+placed outside of democratic oversight.
+
+99
+00:09:03,120 --> 00:09:08,420
+A bitcoin user can predict the monetary 
+supply thirty years from now, instead of...
+
+100
+00:09:08,420 --> 00:09:14,060
+hanging on the nuanced intonation of a single
+adjective by some high official of central banking...
+
+101
+00:09:14,060 --> 00:09:20,060
+who can dramatically change an entire 
+country's monetary velocity a week hence.
+
+102
+00:09:20,060 --> 00:09:24,600
+Bitcoin's decentralized architecture does 
+not easily conform to the expectations...
+
+103
+00:09:24,600 --> 00:09:27,140
+or experiences of consumers and regulators.
+
+104
+00:09:27,140 --> 00:09:33,060
+Because there has never been a large-scale,
+secure, decentralized network before.
+
+105
+00:09:33,060 --> 00:09:39,060
+The combination of decentralization and 
+security is the novelty at the heart of Bitcoin.
+
+106
+00:09:39,080 --> 00:09:44,420
+In trying to understand [how] consumer protection,
+oversight, audits, and regulation [apply to] Bitcoin,
+
+107
+00:09:44,420 --> 00:09:49,900
+there is a risk that many will try to apply familiar models
+of the past to this new digital currency system.
+
+108
+00:09:49,900 --> 00:09:57,020
+These models, designed to provide regulation
+and oversight of centralized financial networks,
+
+109
+00:09:57,020 --> 00:09:59,320
+will seem familiar and be easier to understand.
+
+110
+00:09:59,320 --> 00:10:06,440
+However, they are inefficient and unsuitable for
+this new form of decentralized financial network.
+
+111
+00:10:06,440 --> 00:10:11,900
+I urge you to resist the temptation to apply 
+centralized solutions to this decentralized network.
+
+112
+00:10:11,900 --> 00:10:18,820
+Centralizing Bitcoin [would] weaken its security, dull
+innovative potential, and remove its most disruptive...
+
+113
+00:10:18,820 --> 00:10:21,400
+yet also most promising features.
+
+114
+00:10:21,400 --> 00:10:25,540
+Centralization will disempower users
+while empowering incumbents.
+
+115
+00:10:25,540 --> 00:10:30,900
+Consumer protection will not be achieved by
+removing Bitcoin's built-in privacy characteristics.
+
+116
+00:10:30,900 --> 00:10:37,740
+Demanding user identifiers, adding access control
+mechanisms, and then trusting those identifiers...
+
+117
+00:10:37,740 --> 00:10:42,320
+to a chain of intermediaries, will only 
+replicate the failures of the past.
+
+118
+00:10:42,320 --> 00:10:46,580
+[This would] introduce single points of 
+failure into a network that has none.
+
+119
+00:10:46,580 --> 00:10:51,140
+We cannot protect consumers by removing 
+their ability to control their own privacy,
+
+120
+00:10:51,140 --> 00:10:56,740
+then asking them to entrust it in the same intermediaries
+who have failed them so many times before.
+
+121
+00:10:56,740 --> 00:11:01,580
+Most failures in Bitcoin's security are the result
+of misguided attempts at centralization,
+
+122
+00:11:01,600 --> 00:11:04,460
+such as removing control from the users.
+
+123
+00:11:04,460 --> 00:11:11,020
+In this new decentralized financial network, we have
+the opportunity to invent new security mechanisms...
+
+124
+00:11:11,020 --> 00:11:17,740
+based upon innovations such as multi-signature
+escrow, smart contracts, hardware wallets,
+
+125
+00:11:17,740 --> 00:11:22,480
+decentralized audits, and algorithmic proof of reserves.
+
+126
+00:11:22,480 --> 00:11:27,580
+These are the new decentralized regulatory 
+and security tools that are most appropriate...
+
+127
+00:11:27,580 --> 00:11:30,280
+for a decentralized digital currency.
+
+128
+00:11:30,280 --> 00:11:33,500
+Thank you for the opportunity
+to address this committee.
+
+129
+00:11:33,500 --> 00:11:39,100
+[IRVING GERSTEIN] Thank you, Mr. Antonopoulos for
+your opening remarks. They have clearly resonated...
+
+130
+00:11:39,100 --> 00:11:41,140
+and stimulated a number of questions.
+
+131
+00:11:41,140 --> 00:11:48,020
+But before I turn it over to senators for questions,
+[first] I just might make an observation.
+
+132
+00:11:48,020 --> 00:11:56,600
+In your remarks, you have told the committee that the
+decentralized security model of blockchain currencies...
+
+133
+00:11:56,600 --> 00:12:04,280
+is indeed secure, and that Bitcoin financial services
+are not vulnerable to central points of failure which...
+
+134
+00:12:04,280 --> 00:12:07,700
+would necessitate oversight and regulation.
+
+135
+00:12:07,700 --> 00:12:13,260
+As a result, as I hear you, you have come to the
+conclusion that this currency should be left...
+
+136
+00:12:13,260 --> 00:12:16,660
+hands-off by the government
+and other regulatory bodies.
+
+137
+00:12:16,660 --> 00:12:23,100
+I quote, "Centralizing Bitcoin will weaken its security."
+
+138
+00:12:23,100 --> 00:12:28,620
+While listening very closely to your comments,
+I couldn't help but observe that you made...
+
+139
+00:12:28,620 --> 00:12:35,360
+absolutely no mention of illegal activity 
+supporting a cryptocurrency like bitcoin.
+
+140
+00:12:35,360 --> 00:12:40,760
+I was surprised that you make no mention 
+of money laundering, terrorist financing,
+
+141
+00:12:40,760 --> 00:12:47,540
+or other possible misuses because of
+the anonymous and open nature of Bitcoin.
+
+142
+00:12:47,540 --> 00:12:58,540
+I think you stated in your presentation that the Bitcoin
+network can be open to any participant without vetting,
+
+143
+00:12:58,540 --> 00:13:04,700
+authentication, identification, or prior authorization.
+
+144
+00:13:04,700 --> 00:13:12,760
+I suspect that the misuse or potential misuse of bitcoin
+for nefarious purposes is very much a concern...
+
+145
+00:13:12,760 --> 00:13:15,680
+to Canadians, as well as to this committee.
+
+146
+00:13:15,680 --> 00:13:17,660
+Would you have any comments on that?
+
+147
+00:13:17,660 --> 00:13:22,280
+Perhaps it may be picked up by some
+of the senators in their questions as well.
+
+148
+00:13:22,280 --> 00:13:23,680
+[ANDREAS] Absolutely.
+
+149
+00:13:23,680 --> 00:13:29,660
+I believe there is a great misconception
+in the idea that bitcoin use is anonymous,
+
+150
+00:13:29,660 --> 00:13:32,420
+or that the network itself is anonymous.
+
+151
+00:13:32,420 --> 00:13:40,920
+On the contrary, the public ledger allows any participants
+to observe all transactions that occur on the network.
+
+152
+00:13:40,920 --> 00:13:44,620
+Those transactions are not tied to a specific identity,
+
+153
+00:13:44,620 --> 00:13:52,460
+but with the use of traditional law enforcement
+mechanisms, when an identity is attached to...
+
+154
+00:13:52,460 --> 00:13:56,820
+a specific transaction, [those funds]
+can be followed throughout the network.
+
+155
+00:13:56,820 --> 00:14:00,180
+Therefore, the network does not afford more anonymity.
+
+156
+00:14:00,180 --> 00:14:06,180
+In fact, it is easier to implement strong 
+transparency and accountability features...
+
+157
+00:14:06,180 --> 00:14:10,900
+than it is to achieve anonymity on the network.
+
+158
+00:14:10,900 --> 00:14:16,380
+Furthermore, I think bitcoin is not a
+very convenient network for such uses.
+
+159
+00:14:16,380 --> 00:14:21,140
+The vast majority of such activities
+really occur with cash, with the U.S. dollar.
+
+160
+00:14:21,140 --> 00:14:28,140
+I don't see bitcoin as the primary vehicle
+for illicit activities of that type.
+
+161
+00:14:28,140 --> 00:14:35,080
+I see tremendous potential for the use of bitcoin
+among the more than six billion people in the world...
+
+162
+00:14:35,080 --> 00:14:40,840
+who have very limited [or no] access to 
+international currencies, credit markets, and trade.
+
+163
+00:14:40,840 --> 00:14:48,840
+I think that use far outweighs the tiny minority
+who might put such currencies to illicit use.
+
+164
+00:14:48,840 --> 00:14:53,640
+[IRVING GERSTEIN] Well, thank you for those
+comments. With that, I will start with my list.
+
+165
+00:14:53,640 --> 00:14:58,220
+[Mixed discussion] [Laughter]
+
+166
+00:14:58,220 --> 00:15:02,260
+[IRVING GERSTEIN] When it is his turn,
+we will turn it over to him for that.
+
+167
+00:15:02,260 --> 00:15:07,120
+Senator Black, to be followed by Senator Campbell.
+
+168
+00:15:07,120 --> 00:15:11,480
+[DOUGLAS BLACK] Thank you very much, Mr. Chairman.
+Thank you very much, Mr. Antonopoulos...
+
+169
+00:15:11,480 --> 00:15:16,620
+[Interruption]
+[IRVING GERSTEIN] Senator, please. Order.
+
+170
+00:15:16,620 --> 00:15:19,600
+[DOUGLAS BLACK] Thank you very much, 
+Mr. Antonopoulos, for being here.
+
+171
+00:15:19,600 --> 00:15:23,780
+I'm finding very real interest in what you have to say.
+
+172
+00:15:23,780 --> 00:15:29,940
+First of all, let me outline what I am
+hoping to come to understand from you.
+
+173
+00:15:29,940 --> 00:15:37,980
+I'm interested in learning what is needed to 
+ensure that this innovation can continue to develop.
+
+174
+00:15:37,980 --> 00:15:40,700
+So that is my premise, right or wrong.
+
+175
+00:15:40,700 --> 00:15:47,920
+Building on the Chairman's initial comments,
+I do have a question or two for you.
+
+176
+00:15:47,920 --> 00:15:51,600
+When CA Vertex testified before this committee,
+
+177
+00:15:51,600 --> 00:15:56,580
+they stated that they would like to see Bitcoin
+regulations put in place as soon as possible,
+
+178
+00:15:56,580 --> 00:16:00,500
+to give clarity on how Bitcoin is classified.
+
+179
+00:16:00,500 --> 00:16:05,260
+They believe, and told this committee, that 
+this would allow Bitcoin to thrive in Canada.
+
+180
+00:16:05,260 --> 00:16:12,680
+In your remarks, you stated that Bitcoin should not
+be regulated centrally because it will stifle innovation.
+
+181
+00:16:12,680 --> 00:16:17,840
+Considering that other groups have
+echoed the statements of CA Vertex,
+
+182
+00:16:17,840 --> 00:16:24,940
+help me with a disconnect I'm hearing between the
+evidence of CA Vertex and what you have said today.
+
+183
+00:16:24,940 --> 00:16:31,660
+[ANDREAS] Absolutely. I believe that the 
+best way to help Bitcoin is to ensure that...
+
+184
+00:16:31,660 --> 00:16:35,120
+there is clarity in the treatment of Bitcoin,
+
+185
+00:16:35,120 --> 00:16:44,260
+so that Bitcoin is not forced to contorting itself
+into regulator structures that are designed...
+
+186
+00:16:44,260 --> 00:16:50,660
+by banks, for banks, [in the mind of] traditional
+models of finance which are primarily centralized.
+
+187
+00:16:50,660 --> 00:16:55,320
+[It must be recognized] that bitcoin, as 
+programmable money, with capabilities...
+
+188
+00:16:55,320 --> 00:16:59,120
+such as digital multi-signature escrow,
+
+189
+00:16:59,120 --> 00:17:05,520
+has many more flexible ways of responding 
+to the need for consumer protection.
+
+190
+00:17:05,520 --> 00:17:10,300
+For example, in the traditional banking environment,
+
+191
+00:17:10,300 --> 00:17:16,420
+unless you hold cash, every account you have
+as a consumer is a custodial account.
+
+192
+00:17:16,420 --> 00:17:21,000
+That means the funds are held in trust by a bank.
+
+193
+00:17:21,000 --> 00:17:26,560
+What you have in return is essentially a promise note
+that the money will still be there tomorrow morning.
+
+194
+00:17:26,560 --> 00:17:30,080
+The bank controls the funds entirely.
+
+195
+00:17:30,080 --> 00:17:40,080
+Bitcoin allows for a more varied range of control
+between consumers and financial services institutions,
+
+196
+00:17:40,080 --> 00:17:48,400
+from decentralized control, where the consumer or
+end-user is the only one with full control over the money,
+
+197
+00:17:48,400 --> 00:17:54,680
+to complete custodial accounts, where a financial
+services institution has full access to the keys,
+
+198
+00:17:54,680 --> 00:17:56,740
+while the consumer has none.
+
+199
+00:17:56,740 --> 00:18:01,420
+In between, there are also hybrid models.
+
+200
+00:18:01,420 --> 00:18:07,800
+The bank may have a signatory role, but would
+not be able to change the direction of the funds.
+
+201
+00:18:07,800 --> 00:18:10,260
+They simply [sign] to approve transactions.
+
+202
+00:18:10,260 --> 00:18:19,840
+Within this very broad range of possibilities,
+obviously some aspects of that do need regulation.
+
+203
+00:18:19,840 --> 00:18:29,500
+If you simulate a traditional financial environment with
+custodial accounts and take full control of user funds,
+
+204
+00:18:29,500 --> 00:18:33,640
+then those funds are now outside
+of the Bitcoin security model.
+
+205
+00:18:33,640 --> 00:18:41,860
+They are no longer protected by [decentralized]
+control of keys in blockchain [security model].
+
+206
+00:18:41,860 --> 00:18:48,720
+Those [funds] are now in a gray area, not covered
+by regulatory requirements for capital adequacy,
+
+207
+00:18:48,720 --> 00:18:52,220
+audits, and security controls, etc.
+
+208
+00:18:52,220 --> 00:18:56,480
+They are also not covered by the Bitcoin security model.
+
+209
+00:18:56,480 --> 00:19:00,600
+We have seen that whenever that
+has happened, it results in disaster.
+
+210
+00:19:00,600 --> 00:19:07,020
+All of the exchanges that have been attacked
+in Bitcoin had a full custodial model like that.
+
+211
+00:19:07,020 --> 00:19:09,620
+However, that is not the only model that exists.
+
+212
+00:19:09,620 --> 00:19:16,100
+There are digital bitcoin wallets
+where the user has complete control.
+
+213
+00:19:16,100 --> 00:19:18,740
+There are wallets where the user has complete control,
+
+214
+00:19:18,740 --> 00:19:23,640
+but transactions cannot happen unless an additional
+signature is placed by [another party or] institution...
+
+215
+00:19:23,640 --> 00:19:29,320
+that acts essentially as a risk manager, to ensure
+that even if the user's system is compromised,
+
+216
+00:19:29,320 --> 00:19:32,260
+the money can't be stolen. A hybrid model.
+
+217
+00:19:32,260 --> 00:19:37,200
+If you lump all of those [models] together 
+under a single unifying [regulatory policy],
+
+218
+00:19:37,200 --> 00:19:43,820
+assuming that it is all just like a bank, then you will
+miss out on opportunities to create better solutions...
+
+219
+00:19:43,820 --> 00:19:47,080
+with this new programmable money.
+
+220
+00:19:47,080 --> 00:19:56,120
+I do believe that certain models of bitcoin use must
+be regulated, if control over user funds is centralized.
+
+221
+00:19:56,120 --> 00:19:59,340
+That institution puts consumers at risk.
+
+222
+00:19:59,340 --> 00:20:04,840
+But to lump in a decentralized model where 
+the user still has full control over their funds,
+
+223
+00:20:04,840 --> 00:20:06,740
+[maybe with] an institution which can't steal their money,
+
+224
+00:20:06,740 --> 00:20:15,080
+that same regulation is not only misguided, but it doesn't
+leave any room for the technology to develop further.
+
+225
+00:20:15,080 --> 00:20:18,920
+[DOUGLAS BLACK] May I ask one further question?
+Thank you very much for that.
+
+226
+00:20:18,920 --> 00:20:27,120
+What would you suggest to this committee 
+in terms of regulation [for Bitcoin], if any?
+
+227
+00:20:27,120 --> 00:20:32,880
+[ANDREAS] I believe, we are still at
+the very early stages of this technology.
+
+228
+00:20:32,880 --> 00:20:37,440
+Not only is Bitcoin new, but Bitcoin is already evolving.
+
+229
+00:20:37,440 --> 00:20:46,620
+For example, the capability to do a multi-signature
+transaction with up to twenty different signatories.
+
+230
+00:20:46,620 --> 00:20:49,700
+A transaction can be controlled
+by a mixture of signatures.
+
+231
+00:20:49,700 --> 00:20:54,400
+That [scheme] was introduced in 2012,
+four years after the introduction of Bitcoin.
+
+232
+00:20:54,400 --> 00:21:06,520
+[That became] available in 2013, so Bitcoin is already
+developing new, exciting programmable capabilities...
+
+233
+00:21:06,520 --> 00:21:09,240
+for user security.
+
+234
+00:21:09,240 --> 00:21:12,540
+I think this technology needs time to breathe.
+
+235
+00:21:12,540 --> 00:21:18,980
+It needs time to show the full potential of what is =
+possible with decentralized programmable money.
+
+236
+00:21:18,980 --> 00:21:27,780
+Until that time, I think [we can] open up those
+possibilities by making clear distinctions...
+
+237
+00:21:27,780 --> 00:21:33,560
+where the technology allows it, for example between
+centralized and decentralized modes of operation,
+
+238
+00:21:33,560 --> 00:21:42,420
+and understanding those nuances, can create niches for
+new players to come in to the financial services market.
+
+239
+00:21:42,420 --> 00:21:48,640
+[This will] introduce innovation, competition,
+and disruption into the banking industry...
+
+240
+00:21:48,640 --> 00:21:52,100
+by trying out new models for consumer protection,
+
+241
+00:21:52,100 --> 00:21:55,580
+which in my opinion are superior
+to the ones we have today.
+
+242
+00:21:55,580 --> 00:22:03,500
+[DOUGLAS BLACK] So your answer is what,
+in terms of what this committee should do, if anything?
+
+243
+00:22:03,500 --> 00:22:09,100
+[ANDREAS] Wait until the technology
+is better understood by all of us.
+
+244
+00:22:09,100 --> 00:22:14,720
+Understand that there are nuances
+that require very careful treatment.
+
+245
+00:22:14,720 --> 00:22:21,840
+[Not] a blanket treatment that this is just a currency,
+which it is not. It is a network for money.
+
+246
+00:22:21,840 --> 00:22:26,440
+[Not] a treatment as if there is only one 
+application, the bitcoin currency, which it is not.
+
+247
+00:22:26,440 --> 00:22:28,840
+There are many applications based on this model.
+
+248
+00:22:28,840 --> 00:22:31,920
+[A blanket treatment] would stifle
+this technology in its early days.
+
+249
+00:22:31,920 --> 00:22:34,680
+[DOUGLAS BLACK] Thank you very much. Mr. Chairman.
+[IRVING GERSTEIN] Thank you, Senator Black.
+
+250
+00:22:34,680 --> 00:22:38,180
+Senator Campbell, to be followed by Senator Greene.
+
+251
+00:22:38,180 --> 00:22:43,540
+[LARRY CAMPBELL] Thank you, Chair.
+And thank you so much for coming today.
+
+252
+00:22:43,540 --> 00:22:52,820
+I remember when I got an IBM Selectric that
+had a backspace so that I could correct letters.
+
+253
+00:22:52,820 --> 00:22:58,180
+And I thought, 'Nothing will ever be cooler 
+than this. It's impossible.' [Laughter]
+
+254
+00:22:58,180 --> 00:23:03,500
+I am 67 years old. That is my generation.
+
+255
+00:23:03,500 --> 00:23:09,240
+Would it be fair- You say it needs some breathing space.
+
+256
+00:23:09,240 --> 00:23:20,400
+Would it be fair to say that the younger generation
+[understands Bitcoin] more so than my generation?
+
+257
+00:23:20,400 --> 00:23:22,740
+[ANDREAS] With any new technology,
+I think that is the case.
+
+258
+00:23:22,740 --> 00:23:28,440
+[LARRY CAMPBELL] Do you think it is fair to say-
+For instance, I would doubt very much that I will...
+
+259
+00:23:28,440 --> 00:23:35,040
+get into bitcoins, because I don't really understand it
+even though we are on our 11th meeting. [Laughter]
+
+260
+00:23:35,040 --> 00:23:39,900
+[UNKNOWN] We are lucky that Paul does.
+[LARRY CAMPBELL] Yes, Senator Massicotte does.
+
+261
+00:23:39,900 --> 00:23:49,240
+But when I talk to younger people about this committee,
+they totally get it and don't have any questions at all.
+
+262
+00:23:49,240 --> 00:23:57,880
+They say, "This is where we are going and how we will
+get there." I've been told to keep my old nose out of it.
+
+263
+00:23:57,880 --> 00:24:05,520
+[Laughter] I think you explained it.
+How much time does it take for this to breathe?
+
+264
+00:24:05,520 --> 00:24:10,500
+How long do you think that would be?
+I mean, how rapid will this come upon us?
+
+265
+00:24:10,500 --> 00:24:17,020
+[ANDREAS] I would estimate that Bitcoin today,
+is approximately [where] the internet was in 1992.
+
+266
+00:24:17,020 --> 00:24:23,740
+In 1992, when I used email, that required 
+command line Unix skills, typed into a mainframe.
+
+267
+00:24:23,740 --> 00:24:34,200
+It was very difficult. Approximately ten years [later],
+it had already reached mainstream adoption...
+
+268
+00:24:34,200 --> 00:24:37,000
+especially among younger people.
+
+269
+00:24:37,000 --> 00:24:42,920
+Almost exactly twenty years [later], my mother got
+her first iPad and was able to send her first email.
+
+270
+00:24:42,920 --> 00:24:46,799
+It took some while until the technology 
+went from something extremely esoteric,
+
+271
+00:24:46,800 --> 00:24:50,980
+only the purview of someone working
+in a computer science department,
+
+272
+00:24:50,980 --> 00:24:56,340
+until my mother could do it with a swipe of her finger,
+and she is a self-acknowledged technophobe.
+
+273
+00:24:56,340 --> 00:24:58,200
+So [Bitcoin] may take some time [too].
+
+274
+00:24:58,200 --> 00:25:03,140
+What I can tell you, for sure, is that
+it will [happen] about three times faster.
+
+275
+00:25:03,140 --> 00:25:07,560
+Because we are [mostly] not deploying physical
+infrastructure and already have the internet...
+
+276
+00:25:07,560 --> 00:25:10,940
+as a medium on which we can spread this,
+
+277
+00:25:10,940 --> 00:25:16,540
+I believe we will see very mainstream 
+applications with eight years that will be...
+
+278
+00:25:16,540 --> 00:25:18,660
+much easier to use and secure.
+
+279
+00:25:18,660 --> 00:25:25,620
+[These applications] will allow consumers to
+use bitcoin in a way that feels very comfortable.
+
+280
+00:25:25,620 --> 00:25:29,000
+At the moment, we are not there.
+
+281
+00:25:29,000 --> 00:25:34,120
+[LARRY CAMPBELL] Okay, just one more question.
+
+282
+00:25:34,120 --> 00:25:44,800
+The question I have is, if you don't need any 
+centralized oversight, who provides it [in Bitcoin]?
+
+283
+00:25:44,800 --> 00:25:53,740
+I mean, you say the end-user controls the whole thing.
+
+284
+00:25:53,740 --> 00:26:08,180
+If there is nobody finding out who the end-user is, how
+can we be sure that ISIS or another whack-job crew...
+
+285
+00:26:08,180 --> 00:26:14,700
+[won't] use this as a method of
+transferring money around the world?
+
+286
+00:26:14,700 --> 00:26:21,560
+[ANDREAS] I firmly believe that the possibility
+for positive uses of this technology far outweighs...
+
+287
+00:26:21,560 --> 00:26:25,780
+the very small possibility for negative uses.
+
+288
+00:26:25,780 --> 00:26:33,960
+The truth is, ISIS is probably using pallets of money
+that they stole from [the United States and its] allies...
+
+289
+00:26:33,960 --> 00:26:38,780
+during their reign of terror, and not bitcoin.
+
+290
+00:26:38,780 --> 00:26:48,680
+I think it is a matter of understanding that limiting
+technology which has the [potential] to bring...
+
+291
+00:26:48,680 --> 00:26:52,940
+economic inclusion to billions
+of people who do not have it today,
+
+292
+00:26:52,940 --> 00:27:04,780
+in the same way that cellphones allowed entire nations
+to leapfrog the landlines and achieve communication...
+
+293
+00:27:04,780 --> 00:27:06,880
+that would be unthinkable
+[in prior realms of technology],
+
+294
+00:27:06,880 --> 00:27:10,220
+Bitcoin can do the same for banking and finance.
+
+295
+00:27:10,220 --> 00:27:16,120
+It can empower billions of people around 
+the world in areas such as remittances,
+
+296
+00:27:16,120 --> 00:27:22,840
+accessing international finance, credit, 
+liquidity, loans, and things like that.
+
+297
+00:27:22,840 --> 00:27:34,600
+As with any technology, this technology will reflect
+society, with a tiny minority who may use it for evil.
+
+298
+00:27:34,600 --> 00:27:43,500
+I have full faith that the law enforcement capabilities,
+properly exercised, could follow funds on Bitcoin,
+
+299
+00:27:43,500 --> 00:27:50,660
+just as they can in the traditional
+financial networks, and probably more so.
+
+300
+00:27:50,660 --> 00:27:56,860
+Furthermore, I think bitcoin is the most 
+open and transparent of cryptocurrencies.
+
+301
+00:27:56,860 --> 00:27:59,380
+There are already about five hundred others.
+
+302
+00:27:59,380 --> 00:28:10,820
+I believe that if Bitcoin is not given the opportunity
+to work in a way that empowers people,
+
+303
+00:28:10,820 --> 00:28:19,440
+eventually [any] criminals will move to far more stealthy
+and less open currencies, and use those instead.
+
+304
+00:28:19,440 --> 00:28:24,080
+[LARRY CAMPBELL] Thank you. Thank you very much
+for coming today. I very much appreciate it.
+
+305
+00:28:24,080 --> 00:28:28,980
+[IRVING GERSTEIN] Thank you, Senator Campbell.
+Senator Greene, to be followed by Senator Massicotte.
+
+306
+00:28:28,980 --> 00:28:31,780
+[STEPHEN GREENE] Thank you very much for coming.
+
+307
+00:28:31,780 --> 00:28:37,120
+Without question, this is the most 
+interesting topic we have looked at...
+
+308
+00:28:37,120 --> 00:28:40,640
+since I have been a member of the committee.
+
+309
+00:28:40,640 --> 00:28:42,260
+I am just amazed by-
+
+310
+00:28:42,260 --> 00:28:47,960
+One of the things I was thinking about 
+last night as I was reading your paper,
+
+311
+00:28:47,960 --> 00:28:53,120
+the idea that occurred to me,
+and I want you to comment on it,
+
+312
+00:28:53,120 --> 00:29:03,840
+is that bitcoin and related currencies are not
+hackable, because there is nothing to hack.
+
+313
+00:29:03,840 --> 00:29:13,300
+Is that a true statement? I wonder, if it is, 
+could explain that in very simple terms?
+
+314
+00:29:13,300 --> 00:29:18,520
+Because I imagine there are
+a lot of people watching this.
+
+315
+00:29:18,520 --> 00:29:23,080
+[ANDREAS] Individual bitcoin wallets,
+such as my wallet, can be hacked.
+
+316
+00:29:23,080 --> 00:29:28,540
+We see examples of that [happening].
+But the system as a whole cannot be hacked.
+
+317
+00:29:28,540 --> 00:29:36,080
+I say that with confidence because, over the last five
+years, especially recently in the last year and a half,
+
+318
+00:29:36,080 --> 00:29:41,820
+the value transferred over the Bitcoin network
+[in that time] exceeded $5 billion U.S. dollars.
+
+319
+00:29:41,820 --> 00:29:45,620
+There has been no shortage
+of people trying to hack Bitcoin.
+
+320
+00:29:45,620 --> 00:29:53,720
+If anything, Bitcoin has changed the
+dynamics of cybercrime and hacking.
+
+321
+00:29:53,720 --> 00:30:02,180
+The attacks have escalated. Bitcoin created
+a target for hackers that is extremely fluid,
+
+322
+00:30:02,180 --> 00:30:05,000
+residing on [many] people's computers.
+
+323
+00:30:05,000 --> 00:30:08,120
+They have tried to take advantage of that.
+
+324
+00:30:08,120 --> 00:30:12,580
+But I know that Bitcoin [as a system] can't be hacked,
+simply because many people have been trying...
+
+325
+00:30:12,580 --> 00:30:15,940
+non-stop for the past five years and can't hack it.
+
+326
+00:30:15,940 --> 00:30:25,420
+There is a very big difference between the system
+as a whole, which is dynamic and responds to attacks,
+
+327
+00:30:25,420 --> 00:30:27,700
+and individual wallets.
+
+328
+00:30:27,700 --> 00:30:32,680
+I think you will see a very similar 
+development timeline as with the internet.
+
+329
+00:30:32,680 --> 00:30:39,840
+I remember a time when groups of hackers could
+take down Yahoo, Microsoft, and Google for a day.
+
+330
+00:30:39,840 --> 00:30:43,880
+They don't do that anymore,
+but not because they stopped trying.
+
+331
+00:30:43,880 --> 00:30:54,340
+A dynamic system that is constantly exposed
+to threatening stimuli will develop resistance...
+
+332
+00:30:54,340 --> 00:30:56,340
+to these types of attacks.
+
+333
+00:30:56,340 --> 00:31:03,000
+This is a concept often called "anti-fragility."
+It becomes dynamically stable and resistant to attack.
+
+334
+00:31:03,000 --> 00:31:09,820
+Bitcoin is not static. It continuously evolves,
+dealing with attacks better and better over time.
+
+335
+00:31:09,840 --> 00:31:12,960
+[STEPHEN GREENE] Thanks very much, very interesting.
+
+336
+00:31:12,960 --> 00:31:17,700
+You mentioned in the answer to the previous question...
+
+337
+00:31:17,700 --> 00:31:26,120
+that there are roughly five hundred other
+cryptocurrencies. [ANDREAS] Mm-hmm.
+
+338
+00:31:26,120 --> 00:31:34,780
+[STEPHEN GREENE] What is the size of Bitcoin
+in relation to those? Are they major competitors?
+
+339
+00:31:34,820 --> 00:31:38,380
+Or are they copy-cats?
+
+340
+00:31:38,380 --> 00:31:42,040
+[ANDREAS] I would say, for the most part,
+that they are just copy-cats.
+
+341
+00:31:42,040 --> 00:31:48,440
+My personal opinion is that the
+allocation of cryptocurrencies...
+
+342
+00:31:48,440 --> 00:31:55,860
+(in terms of market size, adoption by users, etc.) 
+follows a long-tail or power-law distribution curve,
+
+343
+00:31:55,860 --> 00:32:01,400
+where the vast majority is concentrated in 
+one or maybe a [small] handful of currencies,
+
+344
+00:32:01,400 --> 00:32:07,500
+and then you potentially have a tail that stretches out
+to encompass thousands of smaller currencies.
+
+345
+00:32:07,500 --> 00:32:14,700
+Being able to [start] currencies at whim creates
+an environment where there will be thousands...
+
+346
+00:32:14,700 --> 00:32:25,060
+possibly tens of thousands of currencies in the future,
+but only a handful have economic viability, market value.
+
+347
+00:32:25,060 --> 00:32:28,540
+That doesn't change the [potential], in my opinion,
+
+348
+00:32:28,540 --> 00:32:33,460
+for people to create currencies
+the way they create internet memes.
+
+349
+00:32:33,460 --> 00:32:40,520
+In many cases, they will be internet memes.
+We have seen that happen in [crypto]currencies.
+
+350
+00:32:40,520 --> 00:32:49,140
+What is happening here is a laboratory of [technological]
+evolution and innovation, where new ideas are tested.
+
+351
+00:32:49,140 --> 00:32:58,540
+Some of the best results are often catastrophic failure
+on a small scale that informs future designs for Bitcoin.
+
+352
+00:32:58,540 --> 00:33:08,640
+[STEPHEN GREENE] It's amazing. Do you foresee a
+time when, in the interests of economic development..
+
+353
+00:33:08,640 --> 00:33:19,620
+what-have-you, that a nation state [would] decide
+to forgo its own currency and adopt bitcoin?
+
+354
+00:33:19,620 --> 00:33:25,700
+[ANDREAS] That is a difficult question.
+I think the very nature of currency is changing.
+
+355
+00:33:25,700 --> 00:33:34,660
+The economy, or 'organization' if you like, 
+adopting the bitcoin currency is the internet.
+
+356
+00:33:34,660 --> 00:33:36,860
+That is a transnational entity.
+
+357
+00:33:36,860 --> 00:33:41,800
+I think that has even more important implications
+for the future than national currencies.
+
+358
+00:33:41,800 --> 00:33:46,380
+Bitcoin is already bigger than some national currencies;
+
+359
+00:33:46,380 --> 00:33:54,020
+it may end up being more important for economic
+activity than dozens of smaller national currencies.
+
+360
+00:33:54,020 --> 00:34:02,380
+I do foresee that national central banks 
+may utilize blockchain technology to...
+
+361
+00:34:02,380 --> 00:34:06,460
+underpin national digital currencies.
+
+362
+00:34:06,480 --> 00:34:10,340
+[STEPHEN GREENE] Great. Thank you. 
+[IRVING GERSTEIN] Thank you, Senator Greene.
+
+363
+00:34:10,340 --> 00:34:13,860
+Senator Massicotte, to be followed by Senator Wells.
+
+364
+00:34:13,860 --> 00:34:19,020
+[PAUL MASSICOTTE] Thank you, Chair. Thank you for
+being with us. It is obviously very interesting and useful.
+
+365
+00:34:19,020 --> 00:34:22,060
+Let me follow up on the question from our Chair.
+
+366
+00:34:22,060 --> 00:34:30,240
+[In] your presentation, you discourage us from
+even recommending some form of identification.
+
+367
+00:34:30,240 --> 00:34:39,620
+I think your argument is, [transactions] are always
+be visible; you are right, the chain is very visible.
+
+368
+00:34:39,620 --> 00:34:45,080
+But what you don't see in a chain is, who is 
+behind the chain. And that is why I would presume...
+
+369
+00:34:45,080 --> 00:34:49,460
+people with illegal objectives
+or means are prepared to use it.
+
+370
+00:34:49,460 --> 00:34:55,880
+They apparently are using this mechanism
+to transfer and launder money.
+
+371
+00:34:55,880 --> 00:35:03,660
+I gather your argument is: 'I recognize that is a negative
+[use case], but don't hesitate because of that issue.'
+
+372
+00:35:03,660 --> 00:35:09,640
+'Don't put measures in place to restrict that flow,
+because the usefulness of those measures in...
+
+373
+00:35:09,640 --> 00:35:13,620
+identifying who is behind the transfers, will 
+be less than the usefulness to our society...
+
+374
+00:35:13,620 --> 00:35:16,940
+in letting this thing develop. Is that accurate?
+
+375
+00:35:16,940 --> 00:35:24,260
+The chain is visible, but not the identity of the persons,
+which is what I think the Chairman was asking about.
+
+376
+00:35:24,260 --> 00:35:31,980
+[ANDREAS] I am recognizing two aspects: 
+[first], attempts at imposing identity on Bitcoin...
+
+377
+00:35:31,980 --> 00:35:39,920
+will be ineffective because there will always be
+channels by which non-identifiable transactions...
+
+378
+00:35:39,920 --> 00:35:44,420
+can be introduced, either in Bitcoin or other 
+currencies, while simultaneously removing...
+
+379
+00:35:44,420 --> 00:35:46,080
+one of the greatest advantages.
+
+380
+00:35:46,080 --> 00:35:53,080
+Senator, today I have received three automated
+phone calls from Visa fraud prevention just because...
+
+381
+00:35:53,080 --> 00:35:55,080
+I used my card in Canada.
+
+382
+00:35:55,080 --> 00:36:01,660
+They have been calling me all day. This is something
+that happens to me every time I travel.
+
+383
+00:36:01,660 --> 00:36:08,660
+This is a symptom of releasing an identifier 
+that allows others to pull from my account...
+
+384
+00:36:08,660 --> 00:36:13,120
+and ties every transaction I [send] to every activity I do.
+
+385
+00:36:13,120 --> 00:36:20,180
+I am not only giving up my privacy, but endangering my
+personal financial security every time I use a credit card.
+
+386
+00:36:20,180 --> 00:36:23,680
+This system is non-viable.
+
+387
+00:36:23,680 --> 00:36:31,140
+I watch every few weeks on the news that yet another
+[company] has lost fifty million consumer credit cards,
+
+388
+00:36:31,140 --> 00:36:38,060
+or identity [documents] lost; for the average consumer,
+that is months of identity protection and risk.
+
+389
+00:36:38,060 --> 00:36:41,720
+These are the intermediaries who handle our identities.
+
+390
+00:36:41,720 --> 00:36:47,620
+Over the last two decades, we have seen that protecting
+[centralized] information systems in such a way...
+
+391
+00:36:47,620 --> 00:36:51,240
+that we can prevent these
+types of thefts, is not possible.
+
+392
+00:36:51,240 --> 00:36:54,300
+The mistake is tying identity to every transaction,
+
+393
+00:36:54,300 --> 00:36:58,740
+and creating systems that can continuously
+draw [money] from our accounts.
+
+394
+00:36:58,740 --> 00:37:06,080
+Bitcoin is fundamentally different. To break that in order
+to tie identities, which anyone can easily bypass...
+
+395
+00:37:06,080 --> 00:37:14,640
+if they have [enough] ill intent, would not result
+in protecting us more, but harming consumers.
+
+396
+00:37:14,640 --> 00:37:20,580
+[PAUL MASSICOTTE] The conclusion being, you
+acknowledge that this system could encourage...
+
+397
+00:37:20,580 --> 00:37:28,180
+money-laundering, but you're arguing to not do anything
+about it, because the benefits for society from this...
+
+398
+00:37:28,180 --> 00:37:30,300
+form of transfer is more important.
+
+399
+00:37:30,300 --> 00:37:33,780
+Is that your argument?
+I gather that is what you're saying.
+
+400
+00:37:33,780 --> 00:37:37,080
+[ANDREAS] My argument is that, [regardless of]
+the invention [and use] of blockchain technologies,
+
+401
+00:37:37,080 --> 00:37:42,420
+any of these systems to be used for
+ill intent, with [or without] identity.
+
+402
+00:37:42,420 --> 00:37:45,580
+There is nothing that can be done to stop someone-
+
+403
+00:37:45,580 --> 00:37:47,400
+[PAUL MASSICOTTE] Nor should even try to stop.
+
+404
+00:37:47,400 --> 00:37:51,620
+[ANDREAS] I think that would harm the
+vast majority of people who do good with it.
+
+405
+00:37:51,620 --> 00:37:55,560
+[PAUL MASSICOTTE] Let me talk to you about...
+We are a little bit older than you are, but...
+
+406
+00:37:55,560 --> 00:37:59,100
+Every time we achieve certain points in life-
+
+407
+00:37:59,100 --> 00:38:02,300
+I guess we could look at central banks 
+because we are the banking committee.
+
+408
+00:38:02,300 --> 00:38:05,540
+They come across new theories every 
+twenty to thirty years about how to control...
+
+409
+00:38:05,540 --> 00:38:10,680
+money supply, growth, and inflation.
+
+410
+00:38:10,680 --> 00:38:17,740
+Then we always learn thirty or forty years later, 
+'Sorry, we got it wrong. Shit happens,' in other words.
+
+411
+00:38:17,740 --> 00:38:24,260
+Having said that, when I look at your algorithm-
+You say we will predict the necessary growth...
+
+412
+00:38:24,260 --> 00:38:28,160
+of this currency as a form of transfer, and we got it right.
+
+413
+00:38:28,160 --> 00:38:32,000
+But I highly suspect that twenty to thirty,
+I will say, "Well, you didn't get a right."
+
+414
+00:38:32,000 --> 00:38:37,620
+Clue me in: what would be the one or two things
+that you got wrong when you project the future?
+
+415
+00:38:37,620 --> 00:38:39,780
+Where are the one or two
+weaknesses where you can say,
+
+416
+00:38:39,780 --> 00:38:44,680
+"I could have been wrong;
+here is where I may have gone wrong"?
+
+417
+00:38:44,680 --> 00:38:52,520
+[ANDREAS] What is useful to understand is, Bitcoin's
+monetary policy is just one recipe that is possible.
+
+418
+00:38:52,520 --> 00:38:58,820
+Bitcoin and other currencies like that allow us 
+to implement monetary recipes at will,
+
+419
+00:38:58,820 --> 00:39:01,980
+and then fix [or replace] them.
+
+420
+00:39:01,980 --> 00:39:06,880
+If Bitcoin's monetary recipe is wrong, 
+people will move to another currency...
+
+421
+00:39:06,900 --> 00:39:12,300
+that has the same characteristics of decentralized
+organization, but with a different monetary recipe.
+
+422
+00:39:12,300 --> 00:39:16,040
+It is simply one of the possible choices.
+
+423
+00:39:16,040 --> 00:39:18,920
+I don't know if it is the right or wrong monetary policy,
+
+424
+00:39:18,920 --> 00:39:27,580
+but I do know what Bitcoin's [issuance rate] will be in
+thirty years years, down to the millionth decimal point.
+
+425
+00:39:27,580 --> 00:39:33,340
+Exactly how many currency units will exist in 140 years.
+
+426
+00:39:33,340 --> 00:39:39,500
+What it provides, whether you like that recipe or not,
+whether you agree with it or not, is certainty.
+
+427
+00:39:39,500 --> 00:39:45,760
+It provides predictability. It allows
+people to adjust their expectations.
+
+428
+00:39:45,760 --> 00:39:48,280
+Whether that is right or wrong monetary policy...
+
+429
+00:39:48,280 --> 00:39:52,620
+Well, with this new model, you can build your own
+currency which has a different monetary policy.
+
+430
+00:39:52,620 --> 00:39:57,000
+And if it is better, it [will] win [in the market].
+It is an open competition.
+
+431
+00:39:57,000 --> 00:40:01,700
+[PAUL MASSICOTTE] The supply is defined by
+the algorithm. But people like our Chairman...
+
+432
+00:40:01,700 --> 00:40:05,780
+who [could have] bought this unit [of 
+currency], maybe the supply is limited,
+
+433
+00:40:05,780 --> 00:40:09,780
+But if [the price] will be equal to the demand
+growth, who knows [where the price will go]?
+
+434
+00:40:09,780 --> 00:40:13,340
+[ANDREAS] Nobody knows. [PAUL MASSICOTTE]
+The price of that currency may fluctuate immensely...
+
+435
+00:40:13,340 --> 00:40:15,720
+if you got [the monetary policy] wrong.
+
+436
+00:40:15,720 --> 00:40:19,840
+The purpose of the algorithm is to project, 
+as reasonable as it can, that future growth.
+
+437
+00:40:19,840 --> 00:40:24,300
+But it may not be.
+Maybe the supply is defined, but not the price.
+
+438
+00:40:24,300 --> 00:40:28,400
+Therefore, if you get high fluctuation of value,
+that will discourage its use [as a currency].
+
+439
+00:40:28,400 --> 00:40:33,720
+[ANDREAS] Absolutely, but at the moment volatility
+is a reflection of very low liquidity in bitcoin.
+
+440
+00:40:33,720 --> 00:40:42,140
+Bitcoin has a very specific recipe that simulates
+the supply curve of precious metals like gold.
+
+441
+00:40:42,140 --> 00:40:46,320
+That is a very specific monetary theory.
+
+442
+00:40:46,320 --> 00:40:51,900
+If there is a different monetary theory, you can build
+a different currency using blockchain technology.
+
+443
+00:40:51,900 --> 00:40:56,460
+You could even build a blockchain technology
+currency where the monetary supply is defined...
+
+444
+00:40:56,460 --> 00:41:01,800
+by a committee of twelve central bankers,
+and then invite users / consumers to adopt it.
+
+445
+00:41:01,800 --> 00:41:04,712
+It would still be more transparent
+than our current system of money.
+
+446
+00:41:04,720 --> 00:41:07,540
+[PAUL MASSICOTTE] Thank you, Chair.
+[IRVING GERSTEIN] Thank you.
+
+447
+00:41:07,540 --> 00:41:11,660
+Senator Wells, to be followed by Senator Ringuette.
+
+448
+00:41:11,660 --> 00:41:17,200
+[DAVID WELLS] Thank you very much, Chair.
+I am pleased to be here today, filling in for someone.
+
+449
+00:41:17,200 --> 00:41:24,740
+As we ran into each other earlier today, you said this
+would be an exciting committee meeting, and it is.
+
+450
+00:41:24,740 --> 00:41:28,200
+Mr. Antonopoulos, thanks for coming
+and thanks for your answers so far.
+
+451
+00:41:28,200 --> 00:41:39,500
+Who are Bitcoin's biggest detractors,
+and why are they enemies of Bitcoin?
+
+452
+00:41:39,500 --> 00:41:43,240
+[ANDREAS] I am not sure who Bitcoin's 
+biggest detractors are, but I can tell you that...
+
+453
+00:41:43,240 --> 00:41:49,160
+I -- and every other passionate advocate
+I know -- started off as a detractor.
+
+454
+00:41:49,160 --> 00:41:59,920
+It is important to note that my initial response to Bitcoin
+was, "This is nerd money and it can't possibly work."
+
+455
+00:41:59,920 --> 00:42:07,480
+[Laughter] In fact, when Satoshi Nakamoto invented
+Bitcoin and announced it on the cyherpunk mailing list,
+
+456
+00:42:07,480 --> 00:42:11,320
+everyone around him responded
+in pretty much the same way.
+
+457
+00:42:11,320 --> 00:42:20,400
+The circle of advocates, which is now numbering in the
+millions, consists of people who started as sceptics.
+
+458
+00:42:20,400 --> 00:42:25,580
+The first time I saw it, that was my reaction.
+The second time, I read the whitepaper...
+
+459
+00:42:25,580 --> 00:42:27,720
+and understood that this was not [just] a currency.
+
+460
+00:42:27,720 --> 00:42:34,200
+It is a decentralized network model for financial
+security and trust which [relies on] currency,
+
+461
+00:42:34,200 --> 00:42:36,660
+but also allows for many other things.
+
+462
+00:42:36,660 --> 00:42:41,360
+That literally blew my mind, and then
+I understood this was much bigger.
+
+463
+00:42:41,360 --> 00:42:47,960
+We all started out as skeptics. I don't know 
+if all the skeptics become advocates over time,
+
+464
+00:42:47,960 --> 00:42:55,300
+but I do see that people who look at Bitcoin carefully
+understand there is a lot more than meets the eye.
+
+465
+00:42:55,300 --> 00:43:00,960
+[DAVID WELLS] What would Bitcoin's 
+biggest threat to growth [and adoption] be?
+
+466
+00:43:00,960 --> 00:43:06,300
+[The need] for people to overcome fear
+of the unknowns? The security aspect?
+
+467
+00:43:06,300 --> 00:43:08,480
+The level of technology available?
+
+468
+00:43:08,480 --> 00:43:15,880
+The individual nodes might not have
+the security that the whole system has.
+
+469
+00:43:15,880 --> 00:43:21,500
+[ANDREAS] There are some very significant 
+security problems related to the ownership...
+
+470
+00:43:21,500 --> 00:43:25,620
+and control of bitcoin keys in wallets for end-users.
+
+471
+00:43:25,620 --> 00:43:31,260
+The simple truth is, we have been [studying] information
+security as an industry for a handful of decades.
+
+472
+00:43:31,260 --> 00:43:37,760
+That industry is not very effective at doing it, whether
+in trying to protect credit card [details] or bitcoin.
+
+473
+00:43:37,760 --> 00:43:44,400
+The nice thing about bitcoin is, the risk is 
+compartmentalized. There is no systemic risk.
+
+474
+00:43:44,400 --> 00:43:49,340
+Over time, we will see the development of more
+secure mechanisms like hardware wallets,
+
+475
+00:43:49,340 --> 00:43:53,120
+such as the ones beginning
+to appear in the market today.
+
+476
+00:43:53,120 --> 00:44:00,020
+For every problem I see in Bitcoin, as an entrepreneur
+I simultaneously see a tremendous opportunity.
+
+477
+00:44:00,020 --> 00:44:07,760
+If you look back at the history of disruptive technologies,
+in 1994 there were dozens and dozens of articles...
+
+478
+00:44:07,760 --> 00:44:13,000
+about how the internet would fail because no one
+would ever be able to find anything on the internet.
+
+479
+00:44:13,000 --> 00:44:17,720
+Sergey Brin and Larry Page decided
+that was an opportunity, not a problem.
+
+480
+00:44:17,720 --> 00:44:28,080
+With Bitcoin, in each one of these problems lies a new,
+innovative financial industry that can offer solutions.
+
+481
+00:44:28,080 --> 00:44:30,700
+[DAVID WELLS] Thank you.
+I have one more question, Chair, if I may.
+
+482
+00:44:30,700 --> 00:44:38,340
+Of the millions of users a bitcoin currently, 
+who would constitute the biggest user group?
+
+483
+00:44:38,340 --> 00:44:46,960
+International financial transactions?
+What is the user group with the highest plurality?
+
+484
+00:44:46,960 --> 00:44:52,820
+[ANDREAS] I think there are a few statistical
+surveys that provide some insight into that.
+
+485
+00:44:52,820 --> 00:44:57,140
+I'm not sure about the exact numbers.
+I think the most common use for bitcoin is...
+
+486
+00:44:57,140 --> 00:45:01,700
+charitable giving, donations and [online] tipping.
+
+487
+00:45:01,700 --> 00:45:06,600
+The demographics, at the moment,
+are very similar to the early internet:
+
+488
+00:45:06,600 --> 00:45:13,200
+a narrow [set] of technology professionals.
+
+489
+00:45:13,200 --> 00:45:16,880
+A lot of nerds in this space,
+I can say that for sure.
+
+490
+00:45:16,880 --> 00:45:25,160
+But it just follows the same [adoption] path as
+any other technology, becoming more appealing...
+
+491
+00:45:25,160 --> 00:45:29,200
+to a broader demographic over time.
+
+492
+00:45:29,200 --> 00:45:34,760
+For me, the most interesting thing is not what
+Bitcoin can do for western developed countries.
+
+493
+00:45:34,760 --> 00:45:38,620
+We have fairly sophisticated banking systems.
+
+494
+00:45:38,620 --> 00:45:47,660
+I am fascinated by the idea of deploying Bitcoin on
+a Nokia feature phone in Kenya or Lagos, Nigeria...
+
+495
+00:45:47,660 --> 00:45:53,300
+This would people who have never had access
+to financial services online into a global economy...
+
+496
+00:45:53,300 --> 00:45:59,780
+with international credit, connected to 
+everyone else in the world on equal footing.
+
+497
+00:45:59,780 --> 00:46:06,220
+That is very exciting to me; that is where 
+the greatest need lies that Bitcoin can fulfill.
+
+498
+00:46:06,220 --> 00:46:09,260
+[DAVID WELLS] Okay. Thank you, Chair.
+[IRVING GERSTEIN] Thank you, Senator Wells.
+
+499
+00:46:09,260 --> 00:46:13,720
+Senator Ringuette, to be followed by Senator Meredith.
+[PIERRETTE RINGUETTE] Thank you, Chair.
+
+500
+00:46:13,720 --> 00:46:20,040
+Most impressive. When you started out
+by saying that you have spent 20 years...
+
+501
+00:46:20,040 --> 00:46:28,140
+working on networks and data centers
+for financial services companies, I say,
+
+502
+00:46:28,140 --> 00:46:34,500
+they must be in dire need to hire you back! [Laughter]
+
+503
+00:46:34,500 --> 00:46:38,520
+[UNKNOWN] He is not for sale.
+[PIERRETTE RINGUETTE] No, but-
+
+504
+00:46:38,520 --> 00:46:46,700
+With all the knowledge you have
+gathered about cryptocurrency...
+
+505
+00:46:46,700 --> 00:46:56,860
+What would be your guess for development 
+to create a similar cryptocurrency?
+
+506
+00:46:56,860 --> 00:47:00,880
+[ANDREAS] I'm not sure I understand the question.
+[PIERRETTE RINGUETTE] Well, as you said,
+
+507
+00:47:00,880 --> 00:47:07,820
+there are over about hundred
+different cryptocurrency networks.
+
+508
+00:47:07,820 --> 00:47:18,000
+What would be the cost to develop and 
+create a similar cryptocurrency to bitcoin?
+
+509
+00:47:18,000 --> 00:47:24,900
+[ANDREAS] Well, every day, somebody decides that
+Bitcoin isn't the correct answer, they have a better one,
+
+510
+00:47:24,900 --> 00:47:30,100
+and choose to try and build a better cryptocurrency.
+
+511
+00:47:30,100 --> 00:47:38,640
+Blockchain technology has taken the very 
+natural inclination of people to create currency...
+
+512
+00:47:38,640 --> 00:47:43,020
+as a form of language and expression
+of value, which exists in every society.
+
+513
+00:47:43,020 --> 00:47:53,200
+From pre-historic times with beads and feathers,
+to modern times with all the forms of currency...
+
+514
+00:47:53,200 --> 00:47:58,360
+that existed before nationalized monopoly money.
+
+515
+00:47:58,360 --> 00:48:08,400
+That possibility, of not only creating a currency,
+but that currency being global, secure, fast,
+
+516
+00:48:08,400 --> 00:48:11,460
+predictable, and transparent...
+
+517
+00:48:11,460 --> 00:48:18,520
+It means a ten-year-old can create
+a currency that is as secure as...
+
+518
+00:48:18,520 --> 00:48:23,020
+the currency created by a monarch a few centuries ago.
+
+519
+00:48:23,020 --> 00:48:30,080
+Just like the internet brought desktop publishing
+and communications into the hands of individuals,
+
+520
+00:48:30,080 --> 00:48:39,840
+enable a capability that was previously only the
+purview of those who had [large] printing presses,
+
+521
+00:48:39,840 --> 00:48:44,220
+blockchain technology has democratized 
+access to [the tools of] currency creation.
+
+522
+00:48:44,220 --> 00:48:53,940
+As a result, anyone with the impulse to create currency,
+for reasons completely serious or trivial, can now do so.
+
+523
+00:48:53,940 --> 00:48:59,400
+That currency [could become]
+global, secure, and unforgeable.
+
+524
+00:48:59,400 --> 00:49:01,840
+[PIERRETTE RINGUETTE] Without cost?
+[ANDREAS] Without cost.
+
+525
+00:49:01,840 --> 00:49:06,720
+In fact, you can go onto a website
+and create RinguetteCoin today.
+
+526
+00:49:06,720 --> 00:49:12,120
+[PIERRETTE RINGUETTE] I would love that! [Laughter]
+[ANDREAS] For a fifth of a tenth of a bitcoin.
+
+527
+00:49:12,120 --> 00:49:17,540
+For a very small amount, in any case.
+Very soon, that will be free.
+
+528
+00:49:17,540 --> 00:49:24,900
+I do anticipate that you will see coins created by
+children, performers, entertainers, football teams...
+
+529
+00:49:24,900 --> 00:49:32,700
+Most of them will only have entertainment value,
+but some of them may surprise us and cross over...
+
+530
+00:49:32,700 --> 00:49:34,580
+into the realm of economic value.
+
+531
+00:49:34,580 --> 00:49:42,520
+[Bitcoin] changes the fundamental relationship between
+individuals and currency as a form of expression.
+
+532
+00:49:42,520 --> 00:49:46,800
+[PIERRETTE RINGUETTE] The second question I have...
+
+533
+00:49:46,800 --> 00:49:57,640
+You said, individual bitcoin wallets can be targeted
+and compromised if not properly secured.
+
+534
+00:49:57,640 --> 00:50:02,880
+How can one properly secure [their] bitcoin wallet?
+
+535
+00:50:02,880 --> 00:50:08,300
+[ANDREAS] With great difficulty right now.
+It requires great technical skill,
+
+536
+00:50:08,300 --> 00:50:12,720
+which is one of the issues that needs
+to be addressed over the next few years...
+
+537
+00:50:12,720 --> 00:50:16,440
+in order to make bitcoin more
+accessible to mainstream users.
+
+538
+00:50:16,440 --> 00:50:19,680
+Right now, it is difficult to do so.
+
+539
+00:50:19,680 --> 00:50:25,140
+Our individual computer systems are not 
+designed to secure purely digital money...
+
+540
+00:50:25,140 --> 00:50:31,280
+that resides on your iPhone or desktop.
+
+541
+00:50:31,280 --> 00:50:40,260
+For experts and specialists, there are new devices which
+have come out, with wallets embedded in hardware.
+
+542
+00:50:40,260 --> 00:50:45,760
+Small devices that you plug into your computer
+and all the bitcoin keys are only held on that device.
+
+543
+00:50:45,760 --> 00:50:52,080
+I actually print out my bitcoin keys on paper,
+and then put them in a fireproof safe.
+
+544
+00:50:52,080 --> 00:50:55,990
+I store a second copy in a bank safe deposit box...
+
+545
+00:50:55,990 --> 00:51:02,840
+which is ironic because I'm securing my bitcoin
+by putting [the keys] in a bank vault. [Laughter]
+
+546
+00:51:02,840 --> 00:51:12,220
+Making the keys physical actually allows me to impart
+the greatest form of security that I know how to use.
+
+547
+00:51:12,220 --> 00:51:15,540
+Physical security is something we're more familiar with.
+
+548
+00:51:15,540 --> 00:51:19,600
+Information security [research] is 
+accelerating because of bitcoin.
+
+549
+00:51:19,600 --> 00:51:24,800
+A lot of innovation is happening in
+that space, which is very exciting.
+
+550
+00:51:24,800 --> 00:51:26,380
+[PIERRETTE RINGUETTE] Third question.
+
+551
+00:51:26,380 --> 00:51:36,560
+You indicated that a person could acquire 
+a loan in bitcoin. How would one go about that?
+
+552
+00:51:36,560 --> 00:51:41,660
+[ANDREAS] There are already organizations 
+implementing a concept called peer-to-peer lending,
+
+553
+00:51:41,660 --> 00:51:44,340
+which exists in the traditional currencies.
+
+554
+00:51:44,340 --> 00:51:54,940
+For example, there are companies like LendingClub.com
+where I can make a loan to a fellow American.
+
+555
+00:51:54,940 --> 00:51:59,619
+They will end up paying a lower interest rate than
+for credit cards, and I will actually get an interest rate...
+
+556
+00:51:59,620 --> 00:52:02,600
+that is higher than I would with a certificate of deposit.
+
+557
+00:52:02,600 --> 00:52:07,920
+If I diversify my loans enough,
+only investing a small amount in each loan,
+
+558
+00:52:07,920 --> 00:52:11,240
+I will suffer a pretty low default rate.
+
+559
+00:52:11,240 --> 00:52:18,000
+[With Bitcoin], that [scheme] can become global.
+I could lend money with bitcoin to someone...
+
+560
+00:52:18,000 --> 00:52:22,540
+anywhere in the world, and there
+are companies already doing this.
+
+561
+00:52:22,540 --> 00:52:28,360
+In that case, I would invest perhaps in
+two to three thousand different loans so...
+
+562
+00:52:28,360 --> 00:52:33,680
+default on one loan wouldn't affect
+my entire my entire amount.
+
+563
+00:52:33,680 --> 00:52:39,980
+[I would] diversify my risk that way. This has
+tremendous implications for world-wide credit.
+
+564
+00:52:39,980 --> 00:52:46,980
+It not only allows people in the developing world
+to source credit, but people in the developed world...
+
+565
+00:52:46,980 --> 00:52:53,740
+can invest their money directly with the borrowers,
+without intermediaries, at a much lower cost.
+
+566
+00:52:53,740 --> 00:52:57,940
+[PIERRETTE RINGUETTE] Well, yeah,
+but you have an intermediary for this.
+
+567
+00:52:57,940 --> 00:53:11,180
+You have this organization that [facilitates] what you are
+prepared to loan, and people wanting to acquire loans.
+
+568
+00:53:11,180 --> 00:53:13,840
+So you have this intermediary?
+
+569
+00:53:13,840 --> 00:53:17,380
+[ANDREAS] Today, we have. Yes, indeed.
+
+570
+00:53:17,380 --> 00:53:20,520
+But with bitcoin, this is one of the 
+tremendous things that is happening.
+
+571
+00:53:20,520 --> 00:53:26,140
+Many of the traditional financial services 
+can now be redesigned and re-envisioned...
+
+572
+00:53:26,140 --> 00:53:29,480
+in a completely decentralized
+fashion, without intermediaries.
+
+573
+00:53:29,480 --> 00:53:35,240
+This concept of disintermediation, or removing
+intermediaries, connecting buyers the sellers directly,
+
+574
+00:53:35,240 --> 00:53:43,900
+consumers to merchants, [borrowers] to 
+creditors, is the magical power of Bitcoin.
+
+575
+00:53:43,900 --> 00:53:50,060
+That is what this invention has allowed us to do,
+without [needing] to first establish trust.
+
+576
+00:53:50,060 --> 00:53:54,700
+With Bitcoin, we can have a completely 
+decentralized market for credit and lending...
+
+577
+00:53:54,700 --> 00:54:01,980
+that is simultaneously global, near instantaneous,
+and allows access to a vast pool of credit.
+
+578
+00:54:01,980 --> 00:54:07,300
+That is a very exciting prospect.
+
+579
+00:54:07,300 --> 00:54:16,880
+[PIERRETTE RINGUETTE] Okay. From your perspective..
+and Chair, this is my last question.
+
+580
+00:54:16,880 --> 00:54:26,640
+If Canada would move forward with some regulation,
+as some witnesses have asked of us,
+
+581
+00:54:26,640 --> 00:54:36,720
+and the [rest of] the world, the G7 countries,
+did not follow us with similar regulation,
+
+582
+00:54:36,720 --> 00:54:43,580
+what would the pros and cons of such a move be?
+
+583
+00:54:43,580 --> 00:54:48,480
+[ANDREAS] Well, that is a very interesting [question].
+We already see tremendous regulatory fragmentation.
+
+584
+00:54:48,480 --> 00:54:54,620
+A regulator in New York State has taken initiative to
+regulate based on [existing] New York State laws,
+
+585
+00:54:54,620 --> 00:55:02,440
+regulation that looks very similar to traditional banking
+regulations and is not very well suited for Bitcoin.
+
+586
+00:55:02,440 --> 00:55:05,880
+Simultaneously, there will be other forms of regulation.
+
+587
+00:55:05,880 --> 00:55:13,620
+In the United States, we will likely end up with
+a patchwork of federal, state, and local regulations.
+
+588
+00:55:13,620 --> 00:55:16,480
+You will see similar attempts in many countries.
+
+589
+00:55:16,480 --> 00:55:23,000
+Bitcoin technology is such that it can 
+operate across borders very effectively.
+
+590
+00:55:23,000 --> 00:55:30,260
+Therefore, Bitcoin companies can migrate 
+to the areas of least friction, create new jobs,
+
+591
+00:55:30,260 --> 00:55:36,080
+[contribute] innovation and growth in the places
+where regulation is best informed about the nuances..
+
+592
+00:55:36,080 --> 00:55:39,120
+and particular needs of Bitcoin companies.
+
+593
+00:55:39,120 --> 00:55:44,440
+Canada and other countries which are 
+looking at this regulation very carefully,
+
+594
+00:55:44,440 --> 00:55:49,460
+rather than rushing into it, have an opportunity to create
+a very friendly environment to those companies.
+
+595
+00:55:49,460 --> 00:55:54,480
+They will attract one of the industries that, 
+quite frankly, is creating thousands of jobs today,
+
+596
+00:55:54,480 --> 00:55:57,840
+which cannot be said for too many other industries.
+
+597
+00:55:57,840 --> 00:55:59,800
+[PIERRETTE RINGUETTE] Thank you.
+[ANDREAS] Thank you.
+
+598
+00:55:59,800 --> 00:56:01,020
+[IRVING GERSTEIN] Thank you very much.
+
+599
+00:56:01,020 --> 00:56:05,680
+Senator Meredith, to be followed by the 
+Deputy Chair, Senator Hervieux-Payette.
+
+600
+00:56:05,680 --> 00:56:08,880
+[DON MEREDITH] Thank you so much, Chair.
+Thank you so much for your presentation.
+
+601
+00:56:08,880 --> 00:56:13,220
+As I was reading your notes last night-
+This is a segue into what my colleague just raised...
+
+602
+00:56:13,220 --> 00:56:16,280
+with respect to regulations.
+
+603
+00:56:16,280 --> 00:56:24,520
+Our committees here in the Senate are looking to put
+forward recommendations in a report to government...
+
+604
+00:56:24,520 --> 00:56:28,300
+that will hopefully become law to protect Canadians.
+
+605
+00:56:28,300 --> 00:56:33,940
+You talked to us about individuals being hacked.
+
+606
+00:56:33,940 --> 00:56:42,360
+Companies who you cited earlier have spent millions
+and millions of dollars on their security architecture,
+
+607
+00:56:42,360 --> 00:56:47,280
+to protect the data provided by consumers.
+
+608
+00:56:47,280 --> 00:56:53,820
+We see how vulnerable they are,
+how this data has been lost.
+
+609
+00:56:53,820 --> 00:56:59,660
+Major banks have come and indicated that 
+they have been hacked months [after the fact],
+
+610
+00:56:59,660 --> 00:57:05,460
+to the surprise of their customers whose credit cards,
+[identity and financial] data is now out there.
+
+611
+00:57:05,460 --> 00:57:10,980
+Now you are advocating a decentralized system.
+
+612
+00:57:10,980 --> 00:57:18,740
+The traditional banking system is predicated on
+all these security measures to protect consumers.
+
+613
+00:57:18,740 --> 00:57:24,600
+We are about protecting Canadians, so bring
+[this discussion] back as to how we would do that...
+
+614
+00:57:24,600 --> 00:57:27,500
+going forward with Bitcoin and what you're proposing.
+
+615
+00:57:27,500 --> 00:57:34,560
+I understand the rationale of [open] access,
+especially when it comes to Africa, for example.
+
+616
+00:57:34,560 --> 00:57:36,480
+and the other outlying areas.
+
+617
+00:57:36,480 --> 00:57:41,020
+We have seen how the revolution of cellphones
+has changed the dynamics of communication,
+
+618
+00:57:41,020 --> 00:57:43,400
+as well as financial transactions.
+
+619
+00:57:43,400 --> 00:57:46,000
+Talk to us about the security aspect.
+
+620
+00:57:46,000 --> 00:57:56,680
+How would we go forth with respect to protecting
+Canadians who are or become engaged in [Bitcoin]?
+
+621
+00:57:56,680 --> 00:58:03,180
+[ANDREAS] One of the big failures of regulation
+in the traditional [financial] environment is,
+
+622
+00:58:03,180 --> 00:58:10,780
+with centralized identifiers and regulation 
+comes the centralization of risk.
+
+623
+00:58:10,780 --> 00:58:21,540
+When an organization such as Home Depot or Target
+is hacked, losing sixty million consumer identities,
+
+624
+00:58:21,540 --> 00:58:25,600
+the reason that [hack] had such an enormous impact...
+
+625
+00:58:25,600 --> 00:58:30,120
+is because they were storing sixty million 
+consumer identities in the first place.
+
+626
+00:58:30,120 --> 00:58:39,220
+Instead, if each of those sixty million consumers
+[needed] to be individually targeted and hacked,
+
+627
+00:58:39,220 --> 00:58:42,940
+the possibility of that happening is much lower.
+
+628
+00:58:42,940 --> 00:58:52,360
+The advantage of a decentralized environment is,
+there is no central repository, motherload, or vault...
+
+629
+00:58:52,360 --> 00:59:00,520
+where everyone's identity is stored
+and can be attacked at the same time.
+
+630
+00:59:00,520 --> 00:59:11,260
+Bitcoin proposes a different model where the risk and
+control are pushed out into the hands of the users.
+
+631
+00:59:11,260 --> 00:59:17,600
+The result is a system that is much
+more resilient against systemic risk.
+
+632
+00:59:17,600 --> 00:59:25,320
+That means users themselves have enormous power;
+with that power, they also have responsibility.
+
+633
+00:59:25,320 --> 00:59:29,940
+That control exposes them to individualized risk.
+
+634
+00:59:29,940 --> 00:59:34,260
+[DON MEREDITH] How do we mitigate that risk, though?
+[ANDREAS] That risk is already being mitigated...
+
+635
+00:59:34,260 --> 00:59:35,540
+by [various] innovations [and training].
+
+636
+00:59:35,540 --> 00:59:41,320
+On one hand, you have this increased 
+exposure of the individual one-by-one;
+
+637
+00:59:41,320 --> 00:59:50,360
+on the other hand, we have programmable money,
+which allows us to invent new models for security.
+
+638
+00:59:50,360 --> 00:59:56,680
+Whether those are specialized devices that control keys and never expose them to the internet,
+
+639
+00:59:56,680 --> 01:00:07,480
+or multi-signature transactions where a number
+of signatures are required to release funds.
+
+640
+01:00:07,480 --> 01:00:13,140
+Those signatures could belong to two 
+different devices that one user [owns].
+
+641
+01:00:13,140 --> 01:00:19,920
+For example, they need to authorize a transaction
+from their laptop and their mobile phone,
+
+642
+01:00:19,920 --> 01:00:23,140
+which gives them a greater degree of security.
+
+643
+01:00:23,140 --> 01:00:30,860
+You could have secondary or tertiary controls
+stored on paper, on a device that is kept offline,
+
+644
+01:00:30,860 --> 01:00:33,340
+in a vault at home, or a fireproof safe.
+
+645
+01:00:33,340 --> 01:00:37,440
+Those are the very basic [procedures]
+that we are following right now.
+
+646
+01:00:37,440 --> 01:00:43,720
+But we are already seeing companies 
+providing services to consumers...
+
+647
+01:00:43,720 --> 01:00:50,720
+where they look at every [outgoing] transaction
+and provide a third signature to authorize it,
+
+648
+01:00:50,720 --> 01:00:52,240
+based on a risk assessment.
+
+649
+01:00:52,240 --> 01:00:57,760
+In that case, the company has no
+custodial control over the funds.
+
+650
+01:00:57,760 --> 01:01:05,340
+All they can do is sign or not sign the transaction.
+They are providing a risk check, and just that.
+
+651
+01:01:05,340 --> 01:01:09,160
+These are very interesting models
+we have never explored before,
+
+652
+01:01:09,160 --> 01:01:16,140
+because neither the user had enough control, nor was
+the network open enough to allow experimentation.
+
+653
+01:01:16,140 --> 01:01:20,840
+The technology underlying it wasn't flexible enough.
+
+654
+01:01:20,840 --> 01:01:26,560
+I have great faith. Already, just in the last two years
+as this technology has gone [more] mainstream,
+
+655
+01:01:26,560 --> 01:01:31,540
+the amount of innovation around that exact 
+problem has accelerated tremendously.
+
+656
+01:01:31,540 --> 01:01:38,860
+We are gradually beginning to win
+in terms of protecting end-user wallets.
+
+657
+01:01:38,860 --> 01:01:45,880
+In this area specifically, requiring users to attach identity
+to every transaction and put all of those [identities]...
+
+658
+01:01:45,880 --> 01:01:52,440
+in a central repository, just like the regulations
+in New York have demanded, is folly to me.
+
+659
+01:01:52,440 --> 01:01:58,560
+It takes away the one opportunity we have 
+to think of a different way of doing this,
+
+660
+01:01:58,560 --> 01:02:07,540
+and expose us to the same systemic risk of centralized
+points of failure that we have with credit cards.
+
+661
+01:02:07,540 --> 01:02:13,020
+I'm hoping that the market will be
+allowed to develop these solutions.
+
+662
+01:02:13,020 --> 01:02:19,540
+[DON MEREDITH] Going forward with what one of
+my colleagues, Senator Black, raised with respect to...
+
+663
+01:02:19,540 --> 01:02:25,360
+breathing time, and you indicated this as well...
+
+664
+01:02:25,360 --> 01:02:34,020
+What would be a suitable timeframe for us to look?
+Obviously, this is evolving and in development.
+
+665
+01:02:34,020 --> 01:02:39,860
+However, we believe there needs to be 
+some sort of regulations put in place,
+
+666
+01:02:39,860 --> 01:02:49,120
+similar to what we have done with the internet in terms
+of privacy, requests for information, and so forth.
+
+667
+01:02:49,120 --> 01:02:54,540
+With respect to the breathing time,
+if we were to enact some sort of legislation,
+
+668
+01:02:54,540 --> 01:03:03,240
+give us your opinion as to what that would look like,
+to govern Bitcoin and its transactions.
+
+669
+01:03:03,240 --> 01:03:07,940
+[ANDREAS] If we look at the
+experience with the internet,
+
+670
+01:03:07,940 --> 01:03:16,240
+the opportunity for the internet to develop its own
+models for self-regulation was extremely effective.
+
+671
+01:03:16,240 --> 01:03:19,240
+It delivered a lot of good to a lot of people.
+
+672
+01:03:19,240 --> 01:03:26,200
+Ironically, when the U.S. Senate finally came around
+to regulating spam, that was the same year...
+
+673
+01:03:26,200 --> 01:03:29,500
+that technology solved the problem.
+
+674
+01:03:29,500 --> 01:03:34,520
+In some cases, waiting is the better option.
+
+675
+01:03:34,520 --> 01:03:39,860
+I don't think there is a major problem with 
+consumer access to bitcoin at the moment,
+
+676
+01:03:39,860 --> 01:03:42,220
+in terms of the risk it poses to consumers.
+
+677
+01:03:42,220 --> 01:03:49,180
+However, there are particular areas where 
+I believe your committee could offer clarity.
+
+678
+01:03:49,180 --> 01:03:55,540
+The first one is making a clear distinction 
+between centralized, custodial accounts,
+
+679
+01:03:55,540 --> 01:03:59,260
+and decentralized models of bitcoin operation.
+
+680
+01:03:59,260 --> 01:04:01,160
+Not lumping them together.
+
+681
+01:04:01,160 --> 01:04:04,200
+Centralized custodial accounts
+are dangerous to consumers.
+
+682
+01:04:04,200 --> 01:04:09,040
+They expose consumers to the exact same risk
+of [traditional] centralized financial institutions,
+
+683
+01:04:09,040 --> 01:04:13,640
+only in this particular case, there is still zero
+oversight or control over these institutions.
+
+684
+01:04:13,640 --> 01:04:16,280
+They [often] operate outside
+of the banking environment.
+
+685
+01:04:16,280 --> 01:04:23,640
+For example, when CA Vertex came here and asked for
+regulation, in that environment, that is a sensible idea.
+
+686
+01:04:23,640 --> 01:04:31,740
+CA Vertex has complete control of user keys
+and operates in a centralized, custodial manner.
+
+687
+01:04:31,740 --> 01:04:39,100
+However, I think we should leave opportunities
+for the development of decentralized solutions,
+
+688
+01:04:39,100 --> 01:04:43,880
+and recognize that those are neither 
+subject to the same risks for consumers,
+
+689
+01:04:43,880 --> 01:04:49,900
+nor do they need the same types of regulation custodial accounts.
+
+690
+01:04:49,900 --> 01:04:54,980
+That would open up a lot of possibility
+for innovation in that space.
+
+691
+01:04:54,980 --> 01:05:00,220
+I think it is also important to carve out exceptions.
+
+692
+01:05:00,220 --> 01:05:10,360
+There are exceptions already in existing law,
+in terms of personal exchanges of small accounts.
+
+693
+01:05:10,360 --> 01:05:15,520
+For example, if I exchange a small amount of U.S.
+dollars for Canadian dollars on the street corner,
+
+694
+01:05:15,520 --> 01:05:21,200
+I will not be arrested for operating
+without the money transmitting license.
+
+695
+01:05:21,200 --> 01:05:29,700
+It is important to recognize that, on a small scale and
+for personal use, there should be clarity in the law...
+
+696
+01:05:29,700 --> 01:05:33,480
+that you don't require licenses to operate...
+
+697
+01:05:33,480 --> 01:05:39,080
+and personal use as a consumer is not 
+subject to banking-level regulation.
+
+698
+01:05:39,080 --> 01:05:44,740
+That would be very useful in allowing 
+further development of this technology.
+
+699
+01:05:44,740 --> 01:05:47,140
+[DON MEREDITH] One final question, Chair.
+
+700
+01:05:47,140 --> 01:05:55,380
+He indicated that there is a small percentage of
+bad actors. What systems do you currently have...
+
+701
+01:05:55,380 --> 01:06:01,980
+in place to deal with those individuals
+who would abuse the system?
+
+702
+01:06:01,980 --> 01:06:09,800
+[ANDREAS] Traditional law enforcement has been
+tremendously successful in tracking and stopping...
+
+703
+01:06:09,800 --> 01:06:13,080
+such activities on the network, again and again.
+
+704
+01:06:13,080 --> 01:06:19,880
+So far, I haven't heard of any particular need
+for changing the way the network operates.
+
+705
+01:06:19,880 --> 01:06:26,000
+In fact, such a request would be met with no
+[such] change, because this is a global network.
+
+706
+01:06:26,000 --> 01:06:34,800
+It isn't under the control of a single individual. I don't
+control Bitcoin any more than anybody else controls it.
+
+707
+01:06:34,800 --> 01:06:42,120
+The network itself provides a level of transparency
+that law enforcement can use [to track that activity].
+
+708
+01:06:42,120 --> 01:06:44,300
+[DON MEREDITH] Thank you. Thanks, Chair.
+
+709
+01:06:44,300 --> 01:06:45,580
+[IRVING GERSTEIN] Deputy Chair of the committee,
+
+710
+01:06:45,580 --> 01:06:48,600
+Senator Hervieux-Payette,
+to be followed by Senator Tkachuk.
+
+711
+01:06:48,600 --> 01:06:55,700
+[HERVIEUX-PAYETTE] [Translated from French]
+Thank you. In view of the fact that no one has...
+
+712
+01:06:55,700 --> 01:06:59,480
+spoken in French so far, I will be
+putting my questions in French.
+
+713
+01:06:59,480 --> 01:07:12,040
+Can you tell me whether there are countries, at the
+present time, that recognize and supervise Bitcoin?
+
+714
+01:07:12,040 --> 01:07:17,280
+[ANDREAS] I believe that there are several countries
+in which Bitcoin use has been recognized,
+
+715
+01:07:17,280 --> 01:07:23,260
+in many different ways and at different 
+levels of the legislative or judicial process.
+
+716
+01:07:23,260 --> 01:07:27,140
+In terms of recognizing, in fact, that bitcoin is money,
+
+717
+01:07:27,140 --> 01:07:33,900
+that it is subject to the same rules and 
+regulations around taxation and operation,
+
+718
+01:07:33,900 --> 01:07:39,420
+and that it also carries certain liberties such
+as freedom of association and expression.
+
+719
+01:07:39,420 --> 01:07:45,940
+Within many countries, bitcoin fits comfortably
+within the existing system for currencies.
+
+720
+01:07:45,940 --> 01:07:55,600
+However, I don't know whether any country 
+required legislation specifically for bitcoin,
+
+721
+01:07:55,600 --> 01:08:02,920
+[HERVIEUX-PAYETTE] [Translated from French]
+A short question on a matter previously raised:
+
+722
+01:08:02,920 --> 01:08:12,520
+If Senator Ringuette were to issue RinguetteCoin this
+week, and if our Chair already had his bitcoin for...
+
+723
+01:08:12,520 --> 01:08:19,520
+a number of months already, I would like to know what
+the value of one in relation to the other would be.
+
+724
+01:08:19,520 --> 01:08:25,200
+[ANDREAS] The various [crypto]currencies that exist...
+
+725
+01:08:25,200 --> 01:08:33,040
+are related to each other based on a free-floating
+market exchange rate, determined by trade...
+
+726
+01:08:33,040 --> 01:08:40,080
+between individuals on exchanges where those
+currencies can be bought and sold for each other.
+
+727
+01:08:40,080 --> 01:08:44,660
+This is exactly the same mechanism by 
+which the exchange rate between the...
+
+728
+01:08:44,660 --> 01:08:47,140
+Canadian dollar and U.S. dollar is determined.
+
+729
+01:08:47,140 --> 01:08:54,580
+Or between any currency in the modern world.
+All of these currencies have a free-floating market value.
+
+730
+01:08:54,580 --> 01:09:05,620
+I would argue, if there is very low liquidity in the market,
+that it will be very difficult to establish a price...
+
+731
+01:09:05,620 --> 01:09:09,560
+that is representative of the value of that currency.
+
+732
+01:09:09,560 --> 01:09:16,860
+Price discovery will be difficult
+and lead to very large volatility.
+
+733
+01:09:16,860 --> 01:09:22,680
+As bitcoin and the other [crypto]currencies 
+[grow] larger, the volatility decreases, in fact.
+
+734
+01:09:22,680 --> 01:09:29,440
+The volatility of the bitcoin [price] today is 
+not at all dissimilar from the volatility of oil...
+
+735
+01:09:29,440 --> 01:09:39,940
+during the first decade of its discovery
+as a substitute fuel instead of whale oil.
+
+736
+01:09:39,940 --> 01:09:45,700
+We see this with new technologies. As the market
+develops, it starts off with tremendous volatility.
+
+737
+01:09:45,700 --> 01:09:53,140
+But over time, as the amount of volume and liquidity
+in the market increases, the volatility is reduced...
+
+738
+01:09:53,140 --> 01:09:56,660
+until these currencies become extremely stable.
+
+739
+01:09:56,660 --> 01:10:02,480
+For a global currency, a $5 billion valuation is tiny.
+
+740
+01:10:02,480 --> 01:10:07,200
+I would expect the bitcoin price will
+remain volatile for many years to come.
+
+741
+01:10:07,200 --> 01:10:14,200
+[HERVIEUX-PAYETTE] [Translated from French]
+I think Senator Ringuette can give some thought...
+
+742
+01:10:14,200 --> 01:10:17,440
+to this $5 billion.
+
+743
+01:10:17,440 --> 01:10:24,740
+There was another subject that was discussed,
+namely the matter of security in the use of bitcoins.
+
+744
+01:10:24,740 --> 01:10:32,140
+We are parliamentarians here,
+doing this study within a parliament.
+
+745
+01:10:32,140 --> 01:10:36,120
+After this particular committee, I will
+be sitting on the finance committee.
+
+746
+01:10:36,120 --> 01:10:41,880
+I would be interested to know more about the control
+that governments might be able to exercise...
+
+747
+01:10:41,880 --> 01:10:46,780
+if all operations are conducted in bitcoin 
+and the value is constantly changing.
+
+748
+01:10:46,780 --> 01:10:54,300
+How would a government be
+able to exercise its fiscal power?
+
+749
+01:10:54,300 --> 01:11:00,220
+[ANDREAS] Well, the citizens of that government
+would exercise direct control over the currency...
+
+750
+01:11:00,220 --> 01:11:02,860
+through their own purchasing decisions.
+
+751
+01:11:02,860 --> 01:11:07,600
+Through ownership, they would have 
+control over their own units of currency.
+
+752
+01:11:07,600 --> 01:11:12,980
+In many cases, as I mentioned
+before, Bitcoin is not unregulated.
+
+753
+01:11:12,980 --> 01:11:20,460
+It is regulated by mathematics as well as dynamic
+markets that exist among its participants and users.
+
+754
+01:11:20,460 --> 01:11:27,220
+The price of bitcoin, its value in commercial 
+transactions, or whatever use to which it is put,
+
+755
+01:11:27,220 --> 01:11:33,620
+is managed directly by the end-user,
+who are arguably the same constituents.
+
+756
+01:11:33,620 --> 01:11:39,440
+If the constituents can apply direct 
+control over currency, they will do so.
+
+757
+01:11:39,440 --> 01:11:46,640
+[HERVIEUX-PAYETTE] [Translated from French]
+My last question, then.
+
+758
+01:11:46,640 --> 01:11:53,720
+We talked about the value in the month of June.
+We will be making our tax returns in April.
+
+759
+01:11:53,720 --> 01:12:01,540
+What value would we use if we wanted to be
+able to make conversions for tax authorities?
+
+760
+01:12:01,540 --> 01:12:07,460
+Of course, when filing a tax return,
+it is necessary to establish a value.
+
+761
+01:12:07,460 --> 01:12:15,320
+If there is a serious amount of fluctuation...
+I realize that the quantities are not high.
+
+762
+01:12:15,320 --> 01:12:22,360
+There aren't that many taxpayers with huge incomes.
+Let's say, the average Canadian earns $45,000 per year.
+
+763
+01:12:22,360 --> 01:12:32,460
+What value would be attributed to the revenue
+from January, February, March, and so forth?
+
+764
+01:12:32,460 --> 01:12:38,160
+How would it be possible to monitor and control
+this type of declaration of income or revenue?
+
+765
+01:12:38,160 --> 01:12:44,420
+[ANDREAS] That is a very interesting question, an area
+where regulatory clarity would be extremely useful.
+
+766
+01:12:44,420 --> 01:12:50,340
+I earn the vast majority of my income directly in bitcoin.
+
+767
+01:12:50,340 --> 01:12:56,420
+Since October of last year, I have earned 
+very little in terms of national currencies.
+
+768
+01:12:56,420 --> 01:13:01,340
+I get paid in bitcoin, and pay many
+of my expenses directly in bitcoin.
+
+769
+01:13:01,340 --> 01:13:06,880
+For the purposes of taxation, I treat the 
+bitcoin as earnings in a foreign currency,
+
+770
+01:13:06,880 --> 01:13:12,320
+just as if I would be doing contract work for 
+a European company and being paid in euros.
+
+771
+01:13:12,320 --> 01:13:18,880
+I will assess the market value of the transaction
+when I earn the income, at that market price.
+
+772
+01:13:18,880 --> 01:13:23,360
+Then I will render taxes to the tax
+authority in the national currency.
+
+773
+01:13:23,360 --> 01:13:30,620
+After all, the primary power of the tax authority is
+forcing people to pay in the currency of their choice.
+
+774
+01:13:30,620 --> 01:13:35,760
+What becomes difficult in the use of currency is...
+
+775
+01:13:35,760 --> 01:13:41,460
+Its classification in the tax code
+depends on the use I have for it.
+
+776
+01:13:41,460 --> 01:13:47,140
+For example, if I use my brokerage account 
+to purchase euros for investment purposes,
+
+777
+01:13:47,140 --> 01:13:56,960
+and I sell those euros two months later,
+I realize a gain and am subject to capital gains tax.
+
+778
+01:13:56,960 --> 01:14:13,000
+However, if I visit Paris, use euros to pay for a ticket
+to the local Paris Zoo, and the value of the euro...
+
+779
+01:14:13,000 --> 01:14:19,160
+changes between the moment I purchased [the euros]
+with my own currency, and when I pay for the ticket,
+
+780
+01:14:19,160 --> 01:14:23,400
+I will not assessed for capital gains taxes
+because that is considered a currency use.
+
+781
+01:14:23,400 --> 01:14:25,880
+Therefore, it is treated differently.
+
+782
+01:14:25,880 --> 01:14:32,400
+[In that instance], the tax code is flexible enough
+to allow me to declare the appropriate use...
+
+783
+01:14:32,400 --> 01:14:35,820
+for tax classification, depending on how I used it.
+
+784
+01:14:35,820 --> 01:14:43,220
+At the moment, in the United States, there has
+been a ruling that bitcoin operates as a commodity...
+
+785
+01:14:43,220 --> 01:14:47,980
+[subject to] capital gains taxation,
+which is the wrong answer in my opinion.
+
+786
+01:14:47,980 --> 01:14:54,080
+However, if bitcoin had been classified purely as
+currency, that would be the wrong answer too.
+
+787
+01:14:54,080 --> 01:14:57,760
+The correct answer, in my opinion,
+should be that it depends on how it is used.
+
+788
+01:14:57,760 --> 01:15:03,040
+If it is used for investment, then obviously
+it is subject to capital gains and losses.
+
+789
+01:15:03,040 --> 01:15:08,200
+But if it is used for consumer spending, then it
+operates as a currency and medium of exchange.
+
+790
+01:15:08,200 --> 01:15:14,660
+The tax system [should] allow me to 
+declare how I have used the currency,
+
+791
+01:15:14,660 --> 01:15:18,140
+and then impose penalties if I have
+made that declaration incorrectly.
+
+792
+01:15:18,140 --> 01:15:20,840
+That is how it works with every other currency.
+
+793
+01:15:20,840 --> 01:15:26,900
+This is an area where clarity would be extremely useful.
+It would allow us to use currencies such as bitcoin...
+
+794
+01:15:26,900 --> 01:15:30,820
+in the same way that we use [other] 
+currencies from all over the world.
+
+795
+01:15:30,820 --> 01:15:33,080
+[HERVIEUX-PAYETTE] Thank you.
+[IRVING GERSTEIN] Thank you.
+
+796
+01:15:33,080 --> 01:15:36,380
+Senator Tkachuk, to be followed by Senator Maltais.
+
+797
+01:15:36,380 --> 01:15:42,360
+[DAVID TKACHUK] Welcome, Mr. Antonopoulos.
+Thank you for your testimony here today.
+
+798
+01:15:42,360 --> 01:15:46,920
+It has been an interesting afternoon.
+
+799
+01:15:46,920 --> 01:15:52,720
+The other virtual currencies, are they
+based on an algorithm as well?
+
+800
+01:15:52,720 --> 01:15:57,920
+Is it the same one as used for Bitcoin?
+
+801
+01:15:57,920 --> 01:16:01,320
+There are several algorithms within Bitcoin.
+
+802
+01:16:01,320 --> 01:16:11,480
+The central invention is the blockchain and the
+security model for consensus through proof-of-work,
+
+803
+01:16:11,480 --> 01:16:18,040
+which is a [method] that allows a network to arrive
+at a secure picture of what the current ledger is...
+
+804
+01:16:18,040 --> 01:16:19,920
+based on competition.
+
+805
+01:16:19,920 --> 01:16:25,180
+That central technological innovation, the blockchain,
+is used in the vast majority of [crypto]currencies.
+
+806
+01:16:25,180 --> 01:16:27,460
+I will call that the blockchain invention.
+
+807
+01:16:27,460 --> 01:16:33,920
+However, there are other algorithms in Bitcoin, such as
+the algorithm that determines how [units] are issued,
+
+808
+01:16:33,920 --> 01:16:37,020
+how often and how much of the currency is issued.
+
+809
+01:16:37,020 --> 01:16:42,420
+Other currencies have taken different perspectives,
+using a different monetary policy recipe.
+
+810
+01:16:42,420 --> 01:16:45,920
+We have seen the development of a very 
+broad range of choices, including currencies...
+
+811
+01:16:45,920 --> 01:16:50,400
+that are inflationary in nature
+and have a much bigger supply.
+
+812
+01:16:50,400 --> 01:16:59,160
+Even currencies that implement a demurrage, meaning
+a negative interest rate, to encourage consumption...
+
+813
+01:16:59,180 --> 01:17:00,800
+and discourages savings.
+
+814
+01:17:00,800 --> 01:17:11,440
+As a laboratory, these currencies can express a range
+of monetary policies and political perspectives.
+
+815
+01:17:11,440 --> 01:17:20,240
+The underlying invention that secures the entire network
+is almost exactly the same across all these currencies.
+
+816
+01:17:20,240 --> 01:17:29,840
+[DAVID TKACHUK] We have heard in previous
+testimony about the miners, the people who issue..
+
+817
+01:17:29,840 --> 01:17:32,980
+or "mine" the currency.
+
+818
+01:17:32,980 --> 01:17:42,900
+There were some stories in
+the paper in June of this year,
+
+819
+01:17:42,900 --> 01:17:51,120
+[which said] a company had over 51% of the mining market for bitcoin.
+
+820
+01:17:51,120 --> 01:18:02,780
+So it was developing like a quasi-monopoly. Can one
+company have a total monopoly in issuing bitcoins?
+
+821
+01:18:02,780 --> 01:18:14,300
+Does that jeopardize the whole currency itself?
+Do you have controls on that? How does it all work?
+
+822
+01:18:14,300 --> 01:18:21,940
+It is important to emphasize that the purpose of
+mining is to secure and verify all transactions.
+
+823
+01:18:21,940 --> 01:18:29,100
+The reward for mining is currency issuance,
+which we should not confuse for the main purpose.
+
+824
+01:18:29,100 --> 01:18:33,920
+Mining is rewarded with currency
+issuance for securing the network.
+
+825
+01:18:33,920 --> 01:18:41,140
+The reward acts as an incentive to
+ensure that the network remains secure.
+
+826
+01:18:41,140 --> 01:18:50,300
+The company in question is a mining organization.
+It operates a mining pool, similar to a lottery pool,
+
+827
+01:18:50,300 --> 01:18:53,420
+which means they didn't control the hashing directly.
+
+828
+01:18:53,420 --> 01:19:03,060
+They acted as a [facilitator] where many independent
+miners could pool their hashing power in order to...
+
+829
+01:19:03,060 --> 01:19:07,280
+achieve smoother returns on their hardware investment.
+
+830
+01:19:07,280 --> 01:19:13,700
+When playing the lottery by yourself,
+you may win, but on a very irregular schedule.
+
+831
+01:19:13,700 --> 01:19:20,620
+If you play as part of a pool, you will get more
+frequent, but lower, payments in a similar way.
+
+832
+01:19:20,620 --> 01:19:25,100
+Mining is a competitive function, 
+individuals do not fare [as well].
+
+833
+01:19:25,100 --> 01:19:28,860
+Their payments [are irregular].
+Instead, they pull their actions together.
+
+834
+01:19:28,860 --> 01:19:35,020
+Interestingly, when GHash.IO approached -- 
+but did not reach -- 51%, and [controlled above 40%],
+
+835
+01:19:35,020 --> 01:19:44,600
+this led to a market response where individual miners
+recognized the potential risk to the reputation...
+
+836
+01:19:44,600 --> 01:19:45,900
+of the network.
+
+837
+01:19:45,900 --> 01:19:48,740
+Although, I don't believe it was a serious technical risk.
+
+838
+01:19:48,740 --> 01:19:55,600
+They withdrew their mining capacity from that pool
+operator and redirected it to other pool operators.
+
+839
+01:19:55,600 --> 01:20:05,760
+Shortly thereafter, GHash.IO had their cumulative
+mining power drop to slightly below 30%.
+
+840
+01:20:05,760 --> 01:20:11,520
+[This behaviour] provides a very good level 
+of protection against individualized attacks.
+
+841
+01:20:11,520 --> 01:20:18,500
+That is a very big amount, but at the same time,
+it is not big enough to provide a monopoly.
+
+842
+01:20:18,500 --> 01:20:24,920
+On a technical note, a mining pool or individual
+miner achieving the majority of the [hashpower]...
+
+843
+01:20:24,920 --> 01:20:31,760
+can potentially disrupt the transaction processing
+function of the network, for a short term.
+
+844
+01:20:31,760 --> 01:20:39,080
+However, they cannot steal funds from any of the users,
+re-direct funds from any of the [transactions].
+
+845
+01:20:39,080 --> 01:20:42,880
+and they cannot invalidate transactions.
+
+846
+01:20:42,880 --> 01:20:49,860
+They can only delay the processing. It is not
+as big of a risk as most people believe it is.
+
+847
+01:20:49,860 --> 01:20:57,660
+Because of the market mechanisms behind it, we see
+again and again that it is a self-correcting system.
+
+848
+01:20:57,660 --> 01:21:07,520
+[DAVID TKACHUK] Just so I can understand
+whether it is a method of exchange or a currency...
+
+849
+01:21:07,520 --> 01:21:17,560
+If I have yen in Canada, I can't really buy anything.
+I must go to a bank and exchange it for [dollars].
+
+850
+01:21:17,560 --> 01:21:24,980
+No one takes [yen here]. I must go exchange it
+for Canadian dollars so I can buy something.
+
+851
+01:21:24,980 --> 01:21:31,820
+It is the same in each country. And in each country,
+those [Canadian] dollars will have certain value.
+
+852
+01:21:31,820 --> 01:21:38,920
+Even though my Canadian dollar trades up and down
+compared to the U.S. dollar, as does everything else,
+
+853
+01:21:38,920 --> 01:21:42,720
+I still deal in Canadian dollars.
+
+854
+01:21:42,720 --> 01:21:50,240
+It basically stays the same for Canadian products,
+unless it depends heavily on imports.
+
+855
+01:21:50,260 --> 01:21:57,940
+Does the virtual sphere itself have its own stability?
+
+856
+01:21:57,940 --> 01:22:06,380
+In other words, when something is priced in 
+Europe for one bitcoin and I have one bitcoin,
+
+857
+01:22:06,380 --> 01:22:09,440
+can I still buy that for one bitcoin even though...
+
+858
+01:22:09,440 --> 01:22:18,720
+the value of that bitcoin has changed in relation to
+the currency of my country, or the American dollar?
+
+859
+01:22:18,720 --> 01:22:24,440
+[ANDREAS] The exchange rates between 
+bitcoin and individual currencies such as...
+
+860
+01:22:24,440 --> 01:22:27,720
+the euro, Canadian dollars, U.S. dollars, etc.
+
+861
+01:22:27,720 --> 01:22:34,500
+has sufficient liquidity that arbitrage is 
+possible between the various exchanges.
+
+862
+01:22:34,500 --> 01:22:40,780
+This means the purchasing power of one bitcoin
+is the same no matter what the national currency.
+
+863
+01:22:40,780 --> 01:22:43,660
+The fluctuations are minuscule because...
+
+864
+01:22:43,660 --> 01:22:47,460
+with any serious fluctuation, if I could
+buy bitcoin cheaper for Canadian dollars,
+
+865
+01:22:47,460 --> 01:22:50,180
+then sell it more expensively for U.S. dollars,
+
+866
+01:22:50,180 --> 01:22:54,140
+that creates an immediate opportunity
+for arbitrage between the two markets.
+
+867
+01:22:54,140 --> 01:23:00,880
+That's exactly what is happening. In many cases,
+arbitrage in bitcoin is even more effective because...
+
+868
+01:23:00,880 --> 01:23:05,940
+the bitcoin can be transferred between exchanges
+almost instantaneously and across borders.
+
+869
+01:23:05,940 --> 01:23:10,940
+In traditional financial markets, moving 
+money like that takes [quite] a bit longer.
+
+870
+01:23:10,940 --> 01:23:15,820
+The differences between national 
+currencies even out very quickly.
+
+871
+01:23:15,820 --> 01:23:17,340
+There are [few] fluctuations there.
+
+872
+01:23:17,340 --> 01:23:24,200
+My bitcoin purchasing power, while volatile overall,
+is the same across any national currency.
+
+873
+01:23:24,200 --> 01:23:31,400
+[DAVID TKACHUK] Can you see a time- Is that
+where we are heading, where people internationally...
+
+874
+01:23:31,400 --> 01:23:35,880
+price things in bitcoins?
+
+875
+01:23:35,880 --> 01:23:43,480
+Things will be bought and sold in bitcoins, no matter
+what is happening underneath to national currencies?
+
+876
+01:23:43,480 --> 01:23:48,960
+[Maybe] because you save so much
+money in exchange, and all the rest of it.
+
+877
+01:23:48,960 --> 01:23:53,420
+Is that where we are going,
+is that where we are heading?
+
+878
+01:23:53,420 --> 01:23:59,200
+[ANDREAS] In the long-term, I believe bitcoin will be
+stable enough in terms of volatility that it will be...
+
+879
+01:23:59,200 --> 01:24:01,720
+possible to price things directly in bitcoin.
+
+880
+01:24:01,720 --> 01:24:08,080
+At that moment, bitcoin [would] become a universal
+currency in terms of its utility across the internet.
+
+881
+01:24:08,080 --> 01:24:12,300
+At least on the internet, that would make it 
+extremely competitive against national currencies,
+
+882
+01:24:12,300 --> 01:24:16,400
+both in terms of ease-of-use and flexibility.
+
+883
+01:24:16,400 --> 01:24:23,860
+I would expect that to happen. However, I think we are
+several years away from the volatility [going down]...
+
+884
+01:24:23,860 --> 01:24:27,460
+[enough] such that things
+can be priced directly in bitcoin.
+
+885
+01:24:27,460 --> 01:24:32,200
+[DAVID TKACHUK] Okay.
+Could I have time for one more question?
+
+886
+01:24:32,200 --> 01:24:35,980
+Bitcoin can be stored.
+
+887
+01:24:35,980 --> 01:24:41,520
+[For example], Senator Gerstein. I don't know where
+he keeps his bitcoin. Where does he keep this bitcoin?
+
+888
+01:24:41,520 --> 01:24:49,600
+Do you keep it in your own wallet?
+Is it a virtual wallet where you keep your bitcoins?
+
+889
+01:24:49,600 --> 01:24:52,100
+You can do that?
+
+890
+01:24:52,100 --> 01:24:57,540
+[ANDREAS] This may be a tiny bit too technical,
+but I'll provide you with some some insight anyway.
+
+891
+01:24:57,540 --> 01:25:02,220
+The bitcoin are actually not stored by individuals.
+They are stored on the network, on the public ledger.
+
+892
+01:25:02,220 --> 01:25:05,140
+The public ledger knows who has [owns] what bitcoin.
+
+893
+01:25:05,140 --> 01:25:11,960
+What Senator Gerstein has are the keys 
+which allow him to sign for transactions,
+
+894
+01:25:11,960 --> 01:25:14,620
+essentially signatory control over those funds.
+
+895
+01:25:14,620 --> 01:25:16,360
+[DAVID TKACHUK] The keys unlock it?
+[ANDREAS] To unlock them.
+
+896
+01:25:16,360 --> 01:25:19,800
+How you store the keys, depends.
+There are many ways to store the keys.
+
+897
+01:25:19,800 --> 01:25:26,500
+Effectively, they are just numbers. [To protect my keys],
+I actually print those out on pieces of paper,
+
+898
+01:25:26,500 --> 01:25:28,140
+and put them in a physical medium.
+
+899
+01:25:28,140 --> 01:25:35,300
+I also have keys that control smaller amounts of bitcoin,
+spending change if you like, on my mobile phone.
+
+900
+01:25:35,300 --> 01:25:40,800
+I have some on my desktop. I have some 
+on hardware devices that I am trying out.
+
+901
+01:25:40,800 --> 01:25:43,880
+But the vast majority [of the keys] are 
+printed out as physical [paper] copies.
+
+902
+01:25:43,880 --> 01:25:48,300
+It is more secure. Those can't be hacked [remotely].
+You would need to break into my house.
+
+903
+01:25:48,300 --> 01:25:57,280
+[DAVID TKACHUK] Companies, businesses will do
+multiple transactions, thousands or millions per day.
+
+904
+01:25:57,300 --> 01:26:09,020
+Can bitcoin adapt to that? Can you do payroll for a two
+hundred, five hundred, a thousand people with bitcoin?
+
+905
+01:26:09,020 --> 01:26:15,020
+With deductions and all the rest of it? Or is it an issue?
+[ANDREAS] Not only can you do that...
+
+906
+01:26:15,020 --> 01:26:19,940
+[DAVID TKACHUK] People are doing it?
+[ANDREAS] A medium skilled programmer...
+
+907
+01:26:19,940 --> 01:26:28,920
+can do that with a few hundred lines of code,
+like in Python, accessing the [company wallet]...
+
+908
+01:26:28,920 --> 01:26:33,940
+and instructing it to do that, which is fascinating.
+
+909
+01:26:33,940 --> 01:26:41,580
+Not only that, but they could do it for transactions to a
+thousand people living in a hundred different countries,
+
+910
+01:26:41,580 --> 01:26:45,260
+which is almost impossible to do with today's money.
+
+911
+01:26:45,260 --> 01:26:50,200
+So if you try to do payroll- There are many companies
+in the technology space [with that problem].
+
+912
+01:26:50,200 --> 01:26:56,620
+For example, Google pays tens of thousands
+of affiliate companies for advertising revenue.
+
+913
+01:26:56,620 --> 01:27:03,140
+The cost for them to pay these companies
+that ad revenue across the world is enormous.
+
+914
+01:27:03,140 --> 01:27:10,300
+The possibility of automating that and using a single
+currency for electronic payments, it can be done.
+
+915
+01:27:10,300 --> 01:27:15,540
+It can be done extremely fast, efficiently and globally.
+
+916
+01:27:15,540 --> 01:27:19,060
+[DAVID TKACHUK] I like "cheaply," too.
+[ANDREAS] And very cheaply.
+
+917
+01:27:19,060 --> 01:27:25,500
+[IRVING GERSTEIN] Senator Maltais, please.
+
+918
+01:27:25,500 --> 01:27:27,940
+[GHISLAIN MALTAIS] [Translated from French]
+Thank you, Mr. Chairman.
+
+919
+01:27:27,940 --> 01:27:32,620
+First a short comment and then some questions.
+
+920
+01:27:32,620 --> 01:27:40,200
+I agree with my colleague, Senator Campbell,
+when he said that people of a certain age might...
+
+921
+01:27:40,200 --> 01:27:44,900
+have some trouble trying this out.
+
+922
+01:27:44,900 --> 01:27:53,240
+We did have a machine and Chair generously bought
+$100 worth of bitcoin. He never told us about it.
+
+923
+01:27:53,240 --> 01:28:02,760
+I don't know what has become of it, whether there has
+been a loss, but of course that is not your problem.
+
+924
+01:28:02,760 --> 01:28:11,940
+You said that a user of bitcoin might be able
+to predict the monetary supply in the future.
+
+925
+01:28:11,940 --> 01:28:21,760
+For example, a user of bitcoin such as the Chair [could]
+predict what the monetary supply will be in 30 years.
+
+926
+01:28:21,760 --> 01:28:33,080
+It seems to me that the Minister of Finance probably
+should have made use of this for the next five years.
+
+927
+01:28:33,080 --> 01:28:40,600
+It certainly seems to me that if you are able to
+tell what the monetary supply will be in 30 years,
+
+928
+01:28:40,600 --> 01:28:49,200
+then this is a very useful knowledge.
+
+929
+01:28:49,200 --> 01:28:57,520
+[ANDREAS] Because Bitcoin is designed to simulate
+the extraction of precious metals in its progression,
+
+930
+01:28:57,520 --> 01:29:01,880
+it is entirely possible to predict, with very high accuracy,
+
+931
+01:29:01,880 --> 01:29:06,760
+exactly how much currency will be available
+on the market at a specific period of time.
+
+932
+01:29:06,760 --> 01:29:12,440
+That doesn't necessarily mean that supply will
+meet the demand, or that it is the correct supply.
+
+933
+01:29:12,440 --> 01:29:15,240
+We just know what that supply will be.
+
+934
+01:29:15,240 --> 01:29:23,780
+Today, we can predict to a very high degree of accuracy
+what the supply of gold will be over the next year.
+
+935
+01:29:23,780 --> 01:29:33,220
+It has been extracted at a very predictable rate.
+It works similarly with bitcoin.
+
+936
+01:29:33,220 --> 01:29:40,940
+[GHISLAIN MALTAIS] On that particular point,
+I think any insurance company actuary,
+
+937
+01:29:40,940 --> 01:29:50,000
+when they establish an annuity over a period of 30 years,
+are able to make a good prediction for the figures...
+
+938
+01:29:50,000 --> 01:29:53,160
+that will probably turn out to be quite realistic.
+
+939
+01:29:53,160 --> 01:30:00,160
+So they don't need Bitcoin in order to establish
+what the money supply will be in 30 years.
+
+940
+01:30:00,160 --> 01:30:04,140
+They are able to make an extrapolation.
+It is a very simple mathematical formula.
+
+941
+01:30:04,140 --> 01:30:07,300
+This can be done by an actuary.
+
+942
+01:30:07,300 --> 01:30:11,760
+But there is a question that I find quite puzzling.
+
+943
+01:30:11,760 --> 01:30:23,440
+Do you think that the Bitcoin system would 
+be a duplicate of the present banking system?
+
+944
+01:30:23,440 --> 01:30:29,260
+The banks are able to adapt
+to any type of new technology.
+
+945
+01:30:29,260 --> 01:30:37,440
+The World Bank, when it comes to capital, are
+probably investing more in technological research...
+
+946
+01:30:37,440 --> 01:30:45,260
+on digital currency than Bitcoin could ever be.
+
+947
+01:30:45,260 --> 01:30:51,540
+[ANDREAS] Bitcoin, or rather the invention 
+behind Bitcoin, the blockchain technology,
+
+948
+01:30:51,540 --> 01:30:58,920
+is an invention that will have a substantial 
+influence over the future of banking.
+
+949
+01:30:58,920 --> 01:31:06,540
+I have had several discussions with banks that
+are very interested in using similar systems...
+
+950
+01:31:06,540 --> 01:31:10,960
+in order to create more efficient
+networks within the banking system.
+
+951
+01:31:10,960 --> 01:31:24,500
+For example, clearing operations such as those for
+world-wide fund transfer, stock and equity purchases,
+
+952
+01:31:24,500 --> 01:31:26,720
+are handled by intermediaries.
+
+953
+01:31:26,720 --> 01:31:30,200
+Bitcoin would allow banks to handle those...
+
+954
+01:31:30,200 --> 01:31:36,220
+in a decentralized network by simulating the
+same technology as Bitcoin on their own.
+
+955
+01:31:36,220 --> 01:31:42,300
+Furthermore, banks in the developing world are
+very interested in using bitcoin to extend services...
+
+956
+01:31:42,300 --> 01:31:45,240
+to areas where they can't deploy infrastructure.
+
+957
+01:31:45,240 --> 01:31:51,560
+Very similarly, at first telecommunications companies
+were somewhat threatened by the internet,
+
+958
+01:31:51,560 --> 01:31:55,120
+but now run their networks on top of the internet.
+
+959
+01:31:55,120 --> 01:32:00,220
+Banks will eventually find ways to utilize this technology.
+
+960
+01:32:00,220 --> 01:32:06,780
+I would not be surprised if big parts of financial
+services systems eventually run on top of technology...
+
+961
+01:32:06,780 --> 01:32:11,620
+very similar to Bitcoin, perhaps Bitcoin itself.
+
+962
+01:32:11,620 --> 01:32:16,100
+[GHISLAIN MALTAIS] This leads me to ask you, then...
+
+963
+01:32:16,100 --> 01:32:22,720
+Do you not have the impression that you were
+swallowed up before you even came into existence?
+
+964
+01:32:22,720 --> 01:32:30,100
+The banks will never ever let you
+have so much operating [room].
+
+965
+01:32:30,100 --> 01:32:34,640
+I'm not just talking about Canadian or American
+banks, I'm talking about banks in all the world.
+
+966
+01:32:34,640 --> 01:32:41,980
+I don't think that the banks will
+let this go by without reacting.
+
+967
+01:32:41,980 --> 01:32:44,380
+I realize that this is quite successful.
+
+968
+01:32:44,380 --> 01:32:59,340
+Young people are very enthused about it, but I don't
+think banks will let themselves be dispossessed.
+
+969
+01:32:59,340 --> 01:33:06,980
+Bitcoin is not a solid organization;
+for the time being, it is simply a virtual one.
+
+970
+01:33:06,980 --> 01:33:09,080
+[ANDREAS] I remember the exact same discussion...
+
+971
+01:33:09,080 --> 01:33:15,400
+when the idea [was put forth that] the international
+telecommunications union would be thwarted...
+
+972
+01:33:15,400 --> 01:33:19,460
+or even somehow threatened by this 
+nascent technology called the internet.
+
+973
+01:33:19,460 --> 01:33:27,860
+That idea [seemed] ridiculous on its face; the idea
+that states would allow the internet to give people...
+
+974
+01:33:27,860 --> 01:33:30,960
+freedom of expression was preposterous.
+
+975
+01:33:30,960 --> 01:33:38,640
+The idea that the internet would be allowed 
+to subvert the will of despots around the world,
+
+976
+01:33:38,640 --> 01:33:44,480
+and would not be instantly shut down whenever
+they felt it was threatening their authority,
+
+977
+01:33:44,480 --> 01:33:45,580
+was preposterous.
+
+978
+01:33:45,580 --> 01:33:48,440
+And yet, all of these things have happened.
+
+979
+01:33:48,440 --> 01:33:59,060
+I believe that Bitcoin empowers individuals, especially
+individuals who do not even have access to banking.
+
+980
+01:33:59,060 --> 01:34:05,980
+It will create a thriving economy of its own,
+an economy that will not threaten banks,
+
+981
+01:34:05,980 --> 01:34:08,700
+but will open new opportunities for banks.
+
+982
+01:34:08,700 --> 01:34:12,200
+In the end, just like the telecommunication companies,
+
+983
+01:34:12,220 --> 01:34:19,700
+many of their old models and old profit 
+sources will be fundamentally disrupted.
+
+984
+01:34:19,700 --> 01:34:26,220
+Today, AT&T's long-distance network has been
+decimated. Skype has dominated that space.
+
+985
+01:34:26,220 --> 01:34:31,860
+Yet AT&T did not give up. They became one of
+the world's largest internet service providers.
+
+986
+01:34:31,860 --> 01:34:38,200
+Eventually, I believe that bitcoin [and bitcoin-like]
+currencies will decimate certain industries,
+
+987
+01:34:38,200 --> 01:34:46,420
+especially high-profit, low-service industries such as
+remittances, which are exploitative in their nature.
+
+988
+01:34:46,420 --> 01:34:51,540
+They will open up new industries,
+new products, and new services.
+
+989
+01:34:51,540 --> 01:34:59,140
+Economic activity enabled by bringing together billions
+of people on a fully connected, global financial system.
+
+990
+01:34:59,140 --> 01:35:08,160
+[The benefits] will be so much bigger than the potential
+risk this may pose to the profits of incumbents.
+
+991
+01:35:08,160 --> 01:35:12,380
+[GHISLAIN MALTAIS] Thank you.
+[IRVING GERSTEIN] This concludes round one.
+
+992
+01:35:12,380 --> 01:35:20,140
+We will enter into round two. I have Senator Black,
+Senator Massicotte, and Senator Greene on my list.
+
+993
+01:35:20,140 --> 01:35:22,860
+Before turning it over to Senator Black...
+
+994
+01:35:22,860 --> 01:35:30,380
+In your comments -- which have been fascinating --
+you made reference to one of the great motivators...
+
+995
+01:35:30,380 --> 01:35:35,200
+for you personally [becoming] involved in this,
+is the technology that will bring [financial services]
+
+996
+01:35:35,200 --> 01:35:41,520
+to people who don't have it today, using the 
+[line] "empowering billions around the world."
+
+997
+01:35:41,520 --> 01:35:52,060
+If I am correct, I believe Mr. Gates, in his charitable giving
+in Africa, makes use of a digital currency called M-Pesa.
+
+998
+01:35:52,060 --> 01:36:05,360
+Could you just expand a little on what impact bitcoin,
+M-Pesa, digital currency in general, will have on Africa?
+
+999
+01:36:05,360 --> 01:36:10,940
+[ANDREAS] Absolutely. M-Pesa is a fascinating study
+for those of us who are interested in digital currencies.
+
+1000
+01:36:10,940 --> 01:36:17,520
+It has shown what is possible when low-friction
+digital money is introduced into an environment...
+
+1001
+01:36:17,520 --> 01:36:19,840
+without the need for massive infrastructure.
+
+1002
+01:36:19,840 --> 01:36:23,520
+An environment that doesn't have
+well-developed banking services.
+
+1003
+01:36:23,520 --> 01:36:25,500
+M-Pesa was started as an experiment...
+
+1004
+01:36:25,500 --> 01:36:32,100
+that allowed individuals to transfer cellphone
+minutes amongst themselves and their families,
+
+1005
+01:36:32,100 --> 01:36:35,500
+through a telecom provider in Kenya.
+
+1006
+01:36:35,500 --> 01:36:40,600
+I Imagine the moment this became a 
+currency was a very mundane moment.
+
+1007
+01:36:40,600 --> 01:36:47,860
+Maybe a customer arrived at a store and realized they
+didn't have sufficient money to buy a dozen eggs.
+
+1008
+01:36:47,860 --> 01:36:51,720
+Then asking, "Well, can I give you
+a couple of cellphone minutes instead?"
+
+1009
+01:36:51,720 --> 01:36:55,400
+With that simple concept, a currency is born.
+
+1010
+01:36:55,400 --> 01:37:01,820
+What's fascinating about M-Pesa is, we roll forward
+just twelve years and M-Pesa is now responsible for...
+
+1011
+01:37:01,820 --> 01:37:06,800
+40% of the GDP of Kenya, a staggering amount.
+
+1012
+01:37:06,800 --> 01:37:18,380
+It represents the adoption of what was [previously] a
+largely underground, cash-based, illiquid economy...
+
+1013
+01:37:18,380 --> 01:37:25,560
+that was very slow to operate, and turbocharging that
+by providing enormous liquidity and fluidity...
+
+1014
+01:37:25,560 --> 01:37:28,700
+into the economic system.
+
+1015
+01:37:28,700 --> 01:37:35,280
+At the moment, Bitcoin is not ready to be adopted
+easily on the most deployed platform in the world,
+
+1016
+01:37:35,280 --> 01:37:40,320
+which is a feature phone,
+the Nokia 1000, of which there exist billions.
+
+1017
+01:37:40,320 --> 01:37:48,200
+It requires a bit more infrastructure than that,
+but gradually we see two trends converging:
+
+1018
+01:37:48,200 --> 01:37:51,700
+First, bitcoin is being applied on
+simpler and simpler technology.
+
+1019
+01:37:51,700 --> 01:37:55,540
+We already see its use through SMS text messaging.
+
+1020
+01:37:55,540 --> 01:38:02,240
+Second, the collapse in the cost of producing smart
+phones, with the Android approaching about $25.
+
+1021
+01:38:02,240 --> 01:38:07,020
+There are already applications in the Bitcoin space
+that would allow a single Android phone to support...
+
+1022
+01:38:07,020 --> 01:38:12,460
+thousands of simple SMS customers
+by giving them bitcoin wallets.
+
+1023
+01:38:12,460 --> 01:38:20,080
+That would allow a young kid in Lagos, Nigeria to
+buy an Android smartphone and become a bank...
+
+1024
+01:38:20,080 --> 01:38:26,280
+serving thousands of customers, giving them access
+to the equivalent of a Western Union terminal,
+
+1025
+01:38:26,280 --> 01:38:32,700
+a credit facility for buying loans, as well as 
+a trading facility for all of the world's markets.
+
+1026
+01:38:32,700 --> 01:38:36,840
+This could be run off a simple Android 
+smartphone and SMS feature phones.
+
+1027
+01:38:36,840 --> 01:38:42,560
+M-Pesa showed us that it is possible;
+Bitcoin makes that phenomenon global.
+
+1028
+01:38:42,560 --> 01:38:48,820
+in talking about the unbanked, the World Bank estimates
+that 2.5 billion people are completely unbanked,
+
+1029
+01:38:48,820 --> 01:38:51,340
+living in cash-based societies.
+
+1030
+01:38:51,340 --> 01:38:55,340
+However, that vastly underestimates the problem.
+
+1031
+01:38:55,340 --> 01:38:59,480
+If you [compare with] the types of banking 
+facilities that we have in the western world,
+
+1032
+01:38:59,480 --> 01:39:05,200
+the ability I have to access a brokerage account
+[and pick from] any of the international markets,
+
+1033
+01:39:05,200 --> 01:39:14,060
+to convert any currency I want without controls,
+transmit money to any country in the world I want,
+
+1034
+01:39:14,060 --> 01:39:16,180
+and to use it as a simple consumer...
+
+1035
+01:39:16,180 --> 01:39:20,520
+[That experience] is very far removed
+from what most people have.
+
+1036
+01:39:20,520 --> 01:39:26,640
+If you look at the unbanked as those who have a single
+currency, closed account that doesn't have access...
+
+1037
+01:39:26,640 --> 01:39:29,980
+to international markets, credit, or trading capabilities,
+
+1038
+01:39:29,980 --> 01:39:34,880
+more than six billion people in the
+world live with that kind of banking.
+
+1039
+01:39:34,880 --> 01:39:42,280
+Two and a half billion are completely unbanked.
+Bitcoin can change that environment dramatically,
+
+1040
+01:39:42,280 --> 01:39:44,980
+in less than a decade.
+
+1041
+01:39:44,980 --> 01:39:50,240
+[IRVING GERSTEIN] Thank you.
+Senator Black, to be followed by Senator Massicotte.
+
+1042
+01:39:50,240 --> 01:39:54,340
+[DOUGLAS BLACK] Thank you very much, 
+Mr. Chairman. I would just like to thank you,
+
+1043
+01:39:54,340 --> 01:39:56,720
+again, for this contribution. It is extremely helpful.
+
+1044
+01:39:56,720 --> 01:40:00,400
+I want to move to a couple of final points 
+that I want to have clear in my mind.
+
+1045
+01:40:00,400 --> 01:40:07,380
+I want to take, from your comments,
+arising from what Senator Ringuette asked...
+
+1046
+01:40:07,380 --> 01:40:12,860
+Through this hearing, we have been exploring
+the opportunity that may exist for Canada,
+
+1047
+01:40:12,860 --> 01:40:15,000
+for innovation if we get this right.
+
+1048
+01:40:15,000 --> 01:40:21,120
+Can you succinctly tell us what
+you think that opportunity is?
+
+1049
+01:40:21,120 --> 01:40:24,520
+[ANDREAS] Well, I think there are two aspects.
+
+1050
+01:40:24,520 --> 01:40:32,900
+One is the pure research and technology innovation
+capabilities that might exist in the Bitcoin sphere.
+
+1051
+01:40:32,900 --> 01:40:37,860
+I like to emphasize is that bitcoin
+is not just money for the internet.
+
+1052
+01:40:37,860 --> 01:40:41,620
+To look at it simply as money for
+the internet, is to miss the point.
+
+1053
+01:40:41,620 --> 01:40:46,160
+Bitcoin is the internet of money.
+Currency is just the first application.
+
+1054
+01:40:46,160 --> 01:40:52,460
+Currency is an app running on a decentralized
+trust network based on blockchain technology,
+
+1055
+01:40:52,460 --> 01:40:55,260
+which means many other apps will exist.
+
+1056
+01:40:55,260 --> 01:41:02,680
+The bitcoin currency is almost the same as email
+was in the '90s. It enabled the growth of the internet.
+
+1057
+01:41:02,680 --> 01:41:09,140
+It was the killer application that made it viable
+and worthwhile for people to get involved,
+
+1058
+01:41:09,140 --> 01:41:15,240
+but it couldn't possibly open our eyes to the 
+endless possibilities which came afterwards.
+
+1059
+01:41:15,240 --> 01:41:22,400
+The web, we couldn't envision that in the 
+early '90s, or even Facebook and Twitter.
+
+1060
+01:41:22,400 --> 01:41:25,420
+Bitcoin the currency is just the tip of the iceberg.
+
+1061
+01:41:25,420 --> 01:41:32,540
+It is the proto-technology that will bring 
+this decentralized network to consumers.
+
+1062
+01:41:32,540 --> 01:41:36,560
+But there will be other apps, and it is 
+already evolving at a tremendous rate.
+
+1063
+01:41:36,560 --> 01:41:40,760
+From a pure research and innovation 
+perspective, I think it is incredible.
+
+1064
+01:41:40,760 --> 01:41:45,400
+The other is to think about the possibilities 
+of extending banking services [to new areas].
+
+1065
+01:41:45,400 --> 01:41:53,160
+Even though Canada has a highly banked population,
+there are still pockets within this country.
+
+1066
+01:41:53,160 --> 01:42:00,220
+I know that in the U.S., close to 18% of the population
+have no or very limited banking capabilities.
+
+1067
+01:42:00,220 --> 01:42:04,000
+That is probably true of most developed nations.
+
+1068
+01:42:04,000 --> 01:42:09,040
+There are pockets within this country where
+people have very little access to banks.
+
+1069
+01:42:09,040 --> 01:42:15,480
+I think the combination of doing primary research
+and innovation in these new technologies,
+
+1070
+01:42:15,480 --> 01:42:23,440
+and opening banking to reach different corners of
+this country, disadvantaged parts of the population....
+
+1071
+01:42:23,440 --> 01:42:30,100
+That is a very potent combination, especially if we take
+advantage of the international aspects of this currency.
+
+1072
+01:42:30,100 --> 01:42:33,860
+[DOUGLAS BLACK] Thank you very much. 
+One last question, if I may, Mr. Chairman.
+
+1073
+01:42:33,860 --> 01:42:38,740
+How did New York State get it wrong?
+
+1074
+01:42:38,740 --> 01:42:44,740
+[ANDREAS] I think they got it wrong in many ways.
+First of all, by rushing to regulate very soon.
+
+1075
+01:42:44,740 --> 01:42:54,780
+More importantly, by regulating Bitcoin in exactly the
+same way that the banking system currently operates,
+
+1076
+01:42:54,780 --> 01:43:02,020
+failing to see the distinctions between 
+Bitcoin and the current system.
+
+1077
+01:43:02,020 --> 01:43:09,340
+The only analogy I can think of... if in proto-internet
+stage, the Federal Communications Commmission...
+
+1078
+01:43:09,340 --> 01:43:15,340
+in the United States had decided the internet was simply
+a sophisticated form of citizens band (CB) radio...
+
+1079
+01:43:15,340 --> 01:43:18,780
+and required a license for every website operator.
+
+1080
+01:43:18,780 --> 01:43:26,620
+Such an outcome would have almost certainly
+destroyed the internet industry in the United States.
+
+1081
+01:43:26,620 --> 01:43:30,080
+However, because of the enormous need for such a tool,
+
+1082
+01:43:30,080 --> 01:43:32,660
+it would not have affected the
+internet industry everywhere else.
+
+1083
+01:43:32,660 --> 01:43:35,540
+It would have simply pushed that innovation elsewhere.
+
+1084
+01:43:35,540 --> 01:43:42,720
+I think treating bitcoin as a proto-bank account
+with some fancy features is missing the point;
+
+1085
+01:43:42,720 --> 01:43:50,400
+to regulate it as such would completely stifle it,
+put it into the playing field of incumbents.
+
+1086
+01:43:50,400 --> 01:43:53,380
+It ties up [Bitcoin companies]
+in the same kinds of regulations.
+
+1087
+01:43:53,380 --> 01:44:02,220
+It would force them to behave more like a bank,
+when its unique characteristic is, it isn't a bank.
+
+1088
+01:44:02,220 --> 01:44:04,220
+[DOUGLAS BLACK] Thank you very much. 
+Thank you, Mr. Chairman.
+
+1089
+01:44:04,220 --> 01:44:08,160
+[IRVING GERSTEIN] Thank you. Senator Massicotte,
+to be followed by Senator Greene.
+
+1090
+01:44:08,160 --> 01:44:10,500
+[PAUL MASSICOTTE] Thank you again.
+
+1091
+01:44:10,500 --> 01:44:16,960
+One technical question, then a more important question.
+On a technical side, many countries and provinces...
+
+1092
+01:44:16,960 --> 01:44:19,900
+have sales tax and a couple have income tax.
+
+1093
+01:44:19,900 --> 01:44:24,700
+For the merchants using your currency,
+is there software [for that] already in place?
+
+1094
+01:44:24,700 --> 01:44:30,240
+I know from a dollar sense, cash registers 
+have become pretty sophisticated so that it is...
+
+1095
+01:44:30,240 --> 01:44:33,840
+easy for them do the accounting to collect the sales tax.
+
+1096
+01:44:33,840 --> 01:44:38,120
+[PAUL MASSICOTTE] Does that already exist? 
+[ANDREAS] Absolutely. In fact, it is easier with bitcoin.
+
+1097
+01:44:38,120 --> 01:44:41,920
+The public ledger provides a complete 
+record of all of the transactions,
+
+1098
+01:44:41,920 --> 01:44:46,060
+as if all of my bank statements from
+the first moment I used bitcoin are online.
+
+1099
+01:44:46,060 --> 01:44:51,420
+I rendered sales tax to the state of California for
+the business I ran, selling products via bitcoin.
+
+1100
+01:44:51,420 --> 01:44:56,060
+I also pay my income taxes in U.S. dollars, 
+based on my income which is entirely in bitcoin.
+
+1101
+01:44:56,060 --> 01:44:59,380
+I do all of my accounting using
+traditional accounting software.
+
+1102
+01:44:59,380 --> 01:45:03,320
+[PAUL MASSICOTTE] And the software is in place
+to do the transfers and calculations immediately?
+
+1103
+01:45:03,320 --> 01:45:08,420
+[ANDREAS] Yes, although it is rather cumbersome
+at the moment. The modularities are quite different.
+
+1104
+01:45:08,420 --> 01:45:15,280
+For example, in traditional banking I have 
+a handful of four or five different accounts.
+
+1105
+01:45:15,280 --> 01:45:18,280
+In bitcoin, I have well over two thousand "accounts."
+
+1106
+01:45:18,280 --> 01:45:22,640
+With bitcoin it makes sense to create
+a new account for every transaction.
+
+1107
+01:45:22,640 --> 01:45:28,680
+Though they are not really an "account." Therefore,
+if you try to put it into the same model, it is difficult.
+
+1108
+01:45:28,680 --> 01:45:31,580
+However, the software is being developed.
+
+1109
+01:45:31,580 --> 01:45:35,020
+[PAUL MASSICOTTE] Let me talk to you about-
+You basically answered the question, but...
+
+1110
+01:45:35,020 --> 01:45:41,420
+The way I see it, this is a highly secure
+form of anonymous transfer for property.
+
+1111
+01:45:41,420 --> 01:45:46,540
+You can call it currency, but you are using it now
+for a currency from a sense of bartering.
+
+1112
+01:45:46,540 --> 01:45:52,900
+I presume, it seems to me that this could be very useful
+in many things, including exchange of [other] property.
+
+1113
+01:45:52,900 --> 01:45:58,920
+Today, we have a bunch of lawyers or notaries who
+acknowledge the safe transfer of real-estate property.
+
+1114
+01:45:58,920 --> 01:46:04,060
+But it seems to me this application could 
+be used very often in many different facets.
+
+1115
+01:46:04,060 --> 01:46:09,620
+So let's [look] five years [ahead]. How do you see this
+technology being used to the benefit of our society?
+
+1116
+01:46:09,620 --> 01:46:11,640
+Give me some examples.
+
+1117
+01:46:11,640 --> 01:46:18,180
+[ANDREAS] There are some very interesting 
+applications where the decentralized ledger...
+
+1118
+01:46:18,180 --> 01:46:21,800
+is used as a public record, of sorts,
+for all kinds of [information].
+
+1119
+01:46:21,800 --> 01:46:26,780
+From registering bicycles,
+to automobiles, to company shares.
+
+1120
+01:46:26,780 --> 01:46:32,580
+Two days ago, I was at a Bitcoin conference where
+a couple was married, and had their marriage...
+
+1121
+01:46:32,580 --> 01:46:35,180
+registered on the blockchain for the first time.
+
+1122
+01:46:35,180 --> 01:46:42,220
+They used the blockchain as a register of that contract.
+You could use it to register titles and deeds for property,
+
+1123
+01:46:42,220 --> 01:46:49,480
+and transfer those titles and deeds for any form
+of property, including vehicles and real-estate.
+
+1124
+01:46:49,480 --> 01:46:53,960
+With a simple electronic transaction,
+you could transfer the deed to a car.
+
+1125
+01:46:53,960 --> 01:47:02,100
+Even better and more importantly, the car could look up
+its own title and render itself usable to the new owner.
+
+1126
+01:47:02,100 --> 01:47:05,720
+Automatically. This concept is called "smart property,"
+
+1127
+01:47:05,720 --> 01:47:10,220
+where the property recognizes its ownership
+through reference to the blockchain.
+
+1128
+01:47:10,220 --> 01:47:15,000
+All forms of decentralized registration
+can be implemented with the blockchain.
+
+1129
+01:47:15,000 --> 01:47:22,760
+Furthermore, you can issue share certificates or
+any other form of token, which can then be traded.
+
+1130
+01:47:22,760 --> 01:47:29,660
+Sharing my bandwidth and receiving a token in return,
+which I can spend to use someone else's bandwidth,
+
+1131
+01:47:29,660 --> 01:47:37,700
+creating the possibilities for [more] sharing economy
+[services], similar to how we have AirBnb or Uber today.
+
+1132
+01:47:37,700 --> 01:47:41,680
+We can do many of those things using digital tokens.
+
+1133
+01:47:41,680 --> 01:47:46,100
+There is a company here in Toronto that 
+developed an application that allows you --
+
+1134
+01:47:46,100 --> 01:47:52,360
+upon submitting a transaction on the blockchain
+-- to unlock a door for an AirBnb apartment.
+
+1135
+01:47:52,360 --> 01:47:56,720
+Your smartphone would make the payment 
+and then unlock the door to the apartment,
+
+1136
+01:47:56,720 --> 01:47:58,720
+and have access to that property.
+
+1137
+01:47:58,720 --> 01:48:02,460
+[PAUL MASSICOTTE] It is amazing.
+A minor or secondary question...
+
+1138
+01:48:02,460 --> 01:48:06,160
+I don't understand why they used the 
+blockchain for a couple getting married.
+
+1139
+01:48:06,160 --> 01:48:12,580
+Is he scared to get mixed up with the wife? 
+[Laughter] What is the issue?
+
+1140
+01:48:12,580 --> 01:48:20,020
+[ANDREAS] So, it was largely symbolic and 
+a proof-of-concept. This couple was already married...
+
+1141
+01:48:20,020 --> 01:48:22,180
+under traditional state laws.
+
+1142
+01:48:22,180 --> 01:48:35,360
+However, they wanted a record of their marriage that
+was publicly accessible, unforgeable, unchangeable.
+
+1143
+01:48:35,360 --> 01:48:45,340
+It provides a permanent record of what has happened,
+a history that is unalterable by anyone within an hour.
+
+1144
+01:48:45,340 --> 01:48:48,940
+and will be preserved through time.
+
+1145
+01:48:48,940 --> 01:48:53,340
+[PAUL MASSICOTTE] So the bedroom door
+does not open if it is the wrong person? [Laughter]
+
+1146
+01:48:53,340 --> 01:48:56,520
+Automatic accessing. [Laughter]
+
+1147
+01:48:56,520 --> 01:48:59,920
+[IRVING GERSTEIN] Our concluding 
+question from Senator Greene, please.
+
+1148
+01:48:59,920 --> 01:49:01,480
+[STEPHEN GREENE] Thank you very much.
+
+1149
+01:49:01,480 --> 01:49:09,020
+I take your point about the dangers of 
+inappropriate or premature regulation.
+
+1150
+01:49:09,020 --> 01:49:15,400
+We don't know where this is heading,
+and the pace of change is [fast].
+
+1151
+01:49:15,400 --> 01:49:22,080
+I don't think we want to influence the
+pace of change or what it might lead to.
+
+1152
+01:49:22,080 --> 01:49:26,820
+We must write a report which
+will have recommendations.
+
+1153
+01:49:26,820 --> 01:49:33,260
+My question is, what would your reaction be
+to a report with just one recommendation,
+
+1154
+01:49:33,260 --> 01:49:36,640
+and that recommendation would be,
+'there should be no regulations [at this time],'
+
+1155
+01:49:36,640 --> 01:49:44,540
+but we will re-visit this in five years?
+
+1156
+01:49:44,540 --> 01:49:51,160
+[ANDREAS] I think that would be a very good idea.
+I think there is some room for clarification.
+
+1157
+01:49:51,160 --> 01:49:54,560
+For example, the tax status for individuals.
+
+1158
+01:49:54,560 --> 01:50:00,460
+Or at least clarifying the right of an individual to make
+a choice in the currency they use as a consumer,
+
+1159
+01:50:00,460 --> 01:50:05,360
+and to affirm the legality of using digital 
+currencies in all forms of commerce...
+
+1160
+01:50:05,360 --> 01:50:08,880
+as entirely equivalent with any other national currency.
+
+1161
+01:50:08,880 --> 01:50:13,180
+Recognizing it is a private
+form of barter and transaction.
+
+1162
+01:50:13,180 --> 01:50:20,800
+Recognizing the corresponding principles, 
+which I consider neutral principles, but they are also...
+
+1163
+01:50:20,800 --> 01:50:27,520
+principles of the Enlightenment: freedom of association,
+freedom of expression and conscience.
+
+1164
+01:50:27,520 --> 01:50:35,280
+I think removing ambiguity in that particular arena,
+for personal use, would be enormously useful.
+
+1165
+01:50:35,280 --> 01:50:39,360
+[STEPHEN GREENE] I agree, thank you very much.
+
+1166
+01:50:39,360 --> 01:50:46,380
+[IRVING GERSTEIN] Mr. Antonopoulos,
+your reputation preceded your arrival,
+
+1167
+01:50:46,380 --> 01:50:54,600
+You may recall that in my introductory remarks,
+I did not introduce you as 'a' Bitcoin guru.
+
+1168
+01:50:54,600 --> 01:50:57,320
+but as the Bitcoin guru.
+
+1169
+01:50:57,320 --> 01:51:00,020
+[ANDREAS] You humble me, Senator.
+[IRVING GERSTEIN] I think I could speak...
+
+1170
+01:51:00,020 --> 01:51:06,860
+on behalf of all members of the committee in saying
+that you have more than lived up to that reputation.
+
+1171
+01:51:06,860 --> 01:51:15,080
+And we greatly appreciate- [Applause] 
+Thank you very much. This meeting is concluded.
+
+1172
+01:51:15,080 --> 01:51:45,540
+[Music]
+
