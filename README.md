@@ -2,6 +2,8 @@
 
 Chinese Translate for Andreas M Antonopoulos talk bitcoin videos
 
+![logo](asserts/AA.jpg)
+
 ## 愿景
 
 自2009/01/03，比特币网络已然运转十年，自诞生以来，有几个经典问题引发无穷尽的争论；
