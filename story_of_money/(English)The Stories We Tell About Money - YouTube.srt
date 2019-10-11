@@ -1,0 +1,1869 @@
+﻿1
+00:00:08,160 --> 00:00:13,140
+All of this started on [October 31st, 2008 with the]
+publication of a paper, [and on January 3rd, 2009]
+
+2
+00:00:13,140 --> 00:00:22,140
+with the publication of a piece of software by an
+anonymous contributor who used the name...
+
+3
+00:00:22,140 --> 00:00:24,060
+'Satoshi Nakamoto.'
+
+4
+00:00:24,060 --> 00:00:33,800
+They proposed a system of electronic cash, but with
+unique properties that had never been seen before.
+
+5
+00:00:33,800 --> 00:00:38,260
+A system that is decentralized,
+meaning no one [entity] is in control.
+
+6
+00:00:38,260 --> 00:00:48,220
+A system [with] certain mathematical properties
+which enable a phenomenon called digital scarcity,
+
+7
+00:00:48,220 --> 00:00:53,640
+meaning you can have something that
+is simultaneously digital and yet rare.
+
+8
+00:00:53,640 --> 00:00:57,760
+It cannot be copied, which seems like an antithesis.
+
+9
+00:00:57,760 --> 00:01:07,300
+The quintessential characteristic of digital 
+information is that it can be freely copied;
+
+10
+00:01:07,300 --> 00:01:11,700
+you can create infinite copies of it at almost zero cost.
+
+11
+00:01:11,700 --> 00:01:18,660
+But you can't create infinite
+copies of bitcoin at zero cost.
+
+12
+00:01:18,660 --> 00:01:32,800
+This idea of having a digital thing that is rare and cannot
+be copied, was a unique and revolutionary invention,
+
+13
+00:01:32,800 --> 00:01:34,620
+[which has] not happened before [in computer science].
+
+14
+00:01:34,620 --> 00:01:45,840
+A decentralized peer-to-peer network that [relies on]
+participants in the currency to validate [transactions].
+
+15
+00:01:45,840 --> 00:01:55,640
+If I make a transaction, everyone who is 
+running a Bitcoin [node] will validate it,
+
+16
+00:01:55,640 --> 00:02:00,700
+checking every aspect of my transaction.
+
+17
+00:02:00,700 --> 00:02:10,520
+[It is] an open system for securing and 
+sequencing transactions that ensures...
+
+18
+00:02:10,520 --> 00:02:19,080
+no one can spend the same [outputs] twice, solving a
+fundamental problem in distributed systems known...
+
+19
+00:02:19,080 --> 00:02:25,060
+as the Byzantine Generals' Problem.
+
+20
+00:02:25,060 --> 00:02:31,640
+The basic idea is: how do you know
+if I spent digital money [only once]?
+
+21
+00:02:31,640 --> 00:02:38,740
+If I give it to one merchant, what stops me from taking
+the same digital [money], walking across the street,
+
+22
+00:02:38,740 --> 00:02:41,700
+and giving it to another merchant?
+
+23
+00:02:41,700 --> 00:02:51,740
+Until the invention of Bitcoin, there was only one suitable
+answer: a central authority records all the transactions.
+
+24
+00:02:51,740 --> 00:02:57,600
+When that central authority sees the first transaction,
+it will not allow a second transaction [spending it again].
+
+25
+00:02:57,600 --> 00:03:03,740
+That works, it is very efficient. Visa does it.
+
+26
+00:03:03,740 --> 00:03:08,640
+If you buy something for $10 in one shop 
+with a Visa [card], then go across the street...
+
+27
+00:03:08,640 --> 00:03:16,180
+and buy something else for $10, they will make sure
+you have at least $20 in your account to pay for it.
+
+28
+00:03:16,180 --> 00:03:21,960
+They won't let you spend the same money twice,
+they won't let you spend more than you have,
+
+29
+00:03:21,960 --> 00:03:26,180
+or more than your credit allows. That's great.
+
+30
+00:03:26,180 --> 00:03:31,460
+Those systems work. They are efficient and can do
+hundreds of thousands of transactions per second.
+
+31
+00:03:31,460 --> 00:03:40,540
+But there is one problem: you are trusting that
+organization or company [with your money].
+
+32
+00:03:40,540 --> 00:03:45,860
+You are not just putting trust in that company
+to do it right, because they do a pretty good job.
+
+33
+00:03:45,860 --> 00:03:53,380
+With that trust comes enormous power:
+the power to refuse to take your transaction;
+
+34
+00:03:53,380 --> 00:03:58,120
+the power to refuse to give you an account;
+the power to refuse your participation in...
+
+35
+00:03:58,120 --> 00:04:11,140
+this economic activity; the power to demand that you
+identify yourself, show papers, prove credit-worthiness.
+
+36
+00:04:11,140 --> 00:04:15,920
+That is something which is different from 
+all systems of money we've had before.
+
+37
+00:04:15,920 --> 00:04:20,459
+I can use cash without showing papers, 
+without proving credit-worthiness.
+
+38
+00:04:20,459 --> 00:04:25,570
+I don't have an intermediary, pay [them] a 
+transaction fee, or need special equipment.
+
+39
+00:04:25,570 --> 00:04:29,120
+I can just transact directly, person-to-person.
+
+40
+00:04:29,120 --> 00:04:37,840
+When you introduce this third-party company, you have a
+problem. Let's say I have a Visa card in my back pocket.
+
+41
+00:04:37,840 --> 00:04:46,680
+I want to give one of you $10. Who in this crowd
+can process my Visa card [transaction] today?
+
+42
+00:04:46,680 --> 00:04:54,700
+Can anyone take a Visa card from me?
+Not in your business, but in your personal capacity.
+
+43
+00:04:54,700 --> 00:05:00,960
+Who accepts Visa here? No one, not a single person.
+
+44
+00:05:00,960 --> 00:05:06,100
+Because [that system is not] about people 
+paying people, it's people paying companies...
+
+45
+00:05:06,100 --> 00:05:10,220
+to pay companies to maybe pay people.
+
+46
+00:05:10,220 --> 00:05:12,500
+Bitcoin is peer-to-peer.
+
+47
+00:05:12,500 --> 00:05:19,960
+Our financial systems have become peer-to-
+corporation-to-corporation-to-corporation-to-peer.
+
+48
+00:05:19,960 --> 00:05:25,860
+Everybody takes a little cut, everybody 
+[asserts] their own power in the system.
+
+49
+00:05:25,860 --> 00:05:28,540
+They take great advantage of that.
+
+50
+00:05:28,540 --> 00:05:34,800
+What is the end result? Billions of people 
+who have no access to the banking system;
+
+51
+00:05:34,800 --> 00:05:37,720
+billions of people who will
+never have a bank account.
+
+52
+00:05:37,720 --> 00:05:45,000
+Many of them don't have [identity documentation],
+and even if they did, still lack the necessary education,
+
+53
+00:05:45,000 --> 00:05:48,180
+literacy and numeracy, to walk into a bank.
+
+54
+00:05:48,180 --> 00:05:53,220
+Or they "look wrong," because they are
+from the "wrong" race, caste, or religion.
+
+55
+00:05:53,220 --> 00:05:59,020
+The untouchables can't walk into a bank; they will be
+kicked out by security before they reach the teller.
+
+56
+00:05:59,020 --> 00:06:09,020
+This happens all across the world, a direct result
+of the fact that we have centralized our money.
+
+57
+00:06:09,020 --> 00:06:18,500
+Bitcoin is different. It allows us
+to use digital money like cash.
+
+58
+00:06:18,500 --> 00:06:27,020
+By the end of today, everyone in this room will be able
+to accept bitcoin, directly under their own control,
+
+59
+00:06:27,020 --> 00:06:31,120
+with software running on their smartphone.
+
+60
+00:06:31,120 --> 00:06:39,180
+At that point, I can pay you or you can pay me.
+We can [engage in] commerce on a local level,
+
+61
+00:06:39,180 --> 00:06:48,460
+as a community, without involving any third-party
+intermediary or corporation that has power over us.
+
+62
+00:06:48,460 --> 00:06:57,520
+Without the requirement to present [identity documents],
+without the requirement that you are credit-worthy.
+
+63
+00:06:57,520 --> 00:07:05,240
+You fulfill human-worthiness.
+In fact, Bitcoin doesn't even require that.
+
+64
+00:07:05,240 --> 00:07:16,760
+You don't need to be human; autonomous software can
+use bitcoin on its own, without humans involved.
+
+65
+00:07:16,760 --> 00:07:22,300
+The invention [of Bitcoin] in 2009
+launched a completely new era.
+
+66
+00:07:22,300 --> 00:07:32,280
+It is not just a weird form of PayPal.
+This isn't just a new system of payment.
+
+67
+00:07:32,280 --> 00:07:49,140
+Bitcoin takes an obscure branch of mathematics called
+cryptography, the art of secret writing using math,
+
+68
+00:07:49,140 --> 00:07:59,480
+[which] is then applied to the domain of establishing
+trust between participants in a [distributed] system,
+
+69
+00:07:59,480 --> 00:08:02,560
+without giving any one [entity] control over the system.
+
+70
+00:08:02,560 --> 00:08:06,480
+This unique property is what makes Bitcoin special.
+
+71
+00:08:06,480 --> 00:08:14,960
+You can send money to someone else without knowing
+them, without [needing] to trust them or anybody.
+
+72
+00:08:14,960 --> 00:08:25,820
+You can trust that the mathematical rules in the
+system guarantee that money you receive is real,
+
+73
+00:08:25,820 --> 00:08:39,140
+unforgeable, and spendable (as soon as it clears
+in about ten minutes) by you in another payment.
+
+74
+00:08:39,140 --> 00:08:46,460
+You don't need to know the person who gave it
+to you. In modern finance, that seems weird.
+
+75
+00:08:46,460 --> 00:08:49,440
+And yet we do it every day with cash.
+
+76
+00:08:49,440 --> 00:09:04,100
+If I tip my taxi driver with a 2,000 rupee note,
+do they need my [identity document]?
+
+77
+00:09:04,100 --> 00:09:08,940
+Do they need to 'process a transaction'? 
+Do they need to 'pay a transaction fee'? No.
+
+78
+00:09:08,940 --> 00:09:13,920
+Cash is a representation of value.
+
+79
+00:09:13,920 --> 00:09:25,300
+[To] verify that it is [not a fake], the person who receives
+it [may] hold it up to the light, look for a watermark.
+
+80
+00:09:25,300 --> 00:09:27,640
+They can [usually] do that on their own,
+
+81
+00:09:27,640 --> 00:09:36,200
+they don't [need] to call someone and
+[ask if] serial number 1323532 is a real one.
+
+82
+00:09:36,200 --> 00:09:40,000
+You don't need to check with
+a third-party or central authority.
+
+83
+00:09:40,000 --> 00:09:46,649
+You can verify with your own eyes that it is real money.
+Bitcoin translates that [ability] into the digital domain.
+
+84
+00:09:46,649 --> 00:09:58,200
+If you receive a bitcoin transaction, the [node] software
+you run can independently verify that it is real,
+
+85
+00:09:58,200 --> 00:10:02,800
+without asking anyone else.
+
+86
+00:10:02,800 --> 00:10:07,900
+[If that is the case], the identity of the 
+person who sent it to you is irrelevant.
+
+87
+00:10:07,900 --> 00:10:12,500
+The value is there. You don't need to trust them.
+
+88
+00:10:12,500 --> 00:10:24,960
+That is revolutionary in a way we've seen once before at
+least in my generation: the introduction of the internet.
+
+89
+00:10:24,960 --> 00:10:33,100
+Many people who [grew] up with the internet still
+fundamentally misunderstand why it is special.
+
+90
+00:10:33,100 --> 00:10:41,040
+They look at the internet and see it as a [platform
+for] publishing, a system of [digital] content.
+
+91
+00:10:41,040 --> 00:10:46,880
+But we had publishing [platforms] before the internet,
+we [even] had digital publishing before the internet.
+
+92
+00:10:46,880 --> 00:10:50,320
+We had ways to disseminate
+"content" [long] before the internet.
+
+93
+00:10:50,320 --> 00:10:52,840
+What was different about the internet?
+
+94
+00:10:52,840 --> 00:11:07,860
+For the first time ever, it enabled a global free flow
+of information, almost everywhere on Earth,
+
+95
+00:11:07,860 --> 00:11:14,660
+to anyone who had the technical capability to connect.
+
+96
+00:11:14,660 --> 00:11:22,840
+As long as you have the technical capability,
+the internet doesn't care who you are, how old you are,
+
+97
+00:11:22,840 --> 00:11:24,940
+whether you are a human or a software agent.
+
+98
+00:11:24,940 --> 00:11:28,260
+[It doesn't care] what race, religion, or gender you are.
+
+99
+00:11:28,260 --> 00:11:34,500
+[You have] the power of the free flow
+of information without restriction.
+
+100
+00:11:34,500 --> 00:11:44,000
+That is the magic of the internet, the transformative
+power of that technology: the free flow of information.
+
+101
+00:11:44,000 --> 00:11:57,160
+To many people, this idea is terrifying, that anyone can
+say anything, read anything, speak about anything.
+
+102
+00:11:57,160 --> 00:12:07,500
+Without control, without a license, qualification, diploma,
+certificate, or even an identity. Without censorship.
+
+103
+00:12:07,500 --> 00:12:10,080
+[To many, this is] terrifying.
+
+104
+00:12:10,080 --> 00:12:17,820
+For my generation and generations that follow,
+it is not only liberating, it [will be] normal.
+
+105
+00:12:17,820 --> 00:12:24,860
+It is the way things have always been
+and it is the way things should be.
+
+106
+00:12:24,860 --> 00:12:32,300
+Bitcoin creates the exact same circumstances,
+for the first time, in the category of money.
+
+107
+00:12:32,300 --> 00:12:42,000
+It enables the free flow of money, the free 
+flow of trust, across the world to anyone,
+
+108
+00:12:42,000 --> 00:12:47,020
+simply through their choice to participate
+[in the system] by downloading an application.
+
+109
+00:12:47,020 --> 00:12:55,980
+The free flow of money, the free flow of value,
+the free association of trust; that is what it's about.
+
+110
+00:12:55,980 --> 00:13:03,380
+It is not an investment scheme. It is not just a
+payment network or a weird version of PayPal.
+
+111
+00:13:03,380 --> 00:13:09,880
+It adds the free flow of money to the other 
+freedoms the internet already gives us.
+
+112
+00:13:09,880 --> 00:13:16,960
+I guarantee you this is a terrifying idea to many
+[people], that anyone can send money to anyone...
+
+113
+00:13:16,960 --> 00:13:26,260
+without asking for permission [from an intermediary],
+without control, censorship, or identity, is terrifying.
+
+114
+00:13:26,260 --> 00:13:34,240
+My generation finds it liberating.
+The generation after mine sees it as normal.
+
+115
+00:13:34,240 --> 00:13:40,400
+They will never know a world in which you
+cannot send money anywhere to anyone;
+
+116
+00:13:40,400 --> 00:13:45,380
+a world in which money only works
+from Monday to Friday, nine to five;
+
+117
+00:13:45,380 --> 00:13:51,540
+a world in which the privilege of having
+a bank account costs you a monthly fee,
+
+118
+00:13:51,540 --> 00:13:54,000
+for other people to store your money;
+
+119
+00:13:54,000 --> 00:13:59,060
+a world in which some destinations are prohibited;
+
+120
+00:13:59,060 --> 00:14:05,580
+a world in which, in order to open a bank account,
+you [must] be [at least] sixteen years old.
+
+121
+00:14:05,580 --> 00:14:15,540
+[These will] seem like bizarre ideas. Get ready for
+a world in which six-year-olds have bitcoin wallets.
+
+122
+00:14:15,540 --> 00:14:22,920
+I've met them. They love the fact that
+they can now buy things on the internet.
+
+123
+00:14:22,920 --> 00:14:28,560
+Parents will find that terrifying,
+but they will see it as normal.
+
+124
+00:14:28,560 --> 00:14:36,840
+Ten years [later], they will walk into a bank because
+Grandma wants to give them a savings account.
+
+125
+00:14:36,840 --> 00:14:49,140
+They will have a conversation with a banker, which will
+seem as bizarre as talking to an 18th century privateer.
+
+126
+00:14:49,140 --> 00:14:56,440
+In order to open an account, they need to present
+all kinds of documentation and paperwork,
+
+127
+00:14:56,440 --> 00:14:59,180
+a process that will take an hour.
+
+128
+00:14:59,180 --> 00:15:07,360
+Afterwards, they have limited access for a high fee, only
+during working hours (Monday to Friday, nine to five).
+
+129
+00:15:07,360 --> 00:15:13,540
+[This] account can only use one currency and only send
+to certain destinations, most of which are corporations.
+
+130
+00:15:13,540 --> 00:15:18,860
+An account they can't use to send money to their
+friends or to buy things [easily] over the internet.
+
+131
+00:15:18,860 --> 00:15:29,180
+They will look at that and say, "My grandparents
+are crazy. Why would they use this? It is broken!"
+
+132
+00:15:29,180 --> 00:15:38,840
+"It is almost as bizarre as when they asked me to send
+a fax. I don't understand it." This is the world we created.
+
+133
+00:15:38,840 --> 00:15:46,500
+This [is happening]. The people who are afraid of
+this idea don't really realize that [it is happening].
+
+134
+00:15:46,500 --> 00:15:48,160
+We live in a new world.
+
+135
+00:15:48,160 --> 00:15:57,900
+There are two ways we can adjust: pretend it is not
+happening, or accept it and adapt to the new world.
+
+136
+00:15:57,900 --> 00:16:04,900
+We now live in a world where you can send value
+anywhere, to anyone, at any time, without restriction.
+
+137
+00:16:04,900 --> 00:16:09,280
+We can embrace that or pretend it's not happening.
+
+138
+00:16:09,280 --> 00:16:15,080
+In my previous talk, I used an analogy
+that I think worked quite well.
+
+139
+00:16:15,080 --> 00:16:23,260
+If you turn on the [weather channel] and the weatherman
+[says] there will be a rainstorm this afternoon,
+
+140
+00:16:23,260 --> 00:16:32,260
+but that doesn't suit your plans because [there is an
+outdoor] birthday party, you can turn off the [television].
+
+141
+00:16:32,260 --> 00:16:43,840
+If you're powerful, maybe you can complain to the news
+station and [convince them to fire] the weatherperson.
+
+142
+00:16:43,840 --> 00:16:49,040
+[But no matter what you do],
+it will still rain [this afternoon].
+
+143
+00:16:49,040 --> 00:16:55,780
+Governments are looking at Bitcoin and the 
+first questions which come to their minds are:
+
+144
+00:16:55,780 --> 00:16:58,520
+"How do we control it? How do
+we change it? How do we stop it?"
+
+145
+00:16:58,520 --> 00:17:12,060
+"How do we enforce our authority, our legal purview?"
+They look at it, but don't understand the basic concepts.
+
+146
+00:17:12,060 --> 00:17:25,680
+They ask questions like, "Who is in charge? 
+Who controls this?" The answer is not satisfactory.
+
+147
+00:17:25,680 --> 00:17:31,580
+[Laughter] No one controls this. No one is in charge.
+
+148
+00:17:31,580 --> 00:17:36,220
+Or you can go for the more sophisticated approach:
+
+149
+00:17:36,220 --> 00:17:45,840
+"Well, it's based on an open-access model, with
+market-based competition through risk and reward,
+
+150
+00:17:45,840 --> 00:17:54,140
+based on game theoretical outcomes that ensure
+collaborative participation by multiple participants
+
+151
+00:17:54,140 --> 00:18:00,220
+without anybody having the ability to cheat,
+due to a system of emergent consensus...
+
+152
+00:18:00,220 --> 00:18:04,240
+based on mathematical rules and strong cryptography."
+
+153
+00:18:04,240 --> 00:18:18,600
+[Applause] To which they respond, "Yes, yes...
+but who is in charge? Who is in control?" [Laughter]
+
+154
+00:18:18,600 --> 00:18:25,940
+I've had people come up to me after meetings
+and say, "Okay, I won't tell anyone. This is just us."
+
+155
+00:18:25,940 --> 00:18:40,160
+[Laughter] "Who is in charge?" They think I'm
+joking or trying to massage the information.
+
+156
+00:18:40,160 --> 00:18:49,260
+It [does seem] bizarre to say, "Here is a system
+of trust without authority, without a center."
+
+157
+00:18:49,260 --> 00:18:54,960
+"A system without hierarchy, without control." Why?
+
+158
+00:18:54,960 --> 00:18:57,580
+Because we've never had any of those things [before].
+
+159
+00:18:57,580 --> 00:19:04,280
+Every system of trust we've ever had in our
+society is based on the exact same model:
+
+160
+00:19:04,280 --> 00:19:11,240
+a 19th-century hierarchical organisation 
+that is the outcome of the industrial era,
+
+161
+00:19:11,240 --> 00:19:18,360
+a bureaucracy based on internal
+processes, rules, and oversight in layers.
+
+162
+00:19:18,360 --> 00:19:28,940
+[There is always] ultimate authority vested in someone
+elected through democracy -- or perhaps who is not.
+
+163
+00:19:28,940 --> 00:19:37,200
+Maybe it's hereditary, maybe it's dictatorial, but you
+can always point [to someone on the pyramid].
+
+164
+00:19:37,200 --> 00:19:44,540
+You just let your eyes follow to the top,
+usually there is [one person] at the top.
+
+165
+00:19:44,540 --> 00:19:51,800
+In some cases, that person is [merely] an actor, with
+a whole shadowy group playing the puppet strings,
+
+166
+00:19:51,800 --> 00:19:55,920
+but nevertheless authority is vested in that person.
+
+167
+00:19:55,920 --> 00:20:02,900
+Then you look at Bitcoin, and it is a flat system.
+There are a few people who seem to have special roles.
+
+168
+00:20:02,900 --> 00:20:14,020
+You [wonder], "Maybe those people are in control.
+Is it the miners or the developers? One of the nodes?"
+
+169
+00:20:14,020 --> 00:20:20,880
+Then you noticed that these people alone can't
+actually do anything [to change consensus].
+
+170
+00:20:20,880 --> 00:20:30,780
+The funny thing is, when people look at Bitcoin,
+they see its greatest strengths as flaws.
+
+171
+00:20:30,780 --> 00:20:32,820
+which is [a common reaction to] new technology.
+
+172
+00:20:32,820 --> 00:20:41,380
+They look at Bitcoin and say, "The miners and developers
+can't even agree on how to scale the system!"
+
+173
+00:20:41,380 --> 00:20:49,160
+Why doesn't one of the groups just say, "This is
+how we will do it"? Because that is not Bitcoin.
+
+174
+00:20:49,160 --> 00:20:58,600
+[No one has] that ability. It is a system of 
+adversarial competition with market forces.
+
+175
+00:20:58,600 --> 00:21:10,840
+We are in deadlock because consensus overrides
+personal ambition, popularity, and everything else.
+
+176
+00:21:10,840 --> 00:21:17,100
+They look at Bitcoin and say, "You keep squabbling,
+you can't [seem to] make a decision." Yes, by design.
+
+177
+00:21:17,100 --> 00:21:20,400
+That is a feature, not a bug.
+
+178
+00:21:20,400 --> 00:21:33,080
+They look at Bitcoin and say, "But you can't reverse
+a transaction! That is a problem! That is a bug!"
+
+179
+00:21:33,080 --> 00:21:44,180
+"How can you do that? What if something goes wrong?
+Who do I call to reverse it?" Feature, not bug.
+
+180
+00:21:44,180 --> 00:21:49,020
+Bitcoin guarantees the execution
+of [whichever] scripts you put into it.
+
+181
+00:21:49,020 --> 00:21:56,580
+If you put the script that says, "Here is one bitcoin.
+Now I hope you send me that television I ordered."
+
+182
+00:21:56,580 --> 00:22:01,120
+That is the script [which will] be irreversible
+and guaranteed by the network.
+
+183
+00:22:01,120 --> 00:22:05,440
+It is not a very good script [in this case], 
+because they may not send the television.
+
+184
+00:22:05,440 --> 00:22:11,240
+There is no one who can make that bitcoin come back
+to you, other than the [merchant], once you've sent it.
+
+185
+00:22:11,240 --> 00:22:20,940
+That is one form of irreversible promise. Of course,
+that is not the only promise the network can guarantee.
+
+186
+00:22:20,940 --> 00:22:30,460
+I can say, "Here is one bitcoin. It is currently locked
+in a multi-signature address for the next thirty days."
+
+187
+00:22:30,460 --> 00:22:39,280
+"After thirty days, if there is no dispute, it will
+automatically transfer to you upon verification...
+
+188
+00:22:39,280 --> 00:22:44,820
+by a trustworthy third-party who I have chosen."
+
+189
+00:22:44,820 --> 00:22:48,380
+I can introduce third parties if I want to,
+[but] I don't need to [have third parties].
+
+190
+00:22:48,380 --> 00:22:57,040
+I can introduce reversibility if I want to, but 
+[the conditions of] that script are still irreversible.
+
+191
+00:22:57,040 --> 00:23:02,060
+I can choose who my escrow agent is;
+I can choose who does dispute resolution.
+
+192
+00:23:02,060 --> 00:23:06,360
+I can [still utilize] the feature of irreversibility,
+
+193
+00:23:06,360 --> 00:23:16,780
+but I can soften that promise to apply consumer
+protection through programmable money.
+
+194
+00:23:16,780 --> 00:23:21,300
+It is a feature, not a bug.
+
+195
+00:23:21,300 --> 00:23:29,400
+Bitcoin is this strange being, it really is. 
+It violates everything we think we know about money.
+
+196
+00:23:29,400 --> 00:23:35,420
+It forces us to consider whether we actually
+understood money in the first place.
+
+197
+00:23:35,420 --> 00:23:45,700
+Do you remember when you were in school and
+did that class about basic economics and money?
+
+198
+00:23:45,700 --> 00:23:53,820
+No? You neither? We didn't do it either.
+
+199
+00:23:53,820 --> 00:23:59,980
+You would think that one of the
+world's most ancient technologies,
+
+200
+00:23:59,980 --> 00:24:12,020
+one of the resounding artefacts of human civilization --
+currency, the basis of trade that dominates our lives --
+
+201
+00:24:12,020 --> 00:24:15,000
+would be an important topic at school.
+
+202
+00:24:15,000 --> 00:24:22,820
+Not one day. Maybe, in some places, you did
+a brief course in home economics or history,
+
+203
+00:24:22,820 --> 00:24:27,580
+that gave you this vague idea about money 
+that you really didn't understand.
+
+204
+00:24:27,580 --> 00:24:34,520
+Most of us cannot hold a fifteen-minute 
+conversation with a six-year-old about money.
+
+205
+00:24:34,520 --> 00:24:44,300
+The six-year-old has good questions and we [usually]
+have no answers. "How does money work, Mommy?"
+
+206
+00:24:44,300 --> 00:24:51,880
+Well, the correct answer is:
+"I don't have a freaking clue, kid."
+
+207
+00:24:51,880 --> 00:24:59,100
+I think it has something to do with the 
+allocation of special drawing rights...
+
+208
+00:24:59,100 --> 00:25:04,160
+through the International Monetary Fund 
+and World Bank, in a free-floating system...
+
+209
+00:25:04,160 --> 00:25:10,020
+[where currencies] compete through trade 
+balances across an international spectrum...
+
+210
+00:25:10,020 --> 00:25:12,520
+of inflation-adjusted exchange rates.
+
+211
+00:25:12,520 --> 00:25:20,180
+These can be used to create local debt issued
+by the Treasury, in return for currency...
+
+212
+00:25:20,180 --> 00:25:26,680
+printed by the central bank, then distributed 
+to banks that use a system of...
+
+213
+00:25:26,680 --> 00:25:33,960
+partial reserve leverage at approximately 
+10-to-1, and dispersed into the economy.
+
+214
+00:25:33,960 --> 00:25:42,580
+This creates either inflationary or deflationary effects,
+allowing us to experience the velocity of money...
+
+215
+00:25:42,580 --> 00:25:49,000
+through the exchange of an abstract token 
+that represents the promise of future value,
+
+216
+00:25:49,000 --> 00:25:58,820
+but is depreciated by the rate of inflation
+and adjusted for the return on investment.
+
+217
+00:25:58,820 --> 00:26:14,560
+[Applause] "So why can't we have more of it, Mommy? 
+Why can't we just give everybody more of it?"
+
+218
+00:26:14,560 --> 00:26:21,640
+That conversation doesn't go that way. Usually,
+it ends with: "Eat your breakfast" or "Go to bed!"
+
+219
+00:26:21,640 --> 00:26:25,820
+"Clean your room." "One day, you'll understand."
+
+220
+00:26:25,820 --> 00:26:30,980
+And that is the first lie, because
+you still don't understand.
+
+221
+00:26:30,980 --> 00:26:39,700
+If you ask the average person on the street, 
+"what gives value to money," they have no idea!
+
+222
+00:26:39,700 --> 00:26:54,700
+They have a theory, a fairytale, a story which is about
+as naïve as believing that children come from storks,
+
+223
+00:26:54,700 --> 00:26:59,240
+delivered in bundles dropped through the chimney.
+
+224
+00:26:59,240 --> 00:27:05,340
+[The story] is about as solid as Santa Claus.
+
+225
+00:27:05,340 --> 00:27:13,460
+What gives money value? It says right there, on
+the piece of paper, [something along the lines of]:
+
+226
+00:27:13,460 --> 00:27:22,800
+"By the full faith and credit of the Royal Bank of India."
+"By the full faith and credit of the Federal Reserve."
+
+227
+00:27:22,800 --> 00:27:38,920
+It says, "one note applies to all debt, public and
+private." This is what gives it value: a promise.
+
+228
+00:27:38,920 --> 00:27:41,820
+But most people have no idea how that works.
+
+229
+00:27:41,820 --> 00:27:47,080
+I guarantee that if you ask the average person the
+street, they will tell you the reason money has value...
+
+230
+00:27:47,080 --> 00:27:53,080
+is because there is a cave, vault, or box 
+somewhere [with] the government's gold,
+
+231
+00:27:53,080 --> 00:27:57,080
+in direct proportion to the money that circulates.
+
+232
+00:27:57,080 --> 00:28:01,360
+This has not been true since
+the 1930s, anywhere in the world.
+
+233
+00:28:01,360 --> 00:28:06,680
+Yet that is the Santa Claus
+fantasy many people believe.
+
+234
+00:28:06,680 --> 00:28:17,080
+Or they believe the government guarantees 
+the value of money somehow, which then...
+
+235
+00:28:17,080 --> 00:28:26,720
+[raises] other interesting questions: why does inflation
+happen? Why is the currency collapsing in Zimbabwe?
+
+236
+00:28:26,720 --> 00:28:33,280
+Did the government not try hard enough to guarantee it?
+
+237
+00:28:33,280 --> 00:28:40,660
+That is the inconvenient truth at the core of 
+the world's most ancient technology, money.
+
+238
+00:28:40,660 --> 00:28:54,320
+We don't understand it. We simply don't. 
+The truth is: you give money value. Why?
+
+239
+00:28:54,320 --> 00:29:04,160
+You are participating in a shared hallucination
+[of sorts], with 1.5 billion other people,
+
+240
+00:29:04,160 --> 00:29:09,840
+in which you firmly believe that this
+money will still have value tomorrow;
+
+241
+00:29:09,840 --> 00:29:15,800
+that if you go to the store and present
+one of these colored pieces of paper,
+
+242
+00:29:15,800 --> 00:29:23,440
+someone will give eggs, chicken, spices, 
+water, sugar, salt, housing, healthcare, etc.
+
+243
+00:29:23,440 --> 00:29:26,760
+Something for this colored piece of paper.
+
+244
+00:29:26,760 --> 00:29:36,140
+It takes an incredible hallucination for us to believe
+this, because the paper itself is [almost] worthless.
+
+245
+00:29:36,140 --> 00:29:41,480
+It [can be] pretty, but it is not pretty at that level.
+
+246
+00:29:41,480 --> 00:29:49,120
+Nobody gives you products or services 
+because of how pretty it is.
+
+247
+00:29:49,120 --> 00:30:01,440
+That shared hallucination took hundreds of years
+to be established, starting in the late 15th century...
+
+248
+00:30:01,440 --> 00:30:09,220
+with the introduction of paper money, gold certificates,
+IOUs, certificates of exchange, bearer notes, etc.
+
+249
+00:30:09,220 --> 00:30:13,380
+[These were just] pieces of paper that could be
+exchanged for something else, [as a promise].
+
+250
+00:30:13,380 --> 00:30:28,100
+In the most amazing magical trick, they switched
+the cups around, you lift the cup, and ball isn't there.
+
+251
+00:30:28,100 --> 00:30:37,040
+What? This was supposed to be redeemable for
+an ounce of gold, a pound of silver, something!
+
+252
+00:30:37,040 --> 00:30:42,620
+Nope, not anymore. It is just a piece of paper.
+
+253
+00:30:42,620 --> 00:30:49,040
+What gives it value is your belief that, if you go
+to the store tomorrow, you can buy something.
+
+254
+00:30:49,040 --> 00:31:01,440
+The moment that belief suffers a crack,
+it shatters, and you have very big problems.
+
+255
+00:31:01,440 --> 00:31:11,000
+Imagine some crazy scenario where the promise of
+"the full faith and credit" turns into an announcement.
+
+256
+00:31:11,000 --> 00:31:16,860
+As of four hours from now, these two 
+pieces of colored paper have zero value.
+
+257
+00:31:16,860 --> 00:31:22,700
+I mean, that couldn't possibly happen... [Laughter]
+
+258
+00:31:22,700 --> 00:31:28,620
+Here is the interesting [part]: if the value was
+based on the promise, that promise is broken,
+
+259
+00:31:28,620 --> 00:31:36,940
+and the people who gave that promise now
+tell you this [paper] has zero value in four hours,
+
+260
+00:31:36,940 --> 00:31:40,740
+what is the value of that piece of paper?
+
+261
+00:31:40,740 --> 00:31:48,480
+Zero, right? But that is not what happened at all.
+
+262
+00:31:48,480 --> 00:32:03,220
+For months after that announcement, the paper was
+valued less (10%, 15%, 20% less), but it still had value.
+
+263
+00:32:03,220 --> 00:32:10,360
+Even though [they] told you it was [worth nothing],
+you could still exchange it at 80% face- value...
+
+264
+00:32:10,360 --> 00:32:18,440
+in one of the many locations where "corruption no longer
+exists, you can't exchange money here." [Laughter]
+
+265
+00:32:18,440 --> 00:32:26,980
+You know that story, unless of course you are connected
+and wealthy enough to afford the 20% depreciation.
+
+266
+00:32:26,980 --> 00:32:34,920
+It still only depreciated by 20%. I bet you 
+could still find some in circulation today.
+
+267
+00:32:34,920 --> 00:32:37,460
+I bet they still don't have a value of zero.
+
+268
+00:32:37,460 --> 00:32:45,260
+In fact, we rarely find [the value of any] 
+currency in history that goes to zero.
+
+269
+00:32:45,260 --> 00:32:53,880
+I can go to Rome in Italy and [buy] silver coins
+[with] the face of Julius Caesar on them;
+
+270
+00:32:53,880 --> 00:33:02,980
+[they] have not been in circulation for almost one
+thousand years, and yet their value is not zero.
+
+271
+00:33:02,980 --> 00:33:12,650
+In fact, their value exceeds their worth in silver. 
+They are still a tradeable abstraction of value.
+
+272
+00:33:12,650 --> 00:33:25,640
+Your money did not go to zero because its value
+was not the promise; its value was that illusion.
+
+273
+00:33:25,640 --> 00:33:31,080
+That illusion was shaken, but not destroyed.
+
+274
+00:33:31,080 --> 00:33:34,900
+You panicked at first, thinking, "This has zero value!"
+
+275
+00:33:34,900 --> 00:33:43,020
+Then someone says to you, "Don't worry, I know this guy
+who knows a guy, who [will exchange] it at 80% [value].
+
+276
+00:33:43,020 --> 00:33:48,140
+Now it has just depreciated [in value].
+
+277
+00:33:48,140 --> 00:33:55,740
+You give it value through your use;
+you give it value by believing in that promise.
+
+278
+00:33:55,740 --> 00:34:00,080
+In order for that promise to hold,
+it [needs] some other characteristics.
+
+279
+00:34:00,080 --> 00:34:06,520
+It [must] be unforgeable; if it can be forged, 
+then you [will see] an emerging phenomenon...
+
+280
+00:34:06,520 --> 00:34:13,560
+known in economics as Gresham's Law, 
+where bad money chases out good money.
+
+281
+00:34:13,560 --> 00:34:21,100
+If you get your hands on the "good" money, you
+do not spend it. You stuff it under the mattress.
+
+282
+00:34:21,100 --> 00:34:24,180
+Sound familiar? It happened here.
+
+283
+00:34:24,180 --> 00:34:30,440
+If you have an old note and a new note, 
+there is no way you will spend the new note...
+
+284
+00:34:30,440 --> 00:34:33,580
+until you are rid of all the old notes.
+
+285
+00:34:33,580 --> 00:34:43,320
+The new notes disappear from circulation, their
+velocity goes [down] as people trade old notes.
+
+286
+00:34:43,320 --> 00:34:46,620
+If they trade the old note, then it is [still] in circulation.
+
+287
+00:34:46,620 --> 00:34:53,420
+The longer it remains in circulation, the longer
+people hold on to it and hoard the new ones.
+
+288
+00:34:53,420 --> 00:34:58,100
+Gresham's Law in action. I did not believe 
+that I would see that in my lifetime.
+
+289
+00:34:58,100 --> 00:35:07,400
+Thank you, India, for validating my economics professor
+by demonstrating the Law with 1.5 billion people.
+
+290
+00:35:07,400 --> 00:35:14,400
+[The experiment] sucked [and was very] painful,
+but nevertheless had very interesting economics.
+
+291
+00:35:14,400 --> 00:35:27,540
+Money [must] be unforgeable and portable.
+Why did you not pay with gold at the door?
+
+292
+00:35:27,540 --> 00:35:31,800
+I'm sure [the conference organisers
+would] accept gold; I certainly would.
+
+293
+00:35:31,800 --> 00:35:36,480
+The reason you don't pay with gold
+is because gold sucks as money.
+
+294
+00:35:36,480 --> 00:35:47,940
+It sucks as money is because, for the value that
+it contains, its weight is unrealistically heavy.
+
+295
+00:35:47,940 --> 00:35:55,740
+You can't make it lighter, its density is fixed. 
+Gold sucks as currency because it is not portable.
+
+296
+00:35:55,740 --> 00:36:02,280
+At the moment, other currencies have a similar situation.
+Zimbabwe's currency sucks because it is not portable.
+
+297
+00:36:02,280 --> 00:36:10,380
+To buy a cup of coffee, you need a wheelbarrow of cash.
+I watched a BBC interview where they asked a farmer,
+
+298
+00:36:10,380 --> 00:36:13,360
+"Aren't you worried someone will steal your money?"
+
+299
+00:36:13,360 --> 00:36:24,860
+They said, "No, I'm worried someone will steal my
+wheelbarrow. It is worth more than the money in it."
+
+300
+00:36:24,860 --> 00:36:26,940
+Bad money chases good money out.
+
+301
+00:36:26,940 --> 00:36:32,400
+[Good money must] be unforgeable, 
+portable, and universally recognizable.
+
+302
+00:36:32,400 --> 00:36:40,040
+You [should] be able to validate, independently
+verify for yourself, that this is real money.
+
+303
+00:36:40,040 --> 00:36:47,020
+It [must be usable] as a unit of account; you need
+to be able to count [the value of] things in it.
+
+304
+00:36:47,020 --> 00:36:54,260
+One of the reasons barter is not working,
+is not a suitable form of economic [exchange]...
+
+305
+00:36:54,260 --> 00:37:02,000
+at any scale more than the extremely local, 
+is because of the burden that pricing [involves].
+
+306
+00:37:02,000 --> 00:37:11,620
+Yes, I can give you a chicken for a goat.
+I can give the hairdresser a chicken for a haircut.
+
+307
+00:37:11,620 --> 00:37:21,490
+I can give the water-carrier a chicken for litres of water. 
+Barter, on a theoretical level, is effective.
+
+308
+00:37:21,490 --> 00:37:38,100
+But now I [would need] to track the exchange rates
+for goats, haircuts, and water in units of chicken.
+
+309
+00:37:38,100 --> 00:37:46,840
+Meanwhile, the hairdresser has to track the price of
+a haircut in chicken, goats, rice, sugar, salt, water,
+
+310
+00:37:46,840 --> 00:37:49,840
+[and probably] accounting services, etc.
+
+311
+00:37:49,840 --> 00:37:58,560
+We [would need[ to track every price exchange rate for
+every unit of value we are exchanging as commodities.
+
+312
+00:37:58,560 --> 00:38:05,040
+The whole point of money is that you only
+[need] to track everything [against] one thing,
+
+313
+00:38:05,040 --> 00:38:13,820
+[which] has no value [in itself because] you 
+can't eat it, drink it, or use it to cut your hair.
+
+314
+00:38:13,820 --> 00:38:20,460
+It is not the value, it is the token of value, 
+the representation of value.
+
+315
+00:38:20,460 --> 00:38:26,700
+It [must] be unforgeable, portable,
+and useful as a unit of account.
+
+316
+00:38:26,700 --> 00:38:38,820
+Then come the difficult [characteristics]. It [must] be
+rare. If you live on a beach, you can't use seashells.
+
+317
+00:38:38,820 --> 00:38:43,660
+Yet [groups of] people [who lived] in the 
+mountains used seashells as currency.
+
+318
+00:38:43,660 --> 00:38:51,800
+From archaeological dig sites, we find that 
+ancient people used seashells as currency;
+
+319
+00:38:51,800 --> 00:38:57,420
+never [if they were] on a beach, always in 
+the mountains, because [seashells] were rare there.
+
+320
+00:38:57,420 --> 00:39:05,560
+On the beach, they used crystals, quartz, and minerals,
+because [those] come from the mountain.
+
+321
+00:39:05,560 --> 00:39:12,980
+As long as [a lot of it] doesn't exist
+where you are, it is a great form of money.
+
+322
+00:39:12,980 --> 00:39:17,040
+[And there lies] one of the big problems
+we have with our money systems today.
+
+323
+00:39:17,040 --> 00:39:26,520
+I have bad news for you: the rupee is not rare.
+It has no limit. It can be created in infinite quantity,
+
+324
+00:39:26,520 --> 00:39:33,460
+just like the dollar, the euro, the yen,
+and all other [fiat currencies].
+
+325
+00:39:33,460 --> 00:39:46,420
+Worse, the power to decide how much to create is
+vested in people who have direct conflict of interest.
+
+326
+00:39:46,420 --> 00:39:56,080
+If you are a debtor, then you want the money
+to be worth less, so you [need to] repay less.
+
+327
+00:39:56,080 --> 00:40:03,240
+If you are a saver, you want the money to be worth
+more, so that you can [buy or earn] more [with it].
+
+328
+00:40:03,240 --> 00:40:09,180
+If you give the government -- the biggest debtor of all
+-- the [power to decide] how much money [to print],
+
+329
+00:40:09,180 --> 00:40:14,340
+they will print money [to infinity] in order to 
+make sure that [their debt] is worth nothing.
+
+330
+00:40:14,340 --> 00:40:20,540
+In this process, they transfer
+wealth from savers to debtors.
+
+331
+00:40:20,540 --> 00:40:29,740
+In a culture of savers, that [would be] a terrifying thought
+You [would need to] explain it in a calm way,
+
+332
+00:40:29,740 --> 00:40:32,319
+and [use a few] little nifty tricks.
+
+333
+00:40:32,319 --> 00:40:42,200
+We tell people, "The a rate of inflation will not
+exceed 2.2% per year." It sounds innocuous.
+
+334
+00:40:42,200 --> 00:40:51,160
+What is 2%? I don't even know [how much that] is.
+I didn't pay attention in school. It [involves] division.
+
+335
+00:40:51,160 --> 00:40:52,880
+I was never good at division.
+
+336
+00:40:52,880 --> 00:40:58,300
+[What would] 2.2% do? If you tell people
+the rate of inflation is 2.2%, they [will think],
+
+337
+00:40:58,300 --> 00:41:02,960
+"Eh, two percent, five percent, ten percent...
+I don't really understand [the effect of] that."
+
+338
+00:41:02,960 --> 00:41:12,880
+Let's rephrase it: in ten years, [about 25% of the value of]
+your money will be gone. "Holy shit! I understand that!"
+
+339
+00:41:12,880 --> 00:41:19,780
+[Laughter] "I save [money] like crazy, I work two jobs,
+and I barely get paid. Now [a quarter] of it will be gone?"
+
+340
+00:41:19,780 --> 00:41:26,240
+"Where does it go? Who took it from me? 
+Catch those people, they are thieves!"
+
+341
+00:41:26,240 --> 00:41:31,000
+"Oh my god, [a quarter of] my money in ten years?!"
+
+342
+00:41:31,000 --> 00:41:35,500
+Inflation took your money. More accurately,
+
+343
+00:41:35,500 --> 00:41:41,700
+the government, corporations, and banks 
+in debt took your money through inflation.
+
+344
+00:41:41,700 --> 00:41:52,620
+For them, the money they owe is also worth 
+[25% less] in ten years. What a brilliant construct.
+
+345
+00:41:52,620 --> 00:41:57,780
+That is where we see a fundamental difference
+between bitcoin and traditional money.
+
+346
+00:41:57,780 --> 00:42:04,760
+Bitcoin is money. Bitcoin is a store of value, a medium
+of exchange, and can be a unit of account (eventually).
+
+347
+00:42:04,760 --> 00:42:10,760
+It gradually acquires these characteristics as it grows
+more stable, well-established, and well adopted.
+
+348
+00:42:10,760 --> 00:42:16,560
+As more people participate in the exchange of
+value through Bitcoin, they create an economy;
+
+349
+00:42:16,560 --> 00:42:25,740
+that economy creates value, that value 
+[leads to] liquidity, stability, reduced volatility,
+
+350
+00:42:25,740 --> 00:42:31,700
+and the reduced volatility makes it more suitable
+as a medium of exchange for smaller purchases.
+
+351
+00:42:31,700 --> 00:42:38,840
+It makes it better as a store of value.
+[As those increase], its velocity increases,
+
+352
+00:42:38,840 --> 00:42:43,540
+[meaning each] unit gets transferred
+many times by people doing [various] trades.
+
+353
+00:42:43,540 --> 00:42:49,820
+Eventually, the value stabilises to a point
+where it can become a unit of account.
+
+354
+00:42:49,820 --> 00:42:57,520
+Where you can say, "A talk is worth half a bitcoin.
+I don't price in rupees anymore, [I price in bitcoin]."
+
+355
+00:42:57,520 --> 00:43:01,600
+I can't do that today because it is still too volatile,
+but one day I will be able to do that.
+
+356
+00:43:01,600 --> 00:43:11,420
+One day, I will price my bitcoin in [satoshis]. 
+People ask me, "How much is a bitcoin worth?"
+
+357
+00:43:11,420 --> 00:43:14,800
+The correct answer is: one thousand millibits.
+
+358
+00:43:14,800 --> 00:43:20,760
+There will come a day when the question 
+is not "how many rupees is a bitcoin worth,"
+
+359
+00:43:20,760 --> 00:43:27,720
+but "how much bitcoin is a rupee worth,"
+and I will say, "[A rupee] is worth a microbit."
+
+360
+00:43:27,720 --> 00:43:35,940
+That is when you [will] know things have changed. 
+It will happen very slowly, and then all at once.
+
+361
+00:43:35,940 --> 00:43:38,980
+There is something special about a global currency.
+
+362
+00:43:38,980 --> 00:43:44,980
+Here is the magic: twenty-one million [coins]
+is the limit. It is mathematically imposed.
+
+363
+00:43:44,980 --> 00:43:48,880
+There are not any currencies which can do that.
+
+364
+00:43:48,880 --> 00:43:54,700
+There is only one thing in the world which shares the
+characteristic of a fixed, geometrically diminishing...
+
+365
+00:43:54,700 --> 00:44:06,620
+supply that [becomes harder
+to extract] the more you try: gold.
+
+366
+00:44:06,620 --> 00:44:11,320
+Except you can't email gold. You can email bitcoin.
+
+367
+00:44:11,320 --> 00:44:22,580
+Suddenly, you notice [Bitcoin] may have a bigger
+impact than any of us could even imagine.
+
+368
+00:44:22,580 --> 00:44:30,780
+People will point at it and say,
+"It is fake money, it is not real!"
+
+369
+00:44:30,780 --> 00:44:38,840
+But the market will give it a [price],
+and in the end that value is the truth.
+
+370
+00:44:38,840 --> 00:44:50,320
+You can use currency controls, propaganda, lies,
+restrictions, and laws, [like they do in Venezuela].
+
+371
+00:44:50,320 --> 00:44:55,240
+They point at Bitcoin and say,
+"That is fake money, it is not real!"
+
+372
+00:44:55,240 --> 00:44:59,920
+But anybody who is involved in Bitcoin points right
+back at [the Venezuelan government] and says,
+
+373
+00:44:59,920 --> 00:45:09,020
+"Oh no, yours is the fake money. This shit is real,
+because I can buy food with it from Amazon."
+
+374
+00:45:09,020 --> 00:45:13,500
+"Delivered to Colombia and smuggled across
+the border, but I can still buy food with it."
+
+375
+00:45:13,500 --> 00:45:18,240
+Fake money can be resolved by the market.
+
+376
+00:45:18,240 --> 00:45:25,340
+We are [still] at the very beginning [of Bitcoin]. This is not
+an investment opportunity or a get-rich-quick scheme.
+
+377
+00:45:25,340 --> 00:45:32,860
+This is a technology which has radical, 
+disruptive implications for the world at large.
+
+378
+00:45:32,860 --> 00:45:37,780
+For the first time in human history, it creates
+the possibility of a free flow of money...
+
+379
+00:45:37,780 --> 00:45:52,600
+anywhere, at any time, without restriction, 
+controls, or [identity], for all of humanity.
+
+380
+00:45:52,600 --> 00:46:01,680
+That technology [will] be difficult to use.
+It [seems] weird. [There will be] attacks, hacks, failures.
+
+381
+00:46:01,680 --> 00:46:07,180
+The internet used to go down
+all the time in various parts.
+
+382
+00:46:07,180 --> 00:46:12,140
+Some of the companies [currently] in this 
+space will not exist ten years from now;
+
+383
+00:46:12,140 --> 00:46:14,200
+that also happened with the internet.
+
+384
+00:46:14,200 --> 00:46:23,620
+In 2000, [about] 90% of the companies were
+wiped out in a single stock market wash-out.
+
+385
+00:46:23,620 --> 00:46:29,540
+But the internet didn't go anywhere, it just found
+new companies to build the next generation.
+
+386
+00:46:29,540 --> 00:46:32,470
+That will happen in [cryptocurrencies] too.
+
+387
+00:46:32,470 --> 00:46:37,440
+We may change the name, we may change 
+the companies that are participating.
+
+388
+00:46:37,440 --> 00:46:47,060
+We will certainly change the technology [in various
+ways], but in the end, [Bitcoin] will happen.
+
+389
+00:46:47,060 --> 00:46:56,420
+It will be a fundamental part of the future of humanity.
+Absolutely nothing can stop that from happening,
+
+390
+00:46:56,420 --> 00:47:06,960
+because it already did. Thank you. [Applause]
+
