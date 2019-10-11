@@ -1,0 +1,1677 @@
+﻿1
+00:00:01,180 --> 00:00:13,480
+[ORGANISER] Andreas, please come up to the stage.
+[Applause]
+
+2
+00:00:13,480 --> 00:00:19,460
+[ANDREAS] Hello everyone. 
+Can you hear me well? Very good.
+
+3
+00:00:19,460 --> 00:00:27,550
+1. Bitcoin is dead. [Laughter] 
+Bitcoin is just a silly idea.
+
+4
+00:00:27,550 --> 00:00:37,710
+It clearly can't work. It won't scale. 
+It will fail. It has failed. It is dead.
+
+5
+00:00:37,710 --> 00:00:44,190
+The true innovation at the heart of this technology,
+the blockchain, is what matters.
+
+6
+00:00:44,190 --> 00:00:49,820
+This technology will create new opportunities
+in financial technology ("fintech") for banking
+
+7
+00:00:49,820 --> 00:01:01,260
+and financial services companies across the world,
+even while Bitcoin won't be able to succeed further.
+
+8
+00:01:01,260 --> 00:01:05,680
+2. Blockchain is a joke.
+Blockchain doesn't actually work.
+
+9
+00:01:05,680 --> 00:01:11,900
+Bitcoin is the only thing that matters. 
+Bitcoin will completely change banking.
+
+10
+00:01:11,900 --> 00:01:18,500
+It will make banking obsolete. All central banks
+will be destroyed in the path of Bitcoin.
+
+11
+00:01:18,500 --> 00:01:27,140
+Within just a decade, every currency in the
+world will be dominated by Bitcoin.
+
+12
+00:01:27,140 --> 00:01:35,650
+Both of these positions are ridiculous, simple-minded,
+puerile, and fundamentally wrong.
+
+13
+00:01:35,650 --> 00:01:43,300
+For every complex question, there is one very
+simple solution and it is wrong.
+
+14
+00:01:43,300 --> 00:01:48,490
+This is a very nuanced space. 
+It is a space that is brand new.
+
+15
+00:01:48,490 --> 00:01:53,200
+It is a space that has existed for only seven years.
+
+16
+00:01:53,200 --> 00:02:00,640
+Yes, it does represent something truly revolutionary:
+a fundamental change in our understanding of trust,
+
+17
+00:02:00,640 --> 00:02:08,620
+in the way we organise authority from hierarchical systems to network-centric flat systems.
+
+18
+00:02:08,620 --> 00:02:15,060
+It is a re-imagining of what it means to have
+currency, how currency derives its value.
+
+19
+00:02:15,060 --> 00:02:21,620
+It is a new system for disintermediating intermediaries. 
+It is a re-balancing of world affairs.
+
+20
+00:02:21,620 --> 00:02:28,580
+All of these things are true, but we don't
+really know how this is going to play out
+
+21
+00:02:28,580 --> 00:02:32,000
+-- which is the most exciting part of my job.
+
+22
+00:02:32,000 --> 00:02:37,900
+Bitcoin is one of the few spaces, one of the
+few experiences I've ever had in my life,
+
+23
+00:02:37,900 --> 00:02:44,879
+where I feel that I am sitting on the front
+rows of history, observing history in the making.
+
+24
+00:02:44,879 --> 00:02:50,549
+History is not the past, history is how we
+change the present to affect the future.
+
+25
+00:02:50,549 --> 00:02:53,290
+We are doing this right now worldwide.
+
+26
+00:02:53,290 --> 00:03:01,480
+By "we," I don't just mean Bitcoin. 
+I mean the much broader space.
+
+27
+00:03:01,480 --> 00:03:11,120
+Before we go to a very simplistic answer,
+what is called in some spaces "Bitcoin maximalism,"
+
+28
+00:03:11,120 --> 00:03:20,900
+or the opposite extreme where we discount Bitcoin
+as an unruly, rag-tag, anarcho-capitalist dream
+
+29
+00:03:20,900 --> 00:03:22,909
+that is silly on its face...
+
+30
+00:03:22,909 --> 00:03:30,180
+Something that "serious" people, scientists
+with PhDs, have said will soon die.
+
+31
+00:03:30,180 --> 00:03:35,360
+Before we go to these two extreme positions,
+we really need to understand the nuance.
+
+32
+00:03:35,360 --> 00:03:39,680
+What is Bitcoin? 
+What is the blockchain?
+
+33
+00:03:39,680 --> 00:03:44,680
+What do these things have at their very core
+which gives them the characteristics they have?
+
+34
+00:03:44,680 --> 00:03:49,409
+How do you tell them apart? 
+What are the differences between the systems?
+
+35
+00:03:49,409 --> 00:03:52,489
+What applications do they have?
+
+36
+00:03:52,489 --> 00:03:57,720
+My goal today is to really try to answer these questions.
+
+37
+00:03:57,720 --> 00:04:02,720
+What is Bitcoin? Bitcoin is the first blockchain.
+
+38
+00:04:02,720 --> 00:04:08,199
+Bitcoin is the largest open, global 
+blockchain that exists today.
+
+39
+00:04:08,199 --> 00:04:16,629
+Bitcoin is the first borderless, transnational, open
+system of access for financial payments and trust.
+
+40
+00:04:16,629 --> 00:04:23,760
+It enables innovation without permission, with high resistance to censorship, coercion,
+
+41
+00:04:23,760 --> 00:04:26,680
+and geopolitical manipulation.
+
+42
+00:04:26,680 --> 00:04:34,280
+Bitcoin is a mathematical proof system that is
+fundamentally neutral to [the identity of] participants.
+
+43
+00:04:34,280 --> 00:04:40,800
+It exhibits a principle that on the internet
+we call "net neutrality," and brings that to finance
+
+44
+00:04:40,800 --> 00:04:45,220
+-- which of course terrifies people.
+
+45
+00:04:45,220 --> 00:04:51,740
+Finance without concern for
+source, destination, or amount?
+
+46
+00:04:51,740 --> 00:04:57,120
+Neutral routing of transactions, equal for everyone?
+
+47
+00:04:57,120 --> 00:04:58,710
+That idea is terrifying.
+
+48
+00:04:58,710 --> 00:05:03,669
+Where [is authority involved]? 
+Where does trust come from?
+
+49
+00:05:03,669 --> 00:05:08,919
+It's almost as if, suddenly, we no longer
+pay attention to the New York Times.
+
+50
+00:05:08,919 --> 00:05:13,550
+Instead, anyone can publish
+their opinion without an editor.
+
+51
+00:05:13,550 --> 00:05:18,050
+What will the world come to?
+
+52
+00:05:18,050 --> 00:05:22,259
+What the internet did for communication, 
+bitcoin is doing for finance.
+
+53
+00:05:22,259 --> 00:05:27,730
+It is introducing a fundamentally different
+network-centric and flat system which allows us
+
+54
+00:05:27,730 --> 00:05:34,120
+to do transactions without recourse to 
+authority or intermediaries, that derives trust...
+
+55
+00:05:34,120 --> 00:05:40,500
+from the collaboration and computation
+of thousands of nodes.
+
+56
+00:05:40,500 --> 00:05:48,050
+It uses a blockchain, but the blockchain is
+one of several components that make Bitcoin work.
+
+57
+00:05:48,050 --> 00:05:53,699
+If you focus too much on the blockchain, 
+you may miss the point.
+
+58
+00:05:53,699 --> 00:05:56,440
+What is the most important technology of the internet?
+
+59
+00:05:56,440 --> 00:06:02,640
+What is the really important invention
+that makes the internet work?
+
+60
+00:06:02,640 --> 00:06:09,660
+TCP/IP? Packet-switching? TLS?
+
+61
+00:06:09,660 --> 00:06:17,080
+But to take the internet and consider it only
+as a packet-switching network, means that
+
+62
+00:06:17,080 --> 00:06:25,050
+the internet and an intranet or your
+local area network are equivalent.
+
+63
+00:06:25,050 --> 00:06:28,050
+Are they really?
+
+64
+00:06:28,050 --> 00:06:33,260
+Was the real opportunity to be able
+to do packet-switched networks?
+
+65
+00:06:33,260 --> 00:06:41,220
+Or is the power of the internet the fact that
+it is open, global, transnational, borderless,
+
+66
+00:06:41,220 --> 00:06:49,160
+censorship-resistant, open-access, and 
+anyone can innovate without permission?
+
+67
+00:06:49,160 --> 00:06:51,560
+This is the crucial issue.
+
+68
+00:06:51,560 --> 00:06:56,080
+Where does the value of bitcoin derive from?
+
+69
+00:06:56,080 --> 00:07:00,640
+Yes, it is a blockchain, but it is a very special blockchain.
+
+70
+00:07:00,640 --> 00:07:05,980
+It is a blockchain that uses, as its fundamental
+consensus mechanism, proof-of-work.
+
+71
+00:07:05,980 --> 00:07:11,920
+Proof-of-work gives it certain characteristics
+that are unattainable, so far as we know,
+
+72
+00:07:11,920 --> 00:07:14,640
+with other consensus mechanisms.
+
+73
+00:07:14,640 --> 00:07:21,569
+Bitcoin is fundamentally open, borderless,
+transnational, censorship-resistant, etc.
+
+74
+00:07:21,569 --> 00:07:28,389
+All of these characteristics are both
+what it is and what makes it powerful.
+
+75
+00:07:28,389 --> 00:07:38,480
+Ironically, they are also the things that most critics
+of Bitcoin point to as its greatest weaknesses.
+
+76
+00:07:38,480 --> 00:07:44,419
+"It cannot be allowed to exist if it is 
+borderless and open to access."
+
+77
+00:07:44,419 --> 00:07:50,309
+"If it has no ability to be controlled,
+it cannot be allowed to exist!"
+
+78
+00:07:50,309 --> 00:08:01,460
+Yet it exists. Bitcoin forgot to ask for permission.
+
+79
+00:08:01,460 --> 00:08:09,720
+Out of this grand experiment that has lasted
+seven years, we now have this really disruptive force
+
+80
+00:08:09,720 --> 00:08:14,759
+that is pushing us to re-imagine payment networks.
+
+81
+00:08:14,759 --> 00:08:23,510
+Out of that, we [saw] the most brilliant marketing campaign in the history of disruptive technologies.
+
+82
+00:08:23,510 --> 00:08:31,280
+Imagine if you've invented a new disruptive
+technology and within four or five years,
+
+83
+00:08:31,280 --> 00:08:39,719
+you manage to completely distract the incumbent
+by persuading them to follow in your footsteps
+
+84
+00:08:39,719 --> 00:08:44,420
+and adopt the central premise of your technology
+[under the assumption that they] can
+
+85
+00:08:44,420 --> 00:08:47,540
+"disrupt their own business from the inside-out."
+
+86
+00:08:47,540 --> 00:08:53,320
+If the Bitcoin community had presented banks
+with the idea of blockchains (as some of us did)
+
+87
+00:08:53,320 --> 00:09:04,740
+and said, "Put a billion dollars into training people
+on how to do things our way and work in our space."
+
+88
+00:09:04,740 --> 00:09:14,620
+Someone should have gotten the Nobel prize
+of marketing, the Oscar of disruptive distraction.
+
+89
+00:09:14,620 --> 00:09:26,140
+The truth is that the financial services environment seized on "Blockchain" because they saw within it
+
+90
+00:09:26,140 --> 00:09:36,300
+the possibility of using some elements 
+of Bitcoin without being disrupted.
+
+91
+00:09:36,300 --> 00:09:42,500
+But the blockchain is not the
+only thing that makes Bitcoin tick.
+
+92
+00:09:42,500 --> 00:09:47,810
+In this effort, we see many
+similarities to the early internet.
+
+93
+00:09:47,810 --> 00:09:53,160
+In the early days of the internet, when companies
+saw how it had no editorial control,
+
+94
+00:09:53,160 --> 00:09:57,220
+no centralised security mechanism,
+no barriers to access...
+
+95
+00:09:57,220 --> 00:10:01,910
+This represented a terrifying departure 
+from their model of IT.
+
+96
+00:10:01,910 --> 00:10:10,940
+As a result, most companies resisted and built
+intranets using TCP/IP, with heavy firewalls all around
+
+97
+00:10:10,940 --> 00:10:20,070
+to separate them, keep them controlled,
+give them editorial access, and "tame" the system.
+
+98
+00:10:20,070 --> 00:10:31,680
+They ended up with these stagnant islands
+which gradually became less and less secure.
+
+99
+00:10:31,680 --> 00:10:38,180
+Then we had the second wave of the internet, where
+many of the most effective and disruptive companies
+
+100
+00:10:38,180 --> 00:10:45,520
+in the space took their internal IT infrastructure,
+turned it inside-out to face the world,
+
+101
+00:10:45,520 --> 00:10:55,860
+put everything on the internet, and fully harnessed
+the collaborative potential of keeping an open system.
+
+102
+00:10:55,860 --> 00:11:06,500
+We no longer live in a world of Oracle and IBM, in a world
+[dominated by] enterprise computing and software.
+
+103
+00:11:06,500 --> 00:11:10,490
+Apple is driving your IT faster than Oracle.
+
+104
+00:11:10,490 --> 00:11:14,720
+Your systems are inside-out or they are stagnant.
+
+105
+00:11:14,720 --> 00:11:16,920
+Collaboration is the name of the game.
+
+106
+00:11:16,920 --> 00:11:22,300
+The most robust and secure systems are the
+ones that are on the internet, subject to attack
+
+107
+00:11:22,300 --> 00:11:26,300
+and competitive disruption every single day.
+
+108
+00:11:26,300 --> 00:11:30,680
+Through that process, they become more robust.
+
+109
+00:11:30,680 --> 00:11:39,270
+It is ironic that 15-20 years later, we're repeating
+this conversation with the blockchain.
+
+110
+00:11:39,270 --> 00:11:45,800
+The question is: if TCP/IP isn't the magic
+sauce, but the really interesting aspect is
+
+111
+00:11:45,800 --> 00:11:53,139
+the open-access, collaborative, global network,
+does that mean that intranets are useless?
+
+112
+00:11:53,139 --> 00:12:00,250
+Does that mean that TCP/IP on your LAN or
+your datacenter has no value? Of course not.
+
+113
+00:12:00,250 --> 00:12:06,100
+These are still powerful technologies
+and useful models of adopting.
+
+114
+00:12:06,100 --> 00:12:11,630
+However, the best thing you can do with an
+intranet is inter-connect it to other intranets.
+
+115
+00:12:11,630 --> 00:12:15,380
+For that, you need the internet.
+
+116
+00:12:15,380 --> 00:12:23,730
+Bitcoin is the internet of money. 
+Bitcoin is the de facto money of the internet.
+
+117
+00:12:23,730 --> 00:12:28,139
+Does that mean that Bitcoin will
+always be the internet of money?
+
+118
+00:12:28,139 --> 00:12:29,140
+No.
+
+119
+00:12:29,140 --> 00:12:35,850
+Does that mean that Bitcoin will always be
+the de facto money of the internet? No.
+
+120
+00:12:35,850 --> 00:12:44,120
+What is special about Bitcoin is that it represents
+the open blockchain; the blockchain that offers
+
+121
+00:12:44,120 --> 00:12:49,029
+anonymity, censorship resistance, open access,
+and innovation without permission.
+
+122
+00:12:49,029 --> 00:12:54,209
+That engine creates an explosion
+of innovative potential.
+
+123
+00:12:54,209 --> 00:13:00,180
+It connects the vast number of under-banked
+and un-banked people around the world.
+
+124
+00:13:00,180 --> 00:13:06,900
+About 4 billion people could become connected,
+through a simple Android phone
+
+125
+00:13:06,900 --> 00:13:14,740
+or a simpler Nokia text-messaging phone, 
+to the global financial network.
+
+126
+00:13:14,740 --> 00:13:20,339
+The open blockchain will change this world.
+
+127
+00:13:20,339 --> 00:13:27,540
+Today, there is one open blockchain that matters,
+and that is Bitcoin.
+
+128
+00:13:27,540 --> 00:13:35,960
+I can't predict that it will always be the only 
+open blockchain that matters, or the dominant one.
+
+129
+00:13:35,960 --> 00:13:40,879
+Why? Because it might not be "the best."
+
+130
+00:13:40,879 --> 00:13:44,800
+But very often, in technology, "the best" is not what wins.
+
+131
+00:13:44,800 --> 00:13:48,160
+TCP/IP wasn't "the best."
+
+132
+00:13:48,160 --> 00:13:57,319
+In fact, we now realise that it had fundamental
+problems in scaling, in addressing, in routing,
+
+133
+00:13:57,319 --> 00:13:59,510
+and many other things.
+
+134
+00:13:59,510 --> 00:14:07,860
+Yet TCP/IP was good enough at scale, with
+network effect, so fast that it became irreplaceable.
+
+135
+00:14:07,860 --> 00:14:10,600
+It has now become un-upgradeable.
+
+136
+00:14:10,600 --> 00:14:18,129
+TCP/IP is so embedded into global networking
+that it resists its own upgrade to IPv6,
+
+137
+00:14:18,129 --> 00:14:22,880
+and has resisted its own upgrade for almost 20 years.
+
+138
+00:14:22,880 --> 00:14:29,300
+"IPv6 is coming."
+IPv6 has been coming since 1995.
+
+139
+00:14:29,300 --> 00:14:42,080
+[Laughter] Any day now... But clearly, IPv4 is dead
+and the internet can't possibly scale beyond Usenet
+
+140
+00:14:42,080 --> 00:14:58,089
+to email and attachments, to voice, to video,
+to HD video, to Oculus VR 3D 4K capabilities.
+
+141
+00:14:58,089 --> 00:15:00,110
+Of course it possibly can't.
+
+142
+00:15:00,110 --> 00:15:06,440
+It doesn't for a while, until it does, and then 
+we shift the goal of what "scaling" means again.
+
+143
+00:15:06,440 --> 00:15:17,690
+Bitcoin can't scale to Visa, until it does. Bitcoin can't
+scale to a global transactional network, until it does.
+
+144
+00:15:17,690 --> 00:15:25,180
+But I can tell you what Bitcoin can scale to: 
+a $7-10 billion secure transnational network
+
+145
+00:15:25,180 --> 00:15:31,780
+that remains up and running for 24 hours per day,
+365 days per year, for seven years
+
+146
+00:15:31,780 --> 00:15:36,800
+without a single successful attack
+against the core protocol.
+
+147
+00:15:36,800 --> 00:15:43,840
+Not because there have been no attempts, but because
+Bitcoin has been under attack from the first day,
+
+148
+00:15:43,840 --> 00:15:49,880
+for 24 hours per day, [365 days per year], by some of the
+most sophisticated adversaries the world has seen.
+
+149
+00:15:49,880 --> 00:15:56,980
+[How do I know this]? Because Bitcoin has 
+a $7 billion security bounty for breaking it.
+
+150
+00:15:56,980 --> 00:16:10,102
+It is a system that is on the internet and lives right in the
+dirt, in the warzone of internet security, and it survives.
+
+151
+00:16:10,102 --> 00:16:17,689
+As it survives, it gets stronger every day.
+
+152
+00:16:17,689 --> 00:16:24,829
+If that's what Bitcoin is, maybe this will be 
+the one that becomes the internet of money.
+
+153
+00:16:24,829 --> 00:16:27,889
+I can't predict that.
+
+154
+00:16:27,889 --> 00:16:37,080
+What I can tell you without any uncertainty,
+is that the world of finance will forever be dominated
+
+155
+00:16:37,080 --> 00:16:46,460
+within less than two decades by open, global, transnational, censorship-resistant, largely anonymous,
+
+156
+00:16:46,460 --> 00:16:54,660
+privacy-protected payment networks 
+based on the exact model of Bitcoin.
+
+157
+00:16:54,660 --> 00:16:56,670
+With optimisations.
+
+158
+00:16:56,670 --> 00:17:09,220
+Maybe it will be something unrecognisable from
+what we still call Bitcoin, but the brand still works.
+
+159
+00:17:09,220 --> 00:17:12,820
+Or maybe we'll call it something else.
+
+160
+00:17:12,820 --> 00:17:20,000
+I remember, when I was in IT, how people kept
+telling me that Ethernet would not scale beyond 1Mb,
+
+161
+00:17:20,000 --> 00:17:23,980
+then 10Mb, then 100Mb, then 1Gb.
+
+162
+00:17:23,980 --> 00:17:29,540
+"It could never scale." Yet today,
+we're running 10Gb Ethernet over fibre.
+
+163
+00:17:29,540 --> 00:17:35,310
+Think about it for a second:
+what part of that is still Ethernet?
+
+164
+00:17:35,310 --> 00:17:41,780
+The brand, the frame size, and
+the physical address maybe.
+
+165
+00:17:41,780 --> 00:17:47,540
+The switching algorithm? Nope.
+The distribution mechanism? Nope.
+
+166
+00:17:47,540 --> 00:17:52,770
+The network topology? Nope. 
+None of that is the same.
+
+167
+00:17:52,770 --> 00:17:57,560
+What survived is the brand. 
+We still call "Ethernet" what we have today.
+
+168
+00:17:57,560 --> 00:18:00,250
+Therefore the question is: did Ethernet scale?
+
+169
+00:18:00,250 --> 00:18:04,430
+Sure did, as long as you keep
+changing what you call Ethernet.
+
+170
+00:18:04,430 --> 00:18:07,180
+Can Bitcoin scale? It depends.
+
+171
+00:18:07,180 --> 00:18:11,980
+What are the characteristics that
+define Bitcoin, unalterably?
+
+172
+00:18:11,980 --> 00:18:20,860
+The 21 million coin limit and predictable issuance rate.
+That is Bitcoin. You cannot change that.
+
+173
+00:18:20,860 --> 00:18:25,800
+The proof-of-work algorithm that is decentralised
+with pseudonymous participants? That is Bitcoin.
+
+174
+00:18:25,800 --> 00:18:31,890
+You cannot change that. 
+Everything else is up for negotiation.
+
+175
+00:18:31,890 --> 00:18:35,220
+We're going to maintain anonymity and privacy. 
+We're going to empower the world.
+
+176
+00:18:35,220 --> 00:18:45,680
+We're going to distribute these powerful tools
+of finance to everyone who has a smartphone.
+
+177
+00:18:45,680 --> 00:18:54,390
+When you think about this, we're not talking about
+everyone with a smartphone having a bank account.
+
+178
+00:18:54,390 --> 00:19:03,570
+We're talking about everyone with a smartphone
+having a bank, of which they are the CEO.
+
+179
+00:19:03,570 --> 00:19:13,360
+A bank with the potential of international wiring
+and settlement, market-making, loan origination
+
+180
+00:19:13,360 --> 00:19:25,080
+and termination, liquidity generation, and many other
+capabilities that today even many banks don't have.
+
+181
+00:19:25,080 --> 00:19:34,260
+One day, a decade or so from now, a six-year-old
+will be able to open a "bank" on their phone
+
+182
+00:19:34,260 --> 00:19:43,280
+and become a "banker," perhaps even issue
+their own currency and become a "central banker."
+
+183
+00:19:43,280 --> 00:19:52,690
+That sounds insane, but that is absolutely
+the world in which we now live, with the possibility
+
+184
+00:19:52,690 --> 00:20:02,060
+that any individual on this planet can issue an
+unforgeable, global, secure, instantaneous currency.
+
+185
+00:20:02,060 --> 00:20:07,550
+The recipe exists. Will it be Bitcoin or
+will it be something else? I don't know.
+
+186
+00:20:07,550 --> 00:20:16,840
+But it will be an open, global, private, censorship-
+resistant, transactional and transnational network.
+
+187
+00:20:16,840 --> 00:20:28,440
+Then the question becomes: what are we going to do
+with blockchains? What's going to happen to the banks?
+
+188
+00:20:28,440 --> 00:20:36,800
+Some of the banks will adapt. Blockchains 
+may have some very interesting applications.
+
+189
+00:20:36,800 --> 00:20:47,410
+Blockchains have certain useful characteristics as a
+technology. In general, blockchains are not an answer.
+
+190
+00:20:47,410 --> 00:20:55,690
+If you say, "I have a blockchain," what that
+prompts me to do is ask you questions.
+
+191
+00:20:55,690 --> 00:20:58,070
+It opens many questions.
+
+192
+00:20:58,070 --> 00:21:06,560
+For example, what is the consensus algorithm? 
+What is the control / governance structure?
+
+193
+00:21:06,560 --> 00:21:15,310
+What is the model for currency or token generation? 
+Who has the authority for issuance?
+
+194
+00:21:15,310 --> 00:21:18,750
+What are the characteristics for security?
+
+195
+00:21:18,750 --> 00:21:22,890
+If you start asking those questions, you can
+decide what type of blockchain this is.
+
+196
+00:21:22,890 --> 00:21:28,880
+Is it open or closed? Does it use proof-of-work
+or a different consensus algorithm?
+
+197
+00:21:28,880 --> 00:21:35,300
+Are we talking about a "proof-of-authority," 
+signing instead of mining,
+
+198
+00:21:35,300 --> 00:21:42,000
+centralised as a consensus consortium 
+between five or six banks, for example?
+
+199
+00:21:42,000 --> 00:21:49,080
+A closed, permission-based access
+model for specific participants?
+
+200
+00:21:49,080 --> 00:21:51,200
+Maybe that's what we're looking at.
+
+201
+00:21:51,200 --> 00:21:57,180
+But when you're talking about that, you need to
+understand what the limitations of that technology are.
+
+202
+00:21:57,180 --> 00:21:59,270
+What does it do and what does it not do?
+
+203
+00:21:59,270 --> 00:22:09,420
+Just because it is a blockchain doesn't mean
+it will do everything that you think it will do.
+
+204
+00:22:09,420 --> 00:22:17,340
+If I take a Formula One car that is beautifully designed
+for [driving] on a circuit, I could say...
+
+205
+00:22:17,340 --> 00:22:21,600
+this car can go 250 miles per hour.
+
+206
+00:22:21,600 --> 00:22:26,530
+Fantastic, but on what road?
+
+207
+00:22:26,530 --> 00:22:32,270
+If I take it into downtown Milan, my average speed
+will be 15 miles per hour because of traffic.
+
+208
+00:22:32,270 --> 00:22:36,100
+But even if, for whatever miraculous reason,
+the road ahead of me opened up and I tried
+
+209
+00:22:36,100 --> 00:22:43,190
+to go 250 miles per hour, the car would disintegrate
+because of the road surface conditions.
+
+210
+00:22:43,190 --> 00:22:47,200
+Just because it is a powerful vehicle doesn't
+mean that if you put it in a different context,
+
+211
+00:22:47,200 --> 00:22:49,740
+it can still operate.
+
+212
+00:22:49,740 --> 00:22:53,200
+It has to be suited for the purpose.
+
+213
+00:22:53,200 --> 00:22:57,330
+Let's examine some of the nuances. 
+First of all, immutability.
+
+214
+00:22:57,330 --> 00:23:03,060
+One of the things that people suggest blockchains
+have as an inherent characteristic is immutability.
+
+215
+00:23:03,060 --> 00:23:10,140
+[As in], once you can record something on
+a ledger, it cannot be changed.
+
+216
+00:23:10,140 --> 00:23:13,920
+But immutability is not a characteristic of blockchains;
+
+217
+00:23:13,920 --> 00:23:22,600
+immutability is an artefact of
+a proof-of-work consensus system.
+
+218
+00:23:22,600 --> 00:23:32,480
+The open blockchain, Bitcoin, has immutability
+because even if you control 100% of the mining power,
+
+219
+00:23:32,480 --> 00:23:37,460
+you cannot recreate an alternative version of history
+
+220
+00:23:37,460 --> 00:23:41,960
+by re-writing the blockchain without
+also presenting valid proof-of-work.
+
+221
+00:23:41,960 --> 00:23:45,110
+That needs to be computed.
+
+222
+00:23:45,110 --> 00:23:52,060
+You can only affect, with the most immense amount of computation (hundreds of hexahashes per second)...
+
+223
+00:23:52,060 --> 00:24:03,370
+Let's say you did have that.
+You could now affect hundreds of blocks.
+
+224
+00:24:03,370 --> 00:24:14,110
+You could re-write the history of this afternoon,
+but not yesterday, certainly not last week,
+
+225
+00:24:14,110 --> 00:24:16,540
+and most certainly not last year.
+
+226
+00:24:16,540 --> 00:24:20,140
+Even if you controlled all the hashing power
+currently in the world, it is impossible
+
+227
+00:24:20,140 --> 00:24:25,980
+to re-write the proof-of-work on the Bitcoin
+blockchain even two days in the past.
+
+228
+00:24:25,980 --> 00:24:30,120
+The amount of computation is unfathomable.
+
+229
+00:24:30,120 --> 00:24:36,710
+You'd have to wait for everybody else to stop doing
+[proof-of-work as well], while you re-calculate the past.
+
+230
+00:24:36,710 --> 00:24:44,920
+They will continue into the future, creating a longer
+blockchain, while you waste resources re-writing history.
+
+231
+00:24:44,920 --> 00:24:49,700
+Immutability is a characteristic of
+proof-of-work, not blockchains.
+
+232
+00:24:49,700 --> 00:24:52,960
+That has some very serious implications.
+
+233
+00:24:52,960 --> 00:25:04,960
+Censorship resistance and coercion resistance [depend
+on] the anonymous and decentralised nature of mining.
+
+234
+00:25:04,960 --> 00:25:07,920
+If you combine those two facts, you
+come up with some weird characteristics.
+
+235
+00:25:07,920 --> 00:25:12,520
+Let's say you have a consortium consensus
+mechanism that controls banking.
+
+236
+00:25:12,520 --> 00:25:17,420
+I don't know why you would apply that, but
+let's say you built a blockchain that uses six banks,
+
+237
+00:25:17,420 --> 00:25:25,420
+signing transactions in a round-robin fashion
+or sophisticated Byzantine consensus model that
+
+238
+00:25:25,420 --> 00:25:32,170
+you bought at great expense from a consultant.
+[Laughter]
+
+239
+00:25:32,170 --> 00:25:37,900
+What happens when you are served with a judicial
+order to re-write the history of the last year
+
+240
+00:25:37,900 --> 00:25:44,690
+and make the balance in the bank 
+account of WikiLeaks go to zero?
+
+241
+00:25:44,690 --> 00:25:51,200
+What happens if you're not served with a judicial
+order, but simply blackmailed through market pressure
+
+242
+00:25:51,200 --> 00:25:53,400
+or by a regulator to do that?
+
+243
+00:25:53,400 --> 00:25:55,960
+Not that it would ever happen...
+
+244
+00:25:55,960 --> 00:26:02,900
+I mean, in a democracy we don't just cut off the finances
+of WikiLeaks without any judicial process, do we?
+
+245
+00:26:02,900 --> 00:26:06,180
+[Laughter]
+
+246
+00:26:06,180 --> 00:26:10,360
+The problem is that you can actually coerce
+the participants in this system to re-write
+
+247
+00:26:10,360 --> 00:26:12,340
+the financial history of transactions.
+
+248
+00:26:12,340 --> 00:26:17,180
+That represents a moral hazard
+of extreme proportions.
+
+249
+00:26:17,180 --> 00:26:22,820
+The next question is: why would you use 
+such a thing for a settlement system?
+
+250
+00:26:22,820 --> 00:26:27,330
+This is something that mystifies me.
+
+251
+00:26:27,330 --> 00:26:36,780
+SWIFT is an antiquated pain in the butt, expensive,
+slow, and mired in geopolitical control.
+
+252
+00:26:36,780 --> 00:26:44,940
+The equity clearing systems are not as bad,
+but they're still expensive and slow.
+
+253
+00:26:44,940 --> 00:26:46,900
+Certainly, you're directing a lot of profit.
+
+254
+00:26:46,900 --> 00:26:56,820
+Why not just implement a banking consortium
+that does settlement internally? Well, I have an idea.
+
+255
+00:26:56,820 --> 00:27:03,040
+One of the things with a centralised clearinghouse
+is that they have maximum transactional efficiency
+
+256
+00:27:03,040 --> 00:27:08,280
+(billions of transactions per second is no problem).
+
+257
+00:27:08,280 --> 00:27:11,220
+A blockchain can't replicate that level of efficiency.
+
+258
+00:27:11,220 --> 00:27:14,070
+There's no way you can do it. 
+Physically it is impossible.
+
+259
+00:27:14,070 --> 00:27:17,490
+But let's say you [ignore that].
+
+260
+00:27:17,490 --> 00:27:26,660
+What you're saying is that you're going to replace
+a party that has no fiduciary interest in the equities
+
+261
+00:27:26,660 --> 00:27:32,670
+and instruments that they're clearing,
+that is not a market maker and participant,
+
+262
+00:27:32,670 --> 00:27:37,510
+that is completely independent by design,
+that gives you some guarantee of neutrality
+
+263
+00:27:37,510 --> 00:27:44,200
+through separation of concerns and duties...
+with a consortium of five banks that are themselves
+
+264
+00:27:44,200 --> 00:27:49,480
+market makers and participants and
+have enormous conflict of interest?
+
+265
+00:27:49,480 --> 00:28:02,150
+Until now at least, the brokerage game is gamed
+with front-running, algorithmic trading, and dark pools.
+
+266
+00:28:02,150 --> 00:28:11,970
+The futures' game is rigged, the foreign exchange
+game is rigged, but at least the settlement game isn't.
+
+267
+00:28:11,970 --> 00:28:17,610
+You're going to give that to a consortium
+of banks to do without any oversight?
+
+268
+00:28:17,610 --> 00:28:25,820
+You're going to do this with a blockchain
+that has full encryption, complete anonymity?
+
+269
+00:28:25,820 --> 00:28:27,250
+Well, that's a double-edged sword.
+
+270
+00:28:27,250 --> 00:28:31,380
+But if you make it fully transparent, then
+the first time that Anonymous gets in to that market
+
+271
+00:28:31,380 --> 00:28:36,910
+and leaks that blockchain, forget the Panama Papers!
+
+272
+00:28:36,910 --> 00:28:41,830
+This is Panama Terabytes! [Laughter] 
+Every transaction ever made.
+
+273
+00:28:41,830 --> 00:28:48,920
+I would love to see the black budgets of some
+governments come out when their blockchain leaks.
+
+274
+00:28:48,920 --> 00:28:50,890
+How do you protect the keys?
+
+275
+00:28:50,890 --> 00:28:55,270
+How do you protect the keys that are used
+to sign in this consensus algorithm?
+
+276
+00:28:55,270 --> 00:28:59,370
+You're creating an enormous concentration
+of risk there, from a security perspective.
+
+277
+00:28:59,370 --> 00:29:08,740
+If those keys are stolen, even just as a denial-of-service
+attack, that would lead to disastrous consequences.
+
+278
+00:29:08,740 --> 00:29:14,400
+But that's okay, right? Banks know
+how to keep information secret...
+
+279
+00:29:14,400 --> 00:29:17,680
+Oh wait, not even the NSA can do that.
+
+280
+00:29:17,680 --> 00:29:25,100
+There is no system in the world we can design
+that can keep information secret forever.
+
+281
+00:29:25,100 --> 00:29:32,540
+Bitcoin's answer is to decentralise the power so
+massively, as much as possible, that there is no place
+
+282
+00:29:32,540 --> 00:29:40,920
+to press a button / pull the lever and
+exert control, to force the system.
+
+283
+00:29:40,920 --> 00:29:44,780
+The whole point is decentralisation.
+
+284
+00:29:44,780 --> 00:29:49,740
+Blockchains can effectively decentralise 
+big parts of the financial system.
+
+285
+00:29:49,740 --> 00:29:55,370
+They will absolutely generate cost-savings for banks.
+
+286
+00:29:55,370 --> 00:30:01,040
+They will affect the margins, increase efficiency.
+
+287
+00:30:01,040 --> 00:30:05,650
+Like intranets, they will be very useful tools...
+
+288
+00:30:05,650 --> 00:30:10,620
+In fact, I think you should implement an overlay
+blockchain on top of Bitcoin for settlement
+
+289
+00:30:10,620 --> 00:30:17,660
+and replace SWIFT, swiftly! [Laughter]
+
+290
+00:30:17,660 --> 00:30:20,080
+In the end, it doesn't matter.
+
+291
+00:30:20,080 --> 00:30:27,740
+I'm not critical of blockchains because I am morally or
+ideologically opposed to banks continuing business.
+
+292
+00:30:27,740 --> 00:30:33,460
+I think banks have bigger problems than Bitcoin.
+
+293
+00:30:33,460 --> 00:30:41,700
+I have some questions about the practicality
+and applicability of blockchains without proof-of-work
+
+294
+00:30:41,700 --> 00:30:47,960
+and decentralisation; blockchains that
+are closed and not open to access,
+
+295
+00:30:47,960 --> 00:30:50,780
+which don't have permission-less innovation.
+
+296
+00:30:50,780 --> 00:30:57,500
+I don't think [that kind of blockchain]
+really delivers on the promise.
+
+297
+00:30:57,500 --> 00:31:02,190
+In the end, I really don't care.
+
+298
+00:31:02,190 --> 00:31:12,230
+I'm not interested in the 1% marginal decrease in cost
+of a settlement platform for interbank this and that.
+
+299
+00:31:12,230 --> 00:31:14,500
+I don't care.
+
+300
+00:31:14,500 --> 00:31:18,900
+There are four billion people who are under-banked.
+
+301
+00:31:18,900 --> 00:31:22,520
+With an open blockchain, we can change that.
+
+302
+00:31:22,520 --> 00:31:41,040
+That is the team I'm on. Thank you. [Applause]
+
+303
+00:31:41,040 --> 00:31:42,670
+[ORGANISER] Thank you, Andreas. 
+[ANDREAS] Thank you.
+
+304
+00:31:42,670 --> 00:31:48,850
+[ORGANISER] Thank you for your compelling
+view on the relationship between Bitcoin,
+
+305
+00:31:48,850 --> 00:31:52,320
+blockchain, and the future of our central banks.
+
+306
+00:31:52,320 --> 00:31:57,520
+We have a representative right here from the
+bank of Italy, the payment systems, the currency
+
+307
+00:31:57,520 --> 00:32:08,640
+we have in our wallet, our financial 
+institution clients, and us as consultants.
+
+308
+00:32:08,640 --> 00:32:16,820
+Before we go on to the next speaker, as you are
+so knowledgeable about Bitcoin, I have a question
+
+309
+00:32:16,820 --> 00:32:21,380
+on the compelling story of the day.
+
+310
+00:32:21,380 --> 00:32:25,270
+Who do you think is Satoshi Nakamoto? Do you know?
+
+311
+00:32:25,270 --> 00:32:31,720
+[Laughter] I have to inform you that
+we have journalists in the room, so...
+
+312
+00:32:31,720 --> 00:32:37,440
+[ANDREAS] I don't know. I don't care. It doesn't matter.
+
+313
+00:32:37,440 --> 00:32:42,720
+Bitcoin is not a system of proof by authority,
+or even reference to authority.
+
+314
+00:32:42,720 --> 00:32:48,020
+It is a system of independent,
+neutral, mathematical proof.
+
+315
+00:32:48,020 --> 00:32:57,520
+What that means is that it stands on its own
+without appeal to its author or creator.
+
+316
+00:32:57,520 --> 00:33:07,220
+I have no idea who Euclid was, or even if Euclid existed.
+
+317
+00:33:07,220 --> 00:33:15,080
+Euclidean geometry is part of my daily life
+whether Euclid existed or not, whether Euclid
+
+318
+00:33:15,080 --> 00:33:24,180
+was a group of people or an individual, whether
+Euclid was a nasty malicious pervert or a saint.
+
+319
+00:33:24,180 --> 00:33:32,740
+It doesn't matter. Some people will say, 
+"Yes but Satoshi Nakamoto has one million bitcoins."
+
+320
+00:33:32,740 --> 00:33:39,880
+"What happens if Satoshi Nakamoto sells 
+all one million bitcoins in one moment?"
+
+321
+00:33:39,880 --> 00:33:45,260
+I'm a bit more worried about what happens if China's
+central bank sells all of their dollars in one moment.
+
+322
+00:33:45,260 --> 00:33:49,120
+[Laughter] Percentage-wise, that's a bigger problem!
+
+323
+00:33:49,120 --> 00:33:51,880
+What happens if Saudi Arabia decides to...
+
+324
+00:33:51,880 --> 00:33:56,460
+change fundamental supply 
+characteristics of oil in one moment?
+
+325
+00:33:56,460 --> 00:34:06,790
+What happens if the Walmart family decides the yuan
+is a better investment and they exit the dollar?
+
+326
+00:34:06,790 --> 00:34:09,940
+Market fundamentals mean
+that [Satoshi doesn't] matter.
+
+327
+00:34:09,940 --> 00:34:13,440
+Bitcoin survives regardless.
+
+328
+00:34:13,440 --> 00:34:19,020
+The only thing the identity of Satoshi Nakamoto is guaranteed to deliver is sensationalist articles...
+
+329
+00:34:19,020 --> 00:34:21,880
+that give us more appeal to authority.
+
+330
+00:34:21,880 --> 00:34:29,880
+In the end, Bitcoin is not governed by Satoshi Nakamoto. 
+Bitcoin is governed by algorithms.
+
+331
+00:34:29,880 --> 00:34:33,840
+Thank you. 
+[ORGANISER] Thank you, Andreas. [Applause]
+
+332
+00:34:33,840 --> 00:34:35,200
+[ANDREAS] Do we have any time for questions?
+
+333
+00:34:35,200 --> 00:34:40,120
+[ORGANISER] We have many questions from
+the audience. As there are so many of you
+
+334
+00:34:40,120 --> 00:34:45,100
+and time is passing quickly, I would
+like for you to read one of them
+
+335
+00:34:45,100 --> 00:34:57,049
+and maybe [answer the rest] later on. 
+Otherwise we wouldn't have time for the next speaker.
+
+336
+00:34:57,049 --> 00:35:02,220
+Is there any question you would like to answer?
+
+337
+00:35:02,220 --> 00:35:12,520
+[ANDREAS] Let me see, just one second. 
+[ORGANISER] Sure.
+
+338
+00:35:12,520 --> 00:35:19,180
+[ANDREAS] I think "will the success of blockchains
+be defined by a push factor from the market...
+
+339
+00:35:19,180 --> 00:35:24,720
+or a pull factor" is happening now.
+
+340
+00:35:24,720 --> 00:35:36,820
+I'd like to shift that a tiny bit and talk about the
+global open blockchain, Bitcoin, as it exists today.
+
+341
+00:35:36,820 --> 00:35:43,670
+I had said that we "forgot to ask for permission,"
+but we also don't need support.
+
+342
+00:35:43,670 --> 00:35:49,880
+This is not a system that is going to work
+better if banks support it and back it.
+
+343
+00:35:49,880 --> 00:35:55,700
+It is not a system that is going to have an
+increase in trust if we add intermediaries.
+
+344
+00:35:55,700 --> 00:36:00,650
+It is not a system that will become better
+if we add identity and reputation systems,
+
+345
+00:36:00,650 --> 00:36:04,280
+thereby replicating the problems of the past.
+
+346
+00:36:04,280 --> 00:36:16,900
+It [does not intend] to replace Visa for a developed
+nation consumer buying a cup of coffee at Starbucks.
+
+347
+00:36:16,900 --> 00:36:22,520
+That is not the point. It is not a system
+that will replace national currencies.
+
+348
+00:36:22,520 --> 00:36:28,820
+Bitcoin will effect import / export businesses,
+international remittances, in-sourcing and
+
+349
+00:36:28,820 --> 00:36:33,220
+out-sourcing, and cross-border transactions
+where the friction is greatest.
+
+350
+00:36:33,220 --> 00:36:37,580
+It will serve those who are not being served by banks.
+
+351
+00:36:37,580 --> 00:36:44,230
+Bitcoin is irrelevant to banks
+because they cannot use it.
+
+352
+00:36:44,230 --> 00:36:49,500
+They cannot use it because banks are fundamentally
+imprisoned within a regulatory system that
+
+353
+00:36:49,500 --> 00:36:55,099
+does not permit them to use systems without identity.
+
+354
+00:36:55,099 --> 00:37:01,700
+Outside of that prison are four billion people who
+don't have identity, who can't be a part of that system.
+
+355
+00:37:01,700 --> 00:37:04,029
+But they can use Bitcoin.
+
+356
+00:37:04,029 --> 00:37:08,240
+They don't care about banking, and 
+banking doesn't care about them.
+
+357
+00:37:08,240 --> 00:37:14,200
+Thank you. [Applause]
+
