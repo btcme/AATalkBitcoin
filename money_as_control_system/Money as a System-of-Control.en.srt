@@ -1,0 +1,694 @@
+1
+00:00:00,660 --> 00:00:09,280
+The topic of today's talk is an interesting property
+of money that I want to explore with you.
+
+2
+00:00:09,280 --> 00:00:13,820
+I am calling this [talk],
+"Inside Out: [Money as a System of Control]."
+
+3
+00:00:13,820 --> 00:00:22,320
+Who here wants to tell me what the four 
+primary functions of money are? Anybody?
+
+4
+00:00:22,320 --> 00:00:26,680
+[AUDIENCE] Value exchange? 
+[ANDREAS] Medium of exchange, that is one.
+
+5
+00:00:26,680 --> 00:00:30,020
+[AUDIENCE] Fungibility? 
+[ANDREAS] Store of value, that is two.
+
+6
+00:00:30,020 --> 00:00:36,100
+[AUDIENCE] Fungibility? [ANDREAS] No. 
+That is not a use case for money, but it is a property.
+
+7
+00:00:36,100 --> 00:00:44,640
+Two more. Unit of account, very good.
+What is the fourth? System-of-control (SoC).
+
+8
+00:00:44,640 --> 00:00:51,540
+What? I don't remember reading that. 
+[Laughter] System of control, as it turns out.
+
+9
+00:00:51,540 --> 00:00:59,920
+We have had money for tens of thousands of years.
+It is really hard to tell how far back money goes.
+
+10
+00:00:59,920 --> 00:01:03,200
+But the money we have today is very different
+from the money we have had in the past;
+
+11
+00:01:03,200 --> 00:01:09,300
+something changed in the last 50 years that
+has fundamentally altered the course of money,
+
+12
+00:01:09,300 --> 00:01:16,390
+of currency, [which is a] system [for] 
+communicating value to other people.
+
+13
+00:01:16,390 --> 00:01:23,960
+We have the three components: medium of exchange
+(MoV), unit of account (UoA), and store of value (SoV).
+
+14
+00:01:23,960 --> 00:01:30,460
+Those have been around for millenia.
+And then something happened.
+
+15
+00:01:30,460 --> 00:01:40,130
+In 1970, Richard Nixon signed the Bank Secrecy
+Act and turned money into a system of control.
+
+16
+00:01:40,130 --> 00:01:52,300
+A system of control that uses money as a political tool,
+to control who is able to send or receive it...
+
+17
+00:01:52,300 --> 00:01:55,560
+and who [you] are able to send money to.
+
+18
+00:01:55,560 --> 00:02:06,220
+Ultimately, it aims [for] the complete surveillance
+of all financial transactions worldwide.
+
+19
+00:02:06,220 --> 00:02:14,200
+Complete, total, totalitarian financial surveillance.
+
+20
+00:02:14,200 --> 00:02:22,300
+This change, 50 years ago, has gradually 
+percolated throughout every country in the world,
+
+21
+00:02:22,300 --> 00:02:27,760
+every financial service in the world,
+every bank in the world.
+
+22
+00:02:27,760 --> 00:02:38,380
+In 1970, Richard Nixon deputised the financial services
+field, to turn them into a branch of law enforcement.
+
+23
+00:02:38,380 --> 00:02:49,460
+Law enforcement that is beyond borders,
+beyond jurisdictions, beyond due-process,
+
+24
+00:02:49,460 --> 00:02:56,460
+beyond political democratic control and recourse.
+
+25
+00:02:56,460 --> 00:03:03,720
+A cop can confiscate your money. A judge 
+can sign a warrant to freeze your accounts.
+
+26
+00:03:03,720 --> 00:03:13,220
+A bank can do both without authorisation from anyone
+and there is nothing you can do about it.
+
+27
+00:03:13,220 --> 00:03:22,520
+This applies world-wide. Money as a system of control
+supercedes all other functions of money.
+
+28
+00:03:22,520 --> 00:03:29,820
+When money is turned into an enforcement tool,
+the other functions start eroding.
+
+29
+00:03:29,820 --> 00:03:38,040
+It is no longer the best medium of exchange,
+because its function as a medium of exchange...
+
+30
+00:03:38,040 --> 00:03:45,780
+is subordinate to its function as a system
+of law enforcement, a system of control.
+
+31
+00:03:45,780 --> 00:03:53,200
+The system of control aspect corrupts everything.
+
+32
+00:03:53,200 --> 00:03:57,420
+We are now 25 years into the internet revolution.
+
+33
+00:03:57,420 --> 00:04:03,960
+Smartphones, cellphones, dumb phones... [tools for
+accessing the internet] have propagated out to...
+
+34
+00:04:03,960 --> 00:04:10,260
+more than 2.5 billion people who have 
+never had these technologies before.
+
+35
+00:04:10,260 --> 00:04:16,180
+But where is finance?
+Lagging fifteen to twenty years behind.
+
+36
+00:04:16,180 --> 00:04:21,980
+[Financial services] have not yet reached 
+2.5 billion people who are completely unbanked;
+
+37
+00:04:21,980 --> 00:04:25,580
+4 billion people underbanked.
+
+38
+00:04:25,580 --> 00:04:33,180
+Only about 1.5 billion people have the
+full, privileged, elite form of banking...
+
+39
+00:04:33,180 --> 00:04:37,400
+that we enjoy in most western liberal democracies.
+
+40
+00:04:37,400 --> 00:04:47,020
+Even there, there are tiers of access and control.
+How many people in this room are accredited investors?
+
+41
+00:04:47,020 --> 00:04:54,120
+Mhm, what a lovely bunch. [Laughter]
+
+42
+00:04:54,120 --> 00:05:03,240
+That puts you in the 1/10 of the 1/10
+of the 1/10 percentile of the world.
+
+43
+00:05:03,240 --> 00:05:05,280
+There are tiers within the financial system.
+
+44
+00:05:05,280 --> 00:05:12,860
+Some people who have better access and recourse,
+and some people who have complete immunity.
+
+45
+00:05:12,860 --> 00:05:23,160
+Some people can commit crimes against millions:
+robo foreclosures, Libor fraud, rigging the gold markets.
+
+46
+00:05:23,160 --> 00:05:27,040
+And no one will ever go to jail. Why?
+
+47
+00:05:27,040 --> 00:05:33,820
+Because when money becomes a system of control,
+financial services companies become deputies...
+
+48
+00:05:33,820 --> 00:05:36,300
+in this system of enforcement and control.
+
+49
+00:05:36,300 --> 00:05:45,720
+As deputies, they get some perks.
+One of the perks is: they never go to jail.
+
+50
+00:05:45,720 --> 00:05:50,640
+Well, with a few exceptions; there are some
+fundamental rules that always apply to our society.
+
+51
+00:05:50,640 --> 00:05:57,800
+Bernie Madoff went to jail. He made the mistake of
+stealing from rich people. Don't do that! [Laughter]
+
+52
+00:05:57,800 --> 00:06:08,740
+Foreclose [the homes of] 10 million poor people? Create
+3.5 million fake accounts in Wells Fargo? No problem.
+
+53
+00:06:08,740 --> 00:06:14,560
+Lose 143 million private records of 
+individuals [through a hack] at Equifax?
+
+54
+00:06:14,560 --> 00:06:21,140
+Let's see some bets.
+How many executives [will] go to jail? None.
+
+55
+00:06:21,140 --> 00:06:30,120
+A system of control corrupts the basis of money until
+it can no longer function as a medium of exchange.
+
+56
+00:06:30,120 --> 00:06:34,040
+It breeds economic exclusion.
+
+57
+00:06:34,040 --> 00:06:40,280
+We are now 25 years into the era of the internet and
+we are reaching fewer people with economic inclusion.
+
+58
+00:06:40,280 --> 00:06:43,400
+We are actually backtracking historically.
+
+59
+00:06:43,400 --> 00:06:50,620
+Increasingly, entire countries are being
+cut off from the world financial system.
+
+60
+00:06:50,620 --> 00:06:53,979
+You don't act in the best interests of the United States?
+
+61
+00:06:53,979 --> 00:06:59,470
+You lose your SWIFT code, you are no 
+longer part of the wire transfer network.
+
+62
+00:06:59,470 --> 00:07:07,160
+You [will] submit to the universal jurisdiction
+of American courts, like Switzerland had to do,
+
+63
+00:07:07,160 --> 00:07:10,320
+or you lose access to international banking.
+
+64
+00:07:10,320 --> 00:07:15,440
+You lose access to the reserve currency, 
+you lose access to the lifeblood [of trade].
+
+65
+00:07:15,440 --> 00:07:24,160
+This devil's bargain has made financial services
+unassailable from a point of competition.
+
+66
+00:07:24,160 --> 00:07:33,440
+They are surrounded by a thicket of regulations;
+these regulations are not about consumer protection,
+
+67
+00:07:33,440 --> 00:07:36,320
+consumers are most certainly not protected.
+
+68
+00:07:36,320 --> 00:07:40,260
+They are most certainly about
+the system of control of money.
+
+69
+00:07:40,260 --> 00:07:51,560
+They are about the policy enforcement, and sometimes
+politics enforcement, that comes with money.
+
+70
+00:07:51,560 --> 00:07:57,020
+Money does not flow freely.
+
+71
+00:07:57,020 --> 00:08:09,560
+I have some bad news. Those gold bars surrounding and
+protecting banks from competition are a gilded cage.
+
+72
+00:08:09,560 --> 00:08:16,200
+A cage that keeps them inside a system of
+regulation, prevents competition from the outside,
+
+73
+00:08:16,200 --> 00:08:22,680
+but also prevents them from acting on innovative
+[ideas] in free markets, expanding their businesses,
+
+74
+00:08:22,680 --> 00:08:27,680
+unless they subordinate it
+to a system of control.
+
+75
+00:08:27,680 --> 00:08:33,020
+The store-of-value [use case] no longer works;
+you cannot store value in a currency...
+
+76
+00:08:33,020 --> 00:08:39,140
+that can be confiscated at a whim,
+frozen by any banker, at any point in time.
+
+77
+00:08:39,140 --> 00:08:42,020
+That is not a stable store of value.
+
+78
+00:08:42,020 --> 00:08:50,240
+You cannot use it as your currency reserve to buy oil,
+or as your foreign exchange reserve in your country.
+
+79
+00:08:50,240 --> 00:09:01,700
+If you cross the superpowers, they will cut off
+your access and you will not be able to [buy] oil.
+
+80
+00:09:01,700 --> 00:09:09,600
+You cannot use money as a medium of exchange
+if you cannot exchange it freely with whoever you want.
+
+81
+00:09:09,600 --> 00:09:17,060
+Gradually, the corruption spreads and spreads.
+
+82
+00:09:17,060 --> 00:09:25,040
+Now, something new arrives on the horizon:
+a system of money that [operates] on a network.
+
+83
+00:09:25,040 --> 00:09:33,280
+It is first and foremost a medium of exchange, a store
+of value, and one day (potentially) a unit of account.
+
+84
+00:09:33,280 --> 00:09:40,800
+But it will never become a system of control;
+it refuses to become a system of control.
+
+85
+00:09:40,800 --> 00:09:53,600
+In fact, its design principles are about neutrality,
+openness, borderless access, censorship resistance.
+
+86
+00:09:53,600 --> 00:10:04,120
+The banks can't play in that space. They are stuck
+inside their gilded cage, playing cop for superpowers...
+
+87
+00:10:04,120 --> 00:10:11,480
+and [only] offering [financial] services to
+a tiny fraction of the human population.
+
+88
+00:10:11,490 --> 00:10:22,329
+They are sacrificing 4 billion people on the 
+altar of poverty in order to create a nice, fake,
+
+89
+00:10:22,329 --> 00:10:29,800
+bourgeois sense of security among
+the middle class -- by selling them lies.
+
+90
+00:10:29,800 --> 00:10:38,009
+FDIC: 'Don't worry, your money is insured.' Right?
+
+91
+00:10:38,009 --> 00:10:44,920
+How many people here have FDIC or equivalent
+insurance on their bank accounts?
+
+92
+00:10:44,920 --> 00:10:49,300
+How many Greeks do you think had 
+insurance on their bank accounts?
+
+93
+00:10:49,300 --> 00:10:56,400
+All of them. What happened to that?
+[Their savings went] poof! in one afternoon.
+
+94
+00:10:56,400 --> 00:10:59,080
+Vanished, with a 20% haircut.
+
+95
+00:10:59,080 --> 00:11:07,620
+Whose insurance? Does it insure you or does it
+insure the banks? What does it insure against?
+
+96
+00:11:07,620 --> 00:11:14,240
+Small failure, not big failures.
+Big failures are uninsureable.
+
+97
+00:11:14,240 --> 00:11:22,740
+How many of you have money in banks?
+None of you have money in banks. [Laughter]
+
+98
+00:11:22,740 --> 00:11:32,140
+I mean, please. Many of you are lawyers, right?
+You understand bailment. It is not your money.
+
+99
+00:11:32,140 --> 00:11:38,820
+You have an "account," which is a legal construct
+that they give you in exchange for giving them...
+
+100
+00:11:38,820 --> 00:11:44,780
+your money as an unsecured loan, so that
+they can finance credit to their customers.
+
+101
+00:11:44,780 --> 00:11:49,320
+Legally, you don't own any of
+the money that is in your account!
+
+102
+00:11:49,320 --> 00:11:57,480
+You have a legal construct that possibly, maybe
+entitles you to withdraw at the pace they [set],
+
+103
+00:11:57,480 --> 00:12:07,860
+unless you cross the wrong person, go to the wrong
+protest, associate with the wrong organisation,
+
+104
+00:12:07,860 --> 00:12:09,580
+or vote for the wrong party.
+
+105
+00:12:09,580 --> 00:12:12,540
+Sure, maybe that is not happening in Canada.
+
+106
+00:12:12,540 --> 00:12:18,220
+But out of a hundred and ninety-four countries, this
+model of turning money into a system of control...
+
+107
+00:12:18,220 --> 00:12:23,720
+has taken off like wildfire,
+because it is every dictator's wet dream.
+
+108
+00:12:23,720 --> 00:12:32,320
+It ensures that political dissent can be 
+snuffed at the bank, very effectively.
+
+109
+00:12:32,320 --> 00:12:36,900
+It is one of the most effective
+systems of control that exist.
+
+110
+00:12:36,900 --> 00:12:45,700
+Now it has to face competition from a system
+that will not do that, cannot be made to do that,
+
+111
+00:12:45,700 --> 00:12:52,340
+will not yield or be co-opted.
+
+112
+00:12:52,340 --> 00:13:00,200
+What is the response? "Bitcoin is a joke."
+"Cryptocurrencies are outside the system."
+
+113
+00:13:00,200 --> 00:13:07,260
+"Nobody wants to be outside the system." 
+Guess what? There are 6 billion people out there.
+
+114
+00:13:07,260 --> 00:13:11,460
+[Most of them] don't want to be outside the 
+system; they would much rather be inside.
+
+115
+00:13:11,460 --> 00:13:16,340
+But they haven't been invited
+and they probably won't be.
+
+116
+00:13:16,340 --> 00:13:23,240
+Many of them can't do the things that are
+necessary to be invited into the system.
+
+117
+00:13:23,240 --> 00:13:34,100
+Guess what? There is an entire generation that
+has discovered the two [vital] forms of power:
+
+118
+00:13:34,100 --> 00:13:39,120
+the first form is voice,
+the second form is exit.
+
+119
+00:13:39,120 --> 00:13:45,200
+You either speak up with your voice, and 
+express your political will to force change.
+
+120
+00:13:45,200 --> 00:13:53,340
+When that doesn't work, you [opt for] the 
+second [vital[ power that all humans have: exit.
+
+121
+00:13:53,340 --> 00:14:01,960
+Borders have been erected for millenia
+to prevent exit, to slow down exit.
+
+122
+00:14:01,960 --> 00:14:11,200
+You can't easily emigrate, opt out, depart, exit.
+
+123
+00:14:11,200 --> 00:14:16,840
+What happens when exit is not
+a physical act, but a virtual act?
+
+124
+00:14:16,840 --> 00:14:23,320
+What happens when people decide to exit 
+from the financial system in a virtual way?
+
+125
+00:14:23,320 --> 00:14:29,680
+VR-exit? Bit-exit? [Laughter]
+
+126
+00:14:29,680 --> 00:14:34,819
+You can keep the inside of the gilded cage.
+
+127
+00:14:34,820 --> 00:14:44,080
+It is demographically stagnated, over-leveraged, 
+swimming in debt, and out of control.
+
+128
+00:14:44,080 --> 00:14:49,240
+It serves a tiny sliver of the population. You can keep it.
+
+129
+00:14:49,240 --> 00:14:56,840
+An entire generation of Millennials no longer 
+believe in that fiction of bank security,
+
+130
+00:14:56,840 --> 00:15:05,459
+of deferred earnings, of interest rates and mortgages.
+
+131
+00:15:05,460 --> 00:15:09,900
+They will exit; they are exiting in droves.
+
+132
+00:15:09,900 --> 00:15:17,280
+Not just here, but even more so in the countries
+where the existing system of insider finance...
+
+133
+00:15:17,280 --> 00:15:23,220
+and the system of control are
+used despotically, oppressively.
+
+134
+00:15:23,220 --> 00:15:28,220
+China is exiting in droves and it has barely started.
+
+135
+00:15:28,220 --> 00:15:36,560
+Bitcoin has been around for nine years. 
+What does the insider group do?
+
+136
+00:15:36,560 --> 00:15:42,320
+What do the regulators do in response
+to a system that cannot be regulated?
+
+137
+00:15:42,320 --> 00:15:53,800
+They regulate the bits they can: the exchanges,
+bank accounts, and national currency side of things.
+
+138
+00:15:53,800 --> 00:16:03,260
+They shut down the on-ramps and off-ramps. 
+They say, "We will not let you take your money with you."
+
+139
+00:16:03,260 --> 00:16:08,900
+What do Millennials say to that? 
+"Dude... I don't have any fucking money!"
+
+140
+00:16:08,900 --> 00:16:17,200
+[Laughter] "All I have is my creative 
+potential, my spirit, my productivity."
+
+141
+00:16:17,200 --> 00:16:24,900
+"I can sell that directly for bitcoin without 
+an exchange, an on-ramp or an off-ramp."
+
+142
+00:16:24,900 --> 00:16:29,680
+"When I need to buy something,
+I will use my digital currency directly...
+
+143
+00:16:29,680 --> 00:16:34,840
+without re-entering your system
+- to which I was never invited."
+
+144
+00:16:34,840 --> 00:16:42,540
+"Shut down the on-ramps, shut down the off-ramps.
+I will stay on board. I will stay digital."
+
+145
+00:16:42,540 --> 00:16:51,120
+I won't touch your gilded cage anymore, 
+because I don't need you. I exit." Thank you.
+

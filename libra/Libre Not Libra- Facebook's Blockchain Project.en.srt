@@ -1,0 +1,1755 @@
+1
+00:00:00,020 --> 00:00:08,120
+I think you are all probably thinking the same thing.
+You have a burning question. I felt like...
+
+2
+00:00:08,120 --> 00:00:13,540
+I wouldn't be able to do the rest of my speaking tour
+without addressing this burning question.
+
+3
+00:00:13,540 --> 00:00:26,140
+I was bombarded on Twitter today with the same
+question: "Have you tasted haggis?" [Laughter]
+
+4
+00:00:26,140 --> 00:00:29,800
+The answer is, "No, I'm too scared."
+
+5
+00:00:29,800 --> 00:00:35,380
+I made the mistake of reading about
+how it is made before tasting it.
+
+6
+00:00:35,380 --> 00:00:40,280
+I've been told that you should do it the other
+way around, because then it is a lot less scary.
+
+7
+00:00:40,280 --> 00:00:46,240
+I'm trying to build up the courage. I have been
+told that the best way to [eat] this is in a burger.
+
+8
+00:00:46,240 --> 00:00:52,320
+I don't know if that is actually true. No? Okay.
+There is a big disagreement in the room.
+
+9
+00:00:52,320 --> 00:01:04,260
+On the count of three, all those in favor of haggis burger,
+[raise your hand]. Nobody? Okay. Haggis for breakfast?
+
+10
+00:01:04,260 --> 00:01:13,100
+[AUDIENCE] Yeah! [ANDREAS] Ah, okay.
+Are there other formulations I should try?
+
+11
+00:01:13,100 --> 00:01:20,380
+[AUDIENCE] Haggis on toast!
+[ANDREAS] Haggis on toast, very good...
+
+12
+00:01:20,380 --> 00:01:28,360
+[AUDIENCE] Intravenous. [Laughter]
+
+13
+00:01:28,360 --> 00:01:34,640
+[ANDREAS] How about a corporate-sponsored
+haggis that is pretending to be an open haggis?
+
+14
+00:01:34,640 --> 00:01:42,180
+[Laughter] And was launched this morning? Okay.
+Let's talk about the elephant in the room: Libra.
+
+15
+00:01:42,180 --> 00:01:49,580
+This morning, you probably heard that 
+Facebook announced their "cryptocurrency," Libra.
+
+16
+00:01:49,580 --> 00:01:56,280
+Whenever the price of bitcoin goes down,
+I receive calls from friends and family,
+
+17
+00:01:56,280 --> 00:02:09,120
+asking if I am okay. "Are you okay? Is everything okay?"
+This time, I actually got a call from a friend's mother.
+
+18
+00:02:09,120 --> 00:02:13,500
+She asked me if I'm okay and
+the price has not even dropped!
+
+19
+00:02:13,500 --> 00:02:23,180
+Just the fact that Facebook launched a cryptocurrency
+led to the "Are you okay? Are you holding up?" question.
+
+20
+00:02:23,180 --> 00:02:31,460
+"Do we need to airlift you out of Europe?" I am okay.
+
+21
+00:02:31,460 --> 00:02:40,000
+I talked about this two or three years ago, 
+that one day we would see this happen.
+
+22
+00:02:40,000 --> 00:02:46,180
+Today is the day, right? It is now happening.
+
+23
+00:02:46,180 --> 00:02:52,060
+But what exactly happened?
+What can we talk about today?
+
+24
+00:02:52,060 --> 00:03:04,600
+This morning, Facebook released a white paper.
+Not a cryptocurrency. Not a network. Not a project.
+
+25
+00:03:04,600 --> 00:03:06,460
+Not even an application.
+
+26
+00:03:06,460 --> 00:03:14,040
+Just a white paper. Everybody is freaking out because
+they wrote a whitepaper. But there is a long road...
+
+27
+00:03:14,040 --> 00:03:23,040
+to go between the white paper and a production
+network available to two billion users, wrapped in...
+
+28
+00:03:23,040 --> 00:03:28,340
+a candy-colored Farmville interface.
+
+29
+00:03:28,340 --> 00:03:35,820
+But when they released the white paper, people became
+really excited. How many of you read the white paper?
+
+30
+00:03:35,820 --> 00:03:42,420
+Excellent, quite a few. I'll be honest with you,
+I did a brief skim. It has been a busy day.
+
+31
+00:03:42,420 --> 00:03:48,880
+I received a bunch of calls from journalists who
+wanted to talk about it. I am not ready to talk about it.
+
+32
+00:03:48,880 --> 00:03:54,820
+This will take a lot more study. I will not
+talk too much about the technology today.
+
+33
+00:03:54,820 --> 00:04:03,240
+We don't really know how this will play out. 
+I want to talk about what has changed.
+
+34
+00:04:03,240 --> 00:04:09,220
+Everything changed this morning. This is something
+we have been predicting for more than three years.
+
+35
+00:04:09,220 --> 00:04:17,320
+It changes everything, whether or not 
+Facebook is able to get Libra into production.
+
+36
+00:04:17,320 --> 00:04:25,860
+The mere fact that this whitepaper was dropped
+has now set the bar. They dropped the gauntlet.
+
+37
+00:04:25,860 --> 00:04:36,020
+Silicon Valley is coming for banking in a big way.
+We predicted that this would happen.
+
+38
+00:04:36,020 --> 00:04:44,260
+A lot of people thought it would be Amazon first.
+But turns out, it is Facebook - which is much worse...
+
+39
+00:04:44,260 --> 00:04:48,480
+than anyone had imagined possible. [Laughter]
+
+40
+00:04:48,480 --> 00:04:58,000
+All right, about the whitepaper. If you haven't looked, this
+is a collaboration [between about] thirty [companies].
+
+41
+00:04:58,000 --> 00:05:06,040
+I have a feeling that within Facebook- Some people
+are saying this is the result of a year's effort.
+
+42
+00:05:06,040 --> 00:05:15,000
+I have a feeling that they created this incubator /
+sandbox innovation lab, gathered thirty to forty...
+
+43
+00:05:15,000 --> 00:05:25,280
+bright people, locked them in a room, and slid pizzas
+under the door until the whitepaper came out.
+
+44
+00:05:25,280 --> 00:05:39,360
+The whitepaper is actually very impressive, in terms of
+the technology vision. These people are very serious.
+
+45
+00:05:39,360 --> 00:05:44,400
+[They seem] well-informed about what we are doing
+in the cryptocurrency and blockchain space.
+
+46
+00:05:44,400 --> 00:05:52,760
+They cherry-picked some features of the best
+cryptocurrencies, the state-of-the-art technology,
+
+47
+00:05:52,760 --> 00:05:57,080
+and then they [plan to] advance it a bit.
+
+48
+00:05:57,080 --> 00:06:02,880
+They synthesized it into something that [sounds]
+quite impressive from a technology perspective.
+
+49
+00:06:02,880 --> 00:06:11,620
+It has taken ideas from Ethereum, like a virtual
+machine for execution of smart contracts and gas.
+
+50
+00:06:11,620 --> 00:06:19,880
+A Merkle state tree that can be added to Merkle
+Mountain Ranges, or the Ethereum state tree.
+
+51
+00:06:19,880 --> 00:06:29,180
+An embedded or intrinsic digital currency. 
+A proof-of-authority, federated network of validators,
+
+52
+00:06:29,180 --> 00:06:39,580
+similar to Ripple or EOS, things that
+are kind of blockchains but not quite.
+
+53
+00:06:39,580 --> 00:06:46,580
+Their consensus algorithm is not exactly new.
+It is a Byzantine fault tolerant consensus algorithm,
+
+54
+00:06:46,580 --> 00:06:50,980
+which is not proof of work, but they say 
+they want to move it to proof-of-stake.
+
+55
+00:06:50,980 --> 00:06:55,340
+Some very interesting stuff there.
+They mashed [these components] together...
+
+56
+00:06:55,340 --> 00:06:59,040
+and created something that is impressive 
+from a technology perspective.
+
+57
+00:06:59,040 --> 00:07:04,940
+It is impressive because of who did it,
+not based on what was actually done.
+
+58
+00:07:04,940 --> 00:07:11,180
+If I had released that whitepaper with thirty 
+collaborators, everybody would have [shrugged it off].
+
+59
+00:07:11,180 --> 00:07:13,940
+"Okay, there's another blockchain..."
+
+60
+00:07:13,940 --> 00:07:23,160
+But when a company with two billion users does that,
+people understand that this could have a big impact.
+
+61
+00:07:23,160 --> 00:07:33,200
+Now we will see whether this [idea] survives its
+first contact with Facebook's corporate [managers].
+
+62
+00:07:33,200 --> 00:07:41,100
+At the moment, this is an incubated project.
+It is idealistic. It is [rather] aggressive in its vision.
+
+63
+00:07:41,100 --> 00:07:47,740
+It is focused on being decentralized,
+a bit now and even more in the future.
+
+64
+00:07:47,740 --> 00:07:54,380
+Permissioned now, permissionless in the future.
+Proof-of-authority now, proof-of-stake in the future.
+
+65
+00:07:54,380 --> 00:07:57,220
+A very progressive, aggressive vision.
+
+66
+00:07:57,220 --> 00:08:02,760
+But that vision will run straight into a bunch of
+MBAs and lawyers at Facebook headquarters.
+
+67
+00:08:02,760 --> 00:08:10,580
+"Whoa there!" [Laughter]
+Or maybe not. Let's see.
+
+68
+00:08:10,580 --> 00:08:16,360
+It will be really interesting to see how much 
+of this vision survives into deployment.
+
+69
+00:08:16,360 --> 00:08:28,220
+That will determine what happens next. If it survives
+into deployment, it could become very successful...
+
+70
+00:08:28,220 --> 00:08:30,420
+and a huge moneymaker.
+
+71
+00:08:30,420 --> 00:08:34,180
+The MBAs will become very excited.
+
+72
+00:08:34,180 --> 00:08:40,060
+Some things in the white paper are quite surprising.
+For example, the use of an association to segregate it...
+
+73
+00:08:40,060 --> 00:08:46,320
+from Facebook, and a promise to not use the
+profile information on your Facebook account.
+
+74
+00:08:46,320 --> 00:08:51,000
+Do you have a Facebook account? I sure as hell don't.
+
+75
+00:08:51,000 --> 00:08:59,720
+[Will they] use that in collaboration with the currency?
+That would be a no-no, right?
+
+76
+00:08:59,720 --> 00:09:06,200
+At the moment, it says that information
+will not be shared and used for surveillance.
+
+77
+00:09:06,200 --> 00:09:15,940
+It will not be used for any of these- Oh, one second.
+Sorry. "We are sending you this very important email...
+
+78
+00:09:15,940 --> 00:09:24,660
+to notify you about changes to our Terms & Conditions.
+Please reading the following 600 pages of gibberish...
+
+79
+00:09:24,660 --> 00:09:29,560
+to understand how we completely removed 
+due-process and your privacy. Thank you very much!"
+
+80
+00:09:29,560 --> 00:09:31,460
+"The Facebook Team." [Laughter]
+
+81
+00:09:31,460 --> 00:09:36,380
+So that email just came to me from the future.
+It was written by an MBA.
+
+82
+00:09:36,380 --> 00:09:40,660
+It will change all of those promises
+the moment this becomes successful.
+
+83
+00:09:40,660 --> 00:09:46,060
+If you think that I'm kidding,
+look at what happened to Whatsapp.
+
+84
+00:09:46,060 --> 00:09:51,640
+The founders of that company started
+with the same kind of idealistic vision,
+
+85
+00:09:51,640 --> 00:10:00,820
+and left, forgoing hundreds of millions of 
+dollars in pay and bonuses. "Use Signal."
+
+86
+00:10:00,820 --> 00:10:07,260
+"Do not use Whatsapp if you are a dissident,
+an activist, or a political operative."
+
+87
+00:10:07,260 --> 00:10:13,640
+"If your communication's confidentiality will 
+make the difference between surviving or not,
+
+88
+00:10:13,640 --> 00:10:23,340
+if you are one of the millions of people who is marching
+in Hong Kong this week, don't use Whatsapp."
+
+89
+00:10:23,340 --> 00:10:30,720
+Will something similar happen? I'm a bit of a cynic.
+I think that large corporations have a tendency to...
+
+90
+00:10:30,720 --> 00:10:38,400
+swallow innovation, rip out the disruptive 
+[parts], and spit out something neutered.
+
+91
+00:10:38,400 --> 00:10:46,040
+Something that is profit-making while exploiting users,
+because that is their obligation to their shareholders.
+
+92
+00:10:46,040 --> 00:10:50,800
+But we will see. Maybe it won't be so.
+
+93
+00:10:50,800 --> 00:10:53,840
+That is what happened on the
+technical front this morning.
+
+94
+00:10:53,840 --> 00:10:58,180
+Now, everybody is trying to solve
+what I call the three-body problem.
+
+95
+00:10:58,180 --> 00:11:07,160
+Until now, we were looking at this space as 
+the interaction between two major forces:
+
+96
+00:11:07,160 --> 00:11:16,100
+on one side, we have nation-state fiat money,
+as we derisively call it in the crypto space;
+
+97
+00:11:16,100 --> 00:11:23,820
+on the other side, we have the people's money, open
+and borderless cryptocurrency for everyone to use.
+
+98
+00:11:23,820 --> 00:11:30,540
+These two forces are orbiting and
+exerting pressure on each other.
+
+99
+00:11:30,540 --> 00:11:36,500
+Right now, cryptocurrencies are
+a [bunch of] tiny little asteroids.
+
+100
+00:11:36,500 --> 00:11:44,820
+Fiat is a big planet full of very successful life forms,
+who are looking up at the sky and wondering,
+
+101
+00:11:44,820 --> 00:11:52,400
+"What is that shiny thing? It seems to be getting bigger."
+You know, the experience of the dinosaurs.
+
+102
+00:11:52,400 --> 00:11:56,900
+[Some say], "Don't worry, it's pretty.
+Look at how nice the sunset looks!"
+
+103
+00:11:56,900 --> 00:12:00,020
+"Oh, it keeps getting bigger..."
+
+104
+00:12:00,020 --> 00:12:05,200
+Solving the two-body problem from a political
+perspective, trying to figure out what happens...
+
+105
+00:12:05,200 --> 00:12:10,840
+when nation-states and open cryptocurrencies collide,
+is difficult enough.
+
+106
+00:12:10,840 --> 00:12:16,340
+We can't tell, because nations are 
+positioning themselves in different ways.
+
+107
+00:12:16,340 --> 00:12:25,420
+Some are freaked out and ban it outright. 
+China has banned it about 1,726 times so far.
+
+108
+00:12:25,420 --> 00:12:31,480
+All ineffectively. India has banned it, kind of, twice.
+
+109
+00:12:31,480 --> 00:12:41,600
+Ecuador was one of the first to ban it completely.
+Yet in many advanced nations, cryptocurrencies...
+
+110
+00:12:41,600 --> 00:12:45,140
+have actually been thriving.
+
+111
+00:12:45,140 --> 00:12:55,320
+In what we call "free societies," the idea of banning
+private currency is constitutionally problematic.
+
+112
+00:12:55,320 --> 00:13:02,140
+Both the United States' Constitution and 
+the United Kingdom's constitution protect freedom-
+
+113
+00:13:02,140 --> 00:13:05,700
+Oh, wait. You don't have [a constitution]. 
+Anyway... [Laughter]
+
+114
+00:13:05,700 --> 00:13:11,440
+The Magna Carta, let's say, protects freedom of speech.
+Money is a form of political speech.
+
+115
+00:13:11,440 --> 00:13:16,160
+That is something cherished in free societies.
+It is not so easy to just ban [cryptocurrencies].
+
+116
+00:13:16,160 --> 00:13:27,720
+But there was a lot of tension this morning, with a big
+discussion on Twitter that I reluctantly got involved in.
+
+117
+00:13:27,720 --> 00:13:38,180
+It was about whether Facebook's Libra is a 
+cryptocurrency or not. Let's take a quick poll.
+
+118
+00:13:38,180 --> 00:13:45,580
+All those who say that it is a cryptocurrency, [raise
+your hand]. All those who say it is not, [raise your hand].
+
+119
+00:13:45,580 --> 00:13:54,820
+All those who haven't decided yet, [raise your hand].
+That is okay. I don't think that question makes sense.
+
+120
+00:13:54,820 --> 00:14:05,980
+It doesn't make sense because Facebook's 
+Libra is new. It is a corporate digital currency.
+
+121
+00:14:05,980 --> 00:14:18,900
+We haven't seen corporate currencies since the
+opium wars, medieval feudalism, and the Medici.
+
+122
+00:14:18,900 --> 00:14:35,140
+How fitting that with the dawn of corporate neo-
+feudalism, one of the leading corporate states,
+
+123
+00:14:35,140 --> 00:14:40,360
+the supra-nation of Facebook,
+is launching its own currency.
+
+124
+00:14:40,360 --> 00:14:50,840
+Things will become very interesting, for a number
+of reasons. We now have a three-point stand-off.
+
+125
+00:14:50,840 --> 00:14:58,360
+It is now money of the corporations, money 
+of the people, and the money of government.
+
+126
+00:14:58,360 --> 00:15:07,180
+All three will exist. None of them are going away soon.
+In fact, more will join. The doors have been opened.
+
+127
+00:15:07,180 --> 00:15:14,780
+Facebook is the first of the FANGs;
+the rest are baring their fangs and ready to go.
+
+128
+00:15:14,780 --> 00:15:18,640
+"FANGs," if you don't know, [stands for] 
+Facebook-Amazon-Netflix-Google...
+
+129
+00:15:18,640 --> 00:15:29,400
+and the billion-dollar tech companies of Silicon Valley.
+There is also Twitter, Uber, and Airbnb.
+
+130
+00:15:29,400 --> 00:15:32,520
+The era of internet currencies just opened.
+
+131
+00:15:32,520 --> 00:15:37,700
+Silicon Valley is coming for the banks,
+in a way that has never happened before.
+
+132
+00:15:37,700 --> 00:15:43,460
+The bankers have been very comfortable until now.
+
+133
+00:15:43,460 --> 00:15:49,980
+I went to a conference in Zurich and spoke 
+to banking executives in 2014. I told them,
+
+134
+00:15:49,980 --> 00:15:58,280
+"Listen. Instead of hiring blockchain consultants to
+show you how to square a circle, undo the disruption,
+
+135
+00:15:58,280 --> 00:16:05,280
+and pretend to do blockchain, you should hire
+a former executive from the music industry."
+
+136
+00:16:05,280 --> 00:16:10,140
+"Ask them what it felt like when
+the internet came for their industry."
+
+137
+00:16:10,140 --> 00:16:19,400
+"When did you realize you couldn't do anything about it?
+How did you feel when you started losing to Apple?"
+
+138
+00:16:19,400 --> 00:16:26,940
+Guess what? The banks had [more
+than] ten years to figure this shit out,
+
+139
+00:16:26,940 --> 00:16:30,100
+how they would handle digital currencies.
+
+140
+00:16:30,100 --> 00:16:37,060
+The music industry should have made a deal
+with Napster; instead, they fought with tooth and nail,
+
+141
+00:16:37,060 --> 00:16:39,980
+and handed the entire industry to Apple.
+
+142
+00:16:39,980 --> 00:16:47,840
+The banks should have made a deal with Bitcoin
+when it was the cuddly gecko of cryptocurrencies.
+
+143
+00:16:47,840 --> 00:16:58,720
+Facebook is a Triceratops [of social media] and it is
+coming for their industry, to disrupt a lot of things.
+
+144
+00:16:58,720 --> 00:17:08,580
+[It may sound] really weird, but the first
+to be affected by this will be retail banks.
+
+145
+00:17:08,580 --> 00:17:15,520
+Not the big bad investment banks who make
+shady deals to bail out dictators and stuff like that.
+
+146
+00:17:15,520 --> 00:17:18,100
+The banks that actually serve customers.
+
+147
+00:17:18,100 --> 00:17:24,180
+Most big investment banks stopped taking checking
+and savings customers [in consumer markets]...
+
+148
+00:17:24,180 --> 00:17:26,440
+four or five years [ago].
+
+149
+00:17:26,440 --> 00:17:35,000
+"You people don't pay enough.
+You're not worthy of banking."
+
+150
+00:17:35,000 --> 00:17:40,400
+But retail banks, the corner branch
+where you know the banker,
+
+151
+00:17:40,400 --> 00:17:48,640
+or at least [you can call them] to
+discuss your overdraft ballooning again.
+
+152
+00:17:48,640 --> 00:17:54,740
+Those retail banks actually serve customers,
+even the unbanked and underbanked,
+
+153
+00:17:54,740 --> 00:17:57,400
+gradually expanding their reach.
+
+154
+00:17:57,400 --> 00:18:06,860
+They will be hit hard by this new phenomenon,
+because Facebook not only has two billion users,
+
+155
+00:18:06,860 --> 00:18:11,500
+but they know all their preferences
+and behavior patterns.
+
+156
+00:18:11,500 --> 00:18:23,760
+They can use that to drop the cost of banking
+and wrap it in a candy-colored user interface.
+
+157
+00:18:23,760 --> 00:18:32,420
+Every time you make a purchase [with Libra],
+the application will tickle your dopamine receptors a bit.
+
+158
+00:18:32,420 --> 00:18:43,660
+It will encourage you to do or not do certain things,
+play with you like a mouse in a psychology experiment,
+
+159
+00:18:43,660 --> 00:18:48,800
+where you can't see [the edges of]
+the maze because the walls are too high.
+
+160
+00:18:48,800 --> 00:18:53,400
+This will be very interesting as it plays out.
+
+161
+00:18:53,400 --> 00:19:01,140
+To those of us who have been paying attention to 
+the rise of techno neo-feudalism, it is terrifying.
+
+162
+00:19:01,140 --> 00:19:08,760
+Facebook will be effective at disrupting regulation 
+in a way that banks have not been able to.
+
+163
+00:19:08,760 --> 00:19:18,600
+Facebook is now going after central banks.
+
+164
+00:19:18,600 --> 00:19:23,920
+Yes, they have a basket of currencies
+to create some kind of stablecoin thing,
+
+165
+00:19:23,920 --> 00:19:30,500
+but that stablecoin will be stable vis-à-vis 
+your local currency that is hyperinflating.
+
+166
+00:19:30,500 --> 00:19:36,220
+I talked about that this morning. Imagine that
+you are the government in India or Argentina,
+
+167
+00:19:36,220 --> 00:19:46,000
+and you want to follow an inflation or devaluation policy,
+but 10% of your population has moved on to Libra.
+
+168
+00:19:46,000 --> 00:19:54,500
+They can put their savings in the "hard" currency
+of Facebook. Well, not really a hard currency.
+
+169
+00:19:54,500 --> 00:20:00,540
+It doesn't really have a monetary policy, so they say,
+but it is harder than the Argentinian peso.
+
+170
+00:20:00,540 --> 00:20:07,960
+It is harder than the Turkish lira, the Indian rupee, and
+more than a hundred currencies around the world.
+
+171
+00:20:07,960 --> 00:20:14,400
+The central banks will lose one of the big
+levers of power they have over the economy.
+
+172
+00:20:14,400 --> 00:20:21,860
+What will they do, ban Facebook?
+Shut down 10% of their economy? They will try.
+
+173
+00:20:21,860 --> 00:20:31,020
+They have been trying to ban Facebook during protests,
+coup d'états of dictatorships, and revolutions.
+
+174
+00:20:31,020 --> 00:20:36,040
+They will fail. They will try to regulate Facebook.
+
+175
+00:20:36,040 --> 00:20:43,020
+Imagine the poor regulators,
+paid almost nothing, in their tweed suits.
+
+176
+00:20:43,020 --> 00:20:53,360
+Academics from the economics ministry, facing 
+an army of Wall Street lawyers in their tiny country,
+
+177
+00:20:53,360 --> 00:20:58,640
+filling the parking lot of the local airport
+with Gulfstream [aircraft] in a row,
+
+178
+00:20:58,640 --> 00:21:04,600
+"Let's talk about what we will do to your economy."
+
+179
+00:21:04,600 --> 00:21:14,060
+If you didn't realize it, Facebook is planning 
+[to launch] consumer and retail level SDRs.
+
+180
+00:21:14,060 --> 00:21:19,000
+Who knows what an SDR is? A few people.
+
+181
+00:21:19,000 --> 00:21:25,260
+The International Monetary Fund is a global institution that is not [officially] controlled by governments.
+
+182
+00:21:25,260 --> 00:21:28,020
+It uses contributions from member states,
+
+183
+00:21:28,020 --> 00:21:33,920
+a basket of currencies, to issue a pseudo-
+currency called Special Drawing Rights.
+
+184
+00:21:33,920 --> 00:21:37,620
+[SDRs] are part of the international framework
+of free-floating exchange rates.
+
+185
+00:21:37,620 --> 00:21:44,040
+They are the lender of last resort for governments.
+They do so in a very predatory manner.
+
+186
+00:21:44,040 --> 00:21:53,960
+They impose extreme austerity on the governments
+which fall into their clutches, asset-strip their industries,
+
+187
+00:21:53,960 --> 00:22:00,260
+their water plants, railroads, and 
+telecommunications companies.
+
+188
+00:22:00,260 --> 00:22:04,300
+Well, guess what? Facebook wil do that now.
+
+189
+00:22:04,300 --> 00:22:12,140
+If you think about what Libra is, it is a special drawing 
+rights pseudo-currency, based on a basket of currencies,
+
+190
+00:22:12,140 --> 00:22:20,720
+that is funded by consumer activity, in the same
+countries where the government will ask them...
+
+191
+00:22:20,720 --> 00:22:24,960
+for a loan or try to curtail their activity.
+
+192
+00:22:24,960 --> 00:22:30,920
+This is very serious stuff.
+We just went post-national.
+
+193
+00:22:30,920 --> 00:22:37,160
+The power to control money used to be
+the exclusive prerogative of states.
+
+194
+00:22:37,160 --> 00:22:43,600
+That has been kicked in the nuts by Bitcoin and
+[threatened with] decapitation by Libra this morning.
+
+195
+00:22:43,600 --> 00:22:52,820
+Central bank control over monetary policy 
+ended this morning. Technology companies...
+
+196
+00:22:52,820 --> 00:23:03,040
+currently worth a trillion dollars [total] are 
+taking the ability to mint their own money.
+
+197
+00:23:03,040 --> 00:23:11,480
+They will radically transform their business models,
+generating more money than you can ever imagine.
+
+198
+00:23:11,480 --> 00:23:20,520
+Very soon, they will dwarf the GDP of at least
+one third of the nations on this planet.
+
+199
+00:23:20,520 --> 00:23:25,560
+When the IMF comes calling,
+most governments cower in fear.
+
+200
+00:23:25,560 --> 00:23:32,340
+But they have no idea how much worse it will be
+when Facebook, Google, or Apple comes calling.
+
+201
+00:23:32,340 --> 00:23:39,900
+Maybe even Twitter can take down a few governments.
+It is big enough. Why not? Soon, Uber will be dictating...
+
+202
+00:23:39,900 --> 00:23:48,020
+not just to taxi drivers, but to the local council
+and maybe even the cabinet of ministers.
+
+203
+00:23:48,020 --> 00:23:55,860
+We [are approaching] a new world in which three
+forces will be competing: money of the people,
+
+204
+00:23:55,860 --> 00:23:59,180
+money of the state, and money of the corporations.
+
+205
+00:23:59,180 --> 00:24:08,720
+That is a crossroads. We need to make some very
+careful choices. I am hopeful for a number of reasons.
+
+206
+00:24:08,720 --> 00:24:15,380
+They will actually make a contribution to
+the technology, whether they want to or not.
+
+207
+00:24:15,380 --> 00:24:22,180
+They will introduce one billion people
+to the wrong kind of cryptocurrency,
+
+208
+00:24:22,180 --> 00:24:37,000
+just like AOL introduced people to the wrong kind of 
+internet. [Applause] Here is where it becomes tricky.
+
+209
+00:24:37,000 --> 00:24:43,580
+At this point, we need to decide how
+to differentiate [based on] our principles.
+
+210
+00:24:43,580 --> 00:24:48,000
+I have talked about the fundamental 
+principles I care about in blockchains.
+
+211
+00:24:48,000 --> 00:24:54,340
+Sometimes I call them the five pillars of open
+blockchains, or the eight criteria. I lose count.
+
+212
+00:24:54,340 --> 00:25:00,900
+It is somewhere between five and eight, but you should
+always [scrutinize] a system that is trying to take over...
+
+213
+00:25:00,900 --> 00:25:04,300
+the foundational technology of money in your world.
+
+214
+00:25:04,300 --> 00:25:14,220
+Is it open? What does "open" mean? Is it open for
+anyone to access and participate without vetting?
+
+215
+00:25:14,220 --> 00:25:19,480
+Can anyone send a transaction
+without providing identification?
+
+216
+00:25:19,480 --> 00:25:25,900
+Is it? We don't know yet. We will see.
+The white paper [claims] it is [open].
+
+217
+00:25:25,900 --> 00:25:28,260
+We [will need to wait and see for]
+what the currency actually does.
+
+218
+00:25:28,260 --> 00:25:31,700
+Is it borderless? I can tell you right now,
+it will not be borderless.
+
+219
+00:25:31,700 --> 00:25:40,180
+There is only one borderless, global cryptocurrency
+of any value and meaning today. That is bitcoin.
+
+220
+00:25:40,180 --> 00:25:51,580
+It is maybe as good as the U.S. dollar at being
+borderless. But Facebook will not be in China.
+
+221
+00:25:51,580 --> 00:26:01,520
+I can guarantee you that Libra will not launch in China.
+They will have their own, launched by WeChat.
+
+222
+00:26:01,520 --> 00:26:09,960
+Or a subsidiary wholly owned by the People's
+Republic of China, the central politburo.
+
+223
+00:26:09,960 --> 00:26:17,060
+Like Facebook is a subsidiary of the NSA... [Laughter]
+
+224
+00:26:17,060 --> 00:26:20,300
+It will not launch in Russia either.
+
+225
+00:26:20,300 --> 00:26:28,460
+Are they going to give up their monetary 
+sovereignty to a dude from Silicon Valley?
+
+226
+00:26:28,460 --> 00:26:34,100
+It will not launch in a bunch of other places 
+with unbanked people who actually need this.
+
+227
+00:26:34,100 --> 00:26:37,780
+It will not be borderless. In fact, quite the opposite.
+
+228
+00:26:37,780 --> 00:26:44,400
+We have entered the era of
+Cold War-esque currency wars.
+
+229
+00:26:44,400 --> 00:26:51,720
+An Iron Curtain for currencies will drop,
+like we have never seen before.
+
+230
+00:26:51,720 --> 00:27:01,400
+We will see a split between East and West 
+in the evolution of state-based and corporate currencies.
+
+231
+00:27:01,400 --> 00:27:07,300
+Of the three, only open cryptocurrencies
+will go everywhere [around the world].
+
+232
+00:27:07,300 --> 00:27:10,720
+[Libra] will probably not be neutral.
+
+233
+00:27:10,720 --> 00:27:20,160
+Neutrality requires that the protocol allow transactions
+from anyone to anyone, [anywhere], for any purpose.
+
+234
+00:27:20,160 --> 00:27:26,280
+A lot of open cryptocurrencies do that.
+I very much doubt that Libra will do that.
+
+235
+00:27:26,280 --> 00:27:30,300
+The moment they [allow] that, 
+the subpoenas will start flying.
+
+236
+00:27:30,300 --> 00:27:38,280
+The most important [detail for] a subpoena is
+knowing where to serve it, right? That will be easy.
+
+237
+00:27:38,280 --> 00:27:44,360
+They have an office which accepts service of process,
+so that is where [governments] will send the subpoenas.
+
+238
+00:27:44,360 --> 00:27:56,360
+Where do you send the Bitcoin subpoenas? Aha!
+Can you send them to 127.0.0.1 (localhost IP address)?
+
+239
+00:27:56,360 --> 00:28:07,560
+[Laughter] [Applause]
+We will process them immediately.
+
+240
+00:28:07,560 --> 00:28:10,380
+So it will not be neutral.
+It will not be censorship resistant.
+
+241
+00:28:10,380 --> 00:28:19,280
+Large corporations like that, bound by jurisdictional
+regulations, are obliged to censor transactions.
+
+242
+00:28:19,280 --> 00:28:27,260
+[As an American], you cannot send a transaction
+to an Iranian, a Venezuelan, or a North Korean.
+
+243
+00:28:27,260 --> 00:28:34,320
+You cannot receive [money] from a Russian or Chinese
+citizen without properly vetting who they are,
+
+244
+00:28:34,320 --> 00:28:41,820
+who their parents are, when they were born, 
+where they live, and which companies they own.
+
+245
+00:28:41,820 --> 00:28:46,600
+This happens every time you try to send a wire transfer.
+
+246
+00:28:46,600 --> 00:28:51,640
+[Libra] will not be immutable. They say in
+the white paper that [it will be] immutable,
+
+247
+00:28:51,640 --> 00:29:00,640
+but the moment you make a transaction funding
+some abhorrent and inexcusable activity,
+
+248
+00:29:00,640 --> 00:29:07,880
+subpoenas will start flying and the "immutable"
+network will be muted pretty damn fast.
+
+249
+00:29:07,880 --> 00:29:15,640
+That is pretty easy to do when you have a consortium
+of validators and no cost for modifying the history.
+
+250
+00:29:15,640 --> 00:29:24,720
+Proof-of-work makes it [practically] impossible, even
+if 100% of the miners collude and try to change history,
+
+251
+00:29:24,720 --> 00:29:27,620
+without expending the same amount of energy.
+
+252
+00:29:27,620 --> 00:29:39,840
+This means with every day that passes, the energy cost 
+increases. Within a day or two, it is an undue burden.
+
+253
+00:29:39,840 --> 00:29:47,580
+It is almost impossible, even if you could find and coerce
+all of the miners. They wouldn't be able to do it.
+
+254
+00:29:47,580 --> 00:29:53,080
+It is not "won't," it is "can't."
+Can't is much better than won't.
+
+255
+00:29:53,080 --> 00:30:00,460
+[But Libra] will not be immutable. It might be 
+auditable and transparent. We don't know yet.
+
+256
+00:30:00,460 --> 00:30:05,620
+If it is audible and transparent, it will not be private.
+
+257
+00:30:05,620 --> 00:30:16,600
+We are probably only a few years from a giant freaking
+leak, where all of your financial data 'are belong to us.'
+
+258
+00:30:16,600 --> 00:30:19,380
+Again. [Laughter]
+
+259
+00:30:19,380 --> 00:30:27,500
+If it is stored in the blockchain in a transparent
+manner and you don't have any privacy controls --
+
+260
+00:30:27,500 --> 00:30:34,780
+you know, the kind that "criminals" use,
+but at least they are smart about privacy --
+
+261
+00:30:34,780 --> 00:30:38,520
+all of that information will be leaked.
+
+262
+00:30:38,520 --> 00:30:45,100
+All of your purchases will now
+be visible to friends and family.
+
+263
+00:30:45,100 --> 00:30:53,980
+[Each of us] probably has a very good friend 
+we've made a pact with: "If I get hit by a bus,
+
+264
+00:30:53,980 --> 00:31:04,860
+I need you to take my laptop, erase my browsing history,
+and shred all of my bank statements... [Laughter]
+
+265
+00:31:04,860 --> 00:31:10,820
+before my mom gets to the house.
+[Do we understand each other]?"
+
+266
+00:31:10,820 --> 00:31:15,740
+Financial privacy is a human right.
+Society doesn't work as a panopticon.
+
+267
+00:31:15,740 --> 00:31:23,460
+We have secrets because we're social animals. That
+gives us the freedom to express our freaky nature.
+
+268
+00:31:23,460 --> 00:31:32,700
+We all differ a bit from the expectations and 
+conformity of society. At least, I hope we do.
+
+269
+00:31:32,700 --> 00:31:42,340
+Because if we don't, what kind of society is that?
+[Must we] absolutely conform to the expectations...
+
+270
+00:31:42,340 --> 00:31:45,640
+of your stuck-up neighbors?
+
+271
+00:31:45,640 --> 00:31:50,820
+Individuality, expression, freedom is privacy.
+
+272
+00:31:50,820 --> 00:31:57,860
+We don't want our financial records blasted 
+to the world. But that will happen next [with Libra].
+
+273
+00:31:57,860 --> 00:32:07,740
+It may be auditable and transparent, but not very
+private. This is not a blockchain I'm interested in.
+
+274
+00:32:07,740 --> 00:32:15,880
+More importantly, as I have said many times 
+before, we are standing at a fork in the road.
+
+275
+00:32:15,880 --> 00:32:24,440
+On the one hand, we have surveillance money. On the
+other, we have free, open, and private people's money.
+
+276
+00:32:24,440 --> 00:32:36,320
+Guess what will happen with this new currency?
+The timetable to cashless societies has accelerated.
+
+277
+00:32:36,320 --> 00:32:45,360
+Cashless societies are nothing to celebrate. 
+They [will be] without freedom or democracy.
+
+278
+00:32:45,360 --> 00:32:58,200
+They are fragile, without the possibility of an exit plan
+or release valve. Where one election could be the last.
+
+279
+00:32:58,200 --> 00:33:04,280
+You only need to get it wrong once. Just stay
+at home and say, "I don't care about politics."
+
+280
+00:33:04,280 --> 00:33:11,440
+All of the kooky old people go out and vote for 
+an orange man, Brexit, or some shit like that.
+
+281
+00:33:11,440 --> 00:33:16,520
+You ask, "What the hell happened?"
+
+282
+00:33:16,520 --> 00:33:21,000
+In a world where you don't have cash,
+it is much worse than that.
+
+283
+00:33:21,000 --> 00:33:28,060
+The government, a corporation, or payment processor
+can decide that you have done something "bad,"
+
+284
+00:33:28,060 --> 00:33:30,540
+and turn off your financial future.
+
+285
+00:33:30,540 --> 00:33:35,860
+They could make sure that you can't even 
+buy food, let alone pay for rent or [utilities].
+
+286
+00:33:35,860 --> 00:33:39,360
+If you think this isn't happening,
+it is happening right now in Hong Kong.
+
+287
+00:33:39,360 --> 00:33:42,800
+It is happening in China with
+the Sesame credit score system.
+
+288
+00:33:42,800 --> 00:33:50,940
+If you think that is not coming to a country like yours,
+study up on European history, [like] 1918 through 1945.
+
+289
+00:33:50,940 --> 00:33:58,180
+Fascinating shit. We thought
+the U.K. had learned that lesson.
+
+290
+00:33:58,180 --> 00:34:04,000
+From what I have been seeing lately, [nope].
+They are trying to repeat all of [that]. Great.
+
+291
+00:34:04,000 --> 00:34:10,240
+Sometimes you need to teach the lesson twice.
+What will we do in the crypto space?
+
+292
+00:34:10,240 --> 00:34:13,140
+We will start differentiating.
+
+293
+00:34:13,140 --> 00:34:22,460
+Over the next couple of years, expect a lot of 
+crypto projects to focus on what their principles are.
+
+294
+00:34:22,460 --> 00:34:29,760
+Now, there is a lot of confusion. We are dealing with
+an 18-dimensional, partial differential equation...
+
+295
+00:34:29,760 --> 00:34:31,340
+of a three-body problem.
+
+296
+00:34:31,340 --> 00:34:37,600
+Everything is pulling on everything else.
+Six degrees of freedom. It is very complicated.
+
+297
+00:34:37,600 --> 00:34:40,380
+Who knows will happen next?
+Look, Facebook went to India.
+
+298
+00:34:40,380 --> 00:34:45,260
+Uh, India wants to devalue [the rupee]. Indian people are
+going into cryptocurrency; others are being blocked.
+
+299
+00:34:45,260 --> 00:34:53,380
+What happens next? Nobody knows! If you are a crypto
+project, you must decide what your principles are.
+
+300
+00:34:53,380 --> 00:35:03,540
+I have been expressing the same consistent 
+principles for the last seven years. [Applause]
+
+301
+00:35:03,540 --> 00:35:09,680
+The reason is really simple: it takes too much
+bloody homework to [shift between different ones],
+
+302
+00:35:09,680 --> 00:35:15,560
+and remember how to be consistent with what I said
+before, if I'm not following what I actually believe in.
+
+303
+00:35:15,560 --> 00:35:21,640
+Some people in our industry noticed that recently.
+Inconsistencies can happen very quickly.
+
+304
+00:35:21,640 --> 00:35:26,800
+Some crypto projects recently
+faced that kind of fork in the road.
+
+305
+00:35:26,800 --> 00:35:35,100
+They decided to focus on different principles and
+tried to change the trajectory of projects we care about.
+
+306
+00:35:35,100 --> 00:35:45,620
+Lately, one of them is all about cheap payments,
+at the expense of decentralisation and privacy.
+
+307
+00:35:45,620 --> 00:35:52,480
+Apparently, to the people [involved in it], privacy 
+is only useful for illegals and money launderers...
+
+308
+00:35:52,480 --> 00:35:56,440
+who are [engaging in] wash trading and bucket shops.
+
+309
+00:35:56,440 --> 00:36:08,500
+Ooh, scary! [Laughter] If that is the road you want to
+go down, the light you see is not the end of the tunnel...
+
+310
+00:36:08,500 --> 00:36:17,420
+but an oncoming Facebook train that already has
+the principle-less, privacy-less market staked out.
+
+311
+00:36:17,420 --> 00:36:24,740
+They already have two billion users, lots of money
+and technology people who will run right over you.
+
+312
+00:36:24,740 --> 00:36:32,100
+If you haven't differentiated based on your principles
+-- or worse, you don't have any principles --
+
+313
+00:36:32,100 --> 00:36:39,400
+and decided with your recently hired MBA that you are
+really interested in shareholder return on investment,
+
+314
+00:36:39,400 --> 00:36:51,120
+and the best way to do that means shedding 
+a few of these "silly," "idealistic" principles,
+
+315
+00:36:51,120 --> 00:36:53,240
+then guess what?
+
+316
+00:36:53,240 --> 00:36:58,840
+Once you start shedding principles,
+now you're [competing against] Facebook.
+
+317
+00:36:58,840 --> 00:37:06,300
+What is Facebook, if not the world's most 
+[powerful] principle shedding machine? [Laughter]
+
+318
+00:37:06,300 --> 00:37:12,960
+It started with few [principles to begin with], and has
+since developed a mechanism for shedding them...
+
+319
+00:37:12,960 --> 00:37:18,860
+faster than you can imagine, with billions of dollars
+in marketing tickling your dopamine receptors.
+
+320
+00:37:18,860 --> 00:37:26,260
+"Don't worry! The future is candy colored
+and bright... as long as we are still profitable."
+
+321
+00:37:26,260 --> 00:37:32,960
+They can shed principles faster than you, 
+with more money, better user interfaces,
+
+322
+00:37:32,960 --> 00:37:35,460
+and a bigger user base than you.
+
+323
+00:37:35,460 --> 00:37:39,800
+So if your game is shedding principles to 
+make profit, that is a game you will not win.
+
+324
+00:37:39,800 --> 00:37:45,740
+Facebook will win that game.
+They will win it over PayPal and JPMorgan Chase.
+
+325
+00:37:45,740 --> 00:37:51,560
+They will sure as hell gonna win it over a little ragtag
+crypto project that says, "We don't need privacy."
+
+326
+00:37:51,560 --> 00:37:53,500
+"We just want to be a fast payment network...
+
+327
+00:37:53,500 --> 00:38:01,720
+that collaborates with law enforcement 
+and [enables] surveillance [capitalism]."
+
+328
+00:38:01,720 --> 00:38:03,500
+Figure out what your principles are.
+
+329
+00:38:03,500 --> 00:38:18,280
+Everybody will need to stop, take a breath, and figure out
+how to differentiate. It is actually pretty easy.
+
+330
+00:38:18,280 --> 00:38:29,000
+If you get into a fight with someone who doesn't
+hold principles, a corporation, that is not immoral,
+
+331
+00:38:29,000 --> 00:38:33,700
+because that requires having negative morality.
+
+332
+00:38:33,700 --> 00:38:41,060
+[They are] amoral, which means no moral guidance
+whatsoever. The absence of any moral compass.
+
+333
+00:38:41,060 --> 00:38:49,760
+Morality doesn't even enter their ROI equation.
+Morality is not on the spreadsheet.
+
+334
+00:38:49,760 --> 00:38:56,440
+If you are going to pick a fight with them,
+differentiate on the thing they can't compete with:
+
+335
+00:38:56,440 --> 00:39:10,240
+align yourself with the one project that is truly open,
+borderless, neutral, censorship resistant, transparent,
+
+336
+00:39:10,240 --> 00:39:15,220
+auditable, private, and immutable.
+
+337
+00:39:15,220 --> 00:39:22,840
+There are a few of those, I think.
+Privacy currencies will get quite a run [for their money].
+
+338
+00:39:22,840 --> 00:39:32,780
+There is a [growing need] to really focus
+on privacy, because Facebook won't.
+
+339
+00:39:32,780 --> 00:39:42,520
+Things just got really interesting.
+As a technologist, I am so excited.
+
+340
+00:39:42,520 --> 00:39:50,300
+I have been jumping up and down all day.
+I can't wait to see how this plays out.
+
+341
+00:39:50,300 --> 00:39:57,620
+That has been my lifelong fascination: watching
+technological systems interact with society...
+
+342
+00:39:57,620 --> 00:39:59,500
+and change the world.
+
+343
+00:39:59,500 --> 00:40:06,700
+As these developments roll out, I will see if I can pick up
+a few clues as to where these things are going.
+
+344
+00:40:06,700 --> 00:40:14,520
+To have that vision has been my life's goal.
+As a technologist, I have been jumping up and down.
+
+345
+00:40:14,520 --> 00:40:26,740
+As a human being, I am horrified that we are opening
+the door to a future that is truly terrifying and dystopian.
+
+346
+00:40:26,740 --> 00:40:33,000
+We are giving power to some of the most ruthless, 
+unaccountable corporations out there.
+
+347
+00:40:33,000 --> 00:40:40,280
+Not to fight against governments,
+but in many cases to join them hand-in-hand.
+
+348
+00:40:40,280 --> 00:40:45,940
+They will ensure that while we're exploited 
+by ruthless politicians on one side,
+
+349
+00:40:45,940 --> 00:40:54,840
+we are also exploited by ruthless business people on
+the other, in an alliance between corporation and state.
+
+350
+00:40:54,840 --> 00:41:00,620
+That is called fascism,
+only this isn't your grandpa's fascism.
+
+351
+00:41:00,620 --> 00:41:06,280
+This is a whole neo-feudal environment
+that we have never seen before.
+
+352
+00:41:06,280 --> 00:41:15,020
+A lot of people will make the mistake [of assuming]
+that if it doesn't come in a leather uniform designed...
+
+353
+00:41:15,020 --> 00:41:30,300
+by Hugo Boss, with clashing colors, caricature parades,
+and screaming into megaphones, it is not fascism.
+
+354
+00:41:30,300 --> 00:41:38,280
+But fascism today can come in a slick user interface with
+beautiful colors, accessible 24/7, through your browser...
+
+355
+00:41:38,280 --> 00:41:46,120
+and the most convenient location
+whether your phone is on or off.
+
+356
+00:41:46,120 --> 00:41:57,560
+It is part of your life. It allows you to share 
+photos with Grandpa, the same one who fought Nazis.
+
+357
+00:41:57,560 --> 00:42:00,680
+It is the ultimate irony.
+
+358
+00:42:00,680 --> 00:42:06,260
+We need to be very careful about what
+we do next. This is deadly serious stuff.
+
+359
+00:42:06,260 --> 00:42:10,260
+Society is not ready for this
+because we've never been here before.
+
+360
+00:42:10,260 --> 00:42:16,180
+While I am fascinated to watch,
+at the same time, I am deeply troubled.
+
+361
+00:42:16,180 --> 00:42:24,900
+I am not afraid because I think Bitcoin can't compete.
+I am afraid because I believe a lot of people don't care.
+
+362
+00:42:24,900 --> 00:42:38,020
+A lot of people will go for the easy, convenient,
+mindless, repetitive, seductive, hypnotizing rhythm...
+
+363
+00:42:38,020 --> 00:42:49,120
+of a Facebook feed, through which they will lose
+their freedom and their future. Thank you. [Applause]
+
