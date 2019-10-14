@@ -1,0 +1,1047 @@
+﻿1
+00:00:00,089 --> 00:00:01,570
+Good evening, everyone!
+
+2
+00:00:01,570 --> 00:00:03,179
+It's such a pleasure to be here.
+
+3
+00:00:03,179 --> 00:00:08,230
+This is my first time in Sweden and I'm enjoying
+every moment of it... except for the weather.
+
+4
+00:00:08,230 --> 00:00:11,920
+[Laughter] But other than that, fantastic!
+
+5
+00:00:11,920 --> 00:00:17,760
+It's so good to be at a conference about the
+internet, because I remember my first internet...
+
+6
+00:00:17,760 --> 00:00:20,910
+conference. It was in 1992.
+
+7
+00:00:20,910 --> 00:00:25,650
+There were about one hundred people there;
+all of them were either computer scientists
+
+8
+00:00:25,650 --> 00:00:28,150
+or computer science students.
+
+9
+00:00:28,150 --> 00:00:33,970
+Despite the fact that we were telling them
+the entire world was about to change, no one
+
+10
+00:00:33,970 --> 00:00:41,130
+believed us -- at least, no one believed me
+because I was 19 years old, awkward and shy.
+
+11
+00:00:41,130 --> 00:00:43,540
+That wasn't working so well.
+
+12
+00:00:43,540 --> 00:00:47,111
+But it taught me one thing: it taught me to
+trust my instincts.
+
+13
+00:00:47,111 --> 00:00:50,260
+Because, in fact, it did change the world.
+
+14
+00:00:50,260 --> 00:00:53,280
+My second book is called 
+"The Internet of Money."
+
+15
+00:00:53,280 --> 00:00:58,450
+The reason for that is because the technology
+I'm going to talk about today is about to
+
+16
+00:00:58,450 --> 00:01:01,250
+transform the world in equal measure.
+
+17
+00:01:01,250 --> 00:01:05,309
+It will also transform the internet itself.
+
+18
+00:01:05,309 --> 00:01:12,229
+Bitcoin, an invention created on January 3rd
+2009 by an anonymous creator.
+
+19
+00:01:12,229 --> 00:01:17,119
+Unleashed as an open-source project, built
+by a community of volunteers.
+
+20
+00:01:17,119 --> 00:01:20,450
+Run as a peer-to-peer network.
+
+21
+00:01:20,450 --> 00:01:26,280
+Derided, laughed at, and ignored for the first
+five or six years.
+
+22
+00:01:26,280 --> 00:01:28,779
+But not so much anymore.
+
+23
+00:01:28,779 --> 00:01:32,079
+People are beginning to pay attention, just
+like with the internet.
+
+24
+00:01:32,079 --> 00:01:35,789
+Things that were previously unthinkable are
+now thinkable.
+
+25
+00:01:35,789 --> 00:01:41,619
+People are beginning to notice that this is
+something more than what they are told.
+
+26
+00:01:41,619 --> 00:01:43,989
+And what are they told?
+
+27
+00:01:43,989 --> 00:01:49,960
+Drug dealers! Pornographers! Criminals!
+
+28
+00:01:49,960 --> 00:01:54,399
+Guess what? That's what they said at the first conference in 1992.
+
+29
+00:01:54,399 --> 00:01:58,630
+They were wrong then and they are wrong now.
+
+30
+00:01:58,630 --> 00:02:05,609
+Every time you meet someone like a dentist
+or a hairdress who uses bitcoin, it undermines
+
+31
+00:02:05,609 --> 00:02:07,369
+that silly narrative.
+
+32
+00:02:07,369 --> 00:02:14,380
+Bitcoin is a protocol, and what better stage
+to talk about a protocol.
+
+33
+00:02:14,380 --> 00:02:19,320
+The moment you start talking about Bitcoin
+and thinking about Bitcoin, it brings up
+
+34
+00:02:19,320 --> 00:02:26,450
+a very difficult question: what is money?
+
+35
+00:02:26,450 --> 00:02:32,380
+Most of us, from all the conversations I've
+had with thousands of people around the world,
+
+36
+00:02:32,380 --> 00:02:36,640
+have no idea what money is or how it works.
+
+37
+00:02:36,640 --> 00:02:42,319
+It's one of those technologies that is so
+deeply embedded in our culture that it has
+
+38
+00:02:42,319 --> 00:02:44,989
+become completely invisible to us.
+
+39
+00:02:44,989 --> 00:02:49,870
+In fact, we don't even need to think about
+money unless it stops working.
+
+40
+00:02:49,870 --> 00:02:55,540
+In some countries, they realise that it stops
+working and then everybody has interesting
+
+41
+00:02:55,540 --> 00:02:59,280
+things to say about what money is.
+
+42
+00:02:59,280 --> 00:03:06,360
+What is money?
+At its very basic level, money isn't value.
+
+43
+00:03:06,360 --> 00:03:12,700
+In fact, you use money to get things of value
+(products or services), but there is no value
+
+44
+00:03:12,700 --> 00:03:15,739
+in the money itself.
+
+45
+00:03:15,739 --> 00:03:22,099
+Money isn't a construct of authority; we seem
+to think that these days, because all of our
+
+46
+00:03:22,099 --> 00:03:27,220
+money comes from certain authoritative sources.
+
+47
+00:03:27,220 --> 00:03:33,219
+Some guy with a crown says "this is your money,"
+and it's your money.
+
+48
+00:03:33,219 --> 00:03:35,120
+That's the authority it comes from.
+
+49
+00:03:35,120 --> 00:03:38,609
+But what if money could be created without
+an authority?
+
+50
+00:03:38,609 --> 00:03:42,470
+What if money could be created simply through
+use?
+
+51
+00:03:42,470 --> 00:03:47,150
+It turns out that what money really is, is
+a language.
+
+52
+00:03:47,150 --> 00:03:52,330
+Money is a language that human beings created
+to express value to each other.
+
+53
+00:03:52,330 --> 00:03:56,569
+As a language, it's one of the fundamental
+constructs of civilisation that allows us
+
+54
+00:03:56,569 --> 00:04:00,269
+to exceed what's known as the Dunbar number.
+
+55
+00:04:00,269 --> 00:04:06,840
+The Dunbar number is the maximum number of
+individuals who can operate in a tribe on
+
+56
+00:04:06,840 --> 00:04:11,010
+the basis of kinship, of acquaintance.
+
+57
+00:04:11,010 --> 00:04:16,769
+If you want two tribes to work together, you
+need some common bond.
+
+58
+00:04:16,769 --> 00:04:24,771
+These bonds have included culture, language,
+religion, and money -- a fundamental construct
+
+59
+00:04:24,771 --> 00:04:31,720
+that allows us to exceed the scale of a single
+tribe and engage in commerce with others on
+
+60
+00:04:31,720 --> 00:04:34,479
+a greater scale.
+
+61
+00:04:34,479 --> 00:04:41,990
+As our money has evolved in its scale, it
+has allowed us to collaborate and engage in
+
+62
+00:04:41,990 --> 00:04:45,919
+commerce on a greater level.
+
+63
+00:04:45,919 --> 00:04:50,900
+Money is also, ironically, a system of control.
+
+64
+00:04:50,900 --> 00:04:55,930
+Controlling money confers great power to those
+who control it.
+
+65
+00:04:55,930 --> 00:05:02,389
+As a result, kings and governments have always
+held a very tight control over money, pretty
+
+66
+00:05:02,389 --> 00:05:08,710
+much like how they used to hold it over religion
+for the same reasons.
+
+67
+00:05:08,710 --> 00:05:10,430
+Now that has changed.
+
+68
+00:05:10,430 --> 00:05:17,800
+On January 3rd 2009, the world changed because
+some person(s) created a peer-to-peer protocol.
+
+69
+00:05:17,800 --> 00:05:23,960
+A flat network with no central servers, all
+clients, that is able to express money as
+
+70
+00:05:23,960 --> 00:05:26,000
+a content type.
+
+71
+00:05:26,000 --> 00:05:30,740
+As internet professionals, you may understand
+what I mean when I say "money as a content
+
+72
+00:05:30,740 --> 00:05:38,550
+type," money that is expressed purely as data,
+transmitted using any communication medium
+
+73
+00:05:38,550 --> 00:05:40,830
+that can convey information.
+
+74
+00:05:40,830 --> 00:05:45,720
+A bitcoin transaction doesn't need to be transmitted
+over the Bitcoin network, although that's
+
+75
+00:05:45,720 --> 00:05:47,720
+a convenient way to do it.
+
+76
+00:05:47,720 --> 00:05:50,210
+You could encode it in Skype emojis.
+
+77
+00:05:50,210 --> 00:05:54,210
+You could write it up and put it in a Craigslist
+ad.
+
+78
+00:05:54,210 --> 00:06:01,330
+You could post it on Facebook in the background
+of a picture of kittens playing with yarn.
+
+79
+00:06:01,330 --> 00:06:10,840
+Money as pure information on a network that
+is simultaneously uncensorable, open to anyone,
+
+80
+00:06:10,840 --> 00:06:13,479
+neutral, and global.
+
+81
+00:06:13,479 --> 00:06:20,729
+There are no borders on this new technology,
+just like there are no borders on the internet.
+
+82
+00:06:20,729 --> 00:06:25,540
+Everyone can access it because it is not a
+product, it is not a company.
+
+83
+00:06:25,540 --> 00:06:28,669
+You do not need to register for an account.
+
+84
+00:06:28,669 --> 00:06:31,130
+You simply download a client.
+
+85
+00:06:31,130 --> 00:06:37,430
+A Bitcoin client is very much like a web browser,
+the user interface that 'speaks' the protocol
+
+86
+00:06:37,430 --> 00:06:40,360
+to other Bitcoin clients out there.
+
+87
+00:06:40,360 --> 00:06:46,660
+As soon as you download that one application,
+you can join a global economy; that global
+
+88
+00:06:46,660 --> 00:06:55,770
+economy is open to anyone of any race, religion,
+creed, ethnicity, age, and gender in the world.
+
+89
+00:06:55,770 --> 00:07:02,340
+For most people, this concept hasn't yet quite
+sunk in.
+
+90
+00:07:02,340 --> 00:07:10,449
+The children born today may not know a world
+in which banks exist, a world in which paper
+
+91
+00:07:10,449 --> 00:07:16,720
+money exists, any more than the young people
+in our industry today have no idea what the
+
+92
+00:07:16,720 --> 00:07:20,560
+world used to look like before the internet.
+
+93
+00:07:20,560 --> 00:07:25,300
+How many of you here remember libraries and
+looking up reference cards?
+
+94
+00:07:25,300 --> 00:07:27,030
+Okay, you're over 40 years old.
+
+95
+00:07:27,030 --> 00:07:31,200
+So am I. Gotcha!
+
+96
+00:07:31,200 --> 00:07:38,340
+The children born today may never drive a
+car, never have a world without the internet,
+
+97
+00:07:38,340 --> 00:07:45,169
+never know a world where banks control money
+and is issued only by kings or nation states.
+
+98
+00:07:45,169 --> 00:07:50,210
+Money will be an integral protocol of the
+internet as a content type that can be transmitted
+
+99
+00:07:50,210 --> 00:07:53,270
+by anyone, anywhere.
+
+100
+00:07:53,270 --> 00:07:54,550
+But that's not enough.
+
+101
+00:07:54,550 --> 00:07:56,080
+Let's make it more fun.
+
+102
+00:07:56,080 --> 00:08:00,830
+Every form of money, until today, has to have
+a person behind it.
+
+103
+00:08:00,830 --> 00:08:07,410
+Money can only be owned and managed by people,
+or people together forming an assocation - a
+
+104
+00:08:07,410 --> 00:08:10,020
+legal fiction called the corporation.
+
+105
+00:08:10,020 --> 00:08:18,009
+But Bitcoin is a protocol where autonomous
+agents can own and manage money themselves.
+
+106
+00:08:18,009 --> 00:08:20,010
+No people required.
+
+107
+00:08:20,010 --> 00:08:27,000
+Imagine a corporation with no directors, no
+shareholders, no employees, running entirely
+
+108
+00:08:27,000 --> 00:08:35,390
+based on scripted machine learning or maybe
+just a few simple heuristic rules, that operates
+
+109
+00:08:35,390 --> 00:08:44,790
+autonomously of any human action, managing
+budgets in the amounts of billions of dollars.
+
+110
+00:08:44,790 --> 00:08:48,480
+At this point in the audience, we have a split.
+
+111
+00:08:48,480 --> 00:08:51,250
+Some people are thinking, 'Oh no!
+
+112
+00:08:51,250 --> 00:08:54,090
+That sounds terrible.
+
+113
+00:08:54,090 --> 00:08:55,700
+What if it's a virus?
+
+114
+00:08:55,700 --> 00:09:02,510
+What if it's intelligent ransomware that self-propagates
+and buys Amazon Web Service systems so that
+
+115
+00:09:02,510 --> 00:09:04,980
+it can grow when it's successful?
+
+116
+00:09:04,980 --> 00:09:11,700
+What if it starts running A/B testing on itself
+by hiring programmers to make it better?'
+
+117
+00:09:11,700 --> 00:09:15,940
+Yeah, all of that is going to happen.
+
+118
+00:09:15,940 --> 00:09:23,250
+But what if it's an intelligent charity that
+detect the emergence of a natural disaster,
+
+119
+00:09:23,250 --> 00:09:29,820
+that automatically and instantaneously diverts
+large funds directly to the people most in
+
+120
+00:09:29,820 --> 00:09:32,890
+need without human intervention?
+
+121
+00:09:32,890 --> 00:09:40,070
+And, unlike most charities today, 100% of
+the funds donated go to those in need.
+
+122
+00:09:40,070 --> 00:09:42,440
+The world is about to change.
+
+123
+00:09:42,440 --> 00:09:43,780
+Self-driving cars?
+
+124
+00:09:43,780 --> 00:09:46,560
+How about self-owning cars?
+
+125
+00:09:46,560 --> 00:09:51,470
+Cars that are not owned by a corporation,
+but cars that _are_ a corporation.
+
+126
+00:09:51,470 --> 00:09:58,150
+Cars that pay for their electricity or gas,
+maintenance and leasing fees by giving rides
+
+127
+00:09:58,150 --> 00:10:01,650
+to human beings who pay them in cryptocurrencies.
+
+128
+00:10:01,650 --> 00:10:09,030
+Imagine software such as intelligent articles
+that propagate across the internet as content
+
+129
+00:10:09,030 --> 00:10:13,220
+and expand their reach because people read
+them.
+
+130
+00:10:13,220 --> 00:10:17,540
+As a result, they're able to buy more hosting
+services so they can further expand their
+
+131
+00:10:17,540 --> 00:10:19,080
+reach.
+
+132
+00:10:19,080 --> 00:10:20,560
+This is not the money of your grandparents.
+
+133
+00:10:20,560 --> 00:10:24,390
+It's not the money of your parents.
+
+134
+00:10:24,390 --> 00:10:29,870
+This is money that is fully programmable,
+scriptable, with capabilities that can be
+
+135
+00:10:29,870 --> 00:10:31,490
+finely tuned.
+
+136
+00:10:31,490 --> 00:10:36,130
+You can specify who can access it and when,
+how it can be dispersed.
+
+137
+00:10:36,130 --> 00:10:41,870
+A whole new field has opened up which is now
+called "smart contracts."
+
+138
+00:10:41,870 --> 00:10:49,780
+This system allows people to program the behaviour
+of entire systems that can also manage money.
+
+139
+00:10:49,780 --> 00:10:56,600
+"Money" is such a narrow word to describe
+this, because we use things all the time that
+
+140
+00:10:56,600 --> 00:11:01,300
+kind of look like money but aren't really
+money.
+
+141
+00:11:01,300 --> 00:11:08,110
+What about loyalty points, tokens, subway
+cards, airline miles?
+
+142
+00:11:08,110 --> 00:11:15,640
+What about the expression of a Justin Bieber
+fan with full access to the catalogue of music,
+
+143
+00:11:15,640 --> 00:11:16,980
+as a token?
+
+144
+00:11:16,980 --> 00:11:25,360
+What about all of the other brands that can
+be turned into tokens and made into a global
+
+145
+00:11:25,360 --> 00:11:31,040
+exchangeable system directly on the internet
+through this protocol?
+
+146
+00:11:31,040 --> 00:11:36,440
+On January 3rd 2009, the world changed.
+
+147
+00:11:36,440 --> 00:11:43,630
+Since then, more than a thousand other cryptocurrencies
+have been created using the same recipe, almost
+
+148
+00:11:43,630 --> 00:11:45,670
+all of them open-source.
+
+149
+00:11:45,670 --> 00:11:51,941
+They're expanding in all directions, exploring
+every possible niche of this ecosystem, every
+
+150
+00:11:51,941 --> 00:12:00,130
+tiny variation in capabilities and features,
+creating new markets, raising funds for thousands
+
+151
+00:12:00,130 --> 00:12:02,630
+of start-ups around the world.
+
+152
+00:12:02,630 --> 00:12:08,320
+Thousands of software engineers and developers
+are training to use this technology.
+
+153
+00:12:08,320 --> 00:12:12,520
+The internet itself is changing very rapidly.
+
+154
+00:12:12,520 --> 00:12:17,920
+Now we have autonomous agents that are using
+money on the internet; these are, in many
+
+155
+00:12:17,920 --> 00:12:24,410
+cases, beyond the control of any jurisdiction.
+
+156
+00:12:24,410 --> 00:12:29,360
+What are the large corporations going to do
+with this new magical, open, decentralised,
+
+157
+00:12:29,360 --> 00:12:34,020
+neutral, borderless, censorship-resistant
+network?
+
+158
+00:12:34,020 --> 00:12:35,210
+They're going to say, "Great!
+
+159
+00:12:35,210 --> 00:12:39,660
+We'd like that... but could you take out the
+open, decentralised, neutral, borderless,
+
+160
+00:12:39,660 --> 00:12:43,260
+censorship-resistant properties and package
+it with a service-level agreement (SLA), a
+
+161
+00:12:43,260 --> 00:12:47,320
+twelve-month license, and control?
+
+162
+00:12:47,320 --> 00:12:48,580
+Control for us."
+
+163
+00:12:48,580 --> 00:12:53,890
+They will take the internet and they will
+make intranets.
+
+164
+00:12:53,890 --> 00:13:00,880
+They will make closed gardens of boring, stale
+content that is fundamentally insecure and
+
+165
+00:13:00,880 --> 00:13:06,310
+sits in the backyard of corporations adding
+a tiny bit of value.
+
+166
+00:13:06,310 --> 00:13:11,580
+Outside the participation of the global community,
+insulated from the wave of innovation that
+
+167
+00:13:11,580 --> 00:13:13,520
+is happening all around us.
+
+168
+00:13:13,520 --> 00:13:18,830
+They will create these intranets, they will
+claim victory, they will turn around and they
+
+169
+00:13:18,830 --> 00:13:23,190
+will say, "We invented Blockchain."
+
+170
+00:13:23,190 --> 00:13:26,260
+They will be wrong and they will fail.
+
+171
+00:13:26,260 --> 00:13:32,650
+The real principle, the real exciting thing
+about this technology, is not the blockchain,
+
+172
+00:13:32,650 --> 00:13:36,950
+which is a database artefact created out of
+this protocol.
+
+173
+00:13:36,950 --> 00:13:46,040
+It is the ability to achieve distributed consensus
+among parties that don't trust each other,
+
+174
+00:13:46,040 --> 00:13:54,300
+across great distances, without any central
+party, authority, or intermediary.
+
+175
+00:13:54,300 --> 00:14:01,650
+That consensus from the outside looks chaotic,
+messy, and weird.
+
+176
+00:14:01,650 --> 00:14:08,410
+Well, everyone in this room already knows
+something that is open, flat, weird, and not
+
+177
+00:14:08,410 --> 00:14:10,860
+understood by corporations: the internet.
+
+178
+00:14:10,860 --> 00:14:14,510
+We already did it once, we're going to do
+it again.
+
+179
+00:14:14,510 --> 00:14:20,250
+This time, we're going to bring the entire
+world with us.
+
+180
+00:14:20,250 --> 00:14:24,690
+In the background of this grand story, there
+is another story that's playing out.
+
+181
+00:14:24,690 --> 00:14:31,230
+After 25 years of the internet, it still takes
+three to five days to send money from here
+
+182
+00:14:31,230 --> 00:14:33,940
+to a country that's not in Europe.
+
+183
+00:14:33,940 --> 00:14:37,970
+It will still cost you $30-40 to send money.
+
+184
+00:14:37,970 --> 00:14:42,230
+That's only if the country you're sending
+it to isn't a poor country, in which case
+
+185
+00:14:42,230 --> 00:14:45,760
+it will cost far more and take far longer.
+
+186
+00:14:45,760 --> 00:14:53,270
+A giant network of centralised, closed, corrupt
+systems that are sucking money out of the
+
+187
+00:14:53,270 --> 00:14:55,410
+poorest people on this planet.
+
+188
+00:14:55,410 --> 00:15:01,260
+In 2017, 2.5 billion people do not have access
+to banking.
+
+189
+00:15:01,260 --> 00:15:05,890
+That means they have zero access to banking
+and are entirely cash-based.
+
+190
+00:15:05,890 --> 00:15:11,750
+That's only counting heads of household -- not
+their spouses, not their children.
+
+191
+00:15:11,750 --> 00:15:13,070
+Clearly they don't 'matter.'
+
+192
+00:15:13,070 --> 00:15:18,120
+That's according to the International Monetary
+Fund and World Bank.
+
+193
+00:15:18,120 --> 00:15:27,790
+Imagine what happens if you bring banking
+to an app, to everyone who has a $20 Android
+
+194
+00:15:27,790 --> 00:15:28,790
+smartphone.
+
+195
+00:15:28,790 --> 00:15:33,620
+Three-and-a-half to four billion people are
+on the internet today; just over one billion
+
+196
+00:15:33,620 --> 00:15:39,800
+people among them have banking and full access
+to financial services.
+
+197
+00:15:39,800 --> 00:15:45,600
+We're going to bring it to the other six billion
+fast.
+
+198
+00:15:45,600 --> 00:15:49,690
+This is going to change the world faster than
+the spread of cell phones.
+
+199
+00:15:49,690 --> 00:15:54,240
+Imagine a $20 Android landing in a village
+in Kenya.
+
+200
+00:15:54,240 --> 00:15:58,910
+It's no longer just a communications device,
+it's a bank.
+
+201
+00:15:58,910 --> 00:16:01,610
+Not a bank account, but a bank.
+
+202
+00:16:01,610 --> 00:16:05,680
+It can 'wire' and receive funds from anywhere
+in the world.
+
+203
+00:16:05,680 --> 00:16:12,950
+It can do lending or receive loans for a mortgage,
+to buy seeds for a field, to bring disaster
+
+204
+00:16:12,950 --> 00:16:13,960
+relief.
+
+205
+00:16:13,960 --> 00:16:18,240
+It can internationally connect to every person
+on this planet.
+
+206
+00:16:18,240 --> 00:16:20,860
+We can do this within the next ten years.
+
+207
+00:16:20,860 --> 00:16:27,960
+The world will radically transform when you
+bring the capability of broad economic inclusion
+
+208
+00:16:27,960 --> 00:16:29,870
+to everyone in this world.
+
+209
+00:16:29,870 --> 00:16:32,570
+You would think that banks want to do this?
+
+210
+00:16:32,570 --> 00:16:36,320
+You'd be wrong.
+
+211
+00:16:36,320 --> 00:16:41,240
+It's not really profitable serving people
+who have little money, little connectivity,
+
+212
+00:16:41,240 --> 00:16:45,980
+no access to ID, in oppressed countries with
+terrible governments.
+
+213
+00:16:45,980 --> 00:16:52,070
+Also, in most of those countries, banks _are_
+criminals and criminal organisations.
+
+214
+00:16:52,070 --> 00:16:56,870
+Or really quite indistinguishable from the
+local mob.
+
+215
+00:16:56,870 --> 00:16:59,310
+So how do we fix that?
+
+216
+00:16:59,310 --> 00:17:05,189
+Up to now the approach for all of these technologies,
+whether it was PayPal or any of the others
+
+217
+00:17:05,189 --> 00:17:13,839
+we've seen slowly emerge in financial technology,
+was to carefully and politely ask for permission.
+
+218
+00:17:13,839 --> 00:17:18,220
+Bitcoin is not asking for permission.
+
+219
+00:17:18,220 --> 00:17:21,069
+We "forgot" to do that.
+
+220
+00:17:21,069 --> 00:17:27,610
+And we will proceed in (un)banking the entire
+world without asking for anyone's permission.
+
+221
+00:17:27,610 --> 00:17:29,990
+This protocol is now spreading.
+
+222
+00:17:29,990 --> 00:17:34,919
+If this one gets shut down, a 14-year-old
+with a copy of my book can rebuild it in a
+
+223
+00:17:34,919 --> 00:17:40,330
+weekend, in any programming language, and
+launch it again with a new name.
+
+224
+00:17:40,330 --> 00:17:44,399
+Again and again until we succeed.
+
+225
+00:17:44,399 --> 00:17:46,710
+The world is now connected.
+
+226
+00:17:46,710 --> 00:17:52,429
+Finance is now an application and money is
+a content type.
+
+227
+00:17:52,429 --> 00:18:00,009
+Welcome to our new planet.
+
+228
+00:18:00,009 --> 00:18:12,509
+Thank you.
+
