@@ -53,7 +53,7 @@ Andreas M Antonopoulos是目前将这只大象描述的最清楚的那个人，�
 
 ## 演讲集
 
-收集Andreas M Antonopoulos 目前影响最大，阐述问题最清除的Youtube视频，进行翻译;
+收集Andreas M Antonopoulos 目前影响最大，阐述问题最清楚的Youtube视频，进行翻译;
 
 视频来源于Andreas的Youtobe主页:
 
