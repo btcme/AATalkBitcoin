@@ -1,0 +1,961 @@
+1
+00:00:00,000 --> 00:00:05,420
+Thank you for coming today.
+The title of my talk is a misdirection.
+
+2
+00:00:05,420 --> 00:00:10,740
+"Thoughts on the Future of Programmable Money"
+is just the generic title for every talk I give,
+
+3
+00:00:10,740 --> 00:00:15,320
+and then I change it just before I go on stage.
+
+4
+00:00:15,320 --> 00:00:17,480
+This is all improvisation, folks.
+
+5
+00:00:17,480 --> 00:00:27,800
+I will be talking about universal basic finance.
+That is the topic of my talk today.
+
+6
+00:00:27,800 --> 00:00:32,180
+At the moment, we are at a crossroads.
+
+7
+00:00:32,180 --> 00:00:39,860
+We are having a great debate about
+the future of cryptocurrency and finance.
+
+8
+00:00:39,860 --> 00:00:47,600
+A lot of people are expressing some
+very strong opinions, myself included.
+
+9
+00:00:47,600 --> 00:00:56,620
+The backdrop to all of this, are the people who aren't
+in this room and will never be in a room like this.
+
+10
+00:00:56,620 --> 00:01:04,180
+In 2013, I visited the beautiful country of Argentina
+for the first time, and gave a talk in Buenos Aires.
+
+11
+00:01:04,180 --> 00:01:11,640
+It completely changed the direction and trajectory
+of my involvement in Bitcoin and open blockchains.
+
+12
+00:01:11,640 --> 00:01:21,080
+For the first time, I didn't need to explain the "why" of
+Bitcoin, open blockchains, and freedom in finance.
+
+13
+00:01:21,080 --> 00:01:29,140
+Everybody there was interested in only one 
+question: how do I [get involved] right now?
+
+14
+00:01:29,140 --> 00:01:35,600
+Because the "why" is already
+obvious to people from Argentina.
+
+15
+00:01:35,600 --> 00:01:39,480
+Someone came up to me at the conference 
+and said, "You have inspired me today."
+
+16
+00:01:39,480 --> 00:01:42,040
+"I was [almost too] terrified to come to this conference."
+
+17
+00:01:42,040 --> 00:01:47,460
+"I am afraid of what might happen
+if our government changes again."
+
+18
+00:01:47,460 --> 00:01:51,760
+"My grandparents were kidnapped
+by the previous regime."
+
+19
+00:01:51,760 --> 00:01:56,680
+"We didn't see them for months and thought
+they had been thrown out of an airplane."
+
+20
+00:01:56,680 --> 00:01:59,900
+Think about that for a second.
+
+21
+00:01:59,900 --> 00:02:04,780
+When we talk about financial inclusion,
+we talk about the banked and unbanked.
+
+22
+00:02:04,780 --> 00:02:11,480
+But we have no clue, from our position
+of privilege, what this really means.
+
+23
+00:02:11,480 --> 00:02:14,460
+It shook me to the core.
+
+24
+00:02:14,460 --> 00:02:19,960
+I have had conversations like that every 
+year since I started working in this space.
+
+25
+00:02:19,960 --> 00:02:28,080
+People will come to me and say,
+"I hear you, because that is my story too."
+
+26
+00:02:28,080 --> 00:02:33,460
+What does it mean to be unbanked?
+
+27
+00:02:33,460 --> 00:02:41,900
+The World Bank defines "unbanked" as 2.5 billion people
+who have absolutely no access to financial services...
+
+28
+00:02:41,900 --> 00:02:44,440
+and live in cash-based societies.
+
+29
+00:02:44,440 --> 00:02:48,540
+Conveniently, they only count heads of household.
+
+30
+00:02:48,540 --> 00:02:53,480
+Spouses and children are
+unimportant in this calculation.
+
+31
+00:02:53,480 --> 00:02:58,460
+Only the primary earners matter.
+
+32
+00:02:58,460 --> 00:03:05,700
+Yet we know that in the vast majority of the world, [day-
+to-day] household finances are controlled by women.
+
+33
+00:03:05,700 --> 00:03:10,720
+But they are not counted as the head of household.
+
+34
+00:03:10,720 --> 00:03:16,000
+To be unbanked is not to simply
+[live in] a cash-based society.
+
+35
+00:03:16,010 --> 00:03:24,260
+To be unbanked is to lack connectivity to
+the world, to lack the ability to participate...
+
+36
+00:03:24,260 --> 00:03:33,920
+in trade and commerce, to [be unable] to get
+a job and [find] people who want your services.
+
+37
+00:03:33,920 --> 00:03:40,980
+[To struggle] to build a future for your children.
+It is to be condemned to poverty.
+
+38
+00:03:40,980 --> 00:03:46,140
+When we look at [those conditions], we think,
+'They don't have money, that's why they're unbanked.'
+
+39
+00:03:46,140 --> 00:03:52,010
+Wrong. Absolutely wrong.
+
+40
+00:03:52,010 --> 00:04:01,300
+They don't have access, documentation, or
+the necessary literacy to fill in an application form.
+
+41
+00:04:01,300 --> 00:04:09,380
+Sometimes they don't even have the clothes,
+shoes, or appearance to be able to enter a bank...
+
+42
+00:04:09,380 --> 00:04:13,860
+without being kicked out by a security guard.
+
+43
+00:04:13,860 --> 00:04:17,320
+That is what it means to be unbanked.
+
+44
+00:04:17,320 --> 00:04:19,340
+What does that do?
+
+45
+00:04:19,350 --> 00:04:28,030
+It creates enormous poverty around the world
+just so we can persist in this petty, bourgeois idea...
+
+46
+00:04:28,030 --> 00:04:39,160
+idea that as long as every participant must
+prove their identity, we can track every transaction...
+
+47
+00:04:39,160 --> 00:04:44,120
+through this surveillance system and end crime.
+
+48
+00:04:44,120 --> 00:04:51,340
+By believing in that false idea of
+safety through totalitarian control,
+
+49
+00:04:51,340 --> 00:05:03,160
+we condemn billions of people to poverty.
+Not just 2.5 billion, but many more.
+
+50
+00:05:03,160 --> 00:05:10,620
+We talk about financial inclusion from the perspective
+of the rich and privileged world we live in.
+
+51
+00:05:10,620 --> 00:05:12,840
+The world I live in.
+
+52
+00:05:12,840 --> 00:05:20,120
+As an American citizen, I can not only open
+a bank account, but trade in multiple currencies...
+
+53
+00:05:20,120 --> 00:05:25,870
+without restrictions and access investment
+opportunities all around the world.
+
+54
+00:05:25,870 --> 00:05:29,140
+Capital, liquidity, and credit.
+
+55
+00:05:29,140 --> 00:05:36,400
+A stable currency that won't destroy itself
+overnight, taking my entire savings with it.
+
+56
+00:05:36,400 --> 00:05:44,370
+Hopefully, most of the time, institutions
+that are not actively stealing my money...
+
+57
+00:05:44,370 --> 00:05:52,040
+or [rapidly] destroying the currency in order
+to pay off their debt through hyperinflation,
+
+58
+00:05:52,040 --> 00:05:55,960
+leading to financial collapse.
+
+59
+00:05:55,970 --> 00:06:02,200
+How many people have that?
+Everyone in this room, probably.
+
+60
+00:06:02,200 --> 00:06:06,790
+But if you count people around the world
+with access to that level of financial services,
+
+61
+00:06:06,790 --> 00:06:09,860
+it is maybe 1.5 billion people.
+
+62
+00:06:09,860 --> 00:06:22,140
+After 2013, that is why I started saying strongly
+and loudly, "This is about the other six billion."
+
+63
+00:06:22,140 --> 00:06:27,300
+That is what financial inclusion means.
+
+64
+00:06:27,300 --> 00:06:34,300
+Our regulatory system is actively
+excluding people from finance.
+
+65
+00:06:34,300 --> 00:06:45,700
+We have finally reached a point where access
+to basic financial services is a privilege.
+
+66
+00:06:45,700 --> 00:06:54,260
+The average person must do a dance to 
+prove themselves worthy in front of a banker,
+
+67
+00:06:54,260 --> 00:07:04,820
+filling in reams of paperwork and application forms,
+to be granted the privilege of financial services.
+
+68
+00:07:04,820 --> 00:07:13,660
+We are even condemning cash: the ultimate
+peer-to-peer, anonymous, fungible mechanism...
+
+69
+00:07:13,660 --> 00:07:22,300
+that has provided basic financial
+services to everyone for millenia.
+
+70
+00:07:22,300 --> 00:07:27,900
+Cash has one fatal flaw, which is not that
+it is anonymous - that is its greatest feature.
+
+71
+00:07:27,900 --> 00:07:31,460
+It is not that it can be used by criminals,
+because the real criminals get a banking license...
+
+72
+00:07:31,470 --> 00:07:40,580
+and defraud people by the millions.
+
+73
+00:07:40,580 --> 00:07:46,350
+It is available to everyone without vetting.
+
+74
+00:07:46,350 --> 00:07:54,960
+It is an open, transparent, neutral, verifiable,
+peer-to-peer transactional system.
+
+75
+00:07:54,960 --> 00:08:01,699
+But its greatest weakness is, it is constrained
+by geopgraphy and locality.
+
+76
+00:08:01,700 --> 00:08:05,700
+It doesn't have enough range and scale.
+
+77
+00:08:05,700 --> 00:08:17,200
+Now we have a new form of digital cash,
+which is also open, neutral, verifiable, unforgeable,
+
+78
+00:08:17,200 --> 00:08:19,080
+and transportable.
+
+79
+00:08:19,080 --> 00:08:27,800
+This one is also borderless, censorship resistant,
+and can be used even when your government
+
+80
+00:08:27,800 --> 00:08:30,640
+doesn't want it.
+
+81
+00:08:30,640 --> 00:08:34,720
+It [does not require] privilege or identity.
+
+82
+00:08:34,720 --> 00:08:39,080
+It can be used everywhere in
+the world, by whoever wants to,
+
+83
+00:08:39,080 --> 00:08:47,940
+by simply downloading the software on 
+whatever computing device they can afford.
+
+84
+00:08:47,940 --> 00:08:50,920
+That is the real revolution here.
+
+85
+00:08:50,920 --> 00:08:57,540
+While we have our little privileged discussions
+about whether we should regulate cryptocurrencies,
+
+86
+00:08:57,540 --> 00:09:02,200
+how much we should regulate cryptocurrencies,
+and who should regulate cryptocurrencies...
+
+87
+00:09:02,200 --> 00:09:08,500
+Fuck that! [Applause]
+
+88
+00:09:08,500 --> 00:09:14,760
+Cryptocurrencies are about providing universal
+[access to] basic finance, to whomever needs it,
+
+89
+00:09:14,760 --> 00:09:19,540
+everywhere in the world,
+whether we like them or not.
+
+90
+00:09:19,540 --> 00:09:27,050
+What will people do with universal basic finance?
+They will do what they have done for millenia with cash.
+
+91
+00:09:27,050 --> 00:09:31,080
+They will build a future for their children.
+
+92
+00:09:31,080 --> 00:09:40,480
+We are paralyzed with fear because of a few
+bad actors, blind to the fact that worst actors...
+
+93
+00:09:40,480 --> 00:09:49,760
+have state privilege and endorsements, hand-in-hand
+with intelligence agencies, inside the mechanisms...
+
+94
+00:09:49,760 --> 00:09:53,060
+of surveillance capitalism.
+
+95
+00:09:53,060 --> 00:09:59,020
+They fund dictators and drug lords all 
+around the world with our tax money,
+
+96
+00:09:59,020 --> 00:10:02,300
+to the tune of trillions [of dollars].
+
+97
+00:10:02,300 --> 00:10:08,700
+The real terrorism and drug financing doesn't
+happen in petty cash [or cryptocurrency];
+
+98
+00:10:08,700 --> 00:10:17,160
+it happens through millions of barrels of
+oil and U.S. dollar wire transfers, by banks...
+
+99
+00:10:17,160 --> 00:10:21,460
+who get caught again and again.
+
+100
+00:10:21,460 --> 00:10:31,440
+They will pay a fine that is worth a fraction of
+their profit or the tens of thousands of deaths...
+
+101
+00:10:31,440 --> 00:10:33,260
+they have contributed to.
+
+102
+00:10:33,260 --> 00:10:36,720
+Not a single person goes to jail.
+
+103
+00:10:36,720 --> 00:10:48,000
+Some people still have the audacity to say
+that we must end cash in order to stop crime.
+
+104
+00:10:48,010 --> 00:10:54,170
+How magnificently self-righteous.
+
+105
+00:10:54,170 --> 00:11:01,029
+In the United States, about 18% of the population
+does not have access to banking services.
+
+106
+00:11:01,029 --> 00:11:03,700
+That is 60 million people.
+
+107
+00:11:03,700 --> 00:11:09,600
+Once, when I recited this fact at a banking
+conference, a lady in the bank raised her hand...
+
+108
+00:11:09,600 --> 00:11:18,300
+and asked, "Why should we
+give bank accounts to illegals?"
+
+109
+00:11:18,300 --> 00:11:22,400
+That is a chilling question to ask,
+
+110
+00:11:22,400 --> 00:11:27,200
+but let me translate it to you in words
+that will have more of an impact.
+
+111
+00:11:27,200 --> 00:11:36,320
+"Those people don't deserve the
+privilege of financial inclusion."
+
+112
+00:11:36,320 --> 00:11:44,680
+When your neighbor says, "Those people don't
+belong in our neighborhood," it might freak you out.
+
+113
+00:11:44,680 --> 00:11:49,240
+You suddenly realize that you are living next to a bigot.
+
+114
+00:11:49,240 --> 00:11:56,990
+But when this banking regulator asked, 
+"Why should we give bank accounts to illegals,"
+
+115
+00:11:56,990 --> 00:12:09,540
+I calmly responded, "You shouldn't. We will." [Applause]
+
+116
+00:12:09,540 --> 00:12:18,260
+At the last conference I attended, after I gave my speech
+decrying the lack of security and financial inclusion,
+
+117
+00:12:18,260 --> 00:12:27,120
+a young man in his 20s came up to me and said,
+"This really spoke to my personal story."
+
+118
+00:12:27,120 --> 00:12:35,580
+He had been living in western, developed countries
+for the past fifteen years, and has not been...
+
+119
+00:12:35,580 --> 00:12:40,240
+able to open a bank account.
+
+120
+00:12:40,240 --> 00:12:47,850
+"Every time I write my name and place of birth
+in the application, the process has already ended."
+
+121
+00:12:47,850 --> 00:12:58,320
+"I was born in Iran. I didn't choose that.
+I haven't done anything [wrong]."
+
+122
+00:12:58,320 --> 00:13:02,460
+"I have a job and I pay my taxes."
+
+123
+00:13:02,460 --> 00:13:15,240
+"All I want is to deposit my paycheck and buy groceries.
+For fifteen years, I've been unable to do that."
+
+124
+00:13:15,240 --> 00:13:18,000
+This is the face of the unbanked.
+
+125
+00:13:18,000 --> 00:13:25,460
+They are walking the streets around you, in this
+city of privilege, the independent district of London,
+
+126
+00:13:25,460 --> 00:13:28,460
+bought and paid for by banking corporations.
+
+127
+00:13:28,460 --> 00:13:34,820
+This enclave is the Vatican of capitalism,
+a citiy within a city.
+
+128
+00:13:34,820 --> 00:13:42,100
+Invisible people such as janitors and service
+professionals making your sandwiches,
+
+129
+00:13:42,100 --> 00:13:44,760
+who don't have a bank account.
+
+130
+00:13:44,760 --> 00:13:52,780
+They must take their cash paycheck
+to various places for payday loans.
+
+131
+00:13:52,780 --> 00:13:58,540
+Maybe they accept checks or other
+forms of payment they can't deposit.
+
+132
+00:13:58,540 --> 00:14:06,520
+They are charged 10-30% to send money home to their
+loved ones and support a basic subsistence lifestyle.
+
+133
+00:14:06,520 --> 00:14:09,840
+That is the unbanked, right here in this city.
+
+134
+00:14:09,840 --> 00:14:18,980
+Don't imagine the great masses in Africa, South America,
+or southeast Asia; of course they are unbanked.
+
+135
+00:14:18,980 --> 00:14:22,020
+They are right here.
+They are your neighbors.
+
+136
+00:14:22,020 --> 00:14:30,300
+They are forced to live in that position so we can
+continue [believing in] the illusion that safety comes...
+
+137
+00:14:30,300 --> 00:14:34,280
+from totalitarian surveillance.
+
+138
+00:14:34,280 --> 00:14:40,600
+This very conference is being sponsored by
+a company that is spreading around millions of dollars...
+
+139
+00:14:40,600 --> 00:14:44,500
+worth of marketing [for] surveillance [tools].
+
+140
+00:14:44,510 --> 00:14:47,620
+They are promoting and advancing the state-of-the-art.
+
+141
+00:14:47,620 --> 00:14:51,170
+You all have their name on your badge,
+look down and check it out.
+
+142
+00:14:51,170 --> 00:14:59,900
+This company shares and sells your data
+to other companies, which further process...
+
+143
+00:14:59,900 --> 00:15:02,840
+that data to intelligence agencies.
+
+144
+00:15:02,840 --> 00:15:10,420
+This lovely trickle-down surveillance eventually
+reaches some regime that enjoys cutting up...
+
+145
+00:15:10,420 --> 00:15:13,620
+the bodies of journalists with hacksaws.
+
+146
+00:15:13,620 --> 00:15:21,040
+Don't fool yourself: it is not possible to separate
+your position within a company like that...
+
+147
+00:15:21,040 --> 00:15:25,260
+from the moral implications of your actions.
+
+148
+00:15:25,260 --> 00:15:30,740
+I say to all of you, when you are hiring people
+and see [such a company] on their resume,
+
+149
+00:15:30,740 --> 00:15:39,280
+just like if I saw companies like General
+Dynamics, Raytheon, and Lockhead Martin...
+
+150
+00:15:39,280 --> 00:15:44,620
+[If they worked for] any company in our space
+that is actively pursuing surveillance technology...
+
+151
+00:15:44,620 --> 00:15:51,480
+and selling [our data] to the highest bidder, 
+they have declared moral bankruptcy.
+
+152
+00:15:51,490 --> 00:15:56,589
+If you declare moral bankruptcy, you should
+have to spend at least seven years struggling...
+
+153
+00:15:56,589 --> 00:16:02,780
+to find a job and being interrogated about your ethics.
+
+154
+00:16:02,780 --> 00:16:12,839
+Just like poor people are forced to spend
+seven years trying to prove to a banker...
+
+155
+00:16:12,840 --> 00:16:18,360
+that they deserve the privilege of banking.
+
+156
+00:16:18,360 --> 00:16:24,160
+We have some deep moral choices to make.
+We stand at a crossroads right now.
+
+157
+00:16:24,160 --> 00:16:30,660
+World governments are trying to abolish cash,
+the very last lifeline that remains...
+
+158
+00:16:30,660 --> 00:16:35,380
+for billions of poor people.
+
+159
+00:16:35,380 --> 00:16:38,820
+It is not because they don't work;
+they work harder than all of us.
+
+160
+00:16:38,820 --> 00:16:40,440
+It is not because they don't deserve [better].
+
+161
+00:16:40,440 --> 00:16:50,980
+It is because of where they born, the documentation
+or literacy they don't have, and how they look.
+
+162
+00:16:50,980 --> 00:16:55,500
+In Saudi Arabia, women are not allowed
+to own property and bank accounts.
+
+163
+00:16:55,500 --> 00:16:58,959
+This is the case in half a dozen
+countries around the world.
+
+164
+00:16:58,959 --> 00:17:04,860
+We look at that and say, "Shame on them
+That is immoral. That is disgusting."
+
+165
+00:17:04,860 --> 00:17:09,939
+Then we turn around and do the same thing
+to immigrants in this country. And my country.
+
+166
+00:17:09,940 --> 00:17:11,740
+I am part British, part American.
+
+167
+00:17:11,740 --> 00:17:19,640
+I need to apologise [to dozens] of countries
+around the world the moment I arrive.
+
+168
+00:17:19,640 --> 00:17:29,540
+I know in my heart that every time I pay taxes,
+I am killing thousands of people by proxy.
+
+169
+00:17:29,540 --> 00:17:35,890
+I still pay, because I am also helping people on welfare.
+
+170
+00:17:35,890 --> 00:17:44,880
+When we make these moral choices, we need
+to understand that surveillance never stopped crime.
+
+171
+00:17:44,880 --> 00:17:55,660
+Surveillance is the license that gives 
+control to people at the top of they system.
+
+172
+00:17:55,660 --> 00:18:00,960
+They will commit crimes, the worst of crimes.
+
+173
+00:18:00,960 --> 00:18:07,830
+I know Britain doesn't use the metric system,
+so "mega-" is the prefix we use for millions.
+
+174
+00:18:07,830 --> 00:18:17,580
+For example, a mega-crime is where you [fraudulently]
+foreclose a million homes and don't go to jail.
+
+175
+00:18:17,580 --> 00:18:26,280
+We perform surveillance and analytics to catch
+petty drug dealers selling pot for bitcoin,
+
+176
+00:18:26,280 --> 00:18:33,850
+but who is surveilling [the actions of] Lockhead Martin?
+On the money laundering banks? Nobody.
+
+177
+00:18:33,850 --> 00:18:37,090
+Do you know why? None of them will ever go to jail.
+
+178
+00:18:37,090 --> 00:18:39,600
+The regulators are completely captured.
+
+179
+00:18:39,600 --> 00:18:46,840
+This is a system of controlling all finance
+from above, with levers of power...
+
+180
+00:18:46,840 --> 00:18:56,240
+over the lives of millions and billions of people, cutting
+off entire countries because "they're under sanction."
+
+181
+00:18:56,240 --> 00:19:00,720
+They are not privileged enough, they are not
+"people" enough to gain financial services.
+
+182
+00:19:00,720 --> 00:19:02,400
+Guess who that system attracts?
+
+183
+00:19:02,400 --> 00:19:10,030
+If you build levers of power like that, the very
+worst sociopaths in our society are attracted,
+
+184
+00:19:10,030 --> 00:19:12,820
+like flies to shit.
+
+185
+00:19:12,820 --> 00:19:20,050
+They will grab hold of those levers of power and
+destroy all of your freedoms as quickly as they can.
+
+186
+00:19:20,050 --> 00:19:27,870
+We have built societies in which one
+bad election could be the last election.
+
+187
+00:19:27,870 --> 00:19:35,040
+If you don't believe me, look at what has
+happened in Turkey, Russia, and Venezuela,
+
+188
+00:19:35,040 --> 00:19:41,260
+capturing billions of people around the world every day.
+
+189
+00:19:41,260 --> 00:19:47,720
+Let me end on a positive note, because you
+are probably a bit freaked out by all of this.
+
+190
+00:19:47,720 --> 00:19:52,020
+You should be. This is serious stuff.
+
+191
+00:19:52,020 --> 00:20:03,620
+Open, public, borderless, transparent, neutral,
+censorship resistant, and private cryptocurrencies exist.
+
+192
+00:20:03,620 --> 00:20:09,620
+They will not be regulated; they cannot be regulated.
+
+193
+00:20:09,620 --> 00:20:17,260
+Not by committees, only by
+mathematics and algorithms.
+
+194
+00:20:17,260 --> 00:20:27,340
+They provide certainty, programmable consumer
+protection, and reputation management.
+
+195
+00:20:27,340 --> 00:20:31,940
+They provide access without identity.
+
+196
+00:20:31,940 --> 00:20:44,480
+Eventually, they will give billions of people not
+just a bank account in their pocket, but a bank.
+
+197
+00:20:44,480 --> 00:20:52,760
+They will democratize the functions of banking,
+as applications that anyone can access without vetting.
+
+198
+00:20:52,760 --> 00:21:02,940
+They are pre-vetted by agreeing to download
+software which follows the rules of consensus.
+
+199
+00:21:02,940 --> 00:21:16,340
+That is the only vetting required in these systems.
+"But we shouldn't allow that!" We did.
+
+200
+00:21:16,340 --> 00:21:23,020
+"But we can't have people make 
+anonymous transactions!" They will.
+
+201
+00:21:23,020 --> 00:21:31,180
+"But we must regulate this!"
+You can't. And you won't.
+
+202
+00:21:31,180 --> 00:21:34,780
+Six billion people need this.
+
+203
+00:21:34,780 --> 00:21:45,020
+You have neither the moral authority nor 
+the practical capability to stand in their way.
+
+204
+00:21:45,020 --> 00:21:52,559
+You can't stand in the way of what will be
+the greatest revolution in financial services...
+
+205
+00:21:52,560 --> 00:21:54,220
+in three centuries.
+
+206
+00:21:54,220 --> 00:22:05,760
+Universal access to basic finance.
+Thank you. [Applause]
+
