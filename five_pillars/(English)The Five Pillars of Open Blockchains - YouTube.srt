@@ -1,0 +1,1143 @@
+﻿1
+00:00:00,000 --> 00:00:04,600
+Hello, everyone. 안녕하세요
+[Korean: Annyeonghaseyo].
+
+2
+00:00:04,600 --> 00:00:19,600
+That is all I can say [in Korean]. It took me one hour
+to learn how to say that. I watched YouTube videos.
+
+3
+00:00:19,600 --> 00:00:29,460
+What I want to talk about today is
+the five pillars of cryptocurrencies.
+
+4
+00:00:29,460 --> 00:00:35,880
+You've probably heard me say this before, 
+but I'm interested in blockchains that are...
+
+5
+00:00:35,880 --> 00:00:44,800
+open, public, borderless, neutral, and censorship-
+resistant. Have you heard [me express that before]?
+
+6
+00:00:44,800 --> 00:00:47,840
+Open, public, borderless, neutral,
+and censorship-resistant.
+
+7
+00:00:47,840 --> 00:00:53,040
+If you watched any of my videos, you've probably
+heard me repeat that thing again and again.
+
+8
+00:00:53,040 --> 00:00:58,420
+There are the blockchains that are open, public,
+borderless, neutral, and censorship-resistant.
+
+9
+00:00:58,420 --> 00:01:04,060
+Then there is the other kind,
+which are... bullshit! Very good.
+
+10
+00:01:04,060 --> 00:01:13,760
+If you want more information on that, [one of] my most
+popular videos on Youtube is banned on Facebook.
+
+11
+00:01:13,760 --> 00:01:19,440
+It is called "Blockchain versus Bullshit."
+
+12
+00:01:19,440 --> 00:01:27,760
+Unfortunately, that word was apparently too colorful
+for Facebook. "Oh no, you can't say that word!"
+
+13
+00:01:27,760 --> 00:01:33,800
+"You can't say that word on Facebook. We allow
+Neo-nazi content, but you can't say 'bullshit.'"
+
+14
+00:01:33,800 --> 00:01:38,060
+So, that [happened]...
+
+15
+00:01:38,060 --> 00:01:42,980
+How can you tell the difference
+between a blockchain and bullshit?
+
+16
+00:01:42,980 --> 00:01:52,420
+There are a lot of companies trying to sell things and
+attach the word "blockchain" to make their proposition...
+
+17
+00:01:52,420 --> 00:01:54,880
+more palatable, right?
+
+18
+00:01:54,880 --> 00:02:02,700
+No matter what you are doing, they will
+find ways to connect a blockchain to it.
+
+19
+00:02:02,700 --> 00:02:10,020
+My favorite example was Kodak. Do you 
+remember Kodak? They used to make film.
+
+20
+00:02:10,020 --> 00:02:19,600
+They invented the digital camera and then didn't use it or
+sell it for 20 years, until Nokia [took over] their industry.
+
+21
+00:02:19,600 --> 00:02:28,640
+In 2017, they launched a blockchain project.
+
+22
+00:02:28,640 --> 00:02:33,120
+[With enough imagination], you can attach 
+anything to a blockchain. Let's try it.
+
+23
+00:02:33,120 --> 00:02:41,560
+I say a word, you say "blockchain." Okay, very good.
+Asparagus. [AUDIENCE] Blockchain. [ANDREAS] See?
+
+24
+00:02:41,560 --> 00:02:47,120
+If we keep doing this, people will start throwing
+money at you. Bus. [AUDIENCE] Blockchain.
+
+25
+00:02:47,120 --> 00:02:51,640
+[ANDREAS] Healthcare. [AUDIENCE] Blockchain!
+[ANDREAS] Supply chain. [AUDIENCE] Blockchain!
+
+26
+00:02:51,640 --> 00:02:58,560
+[ANDREAS] See? Very good. We have already created
+four startups that Google would probably fund.
+
+27
+00:02:58,560 --> 00:03:05,880
+After all, this space is called "Google for Startups," which
+is a funny name. What does Google do with start-ups?
+
+28
+00:03:05,880 --> 00:03:12,600
+Do they swallow them? Is that the idea? [Laughter]
+
+29
+00:03:12,600 --> 00:03:19,680
+The idea here is, you need to understand what is
+important and what is not important in this space.
+
+30
+00:03:19,680 --> 00:03:27,520
+Because there is so much money flowing in and
+so much opportunity, there are also a lot of sharks.
+
+31
+00:03:27,520 --> 00:03:35,620
+In the business world, just like sharks
+can smell blood from kilometers away,
+
+32
+00:03:35,620 --> 00:03:39,420
+MBAs can smell [venture capital] money.
+
+33
+00:03:39,420 --> 00:03:47,680
+If you put some VC money in the room, they will show up
+and start attaching the word "blockchain" to everything,
+
+34
+00:03:47,680 --> 00:03:49,320
+trying to get funding.
+
+35
+00:03:49,320 --> 00:03:58,660
+We need to understand what is important versus
+not important in this space. How will we do that?
+
+36
+00:03:58,660 --> 00:04:04,160
+I set up these criteria, these ideas of what 
+is important about the Bitcoin blockchain.
+
+37
+00:04:04,160 --> 00:04:09,160
+Why this all started with the Bitcoin blockchain,
+what made it important, and how you can tell...
+
+38
+00:04:09,160 --> 00:04:12,800
+if something really needs a blockchain.
+
+39
+00:04:12,800 --> 00:04:24,180
+The characteristics of a [real] blockchain are: open,
+public, borderless, neutral, and censorship resistant.
+
+40
+00:04:24,180 --> 00:04:29,740
+Let's talk about each one of those.
+"Open" means that anyone can access it.
+
+41
+00:04:29,740 --> 00:04:46,600
+Anyone can participate without authorization, vetting,
+or identity [verification] of nationality, ethnic origin, etc.
+
+42
+00:04:46,600 --> 00:04:52,120
+The funny thing is, you don't even need to be
+human to use a blockchain. That is not required.
+
+43
+00:04:52,120 --> 00:05:02,500
+Software [agents] can use blockchains. The blockchain
+doesn't know if you are a human or piece of software.
+
+44
+00:05:02,500 --> 00:05:12,880
+"Borderless." Like the internet, there are no borders.
+This is a truly international phenomenon.
+
+45
+00:05:12,880 --> 00:05:25,140
+That means, it doesn't matter where you are, where you
+live, where you travel. The blockchain is already there.
+
+46
+00:05:25,140 --> 00:05:31,760
+Sometimes I go through international airports.
+By "sometimes," I mean every week.
+
+47
+00:05:31,760 --> 00:05:41,620
+When I cross borders, they have signs which say, "If you
+are transporting more than $10,000 worth in currency,
+
+48
+00:05:41,620 --> 00:05:50,640
+instruments, or convertible instruments, you must
+declare them." There is an interesting question.
+
+49
+00:05:50,640 --> 00:05:58,820
+I mean, I have some bitcoin, but am I 
+"transferring" or "transporting" anything?
+
+50
+00:05:58,820 --> 00:06:07,700
+I have some keys, which are just numbers. 
+Those are not bitcoin. They are like a PIN, right?
+
+51
+00:06:07,700 --> 00:06:14,580
+I look at the other travelers next to me, 
+walking across the international border;
+
+52
+00:06:14,580 --> 00:06:19,280
+they probably have a credit or debit card in their pocket.
+
+53
+00:06:19,280 --> 00:06:26,080
+They are transporting that credit card number across
+the border. If you asked them if they are moving money,
+
+54
+00:06:26,080 --> 00:06:35,780
+they would say, "No." But there is a credit card in
+your pocket. "Yes, but the credit card is not money."
+
+55
+00:06:35,780 --> 00:06:42,960
+"The money is in the bank. I just know the PIN.
+I am not transporting money." That is a good approach.
+
+56
+00:06:42,960 --> 00:06:49,680
+I am not transporting bitcoin. My bitcoin
+is already in the country where I am going.
+
+57
+00:06:49,680 --> 00:06:55,460
+Somebody downloaded [the blockchain] there.
+When I arrived in Korea, my bitcoin was already here.
+
+58
+00:06:55,460 --> 00:06:59,080
+I am just transporting my [keys].
+
+59
+00:06:59,080 --> 00:07:06,480
+I don't want to have that conversation with an actual
+border official; they may disagree about the analysis.
+
+60
+00:07:06,480 --> 00:07:12,580
+I also make sure that, when I am traveling, 
+my wallet has less than $10,000 [worth of bitcoin].
+
+61
+00:07:12,580 --> 00:07:19,100
+Then I don't really need to have that conversation,
+but that [would] create an interesting situation.
+
+62
+00:07:19,100 --> 00:07:27,560
+You would suddenly realize that our laws, 
+practices, customs and borders...
+
+63
+00:07:27,560 --> 00:07:34,560
+are based on the idea that
+money is [located] somewhere.
+
+64
+00:07:34,560 --> 00:07:42,600
+It is either here or there. If you take it from 
+here and put it there, you are "transporting."
+
+65
+00:07:42,600 --> 00:07:51,980
+But what if it isn't here or there? What if it is everywhere?
+You are not transporting. This is a really weird problem.
+
+66
+00:07:51,980 --> 00:07:59,020
+Nobody writing that law could even think
+of money that was everywhere all the time.
+
+67
+00:07:59,020 --> 00:08:05,560
+It didn't even occur to them,
+so none of that makes sense anymore.
+
+68
+00:08:05,560 --> 00:08:12,080
+What does it mean to transmit money 
+when money isn't somewhere but everywhere?
+
+69
+00:08:12,080 --> 00:08:18,400
+What does it mean to transmit money when
+money is simply a number, a piece of information?
+
+70
+00:08:18,400 --> 00:08:31,740
+For example, I did a demonstration. I took a Bitcoin
+transaction, wrote a little script, six lines of Python.
+
+71
+00:08:31,740 --> 00:08:45,580
+I took every byte of that transaction and replaced it
+with an emoji character from the Unicode set.
+
+72
+00:08:45,580 --> 00:08:54,280
+The transaction [hash] starts with
+[many zeros and random hex code].
+
+73
+00:08:54,280 --> 00:09:03,080
+That became smiley face, frowny face, rocket,
+asparagus, broccoli, banana, monkey face...
+
+74
+00:09:03,080 --> 00:09:10,420
+All the little emojis. Then I tweeted that.
+Did I transmit money? I don't know.
+
+75
+00:09:10,420 --> 00:09:16,780
+I am not quite sure if I transmitted money.
+I sent a bitcoin transaction as a tweet,
+
+76
+00:09:16,780 --> 00:09:24,340
+consisting of monkey, banana, asparagus, broccoli,
+smiley face, frowning face, and heart [emojis].
+
+77
+00:09:24,340 --> 00:09:30,520
+Is that money transmission? Do I need a 
+banking license? That would be very weird.
+
+78
+00:09:30,520 --> 00:09:34,420
+But Bitcoin does create these weird situations.
+
+79
+00:09:34,420 --> 00:09:46,920
+"Borderless" means a lot more than you think.
+Money has become information, with no physical form.
+
+80
+00:09:46,920 --> 00:09:49,120
+It does not exist in any one place.
+
+81
+00:09:49,120 --> 00:09:55,800
+It is not a thing of place.
+It is a thing of the mind.
+
+82
+00:09:55,800 --> 00:10:00,520
+"Neutral." What does neutral mean?
+
+83
+00:10:00,520 --> 00:10:09,960
+If you operate a business and want to transmit money
+across borders, you will have interesting conversations.
+
+84
+00:10:09,960 --> 00:10:13,300
+Interesting conversations with your bankers.
+
+85
+00:10:13,300 --> 00:10:18,660
+For example, I recently had my
+books translated into Russian.
+
+86
+00:10:18,660 --> 00:10:27,580
+I sold [translation] rights to a Russian publishing
+company, which sent me a small amount of money.
+
+87
+00:10:27,580 --> 00:10:38,580
+It was about $500, something like that.
+It wasn't enough to buy a nuclear weapon, right?
+
+88
+00:10:38,580 --> 00:10:51,760
+Well, they tried to send me $500, but it never arrived.
+They said, "We sent it." I said, "Let me call my bank."
+
+89
+00:10:51,760 --> 00:10:56,480
+I called my bank and asked, "Where is the money?"
+They said, "We don't know. We don't have any money."
+
+90
+00:10:56,480 --> 00:11:03,620
+Well, okay. I went back to the Russian publisher
+and I asked them. They sent me a receipt...
+
+91
+00:11:03,620 --> 00:11:06,320
+that showed my bank had received it.
+
+92
+00:11:06,320 --> 00:11:16,060
+I took that to the bank and they said, "Oh. Our security
+department has stopped it. They don't tell us [why]."
+
+93
+00:11:16,060 --> 00:11:19,920
+"They don't tell you?" "They don't tell us."
+"Don't you think that it would be important...
+
+94
+00:11:19,920 --> 00:11:25,400
+tell the person who owns / owned this 
+money that you are holding their money?"
+
+95
+00:11:25,400 --> 00:11:33,780
+"No, we can't tell you. There is an investigation
+happening." Oh. This sounds exciting. Tell me more.
+
+96
+00:11:33,780 --> 00:11:38,680
+Then they had some questions.
+For example, "who is sending you money?"
+
+97
+00:11:38,680 --> 00:11:43,680
+I said, "My publisher in Russia."
+"And why are they sending you money?"
+
+98
+00:11:43,680 --> 00:11:48,760
+"Because I published a book."
+"What is the title of the book?"
+
+99
+00:11:48,760 --> 00:11:58,380
+"Uh, it is 'The Internet of Money, Volume One.'
+The internet of money is- nevermind."
+
+100
+00:11:58,380 --> 00:12:06,360
+"Who owns the publishing company?"
+"I don't know." "Have you confirmed...
+
+101
+00:12:06,360 --> 00:12:11,080
+that the publishing company is not owned by
+one of these seventeen Russian oligarchs,
+
+102
+00:12:11,080 --> 00:12:14,140
+currently under sanctions by the State Department?"
+
+103
+00:12:14,140 --> 00:12:23,020
+"No. It didn't really occur to me that, in order to receive
+$500, I must check their names against a watchlist."
+
+104
+00:12:23,020 --> 00:12:32,880
+"Now that I know this is my patriotic duty, let us
+all check the database while singing 'USA! USA!'"
+
+105
+00:12:32,880 --> 00:12:42,080
+"I'm sure we will find out." So I checked. The first name
+of the person who sent me the money was "Oleg."
+
+106
+00:12:42,080 --> 00:12:45,540
+They said, "Oleg is a name that is listed on our list."
+
+107
+00:12:45,540 --> 00:12:49,760
+I said, "Oleg is the fourth most common name in Russia.
+
+108
+00:12:49,760 --> 00:12:55,320
+That is like if I received money from 
+someone in South America called 'Pablo,'
+
+109
+00:12:55,320 --> 00:13:01,340
+and then they say, "We have a Pablo on our list."
+I know that - I have seen the Netflix show...
+
+110
+00:13:01,340 --> 00:13:05,180
+I know that you probably have a Pablo
+on your list, but this is the different Pablo.
+
+111
+00:13:05,180 --> 00:13:15,000
+Pablo is a common name. So throughout this entire
+conversation with my banker, I'm [dying with laughter].
+
+112
+00:13:15,000 --> 00:13:28,460
+I'm thinking, 'I have read this in a book. Is this
+from George Orwell's 1984 or Kafka's Trial?'
+
+113
+00:13:28,460 --> 00:13:35,140
+Because this whole conversation is crazy.
+
+114
+00:13:35,140 --> 00:13:39,340
+Long story short...
+Well, long story long, because it is funny.
+
+115
+00:13:39,340 --> 00:13:52,540
+It took me seven months to receive $500 
+from the highly suspicious Oleg for my book.
+
+116
+00:13:52,540 --> 00:14:00,900
+Needless to say, the next time I dealt with the publisher,
+I said, "You are paying me in bitcoin. Are we clear?"
+
+117
+00:14:00,900 --> 00:14:07,500
+What does "neutral" mean?
+Neutral means that it is my money.
+
+118
+00:14:07,500 --> 00:14:16,260
+At some very basic level, as someone who lives in a
+country that has the word "free" printed on everything,
+
+119
+00:14:16,260 --> 00:14:21,400
+I would like to say to the people of my bank,
+
+120
+00:14:21,400 --> 00:14:28,520
+"It is none of your fucking business
+why I am receiving $500. It is my money."
+
+121
+00:14:28,520 --> 00:14:34,120
+But I can't say that. If I say that, they will close all my
+bank accounts and I will get a knock on the door.
+
+122
+00:14:34,120 --> 00:14:41,540
+Then I must explain to more people who Oleg is,
+and these people from the FBI are less friendly.
+
+123
+00:14:41,540 --> 00:14:49,940
+Anyway, "neutral" means that a system of money
+should not care who the sender or the recipients is.
+
+124
+00:14:49,940 --> 00:14:55,920
+It should not care what the purpose is.
+It should only get the transaction through.
+
+125
+00:14:55,920 --> 00:15:04,000
+It is about the communication of value. 
+This seems like a very radical idea.
+
+126
+00:15:04,000 --> 00:15:10,500
+Radical as in politically unfavorable,
+or radical as in dangerous.
+
+127
+00:15:10,500 --> 00:15:20,580
+What if people could give other people money,
+without anyone else knowing about it?
+
+128
+00:15:20,580 --> 00:15:29,200
+That sounds like a pretty dangerous idea. Oh no, wait.
+That is how the world worked for thousands of years.
+
+129
+00:15:29,200 --> 00:15:34,360
+In fact, until the 1990s, that is how the world worked.
+
+130
+00:15:34,360 --> 00:15:40,480
+People could just give other people money. 
+People still can, it is called cash. Even internationally.
+
+131
+00:15:40,480 --> 00:15:46,760
+People could give other people money without
+anybody else knowing what purpose it was for.
+
+132
+00:15:46,760 --> 00:15:51,680
+What happened that was so bad, that now 
+[we have decided] we need to check everything?
+
+133
+00:15:51,680 --> 00:16:01,360
+I am pretty sure Oleg isn't the main source of funding
+for terrorism. At least, I hope not. I would get in trouble.
+
+134
+00:16:01,360 --> 00:16:11,200
+"Censorship-resistant." Censorship resistant means,
+if someone wants to stop me from sending money,
+
+135
+00:16:11,200 --> 00:16:18,620
+they can't because this is a system of speech.
+
+136
+00:16:18,620 --> 00:16:28,560
+Money is communication. Whether others 
+believe that I have a human right to speak,
+
+137
+00:16:28,560 --> 00:16:37,960
+a human right to associate, to express myself,
+to support political causes and organizations...
+
+138
+00:16:37,960 --> 00:16:41,400
+that I choose, is their problem.
+
+139
+00:16:41,400 --> 00:16:48,740
+I have those human rights. I didn't ask for them.
+They weren't given or granted to me. I have them.
+
+140
+00:16:48,740 --> 00:16:53,540
+There is a hint in the actual [term]: human right.
+
+141
+00:16:53,540 --> 00:17:00,580
+It starts with the most important
+qualifying word, being human.
+
+142
+00:17:00,580 --> 00:17:07,520
+That is the requirement. Are there any other humans
+here? You all have them? Great. Congratulations.
+
+143
+00:17:07,520 --> 00:17:18,420
+The idea is, money, like any system of 
+communication, is part of human rights.
+
+144
+00:17:18,420 --> 00:17:22,600
+There are a lot of governments
+who disagree with that idea.
+
+145
+00:17:22,600 --> 00:17:27,540
+There were a lot of governments who disagreed
+with the idea of separating church and state.
+
+146
+00:17:27,540 --> 00:17:36,040
+There were a lot of governments who disagreed
+with the idea of people voting, especially women.
+
+147
+00:17:36,040 --> 00:17:45,780
+Governments have disagreed with a lot of ideas
+but they have changed, because we know better.
+
+148
+00:17:45,780 --> 00:17:57,820
+Hopefully, in thirty to fifty years, we will come to
+understand why we should separate money and state,
+
+149
+00:17:57,820 --> 00:18:03,620
+for exactly the same reasons that we 
+should separate [church] and state.
+
+150
+00:18:03,620 --> 00:18:14,200
+If money has a purpose in commerce and you
+turn it into a police or militarized control system,
+
+151
+00:18:14,200 --> 00:18:21,500
+a system of war, it will stop working as money.
+
+152
+00:18:21,500 --> 00:18:29,580
+That is a problem. If you start destroying your economy
+in order to do law enforcement, to support war,
+
+153
+00:18:29,580 --> 00:18:32,080
+you will destroy your economy.
+
+154
+00:18:32,080 --> 00:18:44,280
+But there is a bigger problem. If you give other people
+control over where you can or cannot spend money,
+
+155
+00:18:44,280 --> 00:18:56,020
+those other people may decide that you shouldn't
+spend money financing their political opposition.
+
+156
+00:18:56,020 --> 00:19:00,360
+Pretty soon, that kind of power turns into corruption.
+
+157
+00:19:00,360 --> 00:19:08,000
+That is why we separated church and state in most
+civilized countries, because they corrupt each other.
+
+158
+00:19:08,000 --> 00:19:19,900
+If you bring the banks and the government 
+a bit too close together, they become very corrupt.
+
+159
+00:19:19,900 --> 00:19:23,580
+The banks corrupt the government;
+the government corrupts the banks.
+
+160
+00:19:23,580 --> 00:19:28,940
+Then they all destroy the economy together.
+
+161
+00:19:28,940 --> 00:19:37,680
+These crazy radical ideas, we call them
+the Enlightenment. Classical liberalism.
+
+162
+00:19:37,680 --> 00:19:44,100
+Human rights. From this, we got this crazy 
+idea that we could also apply it to money.
+
+163
+00:19:44,100 --> 00:19:53,940
+We now have this system that is open, public,
+borderless, neutral, and censorship-resistant.
+
+164
+00:19:53,940 --> 00:20:04,120
+"Public," where everything you do is verifiable on
+the network by everybody else. No one can cheat.
+
+165
+00:20:04,120 --> 00:20:11,340
+You can run software which can tell you definitively
+if a transaction has [been confirmed] or not.
+
+166
+00:20:11,340 --> 00:20:18,340
+With these principles, we built a new system
+of money.The question is, what happens next?
+
+167
+00:20:18,340 --> 00:20:26,280
+Who needs this? Who uses this?
+How will it develop? Will governments allow it?
+
+168
+00:20:26,280 --> 00:20:33,320
+Will governments try to stop it? They can't stop it,
+but we don't know the answers to those questions.
+
+169
+00:20:33,320 --> 00:20:40,660
+What we do know is, for the first time
+in history, we have these capabilities.
+
+170
+00:20:40,660 --> 00:20:44,180
+We have taken them a bit further. It is not just money.
+
+171
+00:20:44,180 --> 00:20:52,640
+With smart contracts in systems like Ethereum...
+I'm interested in that and wrote a book about it.
+
+172
+00:20:52,640 --> 00:21:03,040
+These concepts now extend to more complicated,
+more sophisticated systems that allow for other things.
+
+173
+00:21:03,040 --> 00:21:12,580
+For example, build corporations that are not registered
+by the state or domiciled in a specific location,
+
+174
+00:21:12,580 --> 00:21:17,260
+but operate as independent entities on the blockchain.
+
+175
+00:21:17,260 --> 00:21:27,740
+We call these "decentralized autonomous organizations"
+or DAOs, which is a stupid name. [Laughter]
+
+176
+00:21:27,740 --> 00:21:36,500
+Anybody who hears that name thinks, "What?"
+It doesn't really tell you what this thing is.
+
+177
+00:21:36,500 --> 00:21:47,220
+It is a cross between an association, like 
+this meetup, and a corporation or company.
+
+178
+00:21:47,220 --> 00:21:59,720
+I believe you call them...
+I can't pronounce it, but I know what it is.
+
+179
+00:21:59,720 --> 00:22:12,700
+[They could] range from your local neighborhood
+association, up to the most powerful company.
+
+180
+00:22:12,700 --> 00:22:20,600
+You can express them as a network-based 
+entity that exists outside of borders.
+
+181
+00:22:20,600 --> 00:22:31,100
+What if we made a company open, public, 
+borderless, neutral, and censorship-resistant.
+
+182
+00:22:31,100 --> 00:22:36,240
+Interesting things could happen.
+Interesting things are happening.
+
+183
+00:22:36,240 --> 00:22:42,560
+I want to focus a bit more on "open."
+Most people misunderstand what that means.
+
+184
+00:22:42,560 --> 00:22:49,900
+One layer of "open" is the idea that anyone 
+can participate, in any way they want,
+
+185
+00:22:49,900 --> 00:22:56,000
+simply by downloading the software.
+We understand what that means.
+
+186
+00:22:56,000 --> 00:23:02,980
+But there is another interesting [aspect]. 
+We are not operating these blockchains in isolation.
+
+187
+00:23:02,980 --> 00:23:10,160
+We are operating them in a competitive environment
+against existing financial services and systems.
+
+188
+00:23:10,160 --> 00:23:24,720
+How many here use PayPal? Venmo?
+How many people here use KakaoPay?
+
+189
+00:23:24,720 --> 00:23:35,920
+I can't use KakaoPay. I tried to, but it wants me to have
+a Korean phone number. Instead, I pay with credit cards.
+
+190
+00:23:35,920 --> 00:23:46,060
+How many people use KakaoPay?
+Those systems are not open, for two reasons.
+
+191
+00:23:46,060 --> 00:23:54,600
+They are not open in terms of 'can I open an account,'
+because I don't have a Korean phone number.
+
+192
+00:23:54,600 --> 00:24:02,140
+That is one example of not being open. In order to
+use the system, I must be authorized with something,
+
+193
+00:24:02,140 --> 00:24:05,420
+an identity card or phone number.
+
+194
+00:24:05,420 --> 00:24:08,640
+I can't just download software
+and operate on the network.
+
+195
+00:24:08,640 --> 00:24:16,960
+There is another much more interesting aspect of
+"open." How many of you here write applications?
+
+196
+00:24:16,960 --> 00:24:22,600
+Excellent. How many of you have written 
+an application that runs on KakaoPay?
+
+197
+00:24:22,600 --> 00:24:32,980
+Oh, you can't. Why not?
+Can you write an app that runs on PayPal?
+
+198
+00:24:32,980 --> 00:24:41,620
+A library, a protocol, a network, a platform?
+You can connect to it and make payments,
+
+199
+00:24:41,620 --> 00:24:44,780
+but you can't extend or modify it.
+
+200
+00:24:44,780 --> 00:24:52,020
+You can't build something
+different, something unauthorized.
+
+201
+00:24:52,020 --> 00:25:00,160
+I can't build an application that [handles] KakaoPay
+for people who don't have Korean phone numbers.
+
+202
+00:25:00,160 --> 00:25:10,920
+Why not? That is where the second aspect of "open"
+comes into play. You might think this a small thing.
+
+203
+00:25:10,920 --> 00:25:20,060
+Obviously, it is their network. Why would they allow
+me to build applications that change the network?
+
+204
+00:25:20,060 --> 00:25:27,640
+Think about it in a different way. That means
+all new [features] must come from them.
+
+205
+00:25:27,640 --> 00:25:32,320
+If I come up with a great idea,
+I can't [implement it on their network].
+
+206
+00:25:32,320 --> 00:25:38,200
+I must build a completely [separate] payment
+network just to run my idea on top of it.
+
+207
+00:25:38,200 --> 00:25:47,540
+I can't simply run it on top of theirs.
+Their system is closed in another way.
+
+208
+00:25:47,540 --> 00:25:56,140
+It only allows innovation from the inside,
+and they think that is a good thing.
+
+209
+00:25:56,140 --> 00:26:01,580
+I think that is a great thing,
+because that [crutch will allow us] to win.
+
+210
+00:26:01,580 --> 00:26:17,680
+With open blockchains, any one of you can [create] an
+application for it, even change how the system works.
+
+211
+00:26:17,680 --> 00:26:20,980
+It can do something that nobody authorized.
+
+212
+00:26:20,980 --> 00:26:34,060
+You could [create] something very different, 
+weird, or even illegal, and no one can stop you.
+
+213
+00:26:34,060 --> 00:26:43,040
+This is a type of radical openness, not simply
+because you are allowed to access the platform.
+
+214
+00:26:43,040 --> 00:26:53,500
+It is the opposite; you cannot be stopped from
+accessing it. It is not just open, but uncloseable.
+
+215
+00:26:53,500 --> 00:26:57,380
+Does that make any sense?
+This is a really radical idea.
+
+216
+00:26:57,380 --> 00:27:05,060
+You can write an application, connect to this network,
+and do things that nobody had considered before.
+
+217
+00:27:05,060 --> 00:27:12,420
+You don't need too many users. You only 
+need one other person to run that application.
+
+218
+00:27:12,420 --> 00:27:20,840
+Between the two of you, there is innovation 
+for a market of one or two people.
+
+219
+00:27:20,840 --> 00:27:27,100
+Then you can do something even more radical:
+make your application open.
+
+220
+00:27:27,100 --> 00:27:36,600
+Somebody else can build on top of your application.
+Then they can make their application open too.
+
+221
+00:27:36,600 --> 00:27:44,600
+Then somebody else [can] come along and now
+everybody is building on top of each other's ideas,
+
+222
+00:27:44,600 --> 00:27:48,320
+without asking for anyone's permission.
+
+223
+00:27:48,320 --> 00:27:56,900
+What happens then is really astonishing.
+We have seen it once before, with the internet.
+
+224
+00:27:56,900 --> 00:28:06,260
+This is what happened with the internet, which wasn't
+that we had some companies make great platforms.
+
+225
+00:28:06,260 --> 00:28:16,020
+You didn't need anyone's permission to launch an
+application. You could launch, let other people use it,
+
+226
+00:28:16,020 --> 00:28:18,740
+to launch another and another.
+
+227
+00:28:18,740 --> 00:28:26,780
+It created this tsunami of innovation that 
+completely overwhelmed all possible competitors.
+
+228
+00:28:26,780 --> 00:28:33,940
+This will happen to banking.
+They cannot compete against that.
+
+229
+00:28:33,940 --> 00:28:41,800
+Inside a company, there is no way you can produce the
+amount of innovation of the entire world put together,
+
+230
+00:28:41,800 --> 00:28:49,160
+all operating to serve their own special purpose,
+without asking for anybody's permission.
+
+231
+00:28:49,160 --> 00:28:56,220
+This is a really important point. At first, [most]
+people don't understand the difference between...
+
+232
+00:28:56,220 --> 00:29:00,220
+PayPal, Venmo, KakaoPay, and Bitcoin.
+
+233
+00:29:00,220 --> 00:29:06,300
+They think, 'It is an app on your phone
+that reads QR codes to make payments.'
+
+234
+00:29:06,300 --> 00:29:16,460
+'So what? I have been able to do that with PayPal
+since 1995.' That is where they are missing the point.
+
+235
+00:29:16,460 --> 00:29:30,140
+It is not an app. It is a platform. A radically open, public,
+borderless, neutral, and censorship-resistant platform.
+
+236
+00:29:30,140 --> 00:29:33,360
+Thank you. [Applause]
+
