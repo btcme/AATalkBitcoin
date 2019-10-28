@@ -1,0 +1,792 @@
+1
+00:00:08,220 --> 00:00:14,620
+The topic of this conference is "fintech"
+(financial technology), but Bitcoin is not "fintech."
+
+2
+00:00:14,620 --> 00:00:21,140
+That may surprise many of you. I hope, as you learn
+more about Bitcoin, you will continue to be surprised.
+
+3
+00:00:21,140 --> 00:00:23,440
+I'll start [this talk] with what Bitcoin isn't.
+
+4
+00:00:23,440 --> 00:00:31,840
+Bitcoin isn't a company. Bitcoin isn't an application.
+Bitcoin isn't "fintech." Bitcoin isn't banking.
+
+5
+00:00:31,840 --> 00:00:37,380
+Bitcoin is a protocol, an internet system.
+It does not belong to any one company.
+
+6
+00:00:37,380 --> 00:00:44,080
+It doesn't belong to any one organization, 
+just like the internet doesn't belong to any company.
+
+7
+00:00:44,080 --> 00:00:51,780
+It is a system for conducting transactions 
+and commerce on a global basis,
+
+8
+00:00:51,780 --> 00:00:55,400
+[along with] many other trusted applications.
+
+9
+00:00:55,400 --> 00:01:07,260
+Bitcoin isn't what you expect.
+Bitcoin changes our expectations of what money is.
+
+10
+00:01:07,260 --> 00:01:12,160
+It changes the foundation of how
+money and payment systems work.
+
+11
+00:01:12,160 --> 00:01:18,860
+This isn't just a little [disruption] that will affect
+a few companies. This [will be] a [big disruption].
+
+12
+00:01:18,860 --> 00:01:22,960
+It will be as big as the internet,
+perhaps in some ways even bigger.
+
+13
+00:01:22,960 --> 00:01:31,980
+It will not just affect finance. It will also affect politics
+and governance. It will affect societies as a whole.
+
+14
+00:01:31,980 --> 00:01:40,480
+I'm a technical person, so I'm interested in how Bitcoin
+works. After five years, I still discover new things...
+
+15
+00:01:40,480 --> 00:01:44,220
+and understanding it in even great depth.
+
+16
+00:01:44,220 --> 00:01:49,260
+Let me start with something
+that happened two weeks ago.
+
+17
+00:01:49,260 --> 00:01:55,700
+Two weeks ago, president Barack Obama stood up
+on stage at South by Southwest (SXSW) conference.
+
+18
+00:01:55,700 --> 00:02:02,480
+He talked about surveillance and said,
+"If [law enforcement] can't unlock the phones,
+
+19
+00:02:02,480 --> 00:02:09,200
+that is if every person is carrying a
+Swiss bank account in their pocket."
+
+20
+00:02:09,200 --> 00:02:20,820
+This [example] was supposed to provide a view
+of a terrifying future where everyone has privacy.
+
+21
+00:02:20,820 --> 00:02:26,100
+Now, I'm sure some people in this room 
+might think that is not such a bad idea...
+
+22
+00:02:26,100 --> 00:02:30,560
+for everybody to have a Swiss bank 
+account in their pocket.  [Laughter]
+
+23
+00:02:30,560 --> 00:02:35,040
+You see, [the American] president was wrong.
+
+24
+00:02:35,040 --> 00:02:41,580
+There won't be a future in which everyone 
+has a Swiss bank account in their pocket.
+
+25
+00:02:41,580 --> 00:02:50,740
+[It is a] present [and future] in which everyone
+can have an entire Swiss bank in their pocket.
+
+26
+00:02:50,740 --> 00:02:57,320
+I have a system in my back pocket that
+can generate two billion "account numbers,"
+
+27
+00:02:57,320 --> 00:03:02,720
+and wire money anywhere in the world
+[in minutes or even seconds].
+
+28
+00:03:02,720 --> 00:03:09,540
+It can be the point of origination for loans and mortgages, for international finance and trade.
+
+29
+00:03:09,560 --> 00:03:13,180
+[It can be used for] import-export business, 
+or for a remittance business.
+
+30
+00:03:13,180 --> 00:03:21,220
+I can build novel financial applications and
+trading instruments, install them on my phone,
+
+31
+00:03:21,220 --> 00:03:27,460
+I have mobile banking, not as
+a customer, but as a banker.
+
+32
+00:03:27,460 --> 00:03:34,460
+Even if you unlock my phone, my "Swiss bank
+account in my pocket" [could still be] secure.
+
+33
+00:03:34,460 --> 00:03:43,380
+The terrifying future of privacy that president
+Obama sees is actually already part of our present.
+
+34
+00:03:43,380 --> 00:03:46,480
+On January 3rd 2009, the world changed.
+
+35
+00:03:46,480 --> 00:03:50,340
+Few people noticed that [someone had] 
+invented a system of money that allows...
+
+36
+00:03:50,340 --> 00:04:03,380
+everyone in the world to have financial 
+privacy, security, and [powerful] capabilities.
+
+37
+00:04:03,380 --> 00:04:09,460
+That will have important implications 
+throughout [the rest of our] history.
+
+38
+00:04:09,460 --> 00:04:16,520
+People [often] ask me, "Will Bitcoin one day become the
+currency of a country? Will it be adopted by the banks?"
+
+39
+00:04:16,520 --> 00:04:22,620
+To ask that question is to miss the point.
+Bitcoin is not a national currency.
+
+40
+00:04:22,620 --> 00:04:27,060
+Bitcoin is now the de facto currency of the internet.
+
+41
+00:04:27,060 --> 00:04:32,640
+We have already seen more than a 
+thousand other similar [cryptocurrencies].
+
+42
+00:04:32,640 --> 00:04:39,500
+[Bitcoin] is not just a new system of [payments],
+but a network-centric system of money.
+
+43
+00:04:39,500 --> 00:04:47,380
+The major change with Bitcoin is not simply
+that we can 'email' money across the world,
+
+44
+00:04:47,380 --> 00:04:53,140
+but that we can change the organizational 
+structure behind money from hierarchical...
+
+45
+00:04:53,140 --> 00:04:56,500
+to a flat, network-centric model.
+
+46
+00:04:56,500 --> 00:05:04,480
+This is the same type of model that changed
+centralized publishing and [media] broadcasting...
+
+47
+00:05:04,480 --> 00:05:09,180
+into a [more distributed], networked 
+communication system of the internet.
+
+48
+00:05:09,180 --> 00:05:19,560
+It brought us social media; now we will have social
+banking one day, a system that is person-to-person.
+
+49
+00:05:19,560 --> 00:05:30,040
+[There is a] need for disintermediation. 
+There will be [less] need for financial intermediaries.
+
+50
+00:05:30,040 --> 00:05:38,900
+The role of intermediaries in most transactions
+is not necessary when you can transact directly.
+
+51
+00:05:38,900 --> 00:05:47,720
+That doesn't mean people who use bitcoin won't have
+intermediaries, but they don't [need them like today].
+
+52
+00:05:47,720 --> 00:05:54,400
+They can choose to add a third-party into 
+their transactions, or they can choose not to.
+
+53
+00:05:54,400 --> 00:06:00,580
+This is the choice that [becomes available] 
+when you have this new currency of the internet.
+
+54
+00:06:00,580 --> 00:06:04,560
+It brings with it so many implications.
+
+55
+00:06:04,560 --> 00:06:14,180
+On my flight into Zürich, I flew with Swissair, 
+in an aircraft with a flag painted on its tail.
+
+56
+00:06:14,180 --> 00:06:21,260
+What an anachronism that is. Swissair is owned
+by Lufthansa. It is no longer a national carrier.
+
+57
+00:06:21,260 --> 00:06:28,480
+But I remember a time when every aircraft had a flag
+on its tail, when every airline was a national airline...
+
+58
+00:06:28,480 --> 00:06:33,920
+that had exclusive and monopoly access
+to the skies and airports of [their] countries.
+
+59
+00:06:33,920 --> 00:06:40,120
+I remember a time when phone companies 
+had flags and belonged exclusively to countries.
+
+60
+00:06:40,120 --> 00:06:42,980
+Those anachronisms are gone.
+
+61
+00:06:42,980 --> 00:06:53,300
+The idea that, in a few decades, money will still have
+a flag or queen on it, and belong to a single nation,
+
+62
+00:06:53,300 --> 00:06:56,480
+will also seem like a silly anachronism.
+
+63
+00:06:56,480 --> 00:07:01,020
+It won't go away completely, of course. 
+There will still be national money.
+
+64
+00:07:01,020 --> 00:07:11,560
+But there will also be hundreds, possibly thousands
+of [cryptocurrencies] that have no flag, no allegiance...
+
+65
+00:07:11,560 --> 00:07:13,000
+to any country.
+
+66
+00:07:13,000 --> 00:07:18,660
+More importantly, money that is neutral to geopolitics.
+
+67
+00:07:18,660 --> 00:07:24,460
+There is enormous power in a system
+of money that is neutral to geopolitics;
+
+68
+00:07:24,460 --> 00:07:32,020
+a system of money that [is regulated by] mathematical
+functions which can be inspected by everyone,
+
+69
+00:07:32,020 --> 00:07:41,480
+and doesn't change its nature according to the
+latest alliances or hostilities between nations.
+
+70
+00:07:41,480 --> 00:07:47,540
+A money that remains a stable and
+neutral backdrop to global trade.
+
+71
+00:07:47,540 --> 00:07:52,640
+A money of the internet,
+for the internet, and by the internet.
+
+72
+00:07:52,640 --> 00:07:57,140
+That can sound quite terrifying, honestly.
+
+73
+00:07:57,140 --> 00:08:05,300
+If you're terrified, you are probably also worried about
+how the internet [enabled] free expression for everyone.
+
+74
+00:08:05,300 --> 00:08:12,700
+But I can tell you, there is a generation growing up
+right now who, when they hear of a money that is...
+
+75
+00:08:12,700 --> 00:08:21,960
+of the internet, for the internet, and by the internet,
+think it is a natural [progression] and how it should be.
+
+76
+00:08:21,960 --> 00:08:29,160
+The internet has been giving them freedom 
+[of expression] for as long as they remember.
+
+77
+00:08:29,160 --> 00:08:40,060
+By the time the next generation reaches the age of 16
+and finally acquires the right to open a bank account.,
+
+78
+00:08:40,060 --> 00:08:48,140
+they may have been using digital, network-centric
+currencies like bitcoin already for a decade.
+
+79
+00:08:48,140 --> 00:08:55,540
+Two-year-olds, six-year-olds can open a 
+Bitcoin [wallet]. You don't open an account.
+
+80
+00:08:55,540 --> 00:08:57,440
+You can download an app.
+
+81
+00:08:57,440 --> 00:09:03,020
+After a decade of using digital money on the
+internet that is near instantaneous and global,
+
+82
+00:09:03,020 --> 00:09:05,680
+when happens [when those kids] go
+and open [their] first bank account?
+
+83
+00:09:05,680 --> 00:09:13,380
+[They] have a conversation [with a teller], who explains
+why the system only operates from Monday to Friday.
+
+84
+00:09:13,380 --> 00:09:21,760
+Why does it take three to five business days
+to execute an international transaction?
+
+85
+00:09:21,760 --> 00:09:31,360
+Given that they have loaned money to the bank,
+why will they be charged five Swiss francs a month...
+
+86
+00:09:31,360 --> 00:09:34,940
+for the privilege of [having a bank
+account that earns] no interest?
+
+87
+00:09:34,940 --> 00:09:37,100
+[In the future], when you explain [banks] to a 16-year-old,
+
+88
+00:09:37,100 --> 00:09:45,640
+they will look at you as if you have just 
+asked them to send the fax. [Laughter]
+
+89
+00:09:45,640 --> 00:09:49,940
+The world has changed, but this
+is not something to be afraid of.
+
+90
+00:09:49,940 --> 00:09:52,720
+This is a tremendous opportunity.
+
+91
+00:09:52,720 --> 00:09:57,040
+There are 2.5 billion people in the world 
+who have no economic access to banking,
+
+92
+00:09:57,040 --> 00:10:00,520
+according to The World Bank,
+which is a very conservative estimate.
+
+93
+00:10:00,520 --> 00:10:03,460
+They only count the heads of household...
+
+94
+00:10:03,460 --> 00:10:08,640
+and the circumstances in which
+no banking is available whatsoever,
+
+95
+00:10:08,640 --> 00:10:13,620
+those who are entirely in cash-based societies.
+
+96
+00:10:13,620 --> 00:10:18,540
+That is a very conservative [way] to estimate it.
+I look at it from a different perspective.
+
+97
+00:10:18,540 --> 00:10:25,020
+I belong to a privileged elite who can open an online
+brokerage account within twenty-four hours.
+
+98
+00:10:25,020 --> 00:10:31,560
+Tomorrow morning, I can be trading
+in yen on the Tokyo stock exchange.
+
+99
+00:10:31,560 --> 00:10:39,500
+I can wire money anywhere in the world, in any currency
+I want. I have the full capability of international, liquid,
+
+100
+00:10:39,500 --> 00:10:43,440
+multi-currency banking with no currency controls.
+
+101
+00:10:43,440 --> 00:10:48,320
+How many people have that? Maybe 1.5 billion people.
+
+102
+00:10:48,320 --> 00:10:55,780
+Then there is the other six billion, many of them
+completely unbanked, most of them under-banked.
+
+103
+00:10:55,780 --> 00:11:02,460
+From a technological perspective, giving them
+economic inclusion is now within our reach.
+
+104
+00:11:02,460 --> 00:11:12,780
+But we lack the political [will] to do that.
+We have decided that it is more important...
+
+105
+00:11:12,780 --> 00:11:20,700
+to live in a world where every financial transaction, [from
+anywhere and from anyone], should be fully identified.
+
+106
+00:11:20,700 --> 00:11:25,440
+We have created a system where
+[we as] individuals have no privacy,
+
+107
+00:11:25,440 --> 00:11:29,380
+where every financial transaction
+is subject to total surveillance,
+
+108
+00:11:29,380 --> 00:11:32,680
+and you must identify yourself in order to transact.
+
+109
+00:11:32,680 --> 00:11:36,360
+This [kind of system] has never existed in history before.
+
+110
+00:11:36,360 --> 00:11:44,560
+The fundamental advantage of cash is that you don't
+need to do a credit check when you exchange it.
+
+111
+00:11:44,560 --> 00:11:54,080
+If you give me ten Swiss francs, the money itself is the
+bearer of value. It is independent of your credit [score],
+
+112
+00:11:54,080 --> 00:11:55,600
+or your identity.
+
+113
+00:11:55,600 --> 00:12:01,000
+I do not care, nor do I want to know, who you are.
+I can simply transact [peer-to-peer with you].
+
+114
+00:12:01,000 --> 00:12:06,340
+That is a very fundamental [advantage which]
+allows everyone to participate in the economy.
+
+115
+00:12:06,340 --> 00:12:10,080
+[But politicians and some corporations] are 
+trying to change that, where every endpoint...
+
+116
+00:12:10,080 --> 00:12:14,200
+is controlled and identity is part
+of every financial transaction.
+
+117
+00:12:14,200 --> 00:12:22,160
+That is not a good future. That is a future 
+which worsens economic access and equality.
+
+118
+00:12:22,160 --> 00:12:28,560
+That is a future in which people are no longer just cut
+off because they don't have sufficient documentation.
+
+119
+00:12:28,560 --> 00:12:35,220
+[They use it to] cut off entire countries. In the era
+of the internet, economic inclusion is declining.
+
+120
+00:12:35,220 --> 00:12:43,960
+But bitcoin brings a new model of digital cash,
+where identity is irrelevant and unnecessary,
+
+121
+00:12:43,960 --> 00:12:46,860
+where privacy is the default.
+
+122
+00:12:46,860 --> 00:12:52,400
+In that model, security [is incentivised]
+by the network-centric money.
+
+123
+00:12:52,400 --> 00:13:02,240
+The instrument itself bears value. It is unassailable,
+unforgeable, and doesn't require identity.
+
+124
+00:13:02,240 --> 00:13:07,000
+With that, we will break down the
+biggest barrier to economic inclusion.
+
+125
+00:13:07,000 --> 00:13:14,860
+A simple text-messaging feature phone in the middle of
+a village in sub-Saharan Africa, connected to a solar cell,
+
+126
+00:13:14,860 --> 00:13:18,780
+will have the same capabilities as a Swiss bank.
+
+127
+00:13:18,780 --> 00:13:25,680
+[It could] be an originating point or a destination point
+for international wire transfers, remittances, credit,
+
+128
+00:13:25,680 --> 00:13:38,240
+with a bearer instrument of value that is cash, in an
+electronic medium, without any concern for identity.
+
+129
+00:13:38,240 --> 00:13:47,180
+That is the vision I have. To me, it is very important
+to re-discover the value of individual privacy.
+
+130
+00:13:47,180 --> 00:13:54,440
+Individual privacy is economic inclusion. 
+That is how we have always operated as a society.
+
+131
+00:13:54,440 --> 00:13:59,580
+The dream, [or rather nightmare], of creating a
+completely controlled and closed system of finance,
+
+132
+00:13:59,580 --> 00:14:04,240
+where everything is under surveillance, 
+started in the 1970s.
+
+133
+00:14:04,240 --> 00:14:11,060
+[That dream] died on January 3rd 2009 with the
+invention of Bitcoin. It will never happen now.
+
+134
+00:14:11,060 --> 00:14:18,280
+Now, every person in the world has
+the option to trade in digital cash.
+
+135
+00:14:18,280 --> 00:14:27,460
+We will not bank the other six billion,
+but rather we will de-bank all of us.
+
+136
+00:14:27,460 --> 00:14:34,140
+Banking is now an app. That doesn't mean 
+that there will be no room for banks in this.
+
+137
+00:14:34,140 --> 00:14:42,840
+Quite the contrary in fact, [there will still be a need]
+to coordinate lending, to deliver security services,
+
+138
+00:14:42,840 --> 00:14:46,560
+and offering other financial services
+[may] become even greater.
+
+139
+00:14:46,560 --> 00:14:55,300
+The opportunity is to encompass the other six billion
+into this new world of application-based banking,
+
+140
+00:14:55,300 --> 00:15:01,580
+to create a world in which borders are meaningless,
+just like they [often] are on the internet.
+
+141
+00:15:01,580 --> 00:15:08,520
+This will require some very brave bankers. 
+You must go against an edifice of borders,
+
+142
+00:15:08,520 --> 00:15:16,940
+built over the last fifty to seventy years, which have
+segmented the world into isolated islands of finance...
+
+143
+00:15:16,940 --> 00:15:18,960
+that cannot connect to each other.
+
+144
+00:15:18,960 --> 00:15:21,400
+The promise at the end of [the road] is this:
+
+145
+00:15:21,400 --> 00:15:29,220
+billions of new people, new customers who
+now have access to a global financial system.
+
+146
+00:15:29,220 --> 00:15:38,120
+The era of currencies with flags is as 
+obsolete as the era of airlines with flags.
+
+147
+00:15:38,120 --> 00:15:45,500
+We must not fear this. We must welcome the fact that
+this has now happened. It cannot be turned back.
+
+148
+00:15:45,500 --> 00:15:49,620
+It cannot be stopped. It is already happening.
+
+149
+00:15:49,620 --> 00:15:53,740
+Those who embrace it will have the 
+opportunity to enter this new world...
+
+150
+00:15:53,740 --> 00:15:58,100
+and create financial opportunity for many.
+
+151
+00:15:58,100 --> 00:16:06,440
+There is a difference between banking as it is executed
+in America, and banking as a culture in this country.
+
+152
+00:16:06,440 --> 00:16:11,460
+I am very hopeful that I can bring this 
+message here [and you will understand].
+
+153
+00:16:11,460 --> 00:16:17,660
+In America, investment banking is where your banker
+smiles to your face while helping you through an IPO,
+
+154
+00:16:17,660 --> 00:16:24,380
+yet is front-running transactions behind 
+your back and picking your pocket. [Laughter]
+
+155
+00:16:24,380 --> 00:16:27,680
+That is the truth.
+
+156
+00:16:27,680 --> 00:16:36,360
+[In contrast], Switzerland has a centuries-old tradition
+of banking as a multi-generational relationship of trust.
+
+157
+00:16:36,360 --> 00:16:43,020
+A relationship that is as sacred as a relationship
+with your doctor, your lawyer, or even your priest.
+
+158
+00:16:43,020 --> 00:16:53,460
+It is a relationship that aims to give individual power,
+wealth control, and privacy to every customer.
+
+159
+00:16:53,460 --> 00:17:02,980
+If you really believe in that culture, if you really feel
+the ethos of banking is that service to your customers,
+
+160
+00:17:02,980 --> 00:17:09,460
+then perhaps you can see that bitcoin is simply
+a new means of delivering that relationship.
+
+161
+00:17:09,460 --> 00:17:16,960
+These new network-centric digital currencies
+[can] deliver unassailable privacy and security.
+
+162
+00:17:16,960 --> 00:17:27,160
+They are a way to re-establish that ethos
+of private banking, but not just for the few.
+
+163
+00:17:27,160 --> 00:17:29,020
+For everyone.
+
+164
+00:17:29,020 --> 00:17:37,480
+That is what I hope you will see in this new
+post-national, international, network-centric money.
+
+165
+00:17:37,480 --> 00:17:48,080
+The money of the internet. Thank you. [Applause]
+
