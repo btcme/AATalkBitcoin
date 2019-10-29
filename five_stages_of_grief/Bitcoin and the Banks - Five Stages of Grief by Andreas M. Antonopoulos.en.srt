@@ -1,0 +1,790 @@
+1
+00:00:05,400 --> 00:00:10,760
+[ORGANISER] The next person we have coming up
+is someone I have looked up to for quite a while.
+
+2
+00:00:10,760 --> 00:00:17,840
+Whenever I [need to know] how to explain a problem
+in Bitcoin, it is easy to just go through his videos.
+
+3
+00:00:17,840 --> 00:00:20,980
+He explains things so perfectly.
+
+4
+00:00:20,980 --> 00:00:27,580
+He is the author of 'Mastering Bitcoin,' and
+spoke in front of the Canadian Senate recently.
+
+5
+00:00:27,580 --> 00:00:32,380
+It [received] a lot of attention. I'm sure most
+of you have taken a look at what he said there.
+
+6
+00:00:32,380 --> 00:00:39,320
+It was an amazing talk. I haven't seen too many senate
+hearings, but it was the first time I saw them clapping,
+
+7
+00:00:39,320 --> 00:00:46,860
+with a look on their face like, 'We just 
+listened to something really special.'
+
+8
+00:00:46,860 --> 00:00:53,280
+Andreas [Antonopoulos], the author of 
+'Mastering Bitcoin' and an amazing speaker.
+
+9
+00:00:53,280 --> 00:00:58,480
+He is one person that actually has the chance to
+change so many minds by speaking to governments,
+
+10
+00:00:58,480 --> 00:01:05,900
+being able to talk in a way that makes things very simple,
+[but also] makes people think about it in a positive light.
+
+11
+00:01:05,900 --> 00:01:25,720
+Andreas, come on up! [Applause]
+[ANDREAS] Wow, this is amazing for a meetup.
+
+12
+00:01:25,720 --> 00:01:31,840
+I apologise, I didn't realise this was a 
+bring-your-own-chair event. [Laughter]
+
+13
+00:01:31,840 --> 00:01:36,620
+As you see, the others each brought a chair and
+even color coordinated, but I forgot to bring mine.
+
+14
+00:01:36,620 --> 00:01:41,420
+I will pace, which will drive
+the videographers crazy,
+
+15
+00:01:41,420 --> 00:01:45,320
+but if you have seen my videos,
+you know I don't do podiums.
+
+16
+00:01:45,320 --> 00:01:53,040
+So, welcome everyone! This is really exciting,
+probably one of the largest meetups I have done.
+
+17
+00:01:53,040 --> 00:02:00,940
+I think maybe the largest one was in London, but
+you are definitely giving them a run for their money.
+
+18
+00:02:00,940 --> 00:02:08,180
+It is really exciting to see all of this energy 
+in Canada with cryptocurrencies.
+
+19
+00:02:08,180 --> 00:02:17,260
+A big thanks to my host, Anthony Di Iorio, who organised
+this [event at a] lovely space. Let's get started.
+
+20
+00:02:17,260 --> 00:02:26,940
+How many of you are here for the first time, or
+been [recently] introduced to Bitcoin? A few people.
+
+21
+00:02:26,940 --> 00:02:36,000
+How many of you are pretty familiar with Bitcoin?
+How many of you own bitcoin? [Audience raises hands]
+
+22
+00:02:36,000 --> 00:02:43,780
+How many of you are coding with Bitcoin?
+Alright, fantastic.
+
+23
+00:02:43,780 --> 00:02:52,640
+I want to talk about splitting hairs
+and the five stages of grief. [Laughter]
+
+24
+00:02:52,640 --> 00:02:56,180
+I know you thought I was coming
+here to talk about Bitcoin;
+
+25
+00:02:56,180 --> 00:03:02,260
+I want to talk about Bitcoin from the public perception.
+
+26
+00:03:02,260 --> 00:03:09,960
+Three years ago, I would go places and tell 
+people about Bitcoin. They had never heard of it.
+
+27
+00:03:09,960 --> 00:03:12,240
+They didn't know what I was talking about.
+
+28
+00:03:12,240 --> 00:03:18,650
+I wouldn't ask people "have you heard of Bitcoin?"
+because that was a silly question to ask.
+
+29
+00:03:18,650 --> 00:03:26,780
+I would say, "Let me tell you about something exciting."
+A year later, people started hearing about Bitcoin.
+
+30
+00:03:26,780 --> 00:03:32,740
+If I was in a technology-heavy environment
+-- basically, if I was surrounded by geeks --
+
+31
+00:03:32,740 --> 00:03:36,320
+I would ask, "Have you heard of Bitcoin?"
+
+32
+00:03:36,320 --> 00:03:42,820
+Gradually it started getting to the point where
+I could ask that question of, say, a taxi driver.
+
+33
+00:03:42,820 --> 00:03:47,260
+Get into a taxi... "Have you heard of Bitcoin?"
+
+34
+00:03:47,260 --> 00:03:54,420
+There was this gradual transition [to] mainstream
+awareness and people start hearing about it.
+
+35
+00:03:54,420 --> 00:03:59,060
+Of course, what they're hearing is not:
+
+36
+00:03:59,060 --> 00:04:06,120
+"it is one of the most amazing decentralized
+consensus networks and payment systems ever."
+
+37
+00:04:06,120 --> 00:04:16,640
+What they hear about is: "DRUGS ON THE INTERNET!"
+[Laughter] "I was at a conference talking about bitcoin,"
+
+38
+00:04:16,640 --> 00:04:19,160
+you say to the average person the street.
+
+39
+00:04:19,160 --> 00:04:30,380
+They will look at you and take a very subtle but firm step
+away, just in case you throw cocaine at them. [Laughter]
+
+40
+00:04:30,380 --> 00:04:39,080
+The mainstream awareness right now is,
+we are all a bunch of degenerates, porn addicts,
+
+41
+00:04:39,080 --> 00:04:44,480
+drug users, potentially terrorists, though they're
+not sure. It depends. Some of us, certainly.
+
+42
+00:04:44,480 --> 00:04:50,169
+Yeah, in this room! This is the mainstream perception.
+
+43
+00:04:50,169 --> 00:04:58,360
+This is the first stage: denial.
+Denial happens with all innovative technologies.
+
+44
+00:04:58,360 --> 00:05:06,440
+It is that desire to dismiss change, especially
+if that change is strange and scary.
+
+45
+00:05:06,440 --> 00:05:18,419
+We were talking about banks recently, and the media.
+We are seeing that they've moved from denial to anger.
+
+46
+00:05:18,420 --> 00:05:27,900
+Angry about the terrible things you can do,
+because Bitcoin is now all about "funding ISIS."
+
+47
+00:05:27,900 --> 00:05:36,060
+[Laughter] Who here has contributed to ISIS recently?
+
+48
+00:05:36,060 --> 00:05:44,820
+Sorry, I raised my hand there. I pay taxes in the
+United States; I don't know if you have noticed,
+
+49
+00:05:44,820 --> 00:05:53,810
+but ISIS is driving M1 Abrams tanks and Humvees
+with the American flags hastily sprayed off.
+
+50
+00:05:53,810 --> 00:06:02,880
+So, strictly speaking, yes: I have funded ISIS through
+the U.S. Department of Defense, in U.S. dollars,
+
+51
+00:06:02,880 --> 00:06:08,060
+by leaving behind a lot of nice equipment, 
+pallets of U.S. dollars, and things like that.
+
+52
+00:06:08,060 --> 00:06:14,340
+When I fill up my car [with gas], that money goes
+to Saudi Arabia; I fund ISIS that way too, oops!
+
+53
+00:06:14,340 --> 00:06:20,420
+But I'll tell you this: I have never funded ISIS in bitcoin,
+so let's keep that straight. [Laughter]
+
+54
+00:06:20,420 --> 00:06:25,039
+That's the kind of question that comes up, right?
+We have gone from denial to anger.
+
+55
+00:06:25,040 --> 00:06:28,260
+Now it is not just "we don't want
+to hear about this Bitcoin thing,"
+
+56
+00:06:28,260 --> 00:06:35,360
+because it's strange and possibly young 
+people are interested in it. [Laughter]
+
+57
+00:06:35,360 --> 00:06:43,700
+Now it's scary! We need to emphasise the scariness. 
+You don't speak about Bitcoin in polite company.
+
+58
+00:06:43,700 --> 00:06:50,740
+"Have you heard about Bit-?" "Oh no, I [will not
+become] involved in that kind of stuff!" [Laughter]
+
+59
+00:06:50,740 --> 00:06:56,480
+That's the second stage of grief: anger. 
+Now we move into the third stage of grief.
+
+60
+00:06:56,480 --> 00:07:02,260
+This is really exciting, because this is 
+where things get really silly and fun.
+
+61
+00:07:02,260 --> 00:07:11,420
+Bargaining. You start off with "Bitcoin is irrelevant."
+When Bitcoin refuses to die for three years,
+
+62
+00:07:11,420 --> 00:07:14,039
+so you can't say it is irrelevant anymore.
+
+63
+00:07:14,040 --> 00:07:20,720
+It is worth $10 billion, it is tradeable over 
+the internet, people [become] excited about it,
+
+64
+00:07:20,720 --> 00:07:24,000
+and [launch] start-ups with $500 million in investment.
+
+65
+00:07:24,000 --> 00:07:26,280
+That doesn't sound irrelevant anymore.
+
+66
+00:07:26,280 --> 00:07:31,600
+You drop that storyline and go to anger, 
+where it is not "irrelevant" but "dangerous."
+
+67
+00:07:31,600 --> 00:07:42,900
+Now we move into bargaining. The new line is:
+"Well, blockchain technology is really promising."
+
+68
+00:07:42,900 --> 00:07:49,880
+"But bitcoin the currency is just weird and volatile,
+you don't want to touch that." We're splitting hairs.
+
+69
+00:07:49,880 --> 00:07:53,960
+This is the third stage of grief: bargaining.
+
+70
+00:07:53,960 --> 00:07:57,760
+This is becoming the meme of 2015.
+
+71
+00:07:57,760 --> 00:08:04,360
+A lot of companies are trying to do
+this triangulation, trying to split hairs,
+
+72
+00:08:04,360 --> 00:08:10,620
+trying to say, "We will take the blockchain 
+but you can leave that bitcoin stuff behind."
+
+73
+00:08:10,620 --> 00:08:15,360
+"Have you started a Bitcoin research group?" 
+"Oh no, we don't do that stuff."
+
+74
+00:08:15,360 --> 00:08:23,840
+"We have a blockchain research group at
+our bank, studying  blockchain technology."
+
+75
+00:08:23,840 --> 00:08:30,260
+This is really hilarious. The first thing it reveals is,
+they don't really understand Bitcoin.
+
+76
+00:08:30,260 --> 00:08:38,740
+You can't just cleave off the 'blockchain
+technology' and say, "This is revolutionary!"
+
+77
+00:08:38,740 --> 00:08:45,640
+Because it is not. 'Blockchain' on its own,
+is not revolutionary. What do I mean by that?
+
+78
+00:08:45,640 --> 00:08:50,400
+Some of you are looking at me funny.
+Why am I saying the blockchain is not revolutionary?
+
+79
+00:08:50,400 --> 00:08:59,410
+Because the blockchain is a ledger. 
+How old are ledgers? Thousands of years old.
+
+80
+00:08:59,410 --> 00:09:14,160
+In fact, the very first writing that we discovered around
+the world -- on tablets, stone, papyrus -- are ledgers.
+
+81
+00:09:14,160 --> 00:09:19,500
+If you have a page of papyrus, the very first
+page ever created, what do you write on it?
+
+82
+00:09:19,500 --> 00:09:28,240
+You write how many goats your neighbour owes you,
+or how many vats of wine you sold to someone.
+
+83
+00:09:28,240 --> 00:09:32,440
+And that is a ledger. There is nothing 
+revolutionary about [ledger] technology.
+
+84
+00:09:32,440 --> 00:09:38,140
+If you summed up all the vats of
+wine on the first page of papyrus,
+
+85
+00:09:38,140 --> 00:09:41,920
+and then copied that number to the
+top of the second page of papyrus,
+
+86
+00:09:41,920 --> 00:09:45,660
+you are linking together these "blocks" of transactions.
+
+87
+00:09:45,660 --> 00:09:52,020
+Well, that is a blockchain. It is not really interesting
+technology. It has been around for ages.
+
+88
+00:09:52,020 --> 00:10:00,920
+What is really interesting is a decentralized blockchain.
+That is fascinating. A decentralized blockchain,
+
+89
+00:10:00,920 --> 00:10:12,580
+with no central authority, no counter-party 
+responsible for recording information.
+
+90
+00:10:12,580 --> 00:10:24,320
+That is astonishingly disruptive and a revolutionary
+technology. That [would] change so many industries.
+
+91
+00:10:24,320 --> 00:10:32,140
+But that is not what they are researching in the
+'blockchain research department' of a big bank.
+
+92
+00:10:32,140 --> 00:10:41,320
+They are researching is ledgers and trying to say,
+"We like this blockchain idea, but can we do it...
+
+93
+00:10:41,320 --> 00:10:53,720
+without any mining, decentralization, open access
+protocols, anarchic chaos, ['be your own bank'] crap?"
+
+94
+00:10:53,720 --> 00:11:04,540
+"Can we just get a blockchain more like Visa?" 
+[Laughter] Bargaining, the third stage of grief.
+
+95
+00:11:04,540 --> 00:11:07,500
+What is this grief about?
+
+96
+00:11:07,500 --> 00:11:24,340
+One of the [most] entrenched, monopolistic, exploitative
+industries that exists in the world doesn't like disruption.
+
+97
+00:11:24,340 --> 00:11:31,460
+In banking, disruption cuts into the profit margin.
+
+98
+00:11:31,460 --> 00:11:36,740
+Bitcoin is disruptive; Bitcoin is not just a bit disruptive.
+
+99
+00:11:36,740 --> 00:11:44,040
+Bitcoin [doesn't say], "Hey, maybe we [will 
+compete with the other] payment networks."
+
+100
+00:11:44,040 --> 00:11:54,340
+Bitcoin isn't like PayPal, which [bankers] co-opted
+and gradually morphed into a baby Visa. [Laughter]
+
+101
+00:11:54,340 --> 00:12:00,870
+Bitcoin refuses to be co-opted in that way,
+because it has certain pesky characteristics:
+
+102
+00:12:00,870 --> 00:12:05,300
+decentralization, open access, [open-source] protocols...
+
+103
+00:12:05,300 --> 00:12:11,300
+you know, all the stuff they are trying to cut off and
+remove so they can turn it into [another] baby Visa.
+
+104
+00:12:11,300 --> 00:12:23,940
+Bitcoin refuses to go away, despite all the smears, bad
+language, and [accusations] of funding ISIS and drugs.
+
+105
+00:12:23,940 --> 00:12:32,300
+Bitcoin is extremely disruptive
+in a way we haven't yet realized.
+
+106
+00:12:32,300 --> 00:12:37,760
+Even people who are [interested in] Bitcoin 
+don't really understand what is going on here.
+
+107
+00:12:37,760 --> 00:12:45,100
+Let's look back a few years. 
+Do you remember the dawn of MP3?
+
+108
+00:12:45,100 --> 00:12:52,519
+I actually heard about MP3 two years before Napster
+came out, when it was [still] an obscure [algorithm]...
+
+109
+00:12:52,520 --> 00:12:55,680
+from the Fraunhofer Institute in Germany.
+
+110
+00:12:55,680 --> 00:13:02,440
+They designed this lossy compression algorithm
+that was [very] effective, but I didn't get it.
+
+111
+00:13:02,440 --> 00:13:08,500
+I didn't see that [it would] do anything [interesting].
+Gradually, it started eating away at the music industry.
+
+112
+00:13:08,500 --> 00:13:14,340
+With the invention of Napster, it turned every
+computer into a desktop music station.
+
+113
+00:13:14,340 --> 00:13:19,360
+Suddenly, the music industry was threatened.
+
+114
+00:13:19,360 --> 00:13:25,940
+They fought Napster, Napster turned into Kazaa,
+Kazaa turned into Limewire; they fought Limewire,
+
+115
+00:13:25,940 --> 00:13:30,259
+Limewire turned into Gnutella;
+they fought Gnutella and got BitTorrent.
+
+116
+00:13:30,260 --> 00:13:35,180
+Then they gave up. They couldn't fight 
+anymore, because it was decentralized.
+
+117
+00:13:35,180 --> 00:13:44,680
+Bitcoin started that way, where BitTorrent 
+left off, in the "you can't squash this" mode.
+
+118
+00:13:44,680 --> 00:13:53,960
+MP3 destabilized the music industry. 
+[How much is] the music industry [worth], $100 billion?
+
+119
+00:13:53,960 --> 00:14:01,920
+Peanuts. Apple swallowed it in a couple of years.
+
+120
+00:14:01,920 --> 00:14:11,120
+When Bitcoin starts disrupting the banking industry,
+it [will] apply something we call "disintermediation."
+
+121
+00:14:11,120 --> 00:14:19,760
+Disintermediation is when an industry you painstakingly
+built over a hundred years, becomes obsolete overnight.
+
+122
+00:14:19,760 --> 00:14:26,560
+Disintermediation is when you and I want to do
+something, and someone [offers a service]...
+
+123
+00:14:26,560 --> 00:14:30,920
+to help us do that thing, but
+we don't need them anymore.
+
+124
+00:14:30,920 --> 00:14:37,560
+When you [have] disintermediation in the music industry,
+it cuts record labels out of the sweet deals,
+
+125
+00:14:37,560 --> 00:14:45,760
+[but] it allows customers to work directly with artists,
+and the record companies do not like that.
+
+126
+00:14:45,760 --> 00:14:47,920
+But that is still a little industry [in comparison].
+
+127
+00:14:47,920 --> 00:14:52,600
+When we start disintermediating
+the financial services industry,
+
+128
+00:14:52,600 --> 00:15:03,240
+entire multi-billion dollar layers
+will evaporate overnight.
+
+129
+00:15:03,240 --> 00:15:15,740
+Bitcoin is incredibly disruptive because of all those
+little things they pretend are not really important.
+
+130
+00:15:15,740 --> 00:15:25,260
+What comes after bargaining? Depression. [Laughter]
+
+131
+00:15:25,260 --> 00:15:35,920
+It is a great word, because financial depression already
+happened in 2008. I think we are about to see a replay.
+
+132
+00:15:35,920 --> 00:15:42,280
+The financial industry [will not be ready for] this fight.
+
+133
+00:15:42,280 --> 00:15:52,380
+They are going in leveraged up to their eyeballs,
+with the worst reputation in two hundred years.
+
+134
+00:15:52,380 --> 00:16:00,340
+Everyone under 18 years old thinks that 
+banks are the worst thing ever invented,
+
+135
+00:16:00,340 --> 00:16:08,100
+and are responsible for stealing their jobs
+-- because they did.
+
+136
+00:16:08,100 --> 00:16:15,100
+When you have an entire generation that hates you,
+exactly the generation that [will] adopt this technology,
+
+137
+00:16:15,100 --> 00:16:22,980
+and you go into this fight leveraged up to 
+your eyeballs, depression sets in pretty quickly.
+
+138
+00:16:22,980 --> 00:16:29,020
+Some of the banks [will] be smarter
+and skip right over to acceptance.
+
+139
+00:16:29,020 --> 00:16:33,490
+We saw this with the Internet.
+At first, everyone was banding together.
+
+140
+00:16:33,490 --> 00:16:39,779
+The phone companies said, "We will not let this
+thing eat our long-distance market!" [Laughter]
+
+141
+00:16:39,780 --> 00:16:47,700
+I remember when I used to call home
+to Greece from my college in London.
+
+142
+00:16:47,700 --> 00:16:55,780
+To [have] a ten-minute conversation,
+I would literally [need] a stack of coins...
+
+143
+00:16:55,780 --> 00:16:59,920
+and feed them into the meter every ten seconds or so.
+
+144
+00:16:59,920 --> 00:17:08,580
+My entire family would line up on the other end of the
+call and parade themselves in front of the telephone:
+
+145
+00:17:08,580 --> 00:17:13,600
+"Hello Andreas, this is Uncle John. How are you?" 
+"Very well, thank you." "Yes, here's your Auntie Maria."
+
+146
+00:17:13,600 --> 00:17:21,340
+"Oh, hello Maria..." and so on, fifteen seconds per person,
+carefully allocated, moving [down] the line.
+
+147
+00:17:21,340 --> 00:17:30,940
+Keep the line moving, people! Because I just
+spent £8 to make a fifteen minute phone call.
+
+148
+00:17:30,940 --> 00:17:35,100
+When I testified in front of the
+Australian Senate, they said,
+
+149
+00:17:35,100 --> 00:17:44,080
+"This [was] really difficult to arrange [but] we thank you
+for speaking to us from such a great distance today."
+
+150
+00:17:44,080 --> 00:17:46,320
+My last words to the Australian Senate were:
+
+151
+00:17:46,320 --> 00:17:51,760
+"Just remember, phone companies didn't write the rules
+for the internet, and that is why I could do this today."
+
+152
+00:17:51,760 --> 00:17:56,500
+Because trust me, if phone companies
+had written the rules for the Internet,
+
+153
+00:17:56,500 --> 00:18:01,700
+there would be a little slot inside of my Mac Air
+and I would need to feed quarters into it...
+
+154
+00:18:01,700 --> 00:18:10,280
+[Laughter] every ten seconds during the Skype calls
+I make, just to preserve the long-distance market.
+
+155
+00:18:10,280 --> 00:18:14,420
+When that was happening, eventually some 
+companies decided they [would] break ranks,
+
+156
+00:18:14,420 --> 00:18:18,840
+and turn themselves into internet service providers.
+
+157
+00:18:18,840 --> 00:18:31,080
+This [will] be a lot harder to do in the banking industry.
+Bitcoin is a very difficult and bitter pill to swallow.
+
+158
+00:18:31,080 --> 00:18:41,680
+The idea that banks [will] simply 'do a bit of blockchain'
+and fight this disruption, is ludicrous on its face.
+
+159
+00:18:41,680 --> 00:18:46,020
+'Doing a bit of blockchain' doesn't
+serve the other six billion [unbanked].
+
+160
+00:18:46,020 --> 00:18:54,520
+'Doing a bit of blockchain' doesn't unleash the torrent
+of innovation that comes with open-access protocols.
+
+161
+00:18:54,520 --> 00:19:03,020
+Most importantly, 'a bit of blockchain' with a centralized
+counter-party in the middle of every transaction...
+
+162
+00:19:03,020 --> 00:19:10,780
+takes us right back to the world we live in today,
+where control over money is control over freedom...
+
+163
+00:19:10,780 --> 00:19:14,500
+and most of the world lives as slaves.
+
+164
+00:19:14,500 --> 00:19:28,120
+Bitcoin [will] change that. Thank you. [Applause]
+
