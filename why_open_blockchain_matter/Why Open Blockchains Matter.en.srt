@@ -1,0 +1,949 @@
+1
+00:00:00,000 --> 00:00:11,940
+[Music] Hi!
+Wow... Oh my god.
+
+2
+00:00:12,000 --> 00:00:13,559
+This is quite amazing.
+
+3
+00:00:13,559 --> 00:00:18,180
+I'm really excited to be here at this conference.
+
+4
+00:00:18,180 --> 00:00:26,520
+I'm so excited to be talking to all of you, 
+who apparently are developers?
+
+5
+00:00:26,520 --> 00:00:28,820
+That's what it says back there on the screen.
+
+6
+00:00:28,820 --> 00:00:31,490
+I assume it's true.
+
+7
+00:00:31,490 --> 00:00:34,330
+How many people in this room have
+used open-source software?
+
+8
+00:00:34,330 --> 00:00:36,920
+[Audience raises hands] Trick question!
+
+9
+00:00:36,920 --> 00:00:40,440
+I'm just trying to get you to warm up with
+some morning exercise.
+
+10
+00:00:40,440 --> 00:00:41,850
+Everybody raises their hand.
+
+11
+00:00:41,850 --> 00:00:42,850
+Okay, great.
+
+12
+00:00:42,850 --> 00:00:44,550
+Let me ask you a simpler question.
+
+13
+00:00:44,550 --> 00:00:50,160
+How many of you use open-source software
+because 'it doesn't cost anything'?
+
+14
+00:00:50,160 --> 00:00:54,220
+How many of you use it because it gives you freedom?
+
+15
+00:00:54,220 --> 00:00:58,640
+Okay, now we're getting at it.
+
+16
+00:00:58,650 --> 00:01:02,079
+Many of you probably work
+with open-source software.
+
+17
+00:01:02,079 --> 00:01:07,950
+Many of you probably work with collaborative
+programming and open systems.
+
+18
+00:01:07,950 --> 00:01:11,890
+You work on open applications,
+programming interfaces.
+
+19
+00:01:11,890 --> 00:01:13,800
+You work with open libraries.
+
+20
+00:01:13,800 --> 00:01:21,440
+You work with patent-free software and technologies,
+with open protocols and open interfaces.
+
+21
+00:01:21,440 --> 00:01:28,099
+None of that is because of how much it costs.
+
+22
+00:01:28,099 --> 00:01:30,610
+It's because it gives you freedom.
+
+23
+00:01:30,610 --> 00:01:38,310
+I think that's one of the main things that
+people outside our industry do not understand.
+
+24
+00:01:38,310 --> 00:01:47,020
+But if you're as old as me, you probably remember
+that it wasn't always like that.
+
+25
+00:01:47,020 --> 00:01:53,800
+Throughout the '80s and '90s, there was a
+big battle over the future of software; whether
+
+26
+00:01:53,800 --> 00:02:01,300
+proprietary software would dominate, whether
+open software would be available to everyone
+
+27
+00:02:01,300 --> 00:02:05,500
+and used by everyone.
+
+28
+00:02:05,500 --> 00:02:14,810
+I remember a time when I had to persuade 
+companies that an open-source version...
+
+29
+00:02:14,810 --> 00:02:21,620
+the Unix operating system was not only
+as good, but probably better,
+
+30
+00:02:21,620 --> 00:02:24,220
+than the closed-source Sun Microsystems
+operating system that they used.
+
+31
+00:02:24,230 --> 00:02:30,590
+I had to persuade them that they could use
+these systems to replace their proprietary
+
+32
+00:02:30,590 --> 00:02:39,620
+servers, file servers, network
+servers, firewalls, routers, etc.
+
+33
+00:02:39,620 --> 00:02:51,260
+There was a time when Bill Gates from Microsoft
+said that the internet would be one component
+
+34
+00:02:51,260 --> 00:02:54,640
+of the information super-highway.
+
+35
+00:02:54,640 --> 00:02:57,180
+Just one component.
+
+36
+00:02:57,180 --> 00:03:03,840
+Because what was more interesting, was how
+data would be used in proprietary fashion
+
+37
+00:03:03,840 --> 00:03:09,070
+and propagated over proprietary protocols
+and closed systems.
+
+38
+00:03:09,070 --> 00:03:17,360
+The idea was that corporations wouldn't open
+to the internet, because it was "too messy,"
+
+39
+00:03:17,360 --> 00:03:22,540
+"too weird," and had too much porn.
+
+40
+00:03:22,540 --> 00:03:29,170
+Instead, corporate systems would be perfect
+closed gardens.
+
+41
+00:03:29,170 --> 00:03:37,010
+Secure with quality, curated content that
+was protected from the wide world.
+
+42
+00:03:37,010 --> 00:03:44,560
+If you worked in a company that actually tried
+to put that into practice, you discovered
+
+43
+00:03:44,560 --> 00:03:57,740
+that those systems ended up being insecure,
+virus-infested wastelands of stale, useless content.
+
+44
+00:03:57,860 --> 00:04:03,520
+Eventually, most of the people who worked
+in these companies had a second phone
+
+45
+00:04:03,530 --> 00:04:07,650
+(maybe a smartphone) so they could
+look up things on the internet.
+
+46
+00:04:07,650 --> 00:04:09,730
+The internet won.
+
+47
+00:04:09,730 --> 00:04:16,430
+The open, uncontrolled, unrestrained internet
+won.
+
+48
+00:04:16,430 --> 00:04:20,479
+But it wasn't obvious that it was going to
+win.
+
+49
+00:04:20,479 --> 00:04:24,120
+TCP/IP won.
+
+50
+00:04:24,120 --> 00:04:30,650
+There was a time when people said ridiculous
+things like "I'm not so interested in the Web."
+
+51
+00:04:30,650 --> 00:04:35,100
+"I'm interested in the technology
+behind the Web: HTML."
+
+52
+00:04:35,100 --> 00:04:45,780
+[Laughter] To misunderstand the power and
+purpose of a system like the Web so much,
+
+53
+00:04:45,780 --> 00:04:52,741
+as to think that the value of that comes from
+a representational format for data,
+
+54
+00:04:52,741 --> 00:04:55,350
+and the ability to link it to other data.
+
+55
+00:04:55,350 --> 00:05:04,280
+And miss the point that the really interesting thing is
+the ability of anyone, anywhere, to become a publisher.
+
+56
+00:05:04,280 --> 00:05:07,240
+The democratisation of publishing.
+
+57
+00:05:07,240 --> 00:05:14,320
+The open access to all of the information
+in the world, where if it is closed then it is irrelevant.
+
+58
+00:05:15,320 --> 00:05:21,890
+If it is not accessible, it is irrelevant.
+
+59
+00:05:21,890 --> 00:05:26,410
+Today, people say, "I'm not interested in
+Bitcoin.
+
+60
+00:05:26,410 --> 00:05:32,840
+I'm interested in the technology behind Bitcoin:
+the blockchain."
+
+61
+00:05:32,840 --> 00:05:37,980
+Two days ago when this conference opened, people
+were asked 'what is the thing you're most interested in?'
+
+62
+00:05:37,980 --> 00:05:43,750
+"Blockchain" was right in the middle
+of the screen, the biggest word there.
+
+63
+00:05:43,750 --> 00:05:46,110
+Blockchain.
+
+64
+00:05:46,110 --> 00:05:49,340
+The blockchain is a data structure.
+
+65
+00:05:49,340 --> 00:05:55,800
+It's not even a particularly interesting data structure.
+It is a hashed linked list.
+
+66
+00:05:55,860 --> 00:05:59,060
+From a technical perspective, it's kind of
+boring.
+
+67
+00:05:59,070 --> 00:06:04,800
+What's really interesting about the blockchain
+is how the blockchain is created.
+
+68
+00:06:04,800 --> 00:06:09,300
+What is the process for recording data in
+a blockchain?
+
+69
+00:06:09,300 --> 00:06:20,260
+Bitcoin introduced a mechanism to do that
+which is open, decentralised, neutral, borderless,
+
+70
+00:06:20,260 --> 00:06:32,220
+and censorship resistant -- kind of like the Web.
+
+71
+00:06:32,240 --> 00:06:38,100
+That's really the interesting thing about
+the open Web: that it is open,
+
+72
+00:06:38,110 --> 00:06:43,281
+that no one really controls all of it, and even 
+when some companies control big parts of it,
+
+73
+00:06:43,281 --> 00:06:49,120
+there are still parts that are free,
+weird, encrypted, underground.
+
+74
+00:06:49,120 --> 00:06:53,660
+Still open to creating incredible
+new inventions like Bitcoin.
+
+75
+00:06:53,660 --> 00:06:59,460
+It popped out of the internet and no one expected it.
+
+76
+00:06:59,460 --> 00:07:01,860
+Neutral.
+
+77
+00:07:01,860 --> 00:07:10,090
+For the most part, content is routed across
+the Web without regard to the content itself,
+
+78
+00:07:10,090 --> 00:07:13,980
+or really to the source and destination.
+
+79
+00:07:13,980 --> 00:07:16,210
+Censorship-resistant.
+
+80
+00:07:16,210 --> 00:07:25,040
+You cannot erase the Web, you cannot 
+(easily) remove information from the Web.
+
+81
+00:07:25,040 --> 00:07:32,449
+Bitcoin introduced a way to apply this to
+trusted information, specifically the most
+
+82
+00:07:32,449 --> 00:07:37,310
+important and trusted information,
+which is the ownership of currency.
+
+83
+00:07:37,310 --> 00:07:38,900
+Money.
+
+84
+00:07:38,900 --> 00:07:47,370
+It created a way to have a recording of ownership
+in the blockchain without allowing anyone
+
+85
+00:07:47,370 --> 00:07:56,560
+to have control over who can own money, how
+they can spend it, or who can record on this blockchain.
+
+86
+00:07:56,620 --> 00:08:05,690
+Bitcoin made money open, neutral, borderless,
+censorship-resistant, and decentralised.
+
+87
+00:08:05,690 --> 00:08:10,400
+The artefact of that technology,
+the deliverable, the product,
+
+88
+00:08:10,400 --> 00:08:15,280
+the thing that gets recorded on
+your software node, is the blockchain.
+
+89
+00:08:15,290 --> 00:08:23,580
+That blockchain is a necessary but not
+sufficient component to create the real magic,
+
+90
+00:08:23,580 --> 00:08:33,479
+which is a platform for trust that is not controlled
+by anyone, that cannot be erased or changed
+
+91
+00:08:33,479 --> 00:08:35,280
+after it has been recorded.
+
+92
+00:08:35,280 --> 00:08:42,890
+A system that is open, neutral, borderless,
+and censorship-resistant.
+
+93
+00:08:42,890 --> 00:08:45,259
+It's not about the blockchain.
+
+94
+00:08:45,260 --> 00:08:54,520
+In fact, if you take the blockchain technology,
+and you apply it in an environment that is closed,
+
+95
+00:08:54,520 --> 00:09:06,080
+controlled by one party that can decide which transactions get recorded and which ones do not...
+
+96
+00:09:06,080 --> 00:09:17,380
+[There are] "good" transactions and "bad" transactions,
+"evil" transactions, ones that should be censored.
+
+97
+00:09:17,380 --> 00:09:23,700
+Then you lose all of the interesting properties
+of the open blockchain.
+
+98
+00:09:23,700 --> 00:09:29,820
+Whenever I talk about this space, I always
+put at least one word before "blockchain,"
+
+99
+00:09:29,820 --> 00:09:33,730
+and that is 'open.'
+
+100
+00:09:33,730 --> 00:09:45,279
+'Open' means open-source, open-access, open
+to innovation without permission.
+
+101
+00:09:45,279 --> 00:09:49,290
+It means innovation at the edge, not the center.
+
+102
+00:09:49,290 --> 00:09:52,269
+It means no one is in control.
+
+103
+00:09:52,269 --> 00:09:55,470
+It means there is no censorship.
+
+104
+00:09:55,470 --> 00:09:58,019
+It means it is neutral.
+
+105
+00:09:58,019 --> 00:10:03,290
+You don't require any patent to participate
+in this technology.
+
+106
+00:10:03,290 --> 00:10:14,110
+It is neutral because in this system of trust,
+the source, destination, content,
+
+107
+00:10:14,110 --> 00:10:18,029
+and even purpose of your transaction does not matter.
+
+108
+00:10:18,029 --> 00:10:26,589
+It will be routed and there is no way to stop
+someone from routing.
+
+109
+00:10:26,589 --> 00:10:33,850
+Almost every day, I meet people who come to
+me and say, "I'm kind of interested in Bitcoin,
+
+110
+00:10:33,850 --> 00:10:40,679
+but I'm more interested in all the other applications
+we can do with the blockchain."
+
+111
+00:10:40,679 --> 00:10:42,610
+Not even "the blockchain," just "blockchain."
+
+112
+00:10:42,610 --> 00:10:48,230
+It's become a generic, abstract word.
+
+113
+00:10:48,230 --> 00:10:52,579
+In most cases, that word is meaningless.
+
+114
+00:10:52,579 --> 00:10:59,029
+What it means to them is "I'm trying to do
+everything where I previously used a database,
+
+115
+00:10:59,029 --> 00:11:06,980
+only now we can do it with something that is a
+hundred-thousand times slower and less well-tested."
+
+116
+00:11:07,180 --> 00:11:14,480
+If you create a centralised blockchain, if
+you have a central point of control;
+
+117
+00:11:14,480 --> 00:11:21,280
+if it's not open, borderless, censorship-resistant,
+and neutral, then you should have used
+
+118
+00:11:21,280 --> 00:11:27,519
+Microsoft SQL Server Enterprise Edition or Oracle.
+
+119
+00:11:27,520 --> 00:11:37,900
+The problem is, no one is going to pay a consultant
+to re-build Dubai's real-estate records on Microsoft SQL.
+
+120
+00:11:37,900 --> 00:11:41,999
+That's not going to get you any magic venture
+capital money sprinkled over you.
+
+121
+00:11:41,999 --> 00:11:48,500
+[That only happens] when you go to Silicon Valley,
+go in front of the bathroom mirror in your hotel room,
+
+122
+00:11:48,500 --> 00:11:53,020
+turn off the light and say "blockchain,
+blockchain, blockchain" three times.
+
+123
+00:11:53,020 --> 00:11:57,960
+A venture capitalist [will] jump out of the
+bathtub and start throwing money at you!
+
+124
+00:11:57,960 --> 00:12:03,760
+[Laughter]
+
+125
+00:12:03,769 --> 00:12:08,769
+I did a talk which was censored on Facebook
+the first day it was published.
+
+126
+00:12:08,769 --> 00:12:14,499
+It was called "Blockchain versus Bullshit."
+
+127
+00:12:14,499 --> 00:12:19,560
+Apparently that word "bullshit" is not good
+for Facebook and censorship is something they do,
+
+128
+00:12:19,560 --> 00:12:26,079
+which kind of proves the point [about
+centralised blockchains] really.
+
+129
+00:12:26,079 --> 00:12:31,540
+It's about decentralisation, censorship
+resistance, open-access.
+
+130
+00:12:31,540 --> 00:12:38,949
+It's about the ability to use a 'bad' word
+to make an important point, to use the shock value
+
+131
+00:12:38,949 --> 00:12:45,040
+to get people's attention and [hope they] 
+listen to the rest of the message.
+
+132
+00:12:45,040 --> 00:12:50,870
+But that's okay, because I don't use Facebook anyway!
+
+133
+00:12:50,870 --> 00:12:58,329
+The bottom line is that this technology is
+interesting because, for the first time in
+
+134
+00:12:58,329 --> 00:13:06,720
+history, it takes one of humanity's oldest
+technology (money) and one of the most important
+
+135
+00:13:06,720 --> 00:13:16,670
+aspects of human behaviour (trust), and embeds
+these in an open, inter-operable network protocol
+
+136
+00:13:16,670 --> 00:13:18,369
+without central control.
+
+137
+00:13:18,369 --> 00:13:20,509
+This has never happened before.
+
+138
+00:13:20,509 --> 00:13:27,100
+Yes, you could imagine a myriad of applications
+where the ability to trust in the network protocol
+
+139
+00:13:27,100 --> 00:13:35,420
+and not have to trust in the other party 
+you're interacting with, without a third-party
+
+140
+00:13:35,420 --> 00:13:39,430
+that acts as an intermediary.
+
+141
+00:13:39,430 --> 00:13:44,449
+You can imagine many different applications.
+
+142
+00:13:44,449 --> 00:13:51,090
+The problem is that a lot of those applications
+really depend on first establishing...
+
+143
+00:13:51,090 --> 00:13:58,200
+the first fundamental application:
+value as a content type.
+
+144
+00:13:58,200 --> 00:14:04,470
+When you turn money into a content type, make
+it something that is routable across the internet
+
+145
+00:14:04,470 --> 00:14:14,840
+from any point to any other point, without reference
+to any third party, self-verifiable, self-authorising,
+
+146
+00:14:14,920 --> 00:14:19,499
+Independently routable money as a network protocol.
+
+147
+00:14:19,499 --> 00:14:23,620
+That creates the basis for all of the other
+applications.
+
+148
+00:14:23,620 --> 00:14:28,500
+That creates the basis for applications of
+security and trust that we need to build as
+
+149
+00:14:28,500 --> 00:14:32,079
+an infrastructure to start everything else.
+
+150
+00:14:32,079 --> 00:14:39,619
+If the blockchain is open, decentralised,
+neutral, and censorship-resistant,
+
+151
+00:14:39,619 --> 00:14:43,639
+then it can be used for so many
+other interesting applications.
+
+152
+00:14:43,639 --> 00:14:48,189
+But most of the companies you work for 
+will not use it that way.
+
+153
+00:14:48,189 --> 00:14:55,079
+They see the internet of money
+and they want to build an intranet.
+
+154
+00:14:55,079 --> 00:15:01,509
+The natural motivation of a corporation is control.
+
+155
+00:15:01,509 --> 00:15:05,959
+The natural motivation of a government is control.
+
+156
+00:15:05,960 --> 00:15:12,860
+They see this open system and they say, 
+"We kind of like it. Immutability, recordability...
+
+157
+00:15:12,860 --> 00:15:19,000
+Auditability, forensic analysis, cryptography...
+all of these cute things.
+
+158
+00:15:19,040 --> 00:15:25,360
+Can we have them without the open, borderless,
+neutral, censorship-resistant aspects of it?
+
+159
+00:15:25,360 --> 00:15:35,220
+We would like to make it closed, controlled,
+censurable, and profitable (for us)."
+
+160
+00:15:35,220 --> 00:15:42,309
+They will build great intranets of money 
+and they will be stale wastelands just like the
+
+161
+00:15:42,309 --> 00:15:53,369
+Microsoft FrontPage / Outlook shit you have
+in the back office of your corporation.
+
+162
+00:15:53,369 --> 00:15:59,790
+[Applause]
+
+163
+00:15:59,790 --> 00:16:05,180
+When somebody says, "I'm going to apply 
+the blockchain to my new application,"
+
+164
+00:16:05,180 --> 00:16:12,620
+the first question you should ask is,
+"What kind of blockchain? Why do you need one?"
+
+165
+00:16:12,620 --> 00:16:17,260
+I only have one slide, but if I wanted to do
+a perfect presentation about blockchains
+
+166
+00:16:17,300 --> 00:16:23,760
+to a corporate environment, as one of my friends
+on Twitter recently said: "You only need one slide...
+
+167
+00:16:23,760 --> 00:16:28,720
+It says 'you don't need a blockchain.'
+Thank you! Questions?" [Laughter]
+
+168
+00:16:28,720 --> 00:16:36,139
+The bottom line is that the number of applications
+where you truly need a borderless, global,
+
+169
+00:16:36,139 --> 00:16:40,540
+censorship-resistant, neutral platform to
+establish a level of trust and immutability
+
+170
+00:16:40,540 --> 00:16:48,419
+that cannot be attacked or compromised 
+by anyone -- even colluding state-level actors
+
+171
+00:16:48,420 --> 00:16:55,260
+and giant multi-national corporations... 
+despotic, disgusting, dictatorial regimes
+
+172
+00:16:55,260 --> 00:16:57,660
+and other censorship ridden hell holes...
+
+173
+00:16:57,669 --> 00:17:05,610
+The only applications you need that for
+can be counted on the fingers of one hand.
+
+174
+00:17:05,610 --> 00:17:13,960
+But I'll tell you which application 
+immediately is important: money.
+
+175
+00:17:13,960 --> 00:17:21,440
+We don't like to think that money is an important
+application, especially in western liberal culture.
+
+176
+00:17:21,440 --> 00:17:25,780
+Here, money is dirty and "the root of all evil."
+
+177
+00:17:25,780 --> 00:17:30,730
+It's not the money that's dirty,
+it's the current architecture of money.
+
+178
+00:17:30,730 --> 00:17:33,200
+Centralised, hierarchical, controlled.
+
+179
+00:17:33,200 --> 00:17:35,440
+That is dirty.
+
+180
+00:17:35,440 --> 00:17:40,360
+[We have turned] money into a network protocol
+that we can spread to the entire world.
+
+181
+00:17:40,360 --> 00:17:47,270
+[We can] give it to every person who currently
+doesn't have access to banking facilities,
+
+182
+00:17:47,270 --> 00:17:56,440
+to billions of people who are cut off from the financial
+system just to give us a bourgeois sense of safety
+
+183
+00:17:56,440 --> 00:17:59,820
+-- which is a lie.
+
+184
+00:17:59,820 --> 00:18:05,000
+[The financial system] is a system of control
+so pervasive that it has been weaponised throughout
+
+185
+00:18:05,000 --> 00:18:11,100
+the West, to be used as a system
+of political power and control.
+
+186
+00:18:11,100 --> 00:18:16,760
+Proprietary money is the cancer of modern societies.
+
+187
+00:18:16,760 --> 00:18:21,860
+It has infected democracy.
+It is killing democracy.
+
+188
+00:18:22,000 --> 00:18:31,180
+The answer to that is open, neutral, borderless,
+censorship-resistant, open-source money
+
+189
+00:18:31,260 --> 00:18:35,380
+as a network protocol.
+As an open interface.
+
+190
+00:18:35,380 --> 00:18:42,480
+As a system that can be [used by] anyone who
+has an IP connected device of the most basic
+
+191
+00:18:42,480 --> 00:18:50,160
+functionality, which gives them the power
+to independently verify, authorise, authenticate,
+
+192
+00:18:50,160 --> 00:18:54,340
+transact globally with anyone.
+
+193
+00:18:54,350 --> 00:19:06,110
+Once we have that solid platform, we can build
+applications of trust like authenticated voting,
+
+194
+00:19:06,110 --> 00:19:11,860
+ownership of real-estate, and other assets.
+
+195
+00:19:11,860 --> 00:19:19,630
+Applications like open-source law through
+smart contracts.
+
+196
+00:19:19,630 --> 00:19:29,790
+Realise that cryptocurrencies today are the
+largest open, public, consumer / civilian deployment
+
+197
+00:19:29,790 --> 00:19:34,770
+of public key cryptography that
+has ever happened (besides SSL).
+
+198
+00:19:34,770 --> 00:19:39,110
+We have now arrived at the golden age of cryptography.
+
+199
+00:19:39,110 --> 00:19:43,030
+The cypherpunks are finally winning.
+
+200
+00:19:43,030 --> 00:19:50,150
+We can apply that amazing technology to one of
+humanity's most ancient and fundamental technologies:
+
+201
+00:19:50,150 --> 00:19:56,410
+a system for the communication of value, 
+that we call money.
+
+202
+00:19:56,410 --> 00:20:02,760
+For the first time in history,
+money is a content-type, a protocol.
+
+203
+00:20:02,760 --> 00:20:08,060
+Thank you. [Applause]
+

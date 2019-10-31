@@ -1,0 +1,965 @@
+1
+00:00:00,000 --> 00:00:05,900
+[ORGANISER] Andreas Antonopoulos! [Applause]
+
+2
+00:00:05,900 --> 00:00:11,460
+[ANDREAS] It is such a huge pleasure to be here today.
+This is such a great community.
+
+3
+00:00:11,460 --> 00:00:16,540
+Everyone here welcomed me with such 
+warmth and open arms, so thank you!
+
+4
+00:00:16,560 --> 00:00:20,360
+Thank you so much for having me here tonight.
+
+5
+00:00:20,360 --> 00:00:29,180
+I would like to talk about a couple important
+issues [regarding] regulatory legitimacy.
+
+6
+00:00:29,180 --> 00:00:39,940
+The cryptocurrency space can achieve compliance
+with the payment card industry (PCI) standard...
+
+7
+00:00:39,940 --> 00:00:44,780
+and Sarbanes-Oxley's Public Company 
+Accounting Oversight Board (PCAOB).
+
+8
+00:00:44,780 --> 00:00:51,600
+[We can incorporate] 'Know-Your-Customer' (KYC)
+and the anti-money laundering (AML) rules,
+
+9
+00:00:51,600 --> 00:00:59,500
+which will allow us to achieve legitimacy with
+bankers and [gain] our position on the world stage...
+
+10
+00:00:59,500 --> 00:01:08,700
+as a trusted, legitimate currency. [Laughter] [Applause]
+
+11
+00:01:08,700 --> 00:01:17,540
+Eh, fuck that! [Laughter [Applause] No, I don't want
+to talk about that. Who wants to talk about that?
+
+12
+00:01:17,540 --> 00:01:34,840
+[That stuff] is ridiculous. We don't need any legitimacy.
+We are having fun. We deal with more serious issues.
+
+13
+00:01:34,840 --> 00:01:43,420
+There are a lot of serious people in Wall Street:
+dour faced, boring, soulless, parasitic people...
+
+14
+00:01:43,420 --> 00:01:46,260
+wearing suits and ties.
+
+15
+00:01:46,260 --> 00:01:58,160
+Guess what? They stole trillions of dollars and got away
+with it. Who needs their legitimacy? [Applause]
+
+16
+00:01:58,160 --> 00:02:02,040
+I want to talk about things that are warm to my heart.
+
+17
+00:02:02,040 --> 00:02:07,660
+Some of you may have heard the talks I have
+given recently, about currency as a language.
+
+18
+00:02:07,660 --> 00:02:11,120
+Has anyone here heard some of those talks?
+
+19
+00:02:11,120 --> 00:02:21,960
+Not many people, great. It will all sound brand new
+to you, a great opportunity for me to repeat myself.
+
+20
+00:02:21,960 --> 00:02:28,280
+What I care about is charity and the other six billion.
+
+21
+00:02:28,280 --> 00:02:35,640
+There are a billion people in this world who have
+access to bank accounts without currency controls,
+
+22
+00:02:35,640 --> 00:02:46,540
+that can transmit money in international markets
+and access deep pools of liquid credit for loans.
+
+23
+00:02:46,540 --> 00:02:50,600
+[That is] us, the rich people of the Western world.
+
+24
+00:02:50,600 --> 00:02:56,600
+Then there is the other six billion people worn
+all around the world who have limited bank accounts...
+
+25
+00:02:56,600 --> 00:02:58,480
+or no bank accounts at all.
+
+26
+00:02:58,480 --> 00:03:03,320
+People who live on $1 per day if they are lucky.
+
+27
+00:03:03,320 --> 00:03:11,080
+People who have no access to international markets,
+no access to international finance, no access to loans.
+
+28
+00:03:11,080 --> 00:03:15,700
+No access to opportunity.
+
+29
+00:03:15,700 --> 00:03:22,200
+I would like to think that I am a really smart guy who
+got here because of efforts I made throughout my life,
+
+30
+00:03:22,200 --> 00:03:25,540
+but we all know that is bullshit.
+
+31
+00:03:25,540 --> 00:03:27,940
+I got here through an accident of birth,
+
+32
+00:03:27,940 --> 00:03:33,140
+which put me in a white middle-class society
+of the developed nation of Greece.
+
+33
+00:03:33,140 --> 00:03:40,860
+As a child of professional, educated parents,
+I was swimming with current all the way.
+
+34
+00:03:40,860 --> 00:03:49,320
+There are hundreds of thousands of people smarter
+than me, dying of diphtheria somewhere in the world.
+
+35
+00:03:49,320 --> 00:03:57,400
+I care about what we could do with cryptocurrencies
+to bring economic development and inclusion.
+
+36
+00:03:57,400 --> 00:04:06,020
+[I care about] bringing the other six billion [people] into
+a world economy without borders, political corruption,
+
+37
+00:04:06,020 --> 00:04:18,500
+and massive theft by parasitic banks. [Applause]
+
+38
+00:04:18,500 --> 00:04:23,360
+And it starts with charity at a very basic level.
+
+39
+00:04:23,360 --> 00:04:27,760
+This community [speaks about] charity more
+than any other cryptocurrency community.
+
+40
+00:04:27,760 --> 00:04:34,960
+Thank you so much for leading the way and [being]
+an example of what we can do with cryptocurrency,
+
+41
+00:04:34,960 --> 00:04:36,860
+when we think [about] doing good.
+
+42
+00:04:36,860 --> 00:04:40,020
+That is what is amazing about this community.
+
+43
+00:04:40,020 --> 00:04:47,020
+Bitcoin has a lot of charity too. We have achieved some
+amazing things in the Bitcoin space [through charity].
+
+44
+00:04:47,020 --> 00:04:55,300
+About a month and a half ago, Newsweek destroyed
+the life of an innocent old man called Dorian Nakamoto,
+
+45
+00:04:55,300 --> 00:04:59,400
+by saying that he was the creator of this currency.
+
+46
+00:04:59,420 --> 00:05:07,180
+I started a fundraiser; within six hours, we raised
+more than thirty bitcoin for Dorian, Nakamoto.
+
+47
+00:05:07,180 --> 00:05:14,080
+Now, we have raised almost fifty bitcoin
+to help this man put his life together [again].
+
+48
+00:05:14,080 --> 00:05:23,240
+At the same time, Sean's Outpost, one of my favourite
+major charities, distributed sixty-five thousand meals...
+
+49
+00:05:23,240 --> 00:05:25,460
+for the homeless of Pensacola, Florida in the last year.
+
+50
+00:05:25,460 --> 00:05:30,300
+[They] tapped into Bitcoin and used it to raise
+money from people all around the world.
+
+51
+00:05:30,300 --> 00:05:38,800
+If people care, they can now send money anywhere
+in the world to support the charity of their choice.
+
+52
+00:05:38,800 --> 00:05:53,000
+[Applause] When there was a typhoon in the Philippines,
+Fr33aid raised money and set over $5,000 within a day.
+
+53
+00:05:53,000 --> 00:05:58,640
+[The money went] right on the ground where it mattered,
+where it could make a difference in people's lives...
+
+54
+00:05:58,640 --> 00:06:09,640
+without having to worry about regulations, [slow]
+wire transfers, or giving Western Union a 20% cut.
+
+55
+00:06:09,640 --> 00:06:15,960
+All of these charities take [bitcoin as]
+a currency and turning it into a force for good.
+
+56
+00:06:15,960 --> 00:06:18,620
+But that is only the beginning.
+
+57
+00:06:18,620 --> 00:06:25,840
+We have the opportunity to subvert and improve
+some of the most exploited markets in the world.
+
+58
+00:06:25,840 --> 00:06:31,300
+The first one I care about a lot is
+the international remittances market.
+
+59
+00:06:31,300 --> 00:06:38,460
+Every year, poor people in the developed world who
+are migrants and have jobs as itinerant workers...
+
+60
+00:06:38,460 --> 00:06:46,700
+[They are mostly] Mexicans here in the United States;
+Indians in different places like Dubai, for construction...
+
+61
+00:06:46,700 --> 00:06:53,980
+They send money home to their families abroad.
+$500 billion [in total] primarily goes to four countries:
+
+62
+00:06:53,980 --> 00:06:59,520
+Mexico, the Philippines, Indonesia, and India.
+
+63
+00:06:59,520 --> 00:07:09,180
+That $500 billion is a lot more than what we
+in the developed world send in terms of financial aid.
+
+64
+00:07:09,180 --> 00:07:14,620
+Approximately $175 billion has been sent
+by our governments to the developing world.
+
+65
+00:07:14,620 --> 00:07:20,360
+Guess where that money goes? [Financial aid] from
+our government goes to the top of their governments...
+
+66
+00:07:20,360 --> 00:07:22,540
+and then trickles down.
+
+67
+00:07:22,540 --> 00:07:30,200
+Only about 5% actually reaches the people in need
+because the rest is taken through corruption.
+
+68
+00:07:30,200 --> 00:07:39,220
+Meanwhile, out of the $500 billion sent through
+remittances, $75 billion is collected as fees...
+
+69
+00:07:39,220 --> 00:07:41,300
+by companies like Western Union.
+
+70
+00:07:41,300 --> 00:07:49,100
+They charge anywhere from 5% to more than 25% on the
+money that people are sending home to their families.
+
+71
+00:07:49,100 --> 00:07:55,840
+That is $75 billion [taken] out of the pockets of the
+poorest people on this planet. We can change that.
+
+72
+00:07:55,840 --> 00:07:58,680
+We can change that right now.
+
+73
+00:07:58,680 --> 00:08:05,280
+Cryptocurrencies enable flows of money from
+the developed nations to the developing world,
+
+74
+00:08:05,280 --> 00:08:10,240
+to give back that $75 billion
+to the people who need it most.
+
+75
+00:08:10,240 --> 00:08:14,720
+If you take that money [back] and put it in 
+the pockets of the poorest people in the world,
+
+76
+00:08:14,720 --> 00:08:20,160
+specifically the pockets of women who
+run the finances in their communities,
+
+77
+00:08:20,160 --> 00:08:26,960
+[receiving] money from their husbands and family
+members abroad, they will convert every single dollar...
+
+78
+00:08:26,960 --> 00:08:32,680
+[into improving] water [access],
+sanitation, education, and healthcare.
+
+79
+00:08:32,680 --> 00:08:40,400
+They have an immediate impact that reaches very far in
+their own community. That is how we change the world.
+
+80
+00:08:40,400 --> 00:08:54,220
+That is what we can do with cryptocurrencies.
+That is what I care about. [Applause]
+
+81
+00:08:54,220 --> 00:09:02,400
+One of the questions I have been thinking about for the
+last year is, how do altcoins behave against each other?
+
+82
+00:09:02,400 --> 00:09:08,620
+Whether they are in competition or not.
+The underlying question is one of scarcity.
+
+83
+00:09:08,620 --> 00:09:15,000
+A lot of people think other coins compete directly
+with bitcoin, and if there are too many coins,
+
+84
+00:09:15,000 --> 00:09:20,920
+that dilutes the value and
+digital scarcity created by bitcoin.
+
+85
+00:09:20,920 --> 00:09:27,460
+I think that is a very old fashioned way to look at
+currency. We think of currency that way because...
+
+86
+00:09:27,460 --> 00:09:30,560
+Throughout our lives, we have grown up in a world...
+
+87
+00:09:30,560 --> 00:09:36,080
+of national sovereign currencies that
+exist in a monopolistic zero-sum game.
+
+88
+00:09:36,080 --> 00:09:43,300
+Winning for my currency and my nation is
+a zero-sum game against [another nation's] currency.
+
+89
+00:09:43,300 --> 00:09:51,200
+All these currencies exhibit a [geo-political] monopoly.
+If I live in the United States, I am born into U.S. dollars.
+
+90
+00:09:51,200 --> 00:09:57,320
+I don't have a choice. I must pay my taxes in U.S. dollars,
+and that is the currency I will use [while I'm there].
+
+91
+00:09:57,320 --> 00:10:01,960
+Well, [some of] that is no longer the case. 
+[Because of Bitcoin], currency is now a choice.
+
+92
+00:10:01,960 --> 00:10:12,960
+With these digital currencies created by individuals, we
+can now choose any currency we want to interact with.
+
+93
+00:10:12,960 --> 00:10:22,620
+In making that choice, we also choose our community
+and the currency which best represents our values.
+
+94
+00:10:22,620 --> 00:10:26,940
+[That choice] is more powerful
+than any vote in the world.
+
+95
+00:10:26,940 --> 00:10:33,920
+Let's think about what it means to choose
+a currency and how that currency derives value.
+
+96
+00:10:33,920 --> 00:10:41,600
+We need to re-think the word. Currency used to be
+defined by the authority of the sovereign who created it.
+
+97
+00:10:41,600 --> 00:10:47,840
+The sovereign who created the currency would
+put the force and monopoly of the state behind it...
+
+98
+00:10:47,840 --> 00:10:52,100
+to give it value, and that is what
+gave currency value in the old world.
+
+99
+00:10:52,100 --> 00:11:01,320
+In this world, a cryptocurrency with a funny dog [as its
+mascot] has value. Why? Because it has value to you.
+
+100
+00:11:01,320 --> 00:11:06,860
+You give it value by using that currency.
+
+101
+00:11:06,860 --> 00:11:11,700
+What happens in ten or fifteen years as
+cryptocurrencies become more widespread?
+
+102
+00:11:11,700 --> 00:11:16,880
+How do you look at value in a world
+where anybody can create a currency?
+
+103
+00:11:16,880 --> 00:11:22,300
+What does it mean if, someday,
+you [travel to] a rural environment in Africa,
+
+104
+00:11:22,300 --> 00:11:25,520
+which is predominantly using two currencies:
+
+105
+00:11:25,520 --> 00:11:35,940
+one has a funny dog, and the other has
+an old white woman named Elizabeth.
+
+106
+00:11:35,940 --> 00:11:41,040
+Well, I can tell you something. The people in
+that village probably don't know who Elizabeth is.
+
+107
+00:11:41,040 --> 00:11:48,740
+They will certainly have no clue what the hell
+that dog is and why its eyes look like that. [Laughter]
+
+108
+00:11:48,740 --> 00:11:53,880
+What they do know: you could use either 
+one of these currencies to buy six eggs.
+
+109
+00:11:53,880 --> 00:12:01,900
+That is all that matters. If a currency is useful as a
+means of exchange, then that currency has value.
+
+110
+00:12:01,900 --> 00:12:10,740
+You can have a thousand economists write a thousand
+PhD papers that tell you exactly why it's not a currency.
+
+111
+00:12:10,740 --> 00:12:15,640
+But if you can buy six eggs, then it is
+a currency and nothing else matters.
+
+112
+00:12:15,640 --> 00:12:22,040
+What is the fundamental difference between currencies
+if they have monetary value at the point of purchase?
+
+113
+00:12:22,040 --> 00:12:30,500
+If they can be used to exchange for goods and services
+by people in a community who will use that currency?
+
+114
+00:12:30,500 --> 00:12:37,200
+Well, one of the currencies has a predictable,
+deterministic, fixed monetary supply.
+
+115
+00:12:37,200 --> 00:12:42,700
+The other currency has an old white lady
+on the front. That is the only difference.
+
+116
+00:12:42,700 --> 00:12:48,720
+They sure as hell didn't pick that currency 
+and they don't know why Elizabeth is on it.
+
+117
+00:12:48,720 --> 00:12:57,740
+Maybe she won a popularity contest.
+Well, so did the dog. [Laughter]
+
+118
+00:12:57,740 --> 00:13:02,500
+We now live in the world where
+currency acquires value through its use.
+
+119
+00:13:02,500 --> 00:13:10,240
+If you can transact internationally with a currency,
+the only thing that matters is how many people use it,
+
+120
+00:13:10,240 --> 00:13:12,020
+and how they use that currency.
+
+121
+00:13:12,020 --> 00:13:17,860
+If they use that currency, that gives it value, by definition.
+
+122
+00:13:17,860 --> 00:13:27,200
+How do we survive in that kind of world where value
+is determined purely by adoption, not by a sovereign.
+
+123
+00:13:27,200 --> 00:13:31,720
+Not by the regulations that back it,
+but by the algorithms that run it.
+
+124
+00:13:31,720 --> 00:13:37,680
+Not by trust in the central authority with the 
+ability to print as much money as it wants,
+
+125
+00:13:37,680 --> 00:13:43,620
+who hands that money over at 0% interest to
+the biggest banks, in trickle-down economics.
+
+126
+00:13:43,620 --> 00:13:48,960
+By algorithms that are predictable, 
+deterministic, and remove uncertainty.
+
+127
+00:13:48,960 --> 00:13:55,020
+By algorithms that allow us to see
+how the currency will develop over time.
+
+128
+00:13:55,020 --> 00:14:02,600
+In that world, adoption is the only thing that matters.
+We don't know how to live in that world.
+
+129
+00:14:02,600 --> 00:14:07,720
+That world hasn't come yet,
+but I think it is coming and coming fast.
+
+130
+00:14:07,720 --> 00:14:15,620
+I think the idea of [only having 180 national] currencies
+will seem quaint in a couple of decades.
+
+131
+00:14:15,620 --> 00:14:22,680
+In fact, until recently, I thought we would only have
+a couple hundred altcoins, and I changed my mind.
+
+132
+00:14:22,680 --> 00:14:25,760
+Guess what? I am often wrong.
+
+133
+00:14:25,760 --> 00:14:31,280
+But when I get new facts, I form new opinions,
+because the old opinions don't fit the facts anymore.
+
+134
+00:14:31,280 --> 00:14:39,220
+As I saw the explosion of alternative currencies,
+which in itself is a somewhat patronizing [term]...
+
+135
+00:14:39,220 --> 00:14:45,980
+As I saw the development of altcoins, I realized
+that we will not just have hundreds of currencies.
+
+136
+00:14:45,980 --> 00:14:52,440
+Let's do a quick poll. How many of you think that,
+in a decade, we will have hundreds of coins?
+
+137
+00:14:52,440 --> 00:15:02,260
+Thousands? Tens of thousands?
+Hundreds of thousands? Millions?
+
+138
+00:15:02,260 --> 00:15:05,240
+All right, now we are having a conversation.
+
+139
+00:15:05,240 --> 00:15:10,780
+What does it mean to live in the world with
+hundreds of thousands or millions of currencies?
+
+140
+00:15:10,780 --> 00:15:16,420
+The key realization came when I saw a website
+that allowed me to build a cryptocurrency...
+
+141
+00:15:16,420 --> 00:15:23,520
+by entering a name and monetary policy from
+a drop-down box in a web form, and [clicking] 'submit.'
+
+142
+00:15:23,520 --> 00:15:26,620
+You needed to pay about $50 to do that,
+
+143
+00:15:26,620 --> 00:15:31,840
+but I guarantee that by the end of the year, 
+you will be able to do that for free.
+
+144
+00:15:31,840 --> 00:15:40,920
+Then I realized that everybody will do it. 
+At a very basic level, currency is a language.
+
+145
+00:15:40,920 --> 00:15:43,380
+Currency is a means of expression.
+
+146
+00:15:43,380 --> 00:15:47,440
+Currency is the language by which
+we communicate value to each other.
+
+147
+00:15:47,440 --> 00:15:52,820
+Currency is an emergent artifact of a social species.
+
+148
+00:15:52,820 --> 00:15:58,640
+Let me repeat that: currency is an 
+emergent artifact of a social species.
+
+149
+00:15:58,640 --> 00:16:05,800
+How do you know that? Observe five year-olds.
+
+150
+00:16:05,800 --> 00:16:13,500
+Go into a primary school, watch how five-year-olds
+behave. They don't have currency, so they invent it.
+
+151
+00:16:13,500 --> 00:16:22,800
+They invent currency as soon as they develop
+social bonds within a broad social environment.
+
+152
+00:16:23,100 --> 00:16:32,920
+If you go into a primary school, you will see children
+trading cards, Pokémon, Tamagotchi, rubber bands,
+
+153
+00:16:32,920 --> 00:16:38,560
+candy, cafeteria credits, whatever.
+
+154
+00:16:38,560 --> 00:16:43,140
+It is not unlike a prison, in many ways. [Laughter]
+
+155
+00:16:43,140 --> 00:16:45,780
+The only difference is, they don't
+allow them to have cigarettes.
+
+156
+00:16:45,780 --> 00:16:49,840
+Otherwise, that would be the predominant currency.
+
+157
+00:16:49,840 --> 00:16:56,420
+But they do allow them to have doughnuts; 
+in many schools, that is the predominant currency.
+
+158
+00:16:56,420 --> 00:17:06,260
+Currency emerges in social environments because
+it is used by individuals to express value, appreciation,
+
+159
+00:17:06,260 --> 00:17:15,960
+to express popularity and strengthen
+social bonds, to create social experiences.
+
+160
+00:17:15,960 --> 00:17:20,420
+That is what currency does.
+Trade is a social interaction.
+
+161
+00:17:20,420 --> 00:17:25,500
+Currency is the language that allows us
+to have that social interaction.
+
+162
+00:17:25,500 --> 00:17:33,100
+When children are able to create currency, 
+that means everyone can create currency.
+
+163
+00:17:33,100 --> 00:17:41,380
+There will be a JoeyCoin competing with MariaCoin
+in the primary school, in a battle of popularity.
+
+164
+00:17:41,380 --> 00:17:50,160
+Yes, there will be. There will be BieberCoin and
+MetallicaCoin. You can see how old I am. [Laughter]
+
+165
+00:17:50,160 --> 00:17:56,200
+Maybe AndreasCoin. I will pre-mine the hell out of it.
+
+166
+00:17:56,200 --> 00:18:07,240
+There will be coins of all types, representing brands,
+corporations, your local mall, used as a loyalty card.
+
+167
+00:18:07,240 --> 00:18:16,000
+There will be coins representing bands and silly memes.
+I am at a conference for one of those [right now].
+
+168
+00:18:16,000 --> 00:18:23,200
+It doesn't matter. All of these coins
+may or may not have [some value].
+
+169
+00:18:23,200 --> 00:18:28,880
+But realize that there is a big difference between
+monetary value and [other forms of value].
+
+170
+00:18:28,880 --> 00:18:37,120
+The vast majority of the tens of thousands of coins
+which may exist, will have no monetary value.
+
+171
+00:18:37,120 --> 00:18:46,200
+You can try telling Joey that his coin doesn't have
+[monetary] value; it has value to Joey and his friends.
+
+172
+00:18:46,200 --> 00:18:54,360
+It can be used to express popularity in a social market.
+It has value to the followers of [Justin] Bieber.
+
+173
+00:18:54,360 --> 00:19:03,960
+In some cases, it may [be more valuable] than some of
+the national currencies out there, if he ever launches it.
+
+174
+00:19:03,960 --> 00:19:09,200
+How do we live in the world where there are hundreds
+of thousands of coins, and most of them have no value?
+
+175
+00:19:09,200 --> 00:19:12,000
+We disassociate value from authority.
+
+176
+00:19:12,000 --> 00:19:18,960
+We understand that value does not derive from
+who created it, but only from who is using it.
+
+177
+00:19:18,960 --> 00:19:23,260
+We already live in that world in terms of information.
+
+178
+00:19:23,260 --> 00:19:30,560
+We used to [read] published opinion as being
+authoritative if it came from a publisher...
+
+179
+00:19:30,560 --> 00:19:35,640
+with a giant printing press and a fancy name,
+like the New York Times.
+
+180
+00:19:35,640 --> 00:19:40,560
+Then we [transitioned] to a world where 
+everyone on the street could publish an opinion.
+
+181
+00:19:40,560 --> 00:19:45,800
+We needed to revise our understanding of 
+authority, because it no longer fit the facts.
+
+182
+00:19:45,800 --> 00:19:53,960
+Sometimes, people from very esteemed institutions like
+the New York Times, such as "journalist" Judith Miller,
+
+183
+00:19:53,960 --> 00:19:57,680
+lie about weapons of mass destruction (WMDs) in Iraq,
+
+184
+00:19:57,700 --> 00:20:01,940
+[a lie which] kills hundreds of thousands of people.
+
+185
+00:20:01,940 --> 00:20:10,320
+Sometimes, an Egyptian blogger, a nobody, tells the truth
+about the regime of Mubarak, because they are there.
+
+186
+00:20:10,320 --> 00:20:18,120
+We live in a world where [value] comes from the content,
+not from the authority of the printing press.
+
+187
+00:20:18,120 --> 00:20:20,780
+And now we just did that to currency.
+
+188
+00:20:20,780 --> 00:20:27,740
+Currency gains [value] not because
+of who created it, but by who uses it.
+
+189
+00:20:27,740 --> 00:20:33,800
+In a few decades, you might be surprised about
+which currency [achieved] monetary value status.
+
+190
+00:20:33,800 --> 00:20:36,280
+It will be a very grey line.
+
+191
+00:20:36,280 --> 00:20:46,520
+I think we will see currencies that suddenly erupt,
+capture the imagination of an entire community,
+
+192
+00:20:46,520 --> 00:20:49,100
+and then acquire value.
+
+193
+00:20:49,100 --> 00:20:53,360
+I have some bad news, the other way [this] could go.
+
+194
+00:20:53,360 --> 00:21:00,480
+Some of these currencies will have monetary
+value and then fade into nothingness again.
+
+195
+00:21:00,480 --> 00:21:06,860
+A bubbling cauldron full of currencies where some
+rise to the surface, and then sink down quickly.
+
+196
+00:21:06,860 --> 00:21:12,120
+Some stay afloat [for the long term].
+I think Bitcoin will be one of the powerful ones.
+
+197
+00:21:12,120 --> 00:21:15,780
+I'm not sure about Dogecoin yet,
+but it is looking pretty promising.
+
+198
+00:21:15,780 --> 00:21:23,440
+I think it is very interesting how this community
+demonstrated to the world what marketing can do,
+
+199
+00:21:23,440 --> 00:21:28,240
+by having a positive and charitable spirit.
+
+200
+00:21:28,240 --> 00:21:32,520
+That is the new world I think we will
+live in, within a couple of decades.
+
+201
+00:21:32,520 --> 00:21:34,820
+It will be a very interesting world.
+
+202
+00:21:34,820 --> 00:21:42,680
+That is what I wanted to talk about today, the role of
+currency as language and form of societal [expression].
+
+203
+00:21:42,680 --> 00:21:50,060
+Thank you so much! [Applause]
+
