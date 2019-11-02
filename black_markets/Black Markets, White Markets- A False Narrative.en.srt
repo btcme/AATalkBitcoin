@@ -1,0 +1,1405 @@
+1
+00:00:06,240 --> 00:00:13,180
+[ANDREAS] Hi, everyone! I'm so glad to
+be here at LABitConf. This is my fourth.
+
+2
+00:00:13,180 --> 00:00:15,740
+I think I've only missed one.
+
+3
+00:00:15,740 --> 00:00:21,240
+Huge thanks to Rodolfo Andragnes, who opened
+[the event] with such passion and enthusiasm.
+
+4
+00:00:21,240 --> 00:00:27,300
+I understood about half of it, because
+he speaks very fast in Spanish.
+
+5
+00:00:27,300 --> 00:00:36,320
+My Spanish is still at the Duolingo 'level two' standard.
+I won't be doing my presentation today in Spanish.
+
+6
+00:00:36,320 --> 00:00:43,680
+Maybe in two years. Every now and then
+I try to practice a bit with Duolingo.
+
+7
+00:00:43,680 --> 00:00:48,160
+It pops up little reassuring messages [such as],
+
+8
+00:00:48,160 --> 00:00:55,940
+"More Americans are studying foreign languages
+on Duolingo than in public schools in America."
+
+9
+00:00:55,940 --> 00:01:01,120
+Great statistic, right? It would be true
+if only two people were using Duolingo;
+
+10
+00:01:01,120 --> 00:01:07,980
+[American schools] don't really teach foreign
+languages, but -- you know -- we are trying there.
+
+11
+00:01:07,980 --> 00:01:15,560
+Spanish will be my fourth language. I hope I can get
+to the level where I can order food in a restaurant...
+
+12
+00:01:15,560 --> 00:01:17,180
+without embarrassing myself.
+
+13
+00:01:17,180 --> 00:01:23,920
+That is where [I am] at the moment. Not ready
+to [speak about] Bitcoin [in Spanish] quite yet.
+
+14
+00:01:23,920 --> 00:01:27,560
+[But] I'm really excited to be here.
+
+15
+00:01:27,560 --> 00:01:41,220
+I would like to talk about a topic that keeps coming up
+[around] Bitcoin: black markets. [Haunted noise]
+
+16
+00:01:41,220 --> 00:01:50,320
+You see, bitcoin is used for black markets. You have
+heard about that, yes? It is used for black markets.
+
+17
+00:01:50,320 --> 00:01:59,040
+Of course, it is also used for some white markets too. 
+In Argentina, it is used for some blue markets.
+
+18
+00:01:59,040 --> 00:02:03,440
+["Blue market"] is what they renamed their black market
+because it is such a big part of the economy,
+
+19
+00:02:03,440 --> 00:02:07,360
+and they want it to sound more palatable.
+
+20
+00:02:07,360 --> 00:02:14,680
+Bitcoin is colorblind when it comes to markets.
+It doesn't distinguish between black and white markets,
+
+21
+00:02:14,680 --> 00:02:23,700
+blue and gray, or any other colors in the 
+rainbow of markets; it just serves markets.
+
+22
+00:02:23,700 --> 00:02:31,520
+The real question is, what is the difference 
+between a white market and a black market?
+
+23
+00:02:31,520 --> 00:02:40,520
+Is the color a good metric for us to understand [how
+these] markets function? I think it is a very poor metric.
+
+24
+00:02:40,520 --> 00:02:52,160
+Calling a market "white" or "black" doesn't tell us much
+about what that market does or how well it works.
+
+25
+00:02:52,160 --> 00:02:57,200
+The people who use [such] terms would 
+really like you to think there are a whole set...
+
+26
+00:02:57,200 --> 00:03:01,580
+of [moral] associations that go along with that color.
+
+27
+00:03:01,580 --> 00:03:09,240
+'White markets are good, black markets are bad.'
+'White markets are legal, black markets are illegal.'
+
+28
+00:03:09,240 --> 00:03:13,440
+'White markets are [functional],
+black markets are [dysfunctional].'
+
+29
+00:03:13,440 --> 00:03:21,320
+'White markets are fair, black markets are unfair.'
+'White markets are safe, black markets are unsafe.'
+
+30
+00:03:21,320 --> 00:03:26,760
+'White markets are moral, black markets are immoral.'
+
+31
+00:03:26,760 --> 00:03:36,380
+Bullshit! [Laughter] [Applause]
+
+32
+00:03:36,380 --> 00:03:40,240
+Not a single one of those statements is true.
+
+33
+00:03:40,240 --> 00:03:46,420
+White markets and black markets differ
+in only one essential component:
+
+34
+00:03:46,420 --> 00:03:54,880
+white markets are licensed, black
+markets are unlicensed. That is it.
+
+35
+00:03:54,880 --> 00:04:06,440
+Black markets can be moral, safe, just, fair, and efficient;
+simultaneously, white markets can be immoral, unsafe,
+
+36
+00:04:06,440 --> 00:04:10,180
+unjust, [unfair], and inefficient.
+
+37
+00:04:10,180 --> 00:04:20,680
+We all know this. [Subconsciously], we know it.
+The taxi cartel is a white market; Uber is a black market.
+
+38
+00:04:20,680 --> 00:04:31,700
+I won't take a bloody taxi. I have been to fifty-three
+countries and robbed by taxi drivers in fifty-two.
+
+39
+00:04:31,700 --> 00:04:38,200
+"The airport is here. My hotel is here."
+"Let's go that way!" [Dramatic, long-route loops]
+
+40
+00:04:38,200 --> 00:04:45,740
+"On triple tariffs with seven extras that I just invented."
+This has happened to me in every country in the world.
+
+41
+00:04:45,740 --> 00:04:56,460
+Why? Because it is a regulated, licensed guild. A cartel.
+It is an inefficient, broken market, full of corruption.
+
+42
+00:04:56,460 --> 00:05:04,560
+Uber works. It is efficient, fair, and 
+transparent, but it is a black market.
+
+43
+00:05:04,560 --> 00:05:10,640
+We don't call it a black market because it is run
+by a multinational corporation with nice graphics...
+
+44
+00:05:10,640 --> 00:05:12,980
+and [a ticker symbol on] the stock market index.
+
+45
+00:05:12,980 --> 00:05:19,440
+We don't really want to call it the black 
+market, but it is, if it is not licensed.
+
+46
+00:05:19,440 --> 00:05:24,940
+Right outside this place, there are cute
+little electric scooters with lime colors.
+
+47
+00:05:24,940 --> 00:05:28,140
+Have you tried those? They are so much fun.
+
+48
+00:05:28,140 --> 00:05:35,800
+You can go fifteen miles per hour on the sidewalk or
+the street; I'm sure one of the two is illegal, but not sure.
+
+49
+00:05:35,800 --> 00:05:42,600
+You [must] wear a helmet -- I didn't, I'm sorry, that was
+probably illegal -- and the service itself is not licensed.
+
+50
+00:05:42,600 --> 00:05:46,620
+So that is a black market.
+
+51
+00:05:46,620 --> 00:05:54,280
+In North Korea, you can only have one of six haircuts
+if you are a male, which means [mine] is a black market.
+
+52
+00:05:54,280 --> 00:06:06,560
+It is not one of the approved haircuts. [Laughter]
+I call it a haircut, but it is just the result of hair loss.
+
+53
+00:06:06,560 --> 00:06:10,960
+But I would still like to pretend
+for a few more years, while I can.
+
+54
+00:06:10,960 --> 00:06:20,620
+There is nothing essentially moral about white markets,
+nothing essentially immoral about black markets.
+
+55
+00:06:20,620 --> 00:06:29,900
+General Dynamics selling cluster bombs to the Saudis
+is the whitest of white markets; it is not only legal,
+
+56
+00:06:29,900 --> 00:06:35,220
+it is strongly encouraged [by the U.S. government] and
+I [am forced to] pay for some of it [as a] taxpayer.
+
+57
+00:06:35,220 --> 00:06:40,880
+Is it moral? Hell no, it isn't.
+
+58
+00:06:40,880 --> 00:06:48,100
+The person selling bananas on the street, without a
+merchant's license, is the black market. Is it moral?
+
+59
+00:06:48,100 --> 00:06:50,640
+Hell yes, it is.
+
+60
+00:06:50,640 --> 00:07:02,480
+Using bitcoin to escape a collapsing currency in
+Venezuela is highly illegal and a [grey] market.
+
+61
+00:07:02,480 --> 00:07:10,840
+Is it moral? It is a human right. It is not just moral,
+it is the obligation of a parent to protect their children,
+
+62
+00:07:10,840 --> 00:07:14,940
+[including] under the U.N. Convention for Human Rights.
+
+63
+00:07:14,940 --> 00:07:23,380
+[Yet] it is illegal, with heavy penalties.
+The things Maduro is doing? 'White market' everywhere!
+
+64
+00:07:23,380 --> 00:07:28,560
+Perfectly legal, fully licensed, and completely broken.
+
+65
+00:07:28,560 --> 00:07:33,240
+The difference between white and
+black markets is an issue of licensing.
+
+66
+00:07:33,240 --> 00:07:39,860
+What is the natural state of markets?
+The big gray [market] in between.
+
+67
+00:07:39,860 --> 00:07:44,400
+Grey markets don't emerge, they simply exist.
+
+68
+00:07:44,400 --> 00:07:50,820
+In the absence of any other forms, all markets are grey.
+
+69
+00:07:50,820 --> 00:07:58,060
+How do white markets emerge? You have a gray market
+in place and someone gives it a license. Now it is white.
+
+70
+00:07:58,060 --> 00:08:02,700
+[How do black markets emerge?] You have a gray market
+in place and someone makes it illegal. Now it is black.
+
+71
+00:08:02,700 --> 00:08:09,860
+Markets [exist] anytime two [or more] individuals,
+without coercion and of their own free will,
+
+72
+00:08:09,860 --> 00:08:19,160
+decide to transact and agree on a
+price they find [mutually] beneficial.
+
+73
+00:08:19,160 --> 00:08:27,380
+That is a market. That is it. It doesn't have a color,
+didn't require permission, and doesn't need a license.
+
+74
+00:08:27,380 --> 00:08:34,140
+It is a natural human activity that occurs 
+everywhere, in every time, throughout history.
+
+75
+00:08:34,140 --> 00:08:40,720
+But we want to invent new terms in order to 
+somehow provide 'color' to these markets;
+
+76
+00:08:40,720 --> 00:08:45,560
+legitimacy to some, illegitimacy to others.
+
+77
+00:08:45,560 --> 00:08:52,140
+What is the trajectory of every white market?
+Every white market starts off as a grey market.
+
+78
+00:08:52,140 --> 00:08:53,980
+Then it gets licensed.
+
+79
+00:08:53,980 --> 00:09:01,240
+Initially, the licensing is sold to you as a way to enforce
+some kind of "good behaviour" standard or quality.
+
+80
+00:09:01,240 --> 00:09:08,180
+After all, you want your doctors to be licensed, [right]?
+They always go back to that [example].
+
+81
+00:09:08,180 --> 00:09:15,000
+In some U.S. states, ten thousand or more 
+professions require professional licensing.
+
+82
+00:09:15,000 --> 00:09:20,760
+In Louisiana, the amount of hours you need to become
+a cosmetician that does [manicures or pedicures]...
+
+83
+00:09:20,760 --> 00:09:28,380
+exceeds -- by four times -- the hours you need to become
+an emergency medical technician in an ambulance.
+
+84
+00:09:28,380 --> 00:09:30,740
+If you try to do nail [manicures] without a license,
+
+85
+00:09:30,740 --> 00:09:41,200
+you will be arrested because you are operating
+in the black- red, teal, and sparkly [markets].
+
+86
+00:09:41,200 --> 00:09:49,020
+Which [color] you choose is up to you, but 
+you certainly don't have the requisite license.
+
+87
+00:09:49,020 --> 00:09:55,540
+Gradually, guilds and "professional associations"
+form, whose primary purpose is to make sure...
+
+88
+00:09:55,540 --> 00:10:05,000
+there isn't [too much] competition, to keep out those
+who would try to emerge into the market [themselves].
+
+89
+00:10:05,000 --> 00:10:07,320
+Like the taxi cartel, right?
+
+90
+00:10:07,320 --> 00:10:13,280
+Licenses gradually become guilds, where it is a matter
+of whether you can afford to buy [your way] into it.
+
+91
+00:10:13,280 --> 00:10:21,260
+The quality standards, the certification, the regulation,
+the rules, all gradually disappear into the background.
+
+92
+00:10:21,260 --> 00:10:26,660
+The regulators stop doing those things and focus
+primarily on enforcing [entry into the market].
+
+93
+00:10:26,660 --> 00:10:31,880
+People forget why the rules exist.
+It simply becomes a professional guild.
+
+94
+00:10:31,880 --> 00:10:38,500
+If you can afford to buy the necessary licenses,
+essentially bribe the government to allow you to work,
+
+95
+00:10:38,500 --> 00:10:43,840
+then you are part of the white market.
+
+96
+00:10:43,840 --> 00:10:47,300
+All white markets devolve into that state.
+
+97
+00:10:47,300 --> 00:10:55,220
+Over years, maybe decades or centuries, you arrive
+at absurd concentrations of wealth and power,
+
+98
+00:10:55,220 --> 00:11:05,100
+where you might have only seven families 
+controlling every business in the country.
+
+99
+00:11:05,100 --> 00:11:10,300
+The fundamental differences between 
+markets, white or black, should not be...
+
+100
+00:11:10,300 --> 00:11:12,700
+measured by how well they are licensed.
+
+101
+00:11:12,700 --> 00:11:17,920
+We should care about whether
+they are fair, open, and free.
+
+102
+00:11:17,920 --> 00:11:26,000
+In fact, if these markets are open
+and free, fairness arises as a result.
+
+103
+00:11:26,000 --> 00:11:31,820
+If you don't like it, you can trade elsewhere. 
+Competition ensures fairness.
+
+104
+00:11:31,820 --> 00:11:45,620
+Here is the other subtle thing: absent a licensed white
+market, the state withdraws [any] services of justice.
+
+105
+00:11:45,620 --> 00:11:48,140
+This is critical to understand.
+
+106
+00:11:48,140 --> 00:11:54,360
+Until now, the monopoly on the delivery of justice
+services existed primarily in the government's sphere.
+
+107
+00:11:54,360 --> 00:12:01,200
+Let's use tech terms: goverments
+provided 'justice as a service' (JaaS).
+
+108
+00:12:01,200 --> 00:12:07,320
+Their 'justice as a service' API is only available for a
+certain fee to certain people, and it is usually broken.
+
+109
+00:12:07,320 --> 00:12:13,100
+It [may] take seven years [or longer] to fulfill the request;
+nevertheless they offer 'justice as a service.'
+
+110
+00:12:13,100 --> 00:12:18,800
+But if you step outside of the white market, 
+[your access to] 'justice as a service' is removed.
+
+111
+00:12:18,800 --> 00:12:23,780
+You are exposed to the full risk of operating in a market
+where you have no justice [services from them],
+
+112
+00:12:23,780 --> 00:12:32,160
+where you have no recourse [facilities], no ability to
+settle disputes, and violence becomes the solution.
+
+113
+00:12:32,160 --> 00:12:37,940
+That happens even in white markets.
+I walked out of the airport here in Chile,
+
+114
+00:12:37,940 --> 00:12:45,640
+straight into a line of taxi drivers, who see me
+looking at my phone and say, "Uber?!" [Laughter]
+
+115
+00:12:45,640 --> 00:12:58,900
+[Backs away slowly] "Sorry!" What [should] I do then?
+Do I [alert] the police officer [about their behaviour]?
+
+116
+00:12:58,900 --> 00:13:04,220
+No, because in every country I've been to, 
+the cops are working with the taxi drivers...
+
+117
+00:13:04,220 --> 00:13:08,080
+to beat up the Uber drivers and their passengers.
+
+118
+00:13:08,080 --> 00:13:11,140
+Not only have they removed 'justice as a service,'
+
+119
+00:13:11,140 --> 00:13:16,460
+they deliver injustice as a service
+[within] a [noncompetitive] blockade.
+
+120
+00:13:16,460 --> 00:13:25,760
+You don't go to the cops, because that is too dangerous.
+But I don't get my Uber ride, what is the big deal?
+
+121
+00:13:25,760 --> 00:13:30,260
+Think about all the markets in which 
+'justice as a service' has been removed,
+
+122
+00:13:30,260 --> 00:13:39,600
+where you cannot enforce property rights; where [a
+currency exchange desk gives you] counterfeit money.
+
+123
+00:13:39,600 --> 00:13:47,580
+Do you call the police? No, you don't call the police.
+You can't call the police. That service [was] removed.
+
+124
+00:13:47,580 --> 00:13:50,120
+You have some funny situations,
+
+125
+00:13:50,120 --> 00:13:56,340
+like the [inexperienced] high school student trying
+to buy marijuana from some dude on the street.
+
+126
+00:13:56,340 --> 00:14:02,840
+They get a bag of oregano [instead] and 
+don't know the difference, so they think,
+
+127
+00:14:02,840 --> 00:14:12,840
+'I don't [know if] I should smoke this. Smells like a salad.
+Now what do I do? Do I call the cops? I can't call cops...'
+
+128
+00:14:12,840 --> 00:14:21,800
+"Excuse me, sir. The illegal drugs I just bought
+are not correct!" Some people [actually] do that.
+
+129
+00:14:21,800 --> 00:14:29,460
+They go to the police and say, "This cocaine isn't good!"
+They soon discover that they [have a bigger] problem.
+
+130
+00:14:29,460 --> 00:14:33,560
+Again, that's a little funny story and
+you might think they deserve what they get.
+
+131
+00:14:33,560 --> 00:14:37,280
+After all, they are breaking the law
+and so they should be punished.
+
+132
+00:14:37,280 --> 00:14:39,800
+Now, think about the immigrant cleaner...
+
+133
+00:14:39,800 --> 00:14:46,160
+who had their passport taken from them by
+a coyote who [escorted] them across the border,
+
+134
+00:14:46,160 --> 00:14:48,740
+now holding their passport hostage.
+
+135
+00:14:48,740 --> 00:14:54,640
+They are terrified to go to the police and live in
+a locked compound with bars on the windows.
+
+136
+00:14:54,640 --> 00:15:03,340
+They cannot exercise their human rights, virtually
+kept as slaves within an industrialized society.
+
+137
+00:15:03,340 --> 00:15:08,700
+That happens today, in the United States, 
+to hundreds of thousands of people.
+
+138
+00:15:08,700 --> 00:15:13,440
+Slavery is on the uptick all around the world. Why?
+
+139
+00:15:13,440 --> 00:15:21,680
+Being an illegal human being -- I don't even 
+know what that means -- has resulted in...
+
+140
+00:15:21,680 --> 00:15:28,080
+the removal of 'justice as a service'
+from entire categories of people.
+
+141
+00:15:28,080 --> 00:15:35,020
+Apply that to sex workers, engaging
+in acts of consensual sex or prostitution,
+
+142
+00:15:35,020 --> 00:15:39,400
+even just people stripping and making funny movies.
+
+143
+00:15:39,400 --> 00:15:41,820
+They have no 'justice as a service.'
+
+144
+00:15:41,820 --> 00:15:49,940
+Violence, rape, and domestic abuse are 
+massive problems in any illegal industry.
+
+145
+00:15:49,940 --> 00:16:02,360
+Black markets emerge where the need is great,
+where the demand causes an emergence of supply,
+
+146
+00:16:02,360 --> 00:16:11,620
+whether that is capital flight from Argentina, recreational
+drugs, or whatever else you might want to find.
+
+147
+00:16:11,620 --> 00:16:15,240
+If there is no white market, the black market exists...
+
+148
+00:16:15,240 --> 00:16:22,020
+but it charges a massive risk premium, 
+sprinkled with a heavy dose of violence.
+
+149
+00:16:22,020 --> 00:16:28,780
+Until now, justice could only be
+provided as a government service.
+
+150
+00:16:28,780 --> 00:16:36,780
+You cannot enforce property rights
+without a court of law... or can you?
+
+151
+00:16:36,780 --> 00:16:44,820
+What if we used a very large number,
+multiplied against another on an elliptic curve?
+
+152
+00:16:44,820 --> 00:16:47,660
+[What if, in combination with other factors], 
+that crazy idea [of computer science and math]...
+
+153
+00:16:47,660 --> 00:16:52,140
+would allow me to enforce global property rights?
+
+154
+00:16:52,140 --> 00:16:57,820
+What if I could use a smart contract in order to
+create a matching service between buyers and sellers,
+
+155
+00:16:57,820 --> 00:17:01,580
+that ensures there is no forgery, no fraud?
+
+156
+00:17:01,580 --> 00:17:09,060
+What if I could use a smart contract to escrow money
+in the process of buying any product?
+
+157
+00:17:09,060 --> 00:17:12,320
+Now I can ensure [people] don't get cheated.
+
+158
+00:17:12,320 --> 00:17:20,320
+What if I could use a smart contract [for] reputation
+services like Uber does, giving me a degree of comfort...
+
+159
+00:17:20,320 --> 00:17:23,780
+without the centralized company?
+
+160
+00:17:23,780 --> 00:17:29,940
+What if I could get 'justice as a service' from a network?
+
+161
+00:17:29,940 --> 00:17:37,140
+That is what happened. The world has changed.
+It is not a distinction between the licensed market,
+
+162
+00:17:37,140 --> 00:17:42,080
+where you have some justice, and the 
+unlicensed market, where you have no justice.
+
+163
+00:17:42,080 --> 00:17:47,440
+Bitcoin doesn't care. Ethereum doesn't care.
+[Open] blockchains don't see colors.
+
+164
+00:17:47,440 --> 00:17:53,140
+They don't see borders and they don't
+see [authorities]. They only see rules.
+
+165
+00:17:53,140 --> 00:18:01,140
+They can deliver 'justice as a service' no matter
+what color your market is: white, black, or grey.
+
+166
+00:18:01,140 --> 00:18:13,340
+Bitcoin, Ethereum, [and other open blockchains]
+serve markets wherever there is supply and demand.
+
+167
+00:18:13,340 --> 00:18:18,020
+They serve markets globally, 
+without distinction for borders.
+
+168
+00:18:18,020 --> 00:18:21,800
+Here is another little secret you don't remember:
+
+169
+00:18:21,800 --> 00:18:27,260
+state 'justice as a service' only
+applies within a specific geography.
+
+170
+00:18:27,260 --> 00:18:32,220
+The Chilean justice provider only
+works within the borders of Chile.
+
+171
+00:18:32,240 --> 00:18:39,620
+What can you do with that [limitation] as an individual?
+Not much. What can multi-national companies do?
+
+172
+00:18:39,620 --> 00:18:44,560
+They can screw you in a hundred
+and ninety-four different countries.
+
+173
+00:18:44,560 --> 00:18:47,560
+Unless they are in [the same jurisdiction
+as you], you don't have much recourse.
+
+174
+00:18:47,560 --> 00:18:55,160
+Then again, they [may have] also bought your legislators,
+so you don't have recourse in that one either.
+
+175
+00:18:55,160 --> 00:18:58,000
+Blockchain 'justice as a service' works globally.
+
+176
+00:18:58,000 --> 00:19:01,600
+It doesn't care whether you are
+inside or outside that border.
+
+177
+00:19:01,600 --> 00:19:11,120
+The other little [secret] we often forget: when people
+say a product is illegal, your first question should be:
+
+178
+00:19:11,120 --> 00:19:20,000
+"Illegal where?" 'Legal' and 'illegal' are 
+geography-bound terms. Illegal where?
+
+179
+00:19:20,000 --> 00:19:32,500
+Illegal here? What if I'm not here, but in another country?
+Is it legal there? These are highly relative notions.
+
+180
+00:19:32,500 --> 00:19:42,800
+They imply a strong morality component that
+you may not share. Is it legal to buy a Bible?
+
+181
+00:19:42,800 --> 00:19:54,160
+In Saudi Arabia, it's not. In Saudi Arabia, it was also
+illegal to drive unless you fulfill both requirements:
+
+182
+00:19:54,160 --> 00:20:02,500
+a driver's license and a penis. [Laughter] 
+Well, until recently. They fixed that one.
+
+183
+00:20:02,500 --> 00:20:05,120
+Now you can drive without [the second] one.
+
+184
+00:20:05,120 --> 00:20:14,580
+But you might still get beaten up by the cops, because
+they are "protecting their morality." Not my morality.
+
+185
+00:20:14,580 --> 00:20:21,480
+Is it legal to buy certain substances?
+Is it legal to buy bombs to [attack] another country?
+
+186
+00:20:21,480 --> 00:20:26,380
+Again, legality is bound by geography [and authority].
+
+187
+00:20:26,380 --> 00:20:32,320
+Blockchains are not. With the blockchain, 
+you can enforce justice across borders.
+
+188
+00:20:32,320 --> 00:20:39,020
+You can enforce justice across the world,
+whether you consider the markets within the narrow...
+
+189
+00:20:39,020 --> 00:20:45,600
+scope of your own country [to be]
+white or black, grey or blue.
+
+190
+00:20:45,600 --> 00:20:56,880
+Blockchains serve justice. They can deliver 
+free, open, and fair markets worldwide.
+
+191
+00:20:56,880 --> 00:21:02,700
+Does that mean you can use blockchains 
+for the black market? Hell yes, it does.
+
+192
+00:21:02,700 --> 00:21:11,360
+There is a demand for that. To make white markets
+better? Yes. And every [color] in between? Yes.
+
+193
+00:21:11,360 --> 00:21:19,060
+It is not about white. It is not about black.
+It is about free, open, and fair. Thank you!
+
+194
+00:21:19,060 --> 00:21:21,960
+[Applause]
+
+195
+00:21:21,960 --> 00:21:30,040
+[AUDIENCE] Hello. It is really great to be 
+able to see you live, after all these years.
+
+196
+00:21:30,040 --> 00:21:39,880
+My question is, how will you be able to enforce
+'justice as a service' from a blockchain?
+
+197
+00:21:39,880 --> 00:21:53,600
+There is a monopoly on force, but there is also a judge,
+[who have judicial monopolies] in the state.
+
+198
+00:21:53,600 --> 00:22:00,040
+[ANDREAS] Again, the word "enforcement" contains
+the word "force," but does it have to [in practice]?
+
+199
+00:22:00,040 --> 00:22:07,920
+How much of our current commercial transactions really
+require that level of recourse, where you have force?
+
+200
+00:22:07,920 --> 00:22:16,240
+Force can be applied to a certain degree, but once you try to apply it to too many people, too many things,
+
+201
+00:22:16,240 --> 00:22:18,040
+for too many reasons...
+
+202
+00:22:18,040 --> 00:22:24,240
+You [must] pay people to apply the force, and by that
+time you have messed your currency up so well...
+
+203
+00:22:24,240 --> 00:22:27,080
+that you can't pay the enforcers.
+
+204
+00:22:27,080 --> 00:22:35,000
+In Venezuela, for example. I watched a great video the other day, which showed some enforcers for Maduro...
+
+205
+00:22:35,000 --> 00:22:42,080
+smiling in front of a camera, holding the privileges
+of their position, which were two toilet paper rolls.
+
+206
+00:22:42,080 --> 00:22:47,080
+That is how low payment for the 
+enforcement service [has become].
+
+207
+00:22:47,080 --> 00:22:55,360
+How far away [are they] from the moment 
+when they [decide], 'This is not worth it!'
+
+208
+00:22:55,360 --> 00:23:01,040
+Enforcement and force are aspects
+of the human condition and society.
+
+209
+00:23:01,040 --> 00:23:03,920
+What we are talking about here is enforcing justice...
+
+210
+00:23:03,920 --> 00:23:09,920
+through rules agreed on by everyone in
+a consensus system without violence.
+
+211
+00:23:09,920 --> 00:23:15,920
+This is a non-violent mechanism for enforcement.
+It is primarily financial enforcement.
+
+212
+00:23:15,920 --> 00:23:22,000
+It works through a series of incentives 
+and punishments, game theory.
+
+213
+00:23:22,000 --> 00:23:29,040
+What we found through markets and game theory is
+that those [non-violent] mechanisms work better.
+
+214
+00:23:29,040 --> 00:23:35,000
+They don't expect people to be good,
+they only expect people to act in their self-interest.
+
+215
+00:23:35,000 --> 00:23:42,240
+If everybody acts in their self-interest in a system
+of rules that punish bad and reward good behaviour,
+
+216
+00:23:42,240 --> 00:23:47,240
+then good behaviour emerges
+naturally from the system.
+
+217
+00:23:47,240 --> 00:23:52,160
+I don't know how well it [will] work, but 
+let's build some things and test them out.
+
+218
+00:23:52,160 --> 00:23:59,920
+I certainly know, one of the beautiful things about
+operating on digital platforms, one of the reasons...
+
+219
+00:23:59,920 --> 00:24:11,520
+why people want to run drug markets on the internet,
+is because you cannot be stabbed over TCP/IP.
+
+220
+00:24:11,520 --> 00:24:26,560
+[ORGANISER] Next question?
+I think there was one in the back.
+
+221
+00:24:26,560 --> 00:24:32,840
+[AUDIENCE] Hi, I want to ask you about 
+black markets, white markets, and banks.
+
+222
+00:24:32,840 --> 00:24:38,000
+[ANDREAS] Yes. [AUDIENCE] We have so 
+many problems with banks "de-risking."
+
+223
+00:24:38,000 --> 00:24:43,640
+Let me know what you think about that, 
+because it is part of [how they keep control].
+
+224
+00:24:43,640 --> 00:24:46,120
+[ANDREAS] Well, that is the final 
+culmination of a white market.
+
+225
+00:24:46,120 --> 00:24:52,360
+When the rules that start off as "consumer protection"
+eventually become "banker protection."
+
+226
+00:24:52,360 --> 00:24:57,760
+As a result, they become protection
+from competition, which leads to a guild.
+
+227
+00:24:57,760 --> 00:25:02,080
+Once a guild is powerful and organised enough,
+we have a different word for that. It is called a cartel.
+
+228
+00:25:02,080 --> 00:25:08,560
+We don't use the word "cartel" to refer to banks,
+because they have such a big cartel. [Laughter]
+
+229
+00:25:08,560 --> 00:25:16,960
+Banks no longer serve many of the important functions
+that you would expect the banks to serve.
+
+230
+00:25:16,960 --> 00:25:26,840
+They don't [even] bank people. The number of unbanked
+is not decreasing, twenty-five years into the internet.
+
+231
+00:25:26,840 --> 00:25:34,080
+They are not serving [more people]. I was [giving a talk]
+at a security conference that was full of bankers.
+
+232
+00:25:34,080 --> 00:25:41,040
+I was describing how bitcoin, as a form of money,
+can serve populations that are doing remittances...
+
+233
+00:25:41,040 --> 00:25:47,000
+to foreign countries, but who don't have bank accounts
+because they are not properly documented.
+
+234
+00:25:47,000 --> 00:25:51,480
+They are illegal immigrants or migrants into a country.
+
+235
+00:25:51,480 --> 00:25:55,960
+As a result, they can't open a bank 
+account and pay enormous fees...
+
+236
+00:25:55,960 --> 00:26:03,880
+to be robbed by the grey market of Western Union
+and [various] check cashing services.
+
+237
+00:26:03,880 --> 00:26:13,000
+During my presentation, this lady in the back asked,
+"But why should we give bank accounts to illegals?"
+
+238
+00:26:13,000 --> 00:26:19,760
+At least half of the people in the room 
+were decent enough to gasp. [Laughter]
+
+239
+00:26:19,760 --> 00:26:36,000
+But the other half were really interested in the answer,
+so I said, "No, you shouldn't. Don't. We will." [Applause]
+
+240
+00:26:36,000 --> 00:26:40,520
+[ORGANISER] Okay, one more question?
+[AUDIENCE] Hi, Andreas. [ANDREAS] Hello.
+
+241
+00:26:40,520 --> 00:26:46,960
+[AUDIENCE] It is a pleasure to meet you, thank you
+for being a great teacher and inspiring everyone.
+
+242
+00:26:46,960 --> 00:26:53,200
+My question is about blockchains,
+not in general but as an educator myself.
+
+243
+00:26:53,200 --> 00:27:00,880
+I am trying to battle every start-up that says "blockchain"
+without [using] a blockchain or [doing] decentralisation,
+
+244
+00:27:00,880 --> 00:27:04,840
+disintermediation, just a database.
+
+245
+00:27:04,840 --> 00:27:11,160
+What is [your] recommendation
+for us to battle that movement?
+
+246
+00:27:11,160 --> 00:27:16,200
+To call everything "blockchain" while not 
+doing anything innovative or decentralised?
+
+247
+00:27:16,240 --> 00:27:21,040
+[ANDREAS] You don't need to "battle" anything.
+What you need to do is just remove your attention...
+
+248
+00:27:21,040 --> 00:27:24,200
+and interest from these projects,
+because they serve no purpose.
+
+249
+00:27:24,200 --> 00:27:29,920
+You [must] ask yourself, when you hear 
+that someone's project has "blockchain"-
+
+250
+00:27:29,920 --> 00:27:35,000
+Well, nowadays what they usually say is:
+"We are introducing a revolutionary new system."
+
+251
+00:27:35,000 --> 00:27:43,880
+"Blockchain, artificial intelligence, and internet-of-things,
+using neural networks to [magic noise] give me money."
+
+252
+00:27:43,880 --> 00:27:58,840
+At that point, you [should] stop listening or ask, "Is it borderless, open, neutral, global, censorship resistant?"
+
+253
+00:27:58,840 --> 00:28:05,720
+If it is not, you don't need a blockchain. Those are the
+features provided by open, decentralized blockchains.
+
+254
+00:28:05,720 --> 00:28:13,480
+Ask those five questions, ask for the five pillars.
+If it is none of those things, then it is just a database.
+
+255
+00:28:13,480 --> 00:28:19,880
+It is a centralized and very inefficient, slow,
+expensive database that is difficult to develop...
+
+256
+00:28:19,880 --> 00:28:24,840
+and has a really shitty user interface.
+
+257
+00:28:24,840 --> 00:28:32,040
+In the era of Microsoft databases and Oracle, it takes
+a lot of effort to produce an even shittier interface.
+
+258
+00:28:32,040 --> 00:28:38,640
+The bottom line is, this is not a good solution for
+anything if you are not looking for those features.
+
+259
+00:28:38,640 --> 00:28:43,040
+Do you need to fight that market [of bullshit
+blockchain projects]? No, don't fight it.
+
+260
+00:28:43,040 --> 00:28:53,400
+Let them spend $100 million training developers and
+consultants in this industry, while producing bullshit.
+
+261
+00:28:53,400 --> 00:29:00,920
+Once that project fails, those developers will look
+around and [wonder], 'What do we do now?'
+
+262
+00:29:00,920 --> 00:29:04,040
+'I heard about this other project,
+I would like to work on that.'
+
+263
+00:29:04,280 --> 00:29:11,040
+And then they go work on a real open-source, 
+decentralized blockchain. I [was] saying this in 2013,
+
+264
+00:29:11,040 --> 00:29:18,280
+that [banks] will [pay to] train developers and those
+developers will discover Bitcoin and open blockchains.
+
+265
+00:29:18,280 --> 00:29:24,960
+[They will think], 'These are much more interesting
+projects.' When I was visiting Singapore, it happened.
+
+266
+00:29:24,960 --> 00:29:31,640
+I sat down next to a kid who said to me, "I'm really
+excited, this is my first Bitcoin conference."
+
+267
+00:29:31,640 --> 00:29:34,480
+"I watched one of your videos."
+
+268
+00:29:34,480 --> 00:29:40,160
+"You know... I have been working with blockchains for a
+year, but I had not heard about Bitcoin until yesterday."
+
+269
+00:29:40,160 --> 00:29:49,080
+[Taken aback] [Laughter] I asked, "What? 
+How? Tell me more, I want to hear!"
+
+270
+00:29:49,080 --> 00:29:57,760
+[He said], "A year ago, I went to this presentation by Bank
+of America about decentralized ledger technology."
+
+271
+00:29:57,760 --> 00:30:04,000
+"Eventually, at some point in the slides, they
+mentioned the 'b' word." Not Bitcoin, but "blockchain."
+
+272
+00:30:04,000 --> 00:30:06,760
+"They told us this would be the greatest technology."
+
+273
+00:30:06,760 --> 00:30:11,920
+"They managed to go through all thirty slides
+without mentioning the other 'b' word at all."
+
+274
+00:30:11,920 --> 00:30:19,560
+This person worked with Hyperledger, R3, and
+all of these other companies in the "DLT space."
+
+275
+00:30:19,560 --> 00:30:25,000
+And those were... interesting, but not that interesting.
+Then one day, they discovered Bitcoin and thought,
+
+276
+00:30:25,040 --> 00:30:35,080
+'Whoa! This is where it came from? This seems
+very weird and a bit exciting!' [Laughter]
+
+277
+00:30:35,080 --> 00:30:38,880
+And we gained one more developer, 
+perfectly trained and ready to go.
+
+278
+00:30:38,880 --> 00:30:45,080
+They just needed to re-learn some basic concepts,
+and they are good to go on a nice open-source project.
+
+279
+00:30:45,080 --> 00:30:47,000
+Don't fight that market.
+
+280
+00:30:47,000 --> 00:30:53,720
+Let them waste bank money on trying to co-opt
+and distort the ideas of what we're building,
+
+281
+00:30:53,720 --> 00:31:00,600
+then run straight into the wall of their 
+centralized, sclerotic, dinosaur organisations.
+
+282
+00:31:00,600 --> 00:31:04,960
+Then the project fails to deliver anything 
+and gets chopped by the board of directors,
+
+283
+00:31:04,960 --> 00:31:08,040
+who are no longer impressed by the word 'blockchain.'
+
+284
+00:31:08,040 --> 00:31:13,240
+The people [from that project] take their Christmas
+bonus [and use it to open] a start-up in January,
+
+285
+00:31:13,240 --> 00:31:16,000
+in order to compete with [their former bank bosses].
+
+286
+00:31:16,000 --> 00:31:24,720
+[The banks] pay for their own demise. [Applause]
+[ORGANISER] Thank you so much! Time is up.
+
+287
+00:31:24,720 --> 00:31:30,480
+[ANDREAS] For the people who asked questions,
+please come and see me at the edge of the stage here.
+
+288
+00:31:30,480 --> 00:31:37,600
+I would like to give you a copy of my book, 'Internet del
+Dinero,' the Spanish edition of ['The Internet of Money'].
+
+289
+00:31:37,600 --> 00:31:44,080
+I will be signing books tomorrow after the fireside chat;
+[you can] see me then, I would be happy to sign [them].
+
+290
+00:31:44,080 --> 00:31:48,120
+Thank you so much! [Applause]
+[ORGANISER] We want you to sign something else.
+
+291
+00:31:48,120 --> 00:31:55,220
+This is [art of] you as 'Mr. Bitcoin Superman.' We will
+auction this off on the last day of the conference.
+
+292
+00:31:55,220 --> 00:31:58,240
+For a good cause. [ANDREAS] Fantastic!
+[ORGANISER] Made by artist Luis Buenaventura.
+
+293
+00:31:58,240 --> 00:32:03,540
+[ORGANISER] Please sign it with your 'private key.' 
+[ANDREAS] My pleasure. [Laughter]
+
